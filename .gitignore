@@ -1,0 +1,5 @@
+*.swp
+*.log
+*.log.*
+*.pyc
+*.db
