@@ -1,0 +1,4003 @@
+# Derived from ParaNames (https://github.com/bltlab/paranames), CC-BY-SA 4.0,
+# built from Wikidata. Sampled EN<->HE person pairs for cross-script eval.
+# Columns: a<TAB>b<TAB>label<TAB>category   (label 1=same person, 0=different)
+Tuvia Tzafir	טוביה צפיר	1	paranames-en-he
+Antonio Pierfederici	אנטוניו פיירפדריצ'י	1	paranames-en-he
+Gabriele Volpi	גבריאל וולפי	1	paranames-en-he
+Caroline Wozniacki	קרוליין ווזניאקי	1	paranames-en-he
+Sou Fujimoto	סו פוג'ימוטו	1	paranames-en-he
+Stéphane Peterhansel	סטפן פטרהנסל	1	paranames-en-he
+Anna Nordgren	אנה נורדגרן	1	paranames-en-he
+Georges Staquet	ז'ורז' סטאקט	1	paranames-en-he
+Mari bar Rachel	רב מרי בר רחל	1	paranames-en-he
+William Kidd	ויליאם קיד	1	paranames-en-he
+Ruth Ben-Ishai	רות בן ישי	1	paranames-en-he
+Angelique Rockas	אנג'ליק רוקה	1	paranames-en-he
+Jean Lurçat	ז'אן לורסה	1	paranames-en-he
+Miriam Nofech-Mozes	מרים נופך-מוזס	1	paranames-en-he
+Augusta Victoria of Schleswig-Holstein	אוגוסטה ויקטוריה, קיסרית גרמניה ומלכת פרוסיה	1	paranames-en-he
+Zvi Elimelech Halberstam	צבי אלימלך הלברשטאם	1	paranames-en-he
+Roy Hargrove	רוי הרגרוב	1	paranames-en-he
+Galina Ulanova	גלינה אולנובה	1	paranames-en-he
+Ḳinold, ʻEzra	עזרא בן יהושע קינוולד	1	paranames-en-he
+Mordecai Eliasberg	מרדכי אליאשברג	1	paranames-en-he
+Storm Warren	סטורם וורן	1	paranames-en-he
+Mikhal Rabinovits	מיכל יצחק רבינוביץ'	1	paranames-en-he
+Meir Mazuz	הרב מאיר מאזוז	1	paranames-en-he
+Daniel Rosolio	דניאל רוזוליו	1	paranames-en-he
+Yair Lehman	יאיר להמן	1	paranames-en-he
+John Bird	ג'ון בירד	1	paranames-en-he
+Charles, Cardinal of Lorraine	שארל, קרדינל לורן	1	paranames-en-he
+Lisa Murkowski	ליסה מרקאוסקי	1	paranames-en-he
+Jim Bell	ג'ים בל	1	paranames-en-he
+Benjamin Haydon	בנג'מין רוברט היידון	1	paranames-en-he
+Ran Spiegler	רן שפיגלר	1	paranames-en-he
+Károly Sterk	קרולי שטרק	1	paranames-en-he
+Mordechai Lando	מרדכי לנדוי	1	paranames-en-he
+Erhard Wunderlich	ארהרד וונדרליך	1	paranames-en-he
+Lord George Hamilton	ג'ורג' המילטון	1	paranames-en-he
+Gil Hill	גייל היל	1	paranames-en-he
+Pernilla Karlsson	פרנילה קרלסון	1	paranames-en-he
+Raffi Kaiser	רפי קייזר	1	paranames-en-he
+Heinrich Esser	היינריך אסר	1	paranames-en-he
+Benjamin Portugalov	בנימין פורטוגלוב	1	paranames-en-he
+Ran Shalhavi	רן שלהבי	1	paranames-en-he
+Luan Santana	לואן סנטנה	1	paranames-en-he
+Jennifer Abel	ג'ניפר אייבל	1	paranames-en-he
+Paul Brickman	פול בריקמן	1	paranames-en-he
+Hans Herzog	הנס הרצוג	1	paranames-en-he
+Ursula Hegi	אורסולה הגי	1	paranames-en-he
+Nathan Greno	נייתן גרנו	1	paranames-en-he
+Shevil	גלבלום, שלמה	1	paranames-en-he
+Baruch Shohetman	ברוך שוחטמן	1	paranames-en-he
+Dedryck Boyata	דדריק בויאטה	1	paranames-en-he
+Avraham Shalmon	אברהם שלמון	1	paranames-en-he
+Shay Konstantini	שי קונסטנטין	1	paranames-en-he
+Randall Frakes	רנדל פרייקס	1	paranames-en-he
+Serhii Rebrov	סרהי רברוב	1	paranames-en-he
+Allen Foster Cooper	אלן פוסטר קופר	1	paranames-en-he
+Inge I of Norway	אינגה הראשון, מלך נורווגיה	1	paranames-en-he
+Dmitry of Uglich	דמיטרי מאוגליץ'	1	paranames-en-he
+Andy Roberts	אנדי רוברטס	1	paranames-en-he
+Abu Karib	אבו כרב אסעד	1	paranames-en-he
+Vidyamati	וידיאמטי	1	paranames-en-he
+Sara Straus	שרה שטראוס	1	paranames-en-he
+Joaquim Gomis	חואקים גומיס	1	paranames-en-he
+Anna Murray-Douglass	אנה מאריי-דאגלס	1	paranames-en-he
+Maya Betzalel	מאיה בצלאל	1	paranames-en-he
+Monty Woolley	מונטי וולי	1	paranames-en-he
+Dan Bliṭenṭal	דן בליטנטל	1	paranames-en-he
+Francis Lacassin	פרנסיס לאקאסין	1	paranames-en-he
+Elka de Levie	אלקה דה לוי	1	paranames-en-he
+Mac Davis	מאק דייוויס	1	paranames-en-he
+Sigrid Löffler	זיגריד לפלר	1	paranames-en-he
+Ben-Hanan, Eli	אלי בן-חנן	1	paranames-en-he
+Bogdan Iadov	בוגדן איאדוב	1	paranames-en-he
+Nicholas Hytner	ניקולס היטנר	1	paranames-en-he
+Roman Dzindzichashvili	רומן ג'ינג'יחאשווילי	1	paranames-en-he
+Zeev Erlich	זאב ח' ארליך	1	paranames-en-he
+Jabari Smith	ג'בארי סמית'	1	paranames-en-he
+Solomon Zalkind Minor	שלמה זלקינד מינאר	1	paranames-en-he
+George David Woods	ג'ורג' דייוויד וודס	1	paranames-en-he
+Ernest Steward	ארנסט סטיוארד	1	paranames-en-he
+Abbo of Fleury	אבון דה פלרי	1	paranames-en-he
+Ben Barzman	בן ברצמן	1	paranames-en-he
+Keith Walker	קיית ווקר	1	paranames-en-he
+Sidney Levin	סידני לוין	1	paranames-en-he
+J. Donald Cameron	ג'יי. דונלד קמרון	1	paranames-en-he
+Slobodan Tedić	סלובודן טדיץ'	1	paranames-en-he
+Axel Kicillof	אקסל קיצילו	1	paranames-en-he
+Markéta Vondroušová	מרקטה וונדרואושובה	1	paranames-en-he
+Oleksandr Filin	אלכסנדר פילין	1	paranames-en-he
+Tal Ohana	טל אוחנה	1	paranames-en-he
+Yechiel Papier	פאפיער, יחיאל יהודה בן אליעזר	1	paranames-en-he
+Geoffrey I of Villehardouin	ז'ופרואה הראשון וילארדואן	1	paranames-en-he
+Bill Kelly	ביל קלי	1	paranames-en-he
+Nouriel Roubini	נוריאל רוביני	1	paranames-en-he
+Sandro Pertini	סנדרו פרטיני	1	paranames-en-he
+Jānis Timma	יאניס טימה	1	paranames-en-he
+Kirk Jones	קירק ג'ונס	1	paranames-en-he
+Tomiichi Murayama	טומיאיצ'י מוריאמה	1	paranames-en-he
+Raphaël Varane	רפאל וראן	1	paranames-en-he
+Camila Morrone	קמילה מורון	1	paranames-en-he
+Heraclides of Tarsus	הרקלידס מטארסוס	1	paranames-en-he
+Christian Rub	כריסטיאן רוב	1	paranames-en-he
+Andrew Lazar	אנדרו לזאר	1	paranames-en-he
+Tiffany Pollard	טיפאני פולארד	1	paranames-en-he
+Henry Drummond Wolff	הנרי דראמונד וולף	1	paranames-en-he
+Eduard Palčys	אדוארד פלצ'יס	1	paranames-en-he
+Deb Haaland	דב האלנד	1	paranames-en-he
+Dionne Brand	דיונה בראנד	1	paranames-en-he
+Doron Gazit	דורון גזית	1	paranames-en-he
+Tim Cook	טים קוק	1	paranames-en-he
+Li Peng	לי פנג	1	paranames-en-he
+Philippe Parola	פיליפ פארולה	1	paranames-en-he
+Avishag Laish-Farkash	אבישג לייש-פרקש	1	paranames-en-he
+Yuval Ron	יובל רון	1	paranames-en-he
+Kathy Cash	קתי קאש	1	paranames-en-he
+Ellen Cannon Reed	אלן קאנון ריד	1	paranames-en-he
+Pro Hart	פרו הארט	1	paranames-en-he
+Brent Everett	ברנט אוורט	1	paranames-en-he
+Elyaḳum Dvorḳes	אליקום דבורקס	1	paranames-en-he
+Lynsey de Paul	לינזי דה פול	1	paranames-en-he
+Nurit Chalif	חליף, נורית, 1936-	1	paranames-en-he
+Adva Mir Halavi	אדוה מיר חלבי	1	paranames-en-he
+Anat Kerem	ענת כרם	1	paranames-en-he
+Henry Greer	הנרי גריר	1	paranames-en-he
+Jamie Uys	ג'ימי יואס	1	paranames-en-he
+Pál Vidor	פאל וידור	1	paranames-en-he
+Louisa Aldrich-Blake	לואיזה אלדרי'ץ בלייק	1	paranames-en-he
+Pablo de Sarasate	פאבלו סרסטה	1	paranames-en-he
+Benʾari, Mosheh	בנארי, משה, 1892-	1	paranames-en-he
+Thomas Graham	תומאס גרהם	1	paranames-en-he
+Mariya Poroshina	מריה פורושינה	1	paranames-en-he
+Deborah Snyder	דבורה סניידר	1	paranames-en-he
+Chizuru Arai	צ'יזורו אראי	1	paranames-en-he
+Mary of Hungary	מריה מהונגריה, מלכת נאפולי	1	paranames-en-he
+Anat Zohar	ענת זוהר	1	paranames-en-he
+Charlotte Prinze	שרלוט פרינז	1	paranames-en-he
+Sam Hinkie	סם הינקי	1	paranames-en-he
+Etan, Mosheh Zeʼev	איתן, משה זאב	1	paranames-en-he
+César Baldaccini	סזר	1	paranames-en-he
+Claude Chevalley	קלוד שבלה	1	paranames-en-he
+Michel Abitbol	מיכאל אביטבול	1	paranames-en-he
+József Pécsi	יוז'ף פצ'י	1	paranames-en-he
+Bruno Latour	ברונו לאטור	1	paranames-en-he
+Murad Arif	מוראד עריף	1	paranames-en-he
+Tim Barlow	טים בארלו	1	paranames-en-he
+Kao Ying-Hsuan	קאו יינג-האסואן	1	paranames-en-he
+Apollodorus of Phaleron	אפולודורוס איש פלרון	1	paranames-en-he
+Asher Raby	אשר רבי	1	paranames-en-he
+Enrico Dandolo	אנריקו דאנדולו	1	paranames-en-he
+Avraham Shochat	אברהם בייגה שוחט	1	paranames-en-he
+Irina Usoskin	אוסוסקין, אירינה, 1940-2015	1	paranames-en-he
+‏‎Ruti Allal‎	רותי אלאל	1	paranames-en-he
+Moshe Rudolf Bloch	משה רודולף בלוך	1	paranames-en-he
+Robert Pugh	רוברט פיו	1	paranames-en-he
+Niamh O'Brien	ניאם אובריאן	1	paranames-en-he
+Tsofia Harband	צופיה הרדבנד	1	paranames-en-he
+Hans Morgenthau	הנס מורגנטאו	1	paranames-en-he
+Rebecca Lemp	רבקה למפ	1	paranames-en-he
+Rob Wittman	רוב ויטמן	1	paranames-en-he
+Georgy Malkov	גריגורי מלקוב	1	paranames-en-he
+Chelsea Clinton	צ'לסי קלינטון	1	paranames-en-he
+Marie-Ange Luciani	מארי-אנז' לוסיאני	1	paranames-en-he
+Grzegorz Jonkajtys	גרג יונקייטיס	1	paranames-en-he
+Gershon Shefa	גרשון שפע	1	paranames-en-he
+Elizabeth Langley	אליזבת לנגלי	1	paranames-en-he
+Harrison Young	הריסון יאנג	1	paranames-en-he
+John Madden	ג'ון מאדן	1	paranames-en-he
+Herbert Rosenkranz	הרברט רוזנקרנץ	1	paranames-en-he
+Zsigmond Simonyi	ז'יגמונד שימוני	1	paranames-en-he
+Marc Davis	מרק דייוויס	1	paranames-en-he
+Beatrice Lillie	ביאטריס לילי	1	paranames-en-he
+Sean Penn	שון פן	1	paranames-en-he
+Adelaide Lambert	אדלייד למברט	1	paranames-en-he
+Michael Bruno	מיכאל ברונו	1	paranames-en-he
+Hannibal Mago	חניבעל מאגו	1	paranames-en-he
+Michael Talbott	מייקל תובאט	1	paranames-en-he
+Natasha Manor	נטשה מנור	1	paranames-en-he
+Beḳ, Shiran	בק, שירן	1	paranames-en-he
+Ilana Karaszyk	אילנה קרשיק	1	paranames-en-he
+Dolores Michaels	דולורס מייקלס	1	paranames-en-he
+Avigdor Willenz	אביגדור וילנץ	1	paranames-en-he
+Nick Lachey	ניק לאשיי	1	paranames-en-he
+Mary Wells	מארי ולס	1	paranames-en-he
+Aghsartan II of Kakheti	אר'סרתן השני	1	paranames-en-he
+David Shadi	דוד שאדי	1	paranames-en-he
+Caroline Jackson	קרוליין ג'קסון	1	paranames-en-he
+Michal Beller	מיכל פדן בלר	1	paranames-en-he
+Dennis McNicholas	דניס מק'ניקולס	1	paranames-en-he
+Maria Nikiforova	מריה ניקיפורובה	1	paranames-en-he
+Konstantin Feoktistov	קונסטנטין פאוקטיסטוב	1	paranames-en-he
+Delphine Borione	דלפין בוריון	1	paranames-en-he
+Evan Williams	אוון ויליאמס	1	paranames-en-he
+Tanguy Coulibaly	טאנגי קוליבאלי	1	paranames-en-he
+Jack E. Leonard	ג'ק א. לאונרד	1	paranames-en-he
+Carl Thomas	קרל תומאס	1	paranames-en-he
+Diego Martínez	דייגו מרטינס	1	paranames-en-he
+Kintaro Hattori	קינטרו האטורי	1	paranames-en-he
+Aleksandr Rakhmanov	אלכסנדר רחמנוב	1	paranames-en-he
+Xavier Darcos	קסבייה דרקוס	1	paranames-en-he
+Struan Rodger	סטרואן רודג'ר	1	paranames-en-he
+William Dalrymple	ויליאם דאלרימפל	1	paranames-en-he
+André Citroën	אנדרה סיטרואן	1	paranames-en-he
+Gaius Asinius Quadratus	אסיניוס קוודראטוס	1	paranames-en-he
+Neil Sandilands	ניל סנדילאנדס	1	paranames-en-he
+Abraham Friedmann	אברהם פרידמן	1	paranames-en-he
+Johann Wilhelm Baur	יוהאן וילהאם באוור	1	paranames-en-he
+Laura Prepon	לורה פריפון	1	paranames-en-he
+Alexander Khloponin	אלכסנדר כלופונין	1	paranames-en-he
+Peter Scheemakers	פיטר שימייקרס	1	paranames-en-he
+Janez Brajkovič	יאנז ברייקוביץ'	1	paranames-en-he
+Bobby Cannavale	בובי קנאבלי	1	paranames-en-he
+Doron Zafrir	דורון צפריר	1	paranames-en-he
+Don Cornell	דון קורנל	1	paranames-en-he
+Shavez Hart	שאבז הארט	1	paranames-en-he
+Shimon Peres	שמעון פרס	1	paranames-en-he
+Peter MacNicol	פיטר מקניקול	1	paranames-en-he
+Tadeusz Soroka	טאדאיוש סורוקה	1	paranames-en-he
+Noa Aharony	נועה אהרוני	1	paranames-en-he
+Wilhelm Georg Friedrich Roscher	וילהלם גאורג פרידריך רושר	1	paranames-en-he
+Lewis Adams	לואיס אדמס	1	paranames-en-he
+Louis-François Cartier	לואי פראנסיס קרטייה	1	paranames-en-he
+Zalta Schneerson	זלטא שניאורסון	1	paranames-en-he
+Vagit Alekperov	ואגיט אלקפרוב	1	paranames-en-he
+Muhammad al-Baridi	מוחמד אל-ברידי	1	paranames-en-he
+George Brink	ג'ורג' ברינק	1	paranames-en-he
+Miroslav Krleža	מירוסלב קרלז'ה	1	paranames-en-he
+Bruce Logan	ברוס לוגן	1	paranames-en-he
+Michael Esken	מיכאל אסקן	1	paranames-en-he
+Peter Gutwein	פיטר גוטויין	1	paranames-en-he
+Eros Riccio	ארוס ריקיו	1	paranames-en-he
+Bernard-Marie Koltès	ברנאר-מארי קולטס	1	paranames-en-he
+Joseph Lane	ג'וזף ליין	1	paranames-en-he
+Itzik Shushan	שושן	1	paranames-en-he
+Mickaël Piétrus	מיקאל פיאטרוס	1	paranames-en-he
+Ludovico Einaudi	לודוביקו אינאודי	1	paranames-en-he
+Alexander Balloch Grosart	אלכסנדר גרוסארט	1	paranames-en-he
+Gregg Wattenberg	גרג וטנברג	1	paranames-en-he
+Maguy Kakon	מגי קקון	1	paranames-en-he
+Newton Mendonça	ניוטון מנדונסה	1	paranames-en-he
+Nehemiah ben Hushiel	נחמיה בן חושיאל	1	paranames-en-he
+Luo Yutong	לואו יוטונג	1	paranames-en-he
+Brian Lang	בריאן לאנג	1	paranames-en-he
+Elin Nordegren	אלין נורדגרן	1	paranames-en-he
+Eyal Shachar	אייל שחר	1	paranames-en-he
+Cory Sandhagen	קורי סנדהייגן	1	paranames-en-he
+Israel Abargel	ישראל אברג'ל	1	paranames-en-he
+Al Tuck	אל טאק	1	paranames-en-he
+Werner von Fritsch	ורנר פון פריטש	1	paranames-en-he
+Naḥmiyas, Ben-Tsiyon	נחמיאס, בנציון	1	paranames-en-he
+Kimberly Quaid	קימברלי קווייד	1	paranames-en-he
+Bill Clinton	ביל קלינטון	1	paranames-en-he
+Margaret Newton	מרגריט ניוטון	1	paranames-en-he
+Eli Alaluf	אלי אלאלוף	1	paranames-en-he
+Nick Dorey	ניק דורי	1	paranames-en-he
+Geir Hartly Andreassen	גייר הארטלי אנדריסן	1	paranames-en-he
+Janine Sourdel-Thomine	ג'נין סורדל-טומין	1	paranames-en-he
+Meir Yechiel Halevi Halstock	מאיר יחיאל הולשטוק	1	paranames-en-he
+Mikhal Revivo	רביבו, מיכל	1	paranames-en-he
+Lajos Gellért	לאיוש גלרט	1	paranames-en-he
+Maximilian Riedel	מקסימיליאן רידל	1	paranames-en-he
+Elan Penn	אילן פן	1	paranames-en-he
+Bradley Beal	בראדלי ביל	1	paranames-en-he
+Paul Newman	פול ניומן	1	paranames-en-he
+Jennifer Lame	ג'ניפר ליים	1	paranames-en-he
+Spencer Pratt	ספנסר פראט	1	paranames-en-he
+Avrohom Genachowsky	אברהם גנחובסקי	1	paranames-en-he
+Muhammad bin Nayef	מוחמד בן נאיף אל סעוד	1	paranames-en-he
+Ido Saad	עידו סעד	1	paranames-en-he
+Norm Prescott	נורם פרסקוט	1	paranames-en-he
+Charles Walters	צ'ארלס וולטרס	1	paranames-en-he
+Irit Gat-Viks	עירית גת־ויקס	1	paranames-en-he
+Christie Clark	כריסטי קלארק	1	paranames-en-he
+Maggie Kernan	מגי קירנן	1	paranames-en-he
+Bernhard Ziemlich	ברנהרד צימליך	1	paranames-en-he
+Evy Norlund	אווי נורלונד	1	paranames-en-he
+Zvi Friedman	צבי פרידמן	1	paranames-en-he
+Dickie Goodman	דיקי גודמן	1	paranames-en-he
+Prince Oshisaka-no-Hikohito-no-Ōe	הנסיך אושיסאקה-נו-היקוהיטו-נו-אואה	1	paranames-en-he
+Whit Fraser	ויט פרייזר	1	paranames-en-he
+Pearl White	פרל וייט	1	paranames-en-he
+Louis, Count of Évreux	לואי, רוזן אברו	1	paranames-en-he
+Edward Kelley	אדוארד קלי	1	paranames-en-he
+Karim Konaté	כרים קונאטה	1	paranames-en-he
+Marya Kamenskaya	מריה קמינסקיה	1	paranames-en-he
+Ariel Weil	אריאל וייל	1	paranames-en-he
+Madeleine Sorel	מדלין סורל	1	paranames-en-he
+Ejnar Hertzsprung	איינר הרצשפרונג	1	paranames-en-he
+Charles Rackoff	צ'ארלס רקופף	1	paranames-en-he
+Henry Cejudo	הנרי סהודו	1	paranames-en-he
+Adi Rosen	רוזן, עדי	1	paranames-en-he
+John Fortescue	ג'ון פורטסקיו	1	paranames-en-he
+Peter Gelb	פיטר גלב	1	paranames-en-he
+Boris Nosik	בוריס נוסיק	1	paranames-en-he
+Aleksandre Basilaia	אלכסנדר באסילאיה	1	paranames-en-he
+Tuesday Knight	טיוזדיי נייט	1	paranames-en-he
+Inés Rodena	אינס רודנה	1	paranames-en-he
+Brenda Schultz-McCarthy	ברנדה שולץ מקארת'י	1	paranames-en-he
+Yossi Rosenstein	יוסי רוזנשטיין	1	paranames-en-he
+Brian Warren	בריאן וורן	1	paranames-en-he
+Nur Fibak	נור פיבק	1	paranames-en-he
+Seth MacFarlane	סת' מקפרלן	1	paranames-en-he
+George Smith	ג'ורג' סמית'	1	paranames-en-he
+Alain Kahn-Sriber	אלן קאהן-סריבר	1	paranames-en-he
+Nikephoros I	ניקפורוס הראשון	1	paranames-en-he
+Earl D. Johnson	ארל ג'ונסון	1	paranames-en-he
+Stevie Wermers	סטיבי וורמרס	1	paranames-en-he
+Nellie McClung	נלי מקלאנג	1	paranames-en-he
+John Rawls	ג'ון רולס	1	paranames-en-he
+Ineke ten Cate	איינקה טן קאטה	1	paranames-en-he
+Meron Medzini	מירון מדזיני	1	paranames-en-he
+Jacques Maghoma	ז'אק מאגהומה	1	paranames-en-he
+Yves Langlois	איב לנגלואה	1	paranames-en-he
+Clyde Klotz	קלייד קלוץ	1	paranames-en-he
+Chen Shapira	חן שפירא	1	paranames-en-he
+Jean Daniel	ז'אן דניאל	1	paranames-en-he
+Stephen A. Schwarzman	סטפן שוורצמן	1	paranames-en-he
+Ahmad ibn Rustah	אחמד אבן רוסתה	1	paranames-en-he
+Sarah Hudson	שרה הדסון	1	paranames-en-he
+Hannah G. Williams	האנה ויליאמס	1	paranames-en-he
+Lenn Kudrjawizki	לן קודריאביצקי	1	paranames-en-he
+Bernhard Heiliger	ברנרד הייליגר	1	paranames-en-he
+Kokhavah Harari	כוכבה הררי	1	paranames-en-he
+Titus Welliver	טיטוס וליבר	1	paranames-en-he
+Gilberte Alleg-Salem	ז'ילברט סרפתי	1	paranames-en-he
+Pierre Laval	פייר לאוואל	1	paranames-en-he
+Basya Schechter	בתיה שכטר	1	paranames-en-he
+Natalie Fardian-Melamed	נטלי פרדיאן-מלמד	1	paranames-en-he
+Mosab Al Khateeb	מוסעב אל–ח'טיב	1	paranames-en-he
+Danuel House	דניואל האוס	1	paranames-en-he
+Ross Robinson	רוס רובינסון	1	paranames-en-he
+Selwyn Lloyd	סלווין לויד	1	paranames-en-he
+Yannets Levi	ינץ לוי	1	paranames-en-he
+Herta Oberheuser	הרטה אוברהויזר	1	paranames-en-he
+Stephen Sondheim	סטיבן סונדהיים	1	paranames-en-he
+Christian Wood	כריסטיאן ווד	1	paranames-en-he
+Benjamin F. Conley	בנג'מין קונלי	1	paranames-en-he
+Rahamim Halis	רחמים חליס	1	paranames-en-he
+Paul Reichmann	פאול רייכמן	1	paranames-en-he
+Lucas Dias	לוקאס דיאס סראפים	1	paranames-en-he
+Francisco Acuña de Figueroa	פרנסיסקו אקוניה דה פיגרואה	1	paranames-en-he
+Giuseppe Sacconi	ג'וזפה סקוני	1	paranames-en-he
+Julie Schunck	יולי שונק	1	paranames-en-he
+Lisa Oz	ליסה אוז	1	paranames-en-he
+Dorit Jelinek	דורית ילינק	1	paranames-en-he
+Olga Sík	אולגה שיק	1	paranames-en-he
+Zarifa Ghafari	זריפה גפארי	1	paranames-en-he
+Sergey Karyakin	סרגיי ואסילייביץ' קריאקין	1	paranames-en-he
+Aliuska López	אליוסקה לופס	1	paranames-en-he
+Malcolm Forbes	מלקולם פורבס	1	paranames-en-he
+Yair Achituv	יאיר אחיטוב	1	paranames-en-he
+Willy Rosen	וילי רוזן	1	paranames-en-he
+Zarifa Aliyeva	זריפה אלייב	1	paranames-en-he
+Lafayette Mendel	לפאייט מנדל	1	paranames-en-he
+Vince Flynn	וינס פלין	1	paranames-en-he
+Arthur Fitger	ארתור פיטגר	1	paranames-en-he
+Enrique de Castilla	אנריקה מקסטיליה	1	paranames-en-he
+Tatyana Ali	טטיאנה עלי	1	paranames-en-he
+Kevin Nolan	קווין נולן	1	paranames-en-he
+Mario Rodríguez Cobos	סילו	1	paranames-en-he
+Anthony Edwards	אנתוני אדוארדס	1	paranames-en-he
+Snmuel Har Noy	שמואל הר נוי	1	paranames-en-he
+Adolf von Trotha	אדולף פון טרוטה	1	paranames-en-he
+Roger Hubert	רוגר הוברט	1	paranames-en-he
+Chimamanda Ngozi Adichie	צ'יממנדה נגוזי אדיצ'יה	1	paranames-en-he
+Mira Tratner	טרטנר, מירה	1	paranames-en-he
+William Yates Atkinson	ויליאם ייטס אטקינסון	1	paranames-en-he
+John Negroponte	ג'ון נגרופונטה	1	paranames-en-he
+Hans Helm	הנס הלם	1	paranames-en-he
+Jurica Golemac	יוריצה גולמאץ	1	paranames-en-he
+John Conard	ג'ון קונרד	1	paranames-en-he
+Jordan Roberts	ג'ורדן רוברטס	1	paranames-en-he
+Joanne Accom	ג'ונה אקום	1	paranames-en-he
+Neville Symington	נוויל סימינגטון	1	paranames-en-he
+Princess Anne d'Orléans	אן, נסיכת אורליאן	1	paranames-en-he
+Edmund Hillary	אדמונד הילרי	1	paranames-en-he
+Arnon Dar	ארנון דר	1	paranames-en-he
+Anders Holm	אנדרס הולם	1	paranames-en-he
+Edith Kramer	אדית קרמר	1	paranames-en-he
+Mercedes Martinez	מרסדס מרטינז	1	paranames-en-he
+Hadar Ben-Yoav	הדר בן-יואב	1	paranames-en-he
+Dan Schneider	דן שניידר	1	paranames-en-he
+Anton II of Georgia	אנטון השני	1	paranames-en-he
+Francis George	פרנסס ג'ורג'	1	paranames-en-he
+Dan Landin	דן לנדין	1	paranames-en-he
+Shemu Joyah	צ'ארלס שמו ג'ויה	1	paranames-en-he
+Sophie Török Mrs. Kazinczy	סופי טרק	1	paranames-en-he
+Michael Fain	מייקל פין	1	paranames-en-he
+Felicia Farr	פלישיה פאר	1	paranames-en-he
+Joseph Epstein	יוזף אפשטיין	1	paranames-en-he
+Dov Gavish	דב גביש	1	paranames-en-he
+Anton Fliegerbauer	אנטון פליגרבאואר	1	paranames-en-he
+Roque Baños	רוקו בנוס	1	paranames-en-he
+Haim Abramovich	חיים אברמוביץ	1	paranames-en-he
+John Sykes	ג'ון סייקס	1	paranames-en-he
+Ali Akbar Khan	עלי אכבר חאן	1	paranames-en-he
+John the Merciful	יוחנן הנדבן	1	paranames-en-he
+Zvi Rosen	צבי רוזן	1	paranames-en-he
+Sinaia Netanyahu	סיניה נתניהו	1	paranames-en-he
+Lolik	לוליק	1	paranames-en-he
+Shlomo Markel	שלמה מרקל	1	paranames-en-he
+Dee Palmer	די פאלמר	1	paranames-en-he
+Dror Cohen	דרור כהן	1	paranames-en-he
+Pál Szalai	פאל סאלאי	1	paranames-en-he
+Tomer Shpindel	שפינדל, תומר	1	paranames-en-he
+Daniel Paul Schreber	דניאל פאול שרבר	1	paranames-en-he
+Fabrizio Gifuni	פברציו גיפוני	1	paranames-en-he
+Bette Davis	בטי דייוויס	1	paranames-en-he
+Girolamo Amatijhoh	ג'ירולאמו אמאטי	1	paranames-en-he
+Ole Kristian Selnæs	אולה סלנס	1	paranames-en-he
+Henry Torrès	אנרי טורס	1	paranames-en-he
+Gindibu	גינדיבו	1	paranames-en-he
+Miguel Ángel García Nieto	מיגל אנחל גארסיה נייטו	1	paranames-en-he
+Elias Oved	עובד אליאס	1	paranames-en-he
+Zaho	זאהו	1	paranames-en-he
+Brad Arnold	בראד ארנולד	1	paranames-en-he
+Cozi Zuehlsdorff	קוזי צוהלסדורף	1	paranames-en-he
+Mark Kac	מארק כץ	1	paranames-en-he
+Matt McLean	מאט מקליין	1	paranames-en-he
+Peter Barker	פיטר בארקר	1	paranames-en-he
+Stith Thompson	סטית תומפסון	1	paranames-en-he
+Katharine Ross	קתרין רוס	1	paranames-en-he
+Josiah Quincy II	ג'וזיה קווינסי	1	paranames-en-he
+Shlomo Shoham	שלמה שהם	1	paranames-en-he
+Udi Gottshalk	אודי גוטשלק	1	paranames-en-he
+Seymour Fox	פוקס, שלמה, 1929-2006	1	paranames-en-he
+Reggie Lee	רג'י לי	1	paranames-en-he
+Itzik Zaig	איציק צאיג	1	paranames-en-he
+Hendrik Lorentz	הנדריק לורנץ	1	paranames-en-he
+Zweli Mkhize	זוואלי מכהיז	1	paranames-en-he
+Oleg Tabakov	אולג טבקוב	1	paranames-en-he
+Konstantin Vanshenkin	קונסטנטין ונשנקין	1	paranames-en-he
+Ben Ferencz	בנג׳מין פרנץ	1	paranames-en-he
+James Gist	ג'יימס גיסט	1	paranames-en-he
+Zipporah Alperin	הלפרין, צפורה	1	paranames-en-he
+Marcus Samuelsson	מרקוס סמואלסון	1	paranames-en-he
+Georges Gutelman	ג'ורג' גוטלמן	1	paranames-en-he
+Avraham Rubinstein	אברהם רובינשטיין	1	paranames-en-he
+Kemal Yildiz	כאמל אילדיז	1	paranames-en-he
+Avi Gil	אבי גיל	1	paranames-en-he
+Gil Feldman	גיל פלדמן	1	paranames-en-he
+Raffaele de Ghantuz	רפאל דה גנטוז קובה	1	paranames-en-he
+Marc Jackson	מארק ג'קסון	1	paranames-en-he
+Ron Kennedy	רון קנדי	1	paranames-en-he
+Torraye Braggs	טוראיי בראגס	1	paranames-en-he
+Yirmiyahu Piha	ירמיהו פיחה	1	paranames-en-he
+Mellabes	מלאבס	1	paranames-en-he
+Enrico Gherghetta	אנריקו גרגטה	1	paranames-en-he
+Itche Menahem	איצ'ה מנחם	1	paranames-en-he
+Russ T. Alsobrook	רוס ט' אלסוברוק	1	paranames-en-he
+Bismack Biyombo	ביסמאק ביומבו	1	paranames-en-he
+Shinji Aramaki	שינג'י ארמאקי	1	paranames-en-he
+Bukhbinder, A. Y. , -1897	בוכבינדער, אברהם יצחק, 1860 בערך-1897	1	paranames-en-he
+Philoxenus of Eretria	פילוקסנוס מארטריה	1	paranames-en-he
+Georg Landauer	גאורג לנדואר	1	paranames-en-he
+Fenenna of Kuyavia	פננה מקויאוויה	1	paranames-en-he
+Renata Scotto	רנאטה סקוטו	1	paranames-en-he
+Pavel Vrba	פבל ורבה	1	paranames-en-he
+David Hilbert	דויד הילברט	1	paranames-en-he
+Hermann Senator	הרמן סנאטור	1	paranames-en-he
+Prince Abdul Rahman	טונקו עבדול רחמן	1	paranames-en-he
+Rodger Bumpass	רודגר במפס	1	paranames-en-he
+Stacy Burke	סטייסי בורק	1	paranames-en-he
+Ernst Fehr	ארנסט פהר	1	paranames-en-he
+Jonathan Tropper	ג'ונתן טרופר	1	paranames-en-he
+Jordan Vogt-Roberts	ג'ורדן ווגט-רוברטס	1	paranames-en-he
+Kelly Coffield Park	קלי קופילד פארק	1	paranames-en-he
+David Brian	דייוויד בריאן	1	paranames-en-he
+Abraham Joseph Ash	אברהם יוסף אש	1	paranames-en-he
+unnamed Pictish princess	נסיכה פיקטית בעלת שם לא ידוע	1	paranames-en-he
+Thomas A. Bussiere	תומאס בוסייר	1	paranames-en-he
+Alon Neuman	אלון נוימן	1	paranames-en-he
+Christine Friederike of Württemberg-Winnental	כריסטינה פרדריקה, דוכסית וירטמברג	1	paranames-en-he
+Shoista Mullojonova	שויסטה מולוז'ונובה	1	paranames-en-he
+Philip Franks	פיליפ פרנקס	1	paranames-en-he
+Andrew Olshansky	אנדז'יי הולשאנסקי	1	paranames-en-he
+Adam Edelman	אדם אדלמן	1	paranames-en-he
+Hilde Mangold	הילדה מנגולד	1	paranames-en-he
+Joseph Bazalgette	ג'וזף בזלגט	1	paranames-en-he
+Aharon Ipalé	אהרן איפלה	1	paranames-en-he
+Patricia Wrightson	פטרישיה רייטסון	1	paranames-en-he
+Ransom E. Olds	רנסום הולדס	1	paranames-en-he
+Harold Stanley	הרולד סטנלי	1	paranames-en-he
+Sam Havadtoy	סאם הוואדטוי	1	paranames-en-he
+Fat Joe	פאט ג'ו	1	paranames-en-he
+Julius Meier	ג'וליוס מאייר	1	paranames-en-he
+Yūji Kishi	יוג'י קישי	1	paranames-en-he
+Andrew Scheer	אנדרו שיר	1	paranames-en-he
+Yoel Sharon	יואל שרון	1	paranames-en-he
+Tom Kapinos	טום קאפינוס	1	paranames-en-he
+Jonathan Lemkin	ג'ונתן למקין	1	paranames-en-he
+Adrian Truss	ארדיאן טרוס	1	paranames-en-he
+Noah Vonleh	נואה וונליי	1	paranames-en-he
+Lola Forner	לולה פורנר	1	paranames-en-he
+Franz Rellich	פרנץ רליך	1	paranames-en-he
+Lee Miller	לי מילר	1	paranames-en-he
+Peter Charles Waylen	פטר צ'ארלס ויילן	1	paranames-en-he
+Jacob Becker	יעקב בקר	1	paranames-en-he
+Helmut Fritz	הלמוט פריץ	1	paranames-en-he
+Amir Lazar	אמיר לזר	1	paranames-en-he
+Ruslan Sergienko	רוסלן סרגיינקו	1	paranames-en-he
+Sharon Kane	שרון קיין	1	paranames-en-he
+Linda Jaivin	לינדה ג'ווין	1	paranames-en-he
+William Hannah McLean	ויליאם מקלין	1	paranames-en-he
+Anne Shirley	אן שירלי	1	paranames-en-he
+David Langton	דייוויד לנגטון	1	paranames-en-he
+Paul Hemetsberger	פאול המטסברגר	1	paranames-en-he
+Mosheh Harari	משה הררי	1	paranames-en-he
+Mykhailo Verbytskyi	מיכאילו ורביצקי	1	paranames-en-he
+Victor French	ויקטור פרנץ'	1	paranames-en-he
+Collis Potter Huntington	קוליס הנטינגטון	1	paranames-en-he
+Andrei Bitov	אנדריי ביטוב	1	paranames-en-he
+Zechariah Ratzabi	זכריה רצאבי	1	paranames-en-he
+Yoni Cohen-Idov	יוני כהן-אידוב	1	paranames-en-he
+Shlomo Pyutrekovsky	שלמה פיוטרקובסקי	1	paranames-en-he
+Nele Moost	נלה מוסט	1	paranames-en-he
+Karl Ludwig Friedrich Trendelenburg	קארל לודוויג פרידריך טרנדלנבורג	1	paranames-en-he
+Ludwig Goldscheider	לודוויג גולדשיידר	1	paranames-en-he
+Chaim Tzvi Gorelick	גארעליק, חיים צבי בן ברוך שמואל	1	paranames-en-he
+Marion Weyant Ruth	מריון וייאנט רות	1	paranames-en-he
+Adi Himelbloy	עדי הימלבלוי	1	paranames-en-he
+James Wilkie Broderick	ג'יימס וילקי ברודריק	1	paranames-en-he
+Eliezer Boneh	אליעזר בונה	1	paranames-en-he
+Johann Adalbert Angermayer	יוהאן אדלברט אנגרמאייר	1	paranames-en-he
+Sándor Székely	שאנדור סקיי	1	paranames-en-he
+Roberto Punčec	רוברטו פונצ'ץ	1	paranames-en-he
+Uriʼel, Ṭovit	אוריאל, טובית	1	paranames-en-he
+Desiré Ecaré	דזירה אקארה	1	paranames-en-he
+Hubert Klausner	הוברט קלאוזנר	1	paranames-en-he
+Endres Solis	אנדרס סוליס	1	paranames-en-he
+Dori Whitaker	דורי ויטאקר	1	paranames-en-he
+Michael Andrew Screech	מייקל סקריץ'	1	paranames-en-he
+Karl Ludwig Sand	קארל לודוויג זאנד	1	paranames-en-he
+Vashti Cunningham	ושתי קנינגהם	1	paranames-en-he
+Les Herstik	לסלי הרשטיק	1	paranames-en-he
+Alexander Turney Stewart	אלכסנדר טרני סטיוארט	1	paranames-en-he
+Arie Y. Lewin	אריה י. לוין	1	paranames-en-he
+Dixie Browning	דיקסי בראונינג	1	paranames-en-he
+Aminatta Forna	אמינטה פורנה	1	paranames-en-he
+Andrew Moore	אנדרו מור	1	paranames-en-he
+Jake Gosling	ג'ק גוסלינג	1	paranames-en-he
+Charles Oberthür	שארל אוברטיר	1	paranames-en-he
+Morgan Wallen	מורגן וולן	1	paranames-en-he
+Cecil Taylor	ססיל פי טיילור	1	paranames-en-he
+Sahla bint Suhail	סהלה בנת סהיל	1	paranames-en-he
+Mitch Allan	מיטש אלן	1	paranames-en-he
+Eli Miali	אלי מיאלי	1	paranames-en-he
+Armen Ohanian	ארמן אוחניאן	1	paranames-en-he
+Avraham Arie Leib Rosen	אברהם אריה לייב רוזן	1	paranames-en-he
+Ernst Herzfeld	ארנסט הרצפלד	1	paranames-en-he
+Víctor Claver	ויקטור קלאבר	1	paranames-en-he
+Livius Andronicus	ליוויוס אנדרוניקוס	1	paranames-en-he
+Elashṿili, Avraham	אלאשוילי, אברהם בן רפאל	1	paranames-en-he
+Werner Weinberg	ורנר וינברג	1	paranames-en-he
+Yinyu Ye	ייניו יה	1	paranames-en-he
+Michael Finkel	מיכאיל פינקל	1	paranames-en-he
+Baron Alexander von Bach	אלכסנדר פון באך	1	paranames-en-he
+Sulaiman of Brunei	סולימאן, סולטאן בורניי	1	paranames-en-he
+Thomas Harlan	תומאס הרלן	1	paranames-en-he
+Carrie Matilda Derick	קארי דריק	1	paranames-en-he
+Ashly Burch	אשלי ברץ'	1	paranames-en-he
+Claudie Haigneré	קלודי אניירה	1	paranames-en-he
+Shahar Hauon	שחר חיון	1	paranames-en-he
+Mark Tonderai	מארק טונדראי	1	paranames-en-he
+Shelomoh Ḥoḥlovḳin	שלמה חוחלובקין	1	paranames-en-he
+Shaul Ben-Simhon	שאול בן שמחון	1	paranames-en-he
+Shemuel Mestechkin	שמואל מסטצ'קין	1	paranames-en-he
+Thomas Arnold	תומאס ארנולד	1	paranames-en-he
+Diego Klattenhoff	דייגו קלאטנהוף	1	paranames-en-he
+Nicole Holofcener	ניקול הולופסנר	1	paranames-en-he
+Julian More	ג'וליאן מור	1	paranames-en-he
+Elsi Christofias	אלסי כריסטופיאס	1	paranames-en-he
+Márk Goldberger	מרק גולדברגר	1	paranames-en-he
+Christopher Ferguson	כריסטופר פרגוסון	1	paranames-en-he
+Felix Hernandez	פליקס ארננדס	1	paranames-en-he
+Charles Doolittle Walcott	צ'ארלס דוליטל וולקוט	1	paranames-en-he
+Ricky Tognazzi	ריקי טוגנאצי	1	paranames-en-he
+Josephine Chan Shu-ying	ג'וזפין צ'ן שו-יינג	1	paranames-en-he
+Sharon Elkayam	שרון אלקיים	1	paranames-en-he
+Duke Alexander of Württemberg	אלכסנדר, דוכס וירטמברג	1	paranames-en-he
+Ḥayim Abiri	חיים אבירי	1	paranames-en-he
+Lorraine Michael	לוריין מייקל	1	paranames-en-he
+Nyman Levin	ניימן לוין	1	paranames-en-he
+Gift Leremi	גיפט לרמי	1	paranames-en-he
+Zoskales	זוסקלאס, מלך אקסום	1	paranames-en-he
+Eric L. Beason	אריק ל. ביסון	1	paranames-en-he
+Myles Cooper	מיילס קופר	1	paranames-en-he
+Whitfield Cook	ויטפילד קוק	1	paranames-en-he
+Július Humaj	יוליוס הומאי	1	paranames-en-he
+Christopher Sheels	כריסטופר שילז	1	paranames-en-he
+Abdul Qadeer Khan	עבד אל-קדיר ח'אן	1	paranames-en-he
+Sönke Möhring	סונקה מוהרינג	1	paranames-en-he
+Ernst Gotthelf Gersdorf	ארנסט גוטתלף גרסדורף	1	paranames-en-he
+Elwyn C. Lee	אלווין לי	1	paranames-en-he
+Brian Howe	בריאן האווי	1	paranames-en-he
+Carsten Borchgrevink	קאשטן בורשקרווינק	1	paranames-en-he
+Sofía	ולנטינה	1	paranames-en-he
+Anne-Marie Cazalis	אן־מארי קזליס	1	paranames-en-he
+King Kong Bundy	קינג קונג באנדי	1	paranames-en-he
+Alfred Gibson	אלפרד גיבסון	1	paranames-en-he
+Paul Winfield	פול וינפילד	1	paranames-en-he
+Michael Brandt	מייקל ברנדט	1	paranames-en-he
+Leonid Govorov	לאוניד גובורוב	1	paranames-en-he
+Victor Campbell	ויקטור קמפבל	1	paranames-en-he
+Don Hany	דון האני	1	paranames-en-he
+Yéhoshoua Ossovitzky	יהושע אוסוביצקי	1	paranames-en-he
+Dov Zifroni	דב צפרוני	1	paranames-en-he
+Ahmed Rıza	אחמד רזא	1	paranames-en-he
+Nicole Leung	ניקול לאונג	1	paranames-en-he
+Ellen Sandweiss	אלן סנדווייס	1	paranames-en-he
+Michael McKean	מייקל מקין	1	paranames-en-he
+Oded Schwartz	עודד שוורץ	1	paranames-en-he
+Steve McClaren	סטיב מקלארן	1	paranames-en-he
+Alexandre Aja	אלכסנדר אז'ה	1	paranames-en-he
+George Ducas	גאורגה דוקה	1	paranames-en-he
+Giuseppe Raddi	ז'וזפה רדי	1	paranames-en-he
+Adam Haluska	אדם הלסקה	1	paranames-en-he
+Larry Riley	לארי ריליי	1	paranames-en-he
+Sharon Gless	שרון גלס	1	paranames-en-he
+György Szántó	ג'רג' סאנטו	1	paranames-en-he
+Ben Harper	בן הרפר	1	paranames-en-he
+Aleksei Kozhevnikov	אלכסיי קוז'בניקוב	1	paranames-en-he
+Derek Theler	דרק ת'ילר	1	paranames-en-he
+Louis de Rochemont	לואיס דה רושמו	1	paranames-en-he
+Patrick Miller	פטריק מילר	1	paranames-en-he
+Chris Wyatt	כריס ויאט	1	paranames-en-he
+Gregor MacGregor	גרגור מקגרגור	1	paranames-en-he
+Stephen Hillenburg	סטיבן הילנבורג	1	paranames-en-he
+Tatyana Providokhina	טטיאנה פרוהיגוחינה	1	paranames-en-he
+Greg Morris	גרג מוריס	1	paranames-en-he
+Yekaterina Kolesnikova	יקטרינה קולסניקובה	1	paranames-en-he
+John Maxwell	ג'ון מקסוול	1	paranames-en-he
+Mathilde of Bavaria	מתילדה מבוואריה	1	paranames-en-he
+Joshua Cohen	ג׳ושוע כהן	1	paranames-en-he
+Aécio Neves	אאסיו נווס	1	paranames-en-he
+Yonit Wiener-Well	יונית וינר-וול	1	paranames-en-he
+Demetrius Joyette	דמיטריוס ז'וייט	1	paranames-en-he
+Amit Yisraeli-Gilead	ישראלי-גלעד, עמית	1	paranames-en-he
+Johanna Lindsey	ג'והנה לינדסי	1	paranames-en-he
+Yuval Heled	יובל חלד	1	paranames-en-he
+Charles Coles	צ'ארלס קולס	1	paranames-en-he
+Abdullah ibn Salam	עבדאללה בן סלאם	1	paranames-en-he
+Michele Morrone	מיקאלה מורונה	1	paranames-en-he
+Vinny Del Negro	ויני דל נגרו	1	paranames-en-he
+Abu Ayman al-Iraqi	אבו איימן אל-עיראקי	1	paranames-en-he
+Bryan Magee	בריאן מגי	1	paranames-en-he
+Lucien Adam	לוסיין אדה	1	paranames-en-he
+Frank Gore	פרנק גור	1	paranames-en-he
+Ibrahim Maalouf	אבראהים מעלוף	1	paranames-en-he
+Kalomira	קאלומירה	1	paranames-en-he
+Muniz Freire	מוניס פריירי	1	paranames-en-he
+Shlomit Ofir	שלומית אופיר	1	paranames-en-he
+Alon Lapid	אלון לפיד	1	paranames-en-he
+Albrecht von Haller	אלברכט פון האלר	1	paranames-en-he
+Barbara Rudnik	ברברה רודניק	1	paranames-en-he
+Samuel Williston	סמואל ויליסטון	1	paranames-en-he
+Imre Gellért	אימרה גלרט	1	paranames-en-he
+Malusha	מלושה	1	paranames-en-he
+Gustav Kafka	גוסטב קפקא	1	paranames-en-he
+Charles Geschke	צ'ארלס גצ'קי	1	paranames-en-he
+Fabio Borini	פאביו בוריני	1	paranames-en-he
+Konrad Schramm	קונרד שראם	1	paranames-en-he
+Publius Petronius Turpilianus	פובליוס פטרוניוס טורפיליאנוס	1	paranames-en-he
+Lisa Rotondi	ליסה רוטונדי	1	paranames-en-he
+Talia Barkai	טליה ברקאי	1	paranames-en-he
+Steven Zuber	סטיבן זובר	1	paranames-en-he
+Elik Shomroni	אליהו שומרוני	1	paranames-en-he
+Julie d'Aubigny	ג'ולי ד'אוביני	1	paranames-en-he
+Isaac Cuenca	איסק קואנקה	1	paranames-en-he
+Shai Sendik	סנדיק, שי	1	paranames-en-he
+David Greenwood	דייוויד גרינווד	1	paranames-en-he
+Michael Deshe	מיכאל דשא	1	paranames-en-he
+Jibril Rajoub	ג'יבריל רג'וב	1	paranames-en-he
+Gulliver Lewis	גוליבר לואיס	1	paranames-en-he
+Agnes of Merania	אגנס ממרניה	1	paranames-en-he
+Rachel Tokatli	טוקטלי, רחל	1	paranames-en-he
+Antonin Besse	אנטונין בס	1	paranames-en-he
+Kevin Kilner	קווין קילנר	1	paranames-en-he
+Leah Pipes	ליה פייפס	1	paranames-en-he
+Bridget Carpenter	ברידג'יט קרפנטר	1	paranames-en-he
+Adi Shankar	אדי שאנקר	1	paranames-en-he
+Osama Jamil Khoury	עוסמה ג'מיל ח'ורי	1	paranames-en-he
+Joe Flynn	ג'ו פלין	1	paranames-en-he
+Ronald Dworkin	רונלד דבורקין	1	paranames-en-he
+Claudio Cormio	קלאודיו קורמיו	1	paranames-en-he
+Kane Crichlow	קיין קריצ'לו	1	paranames-en-he
+Walter Burkert	ולטר בורקרט	1	paranames-en-he
+Carl von Marr	קרל פון מאר	1	paranames-en-he
+Max Levchin	מקס לבצ'ין	1	paranames-en-he
+Shṭern, P.	שטרן, פ.	1	paranames-en-he
+Abrahm Iben Kamniel	אברהם אבן קמניאל	1	paranames-en-he
+Bertrand Poirot-Delpech	ברטראן פוארו–דלפ	1	paranames-en-he
+Madame Claude	מאדאם קלוד	1	paranames-en-he
+Eliyahu Azulai	אזולאי, אליהו, נפטר 1986	1	paranames-en-he
+Avi Nussbaum	אבי נוסבאום	1	paranames-en-he
+Aritha Van Herk	אריתה ואן הרק	1	paranames-en-he
+Apsley Cherry-Garrard	אפסלי צ'רי-גארארד	1	paranames-en-he
+Lee Radziwill	לי רדזיוויל	1	paranames-en-he
+Sancha of Portugal I	סאנשה הראשונה מפורטוגל	1	paranames-en-he
+Guido van Rossum	גואידו ואן רוסום	1	paranames-en-he
+Yuval Kaminka	יובל קמינקא	1	paranames-en-he
+Jacob LaMendola	ג'ייקוב למנדולה	1	paranames-en-he
+Edwin Black	אדווין בלאק	1	paranames-en-he
+Marie Duval	מרי דוואל	1	paranames-en-he
+Noa Ragonis	רגוניס, נוע	1	paranames-en-he
+Victoria Alcock	ויקטוריה אלקוק	1	paranames-en-he
+Elisabeth Förster-Nietzsche	אליזבת פורסטר-ניטשה	1	paranames-en-he
+Johan Oxenstierna	יוהאן אוקסנשרנה	1	paranames-en-he
+Milt Franklyn	מילט פרנקלין	1	paranames-en-he
+Caroline Cochrane	קרוליין קוקרן	1	paranames-en-he
+Suzanne Schiffman	סוזאן שיפמן	1	paranames-en-he
+Ede Novák	אדה נובאק	1	paranames-en-he
+Michael  Rapoport	מיכאל רפופורט	1	paranames-en-he
+Umm ul-Banin	אום אל-בנין	1	paranames-en-he
+Ralph Izard	ראלף איזארד	1	paranames-en-he
+Vladimir Dzhanibekov	ולדימיר דז'ניבקוב	1	paranames-en-he
+Björn Bjarnason	ביורן ביארנאסון	1	paranames-en-he
+Yaneer Bar-Yam	יניר בר-ים	1	paranames-en-he
+David Warner	דייוויד וורנר	1	paranames-en-he
+Afonso II of Portugal	אפונסו השני, מלך פורטוגל	1	paranames-en-he
+Ethel Catherwood	אתל קתרווד	1	paranames-en-he
+Victor Miller	ויקטור מילר	1	paranames-en-he
+Luc Tardif	לוק טרדיף	1	paranames-en-he
+Polikarpas Grybauskas	פוליקרפס גריבאוסקה	1	paranames-en-he
+Pinḥas Zaḳ	פנחס זק	1	paranames-en-he
+Minoru Chiaki	מינורו צ'יאקי	1	paranames-en-he
+César, Duke of Vendôme	סזאר, דוכס ונדום	1	paranames-en-he
+Janay DeLoach	ג'ניי דלואץ' סוקאפ	1	paranames-en-he
+Walker Evans	ווקר אוונס	1	paranames-en-he
+Frances Worsley	פרנסס וורסלי	1	paranames-en-he
+Gwen Jorgensen	גוון ג'ורגנסן	1	paranames-en-he
+Artemisia II of Caria	ארטמיסיה השנייה	1	paranames-en-he
+Boris Andreyev	בוריס אנדרייב	1	paranames-en-he
+Samuel Bachelis	שמואל בצ'ליס	1	paranames-en-he
+Mary of Woodstock	מרי מוודסטוק	1	paranames-en-he
+Alexander Macklin	אלכסנדר מקלין	1	paranames-en-he
+Duckens Nazon	דיקן נאזו	1	paranames-en-he
+Naḥum, Leṿi	נחום, לוי בן חי חואתו	1	paranames-en-he
+Tal Man	טל מן	1	paranames-en-he
+Dennis Heck	דני הק	1	paranames-en-he
+David Elkaïm	דייוויד אלקיים	1	paranames-en-he
+Joseph Justus Scaliger	יוזף יוסטוס סקליגר	1	paranames-en-he
+Mario Gavranović	מריו גבראנוביץ'	1	paranames-en-he
+Maria Campbell	מריה קמפבל	1	paranames-en-he
+Nikita Ignatyev	ניקיטה איגנטייב	1	paranames-en-he
+Shabtai Lozinsḳi	שבתאי לוז'ינסקי	1	paranames-en-he
+Steven Levenson	סטיבן לוונסון	1	paranames-en-he
+Hasa of Eshtemoa	חסא דאשתמוע	1	paranames-en-he
+Mathilde of Baden	מתילדה מבאדן	1	paranames-en-he
+Richard Robbins	ריצ'רד רובינס	1	paranames-en-he
+Gérard Debreu	ז'ראר דברה	1	paranames-en-he
+Norman Whiteside	נורמן וייטסייד	1	paranames-en-he
+Molly Bang	מולי באנג	1	paranames-en-he
+Keir O'Donnell	קיר אודונל	1	paranames-en-he
+Micha Brikman	מיכה בריקמן	1	paranames-en-he
+Khaled Mohieddin	ח'אלד מוחי א-דין	1	paranames-en-he
+J. J. Sakurai	ג'. ג'. סקוראי	1	paranames-en-he
+Juan Zambudio Velasco	חואן סמבודיו ולסקו	1	paranames-en-he
+Dana Eden	דנה עדן	1	paranames-en-he
+Kevin Savigar	קווין סוויגר	1	paranames-en-he
+Milton Welsh	מילטון ולש	1	paranames-en-he
+Johnny Weir	ג'וני וייר	1	paranames-en-he
+Detlev Bronk	דטלב ברונק	1	paranames-en-he
+René Wellek	רנה ולק	1	paranames-en-he
+Shlomo Zach	שלמה צח	1	paranames-en-he
+Jigme Palden Dorji	ג'יגמי פלדן דורגי	1	paranames-en-he
+Arnetia Walker	ארנישה ווקר	1	paranames-en-he
+Lilly Guttmann	גוטמן, לילי	1	paranames-en-he
+Jonathan Agudelo	ג'ונתן אגודלו	1	paranames-en-he
+Kiril Georgiev	קיריל גאורגייב	1	paranames-en-he
+Tom Gries	טום גרייס	1	paranames-en-he
+Béla Perczel	בֵלה פֶרצֶל	1	paranames-en-he
+Heinrich Marr	היינריך מאר	1	paranames-en-he
+Francis Lovelace	פרנסיס לאבלייס	1	paranames-en-he
+Steve Reevis	סטיב ריביס	1	paranames-en-he
+Antony Emerson	אנתוני אמרסון	1	paranames-en-he
+Shimrit Orr	שמרית אור	1	paranames-en-he
+Gangadhar Tarkabagish	גאנגדהאר טארקאבאגיש	1	paranames-en-he
+Carmel Bin	כרמל בין	1	paranames-en-he
+Frank J. Prial	פרנק פריאל	1	paranames-en-he
+Henrik Benedict	הנריק בנדיקט	1	paranames-en-he
+Sara Bareilles	שרה ברליס	1	paranames-en-he
+Peter Montfort	פיטר מונפורט	1	paranames-en-he
+Josh Dylan	ג'וש דילן	1	paranames-en-he
+Mihály Rónai	מיהאי רונאי	1	paranames-en-he
+Ruben Kazhiloti	ראובן קז'ילוטי	1	paranames-en-he
+Tay Melo	טיינרה מלו דה קרבאליו	1	paranames-en-he
+Bojana Novakovic	בוז'אנה נובקוביק	1	paranames-en-he
+Dori Pierson	דורי פירסון	1	paranames-en-he
+Arsites	ארסיטס	1	paranames-en-he
+Ami Livne	עמי ליבנה	1	paranames-en-he
+Guy Gissin	גיא גיסין	1	paranames-en-he
+Liz Rabbah	רבה, ליז	1	paranames-en-he
+Rachel Nissim	רחל ניסים	1	paranames-en-he
+Liu Shaoqi	ליו שאוצ'י	1	paranames-en-he
+Gad Kahanov	כהנוב, גד	1	paranames-en-he
+Ludger	לודגר	1	paranames-en-he
+Jacob Newton Cardozo	ג'ייקוב קרדוזו	1	paranames-en-he
+Kim Hyeon	קים היאון	1	paranames-en-he
+Jane Darwell	ג'יין דארוול	1	paranames-en-he
+Maren Meinert	מארן מיינרט	1	paranames-en-he
+Yakov  Stahl	יעקב ישראל סטל	1	paranames-en-he
+Apostolos Vellios	אפוסטולוס ואליוס	1	paranames-en-he
+Uku Masing	אוקו מסינג	1	paranames-en-he
+David Hume	דייוויד יום	1	paranames-en-he
+Ellet J. Waggoner	ואגונר	1	paranames-en-he
+Mike Schuler	מייק שולר	1	paranames-en-he
+Rudolf Buchheim	רודולף בוכהיים	1	paranames-en-he
+Lee Harris	לי האריס	1	paranames-en-he
+Barry Beck	בארי בק	1	paranames-en-he
+Tal Shavit	טל שביט	1	paranames-en-he
+Laurent Gras	לוראן גרה	1	paranames-en-he
+Charles II, Elector Palatine	קרל השני, הנסיך הבוחר מפפאלץ	1	paranames-en-he
+Toni Turek	טוני טורק	1	paranames-en-he
+Joseph Palacci	יוסף פלאג'י	1	paranames-en-he
+Dietrich Stobbe	דיטריך שטובה	1	paranames-en-he
+Teresa Maryańska	טרזה מריאנסקה	1	paranames-en-he
+Lidor Yosefi	לידור יוספי	1	paranames-en-he
+Tom Cooper	תום קופר	1	paranames-en-he
+Ayelet Carmi	אילת כרמי	1	paranames-en-he
+Adolf des Coudres	אדולף דה קודר	1	paranames-en-he
+Miroslav Kadlec	מירוסלאב קאדלץ	1	paranames-en-he
+Miriam Gideon	מרים גידעון	1	paranames-en-he
+Evan A. Lottman	אוון לוטמן	1	paranames-en-he
+Jimmy Fontana	ג'ימי פונטנה	1	paranames-en-he
+Nicola Logroscino	ניקולא לוגרושינו	1	paranames-en-he
+Stanislav Namașco	סטניסלאב נמשקו	1	paranames-en-he
+Naftali Rozenfeld	נפתלי רוזנפלד	1	paranames-en-he
+Najib Razak	נג'יב רזאק	1	paranames-en-he
+Giuseppe Marc'Antonio Baretti	ג'וזפה מרקאנטוניו בארטי	1	paranames-en-he
+Tzvi Hirsch Ferber	צבי הירש פרבר	1	paranames-en-he
+Sylvia Sperandio	סילביה ספרנדיו	1	paranames-en-he
+Giovanni Pellielo	ג'ובאני פליאלו	1	paranames-en-he
+Merritt Patterson	מריט פטרסון	1	paranames-en-he
+Helen Deutsch	הלן דויטש	1	paranames-en-he
+Vitas	ויטאס	1	paranames-en-he
+Tim Loden	טים לודן	1	paranames-en-he
+Fabian Benedict Peake	פביאן בנדיקט פיק	1	paranames-en-he
+David ben Amram Adani	דוד עדני	1	paranames-en-he
+Maynor Figueroa	מאיינור פיגרואה	1	paranames-en-he
+Floyd Crosby	פלויד קרוסבי	1	paranames-en-he
+Duncan Kenworthy	דאנקן קנוורתי	1	paranames-en-he
+Haim Kovarsky	חיים קוברסקי	1	paranames-en-he
+Johnny Jones	ג'וני ג'ונס	1	paranames-en-he
+Sandy Berger	סנדי ברגר	1	paranames-en-he
+Anupam Sinha	אנופם סינהא	1	paranames-en-he
+John Bromyard	ג'ון ברומיארד	1	paranames-en-he
+Moshe Barkat	משה ברקת	1	paranames-en-he
+Otto of Hesse	אוטו מהסן	1	paranames-en-he
+Noam Enbar	נועם ענבר	1	paranames-en-he
+Fiona Caroline Graham	סאיוקי	1	paranames-en-he
+Aharon Mordechai Rokeach	אהרן מרדכי רוקח	1	paranames-en-he
+Roy Kinnear	רוי קינאר	1	paranames-en-he
+Robert Soblen	רוברט סובלן	1	paranames-en-he
+Jason F. Brown	ג'ייסון פ. בראון	1	paranames-en-he
+Diana Silvers	דיאנה סילברס	1	paranames-en-he
+Nel van Vliet	נל ואן וליט	1	paranames-en-he
+Pauline Phillips	פאולין פיליפס	1	paranames-en-he
+Naḥum Sharon	נחום שרון	1	paranames-en-he
+John Larkin	ג'ון לארקין	1	paranames-en-he
+Nikolay Erdman	ניקולאי ארדמן	1	paranames-en-he
+Shamir, Śarit, 1968-	שמיר, שרית, 1968-	1	paranames-en-he
+Alexandra Castillo	אלכסנדרה קסטיו	1	paranames-en-he
+James A. Baker Jr.	ג'יימס בייקר ג'וניור	1	paranames-en-he
+Caiaphas	קיפא	1	paranames-en-he
+Tova Asher	טובה אשר	1	paranames-en-he
+Shoval Kedoshim	שובל קדושים	1	paranames-en-he
+Yaacov Kanterovitch	יעקב קנטרוביץ'	1	paranames-en-he
+Cheikh El Afrit	א-שייח' אל-עפרית	1	paranames-en-he
+Horace A. Moses	הוראס א. מוזס	1	paranames-en-he
+Jerome Foster II	ג'רום פוסטר השני	1	paranames-en-he
+Loránd Eötvös	לוראנד אטווש	1	paranames-en-he
+Itzik Levy	לוי, יצחק, 1957-	1	paranames-en-he
+Adam Clayton	אדם קלייטון	1	paranames-en-he
+Hermann Brockhaus	הרמן ברוקהאוס	1	paranames-en-he
+Sancho I of Gascony	סאנצ'ו הראשון, דוכס גסקוניה	1	paranames-en-he
+George Morgan	ג'ורג' מורגן	1	paranames-en-he
+Vanessa Bell Armstrong	ונסה בל ארמסטרונג	1	paranames-en-he
+Ketevan Magalashvili	כתוואן מר'אלאשווילי	1	paranames-en-he
+Aileen Wuornos	איילין וורנוס	1	paranames-en-he
+Sarah Jane Morris	שרה ג'יין מוריס	1	paranames-en-he
+Robert Dillon	רוברט דילון	1	paranames-en-he
+Marko Livaja	מרקו ליבאיה	1	paranames-en-he
+Dick Clement	דיק קלמנט	1	paranames-en-he
+Billy Goldenberg	בילי גולדנברג	1	paranames-en-he
+Plamen Markov	פלמן מרקוב	1	paranames-en-he
+Bacchylides	באקכילידס	1	paranames-en-he
+Meliton Kantaria	מליטון כנתריה	1	paranames-en-he
+Bettina Tauber	בטינה טאובר	1	paranames-en-he
+Johann Kaspar Lavater	יוהאן קספר לווטר	1	paranames-en-he
+Vivian Wu	ויוויאן וו	1	paranames-en-he
+Jim Belushi	ג'יימס בלושי	1	paranames-en-he
+Princess Nadejda of Bulgaria	נדז'דה, נסיכת בולגריה	1	paranames-en-he
+Barry Brown	בארי בראון	1	paranames-en-he
+Karl Hajos	קארל האגוס	1	paranames-en-he
+Yevda Abramov	יהודה אברהמוב	1	paranames-en-he
+Shmarya Loeb Hurwitz	שמריהו ליב הורוויץ	1	paranames-en-he
+Charles Taze Russell	צ'ארלס טייז ראסל	1	paranames-en-he
+David Julyan	דיויד ג'וליאן	1	paranames-en-he
+Maximilian Sforza	מקסמיליאן ספורצה	1	paranames-en-he
+Adrien Jolivet	אדיראן ג'וליבה	1	paranames-en-he
+Alicja Hohermann	אליסיה הוהרמן	1	paranames-en-he
+Horace Newcomb	הוראס ניוקום	1	paranames-en-he
+Barry White	בארי וייט	1	paranames-en-he
+Julien Lacheray	ג'וליאן לצ'ראי	1	paranames-en-he
+Max Hermann Jellinek	מקס הרמן ילינק	1	paranames-en-he
+Penda of Mercia	פנדה ממרסיה	1	paranames-en-he
+Gleb Morozov	גלב מורוזוב	1	paranames-en-he
+Joseph Lançon	ז'וזף לנסון	1	paranames-en-he
+Faye Emerson	פיי אמרסון	1	paranames-en-he
+Julia Laskin	יוליה לסקין	1	paranames-en-he
+Alessandro Del Piero	אלסנדרו דל פיירו	1	paranames-en-he
+Hamza Younés	חמזה יונס	1	paranames-en-he
+Michael R. Burns	מייקל ברנס	1	paranames-en-he
+Yaron London	ירון לונדון	1	paranames-en-he
+Jack Halberstam	ג'ודית הלברסטם	1	paranames-en-he
+Avinoam Libai	אבינועם ליבאי	1	paranames-en-he
+Karni	קרני	1	paranames-en-he
+Aharon Shevo	אהרן שבו	1	paranames-en-he
+Charles Horace Mayo	צ'ארלס הוראס מאיו	1	paranames-en-he
+Peter Hammill	פיטר האמיל	1	paranames-en-he
+Miro Rys	מירו ריס	1	paranames-en-he
+Panagiotis Danglis	פנאיוטיס דנגליס	1	paranames-en-he
+Murad Bakhsh	מוראד בח'ש	1	paranames-en-he
+Kurt Angle	קורט אנגל	1	paranames-en-he
+Atsuko Tanaka	אצוקו טנאקה	1	paranames-en-he
+Kenji Mizoguchi	קנג'י מיזוגוצ'י	1	paranames-en-he
+Alexander Goldenweiser	אלכסנדר גולדנווייזר	1	paranames-en-he
+Yitsḥaḳ Nunes Ṿais	יצחק נוניס ואיס	1	paranames-en-he
+Franz Walter Stahlecker	פרנץ ולטר שטאלקר	1	paranames-en-he
+Blanche Baker	בלאנש בייקר	1	paranames-en-he
+Karl Herzfeld	קארל הרצפלד	1	paranames-en-he
+Monica Seles	מוניקה סלש	1	paranames-en-he
+Liam Broady	ליאם ברודי	1	paranames-en-he
+Levi Sheptovitsky	לוי שפטוביצקי	1	paranames-en-he
+Reinhold Ewald	ריינהולד אוואלד	1	paranames-en-he
+Hao Wang	האו ואנג	1	paranames-en-he
+Marcus D'Arcy	מרקוס ד'ארסי	1	paranames-en-he
+Philip Khuri Hitti	פיליפ חתי	1	paranames-en-he
+Eliezer ben-Arhah	אליעזר בר ארחא	1	paranames-en-he
+Carl Gräbe	קארל גראבה	1	paranames-en-he
+Dmitry of Pereslavl	דמיטרי, נסיך ולדימיר	1	paranames-en-he
+Yonatan Razel	יונתן רזאל	1	paranames-en-he
+Ulpia Marciana	אולפיה מרקיאנה	1	paranames-en-he
+Elizabeth Barrett-Anderson	אליזבת בארט-אנדרסון	1	paranames-en-he
+Gabi Neuman	גבי נוימן	1	paranames-en-he
+Cornelia Froboess	קוני פרובוס	1	paranames-en-he
+Robert Bernstein	רוברט ברנשטיין	1	paranames-en-he
+Helgi Dam Ziska	הלגי דם זיסקה	1	paranames-en-he
+Guy Henniart	גי אניאר	1	paranames-en-he
+Michael Wahlberg	מייקל וולברג	1	paranames-en-he
+Nabil Elaraby	נביל אל-ערבי	1	paranames-en-he
+Elizabeth Loftus	אליזבת לופטוס	1	paranames-en-he
+Nati Bait	בית, נתי	1	paranames-en-he
+Gabriel Cramer	גבריאל קרמר	1	paranames-en-he
+Azriel Uchmani	עזריאל אוכמני	1	paranames-en-he
+Antonio Barluzzi	אנטוניו ברלוצי	1	paranames-en-he
+Ernest Mangnall	ארנסט מנגנול	1	paranames-en-he
+Al-Maqrizi	אל-מקריזי	1	paranames-en-he
+Jean Taubenhaus	ז'אן טאובנהאוס	1	paranames-en-he
+James Stuart Campbell	ג'יימס סטיוארט קמפבל	1	paranames-en-he
+Alon Frenkel	פרנקל, אלון	1	paranames-en-he
+Efraim Lev	אפרים לב	1	paranames-en-he
+Boun Oum	בון אום נה צ'אמפסאק	1	paranames-en-he
+Sa'id of Egypt	מוחמד סעיד פאשא	1	paranames-en-he
+Aleksej Petrovič Melissino	אלכסיי מליסינו	1	paranames-en-he
+Jonathan Loughran	ג'ונתן לורן	1	paranames-en-he
+Joel Goldsmith	ג'ואל גולדסמית'	1	paranames-en-he
+Zalman Shapiro	זלמן שפירו	1	paranames-en-he
+Maxwell Maltz	מקסוול מלץ	1	paranames-en-he
+Valentina Kosobutskaya	ולנטינה קוסובוצקיה	1	paranames-en-he
+Bernát Singer	ברנאט זינגר	1	paranames-en-he
+Peter Henrici	פטר הנריצי	1	paranames-en-he
+Stefan Leitl	שטפן לייטל	1	paranames-en-he
+Girolamo della Robbia	ג'ירולמו דלה רוביה	1	paranames-en-he
+Joseph Meister	ג'וזף מייסטר	1	paranames-en-he
+Gianfranco Clerici	ג'אנפרנקו קלריקי	1	paranames-en-he
+Bjarne Øen	ביארנה און	1	paranames-en-he
+Joel Thomas	ג'ואל תומאס	1	paranames-en-he
+Eliot	אליוט	1	paranames-en-he
+Zeruya Shalev	צרויה שלו	1	paranames-en-he
+Sultan Walad	סולטאן ולד	1	paranames-en-he
+Walther Wever	ולטר ויבר	1	paranames-en-he
+Ohad Cohen	אוהד כהן	1	paranames-en-he
+Ze'ev Drori	זאב דרורי	1	paranames-en-he
+Peter Egan	פיטר איגן	1	paranames-en-he
+Mary Ann Lee	מרי אן לי	1	paranames-en-he
+Colin McAdam	קולין מקאדם	1	paranames-en-he
+John A. Hart	ג'ון הארט	1	paranames-en-he
+Michael Stürzenberger	מייקל שטירצנברגר	1	paranames-en-he
+T. Berry Brazelton	ת. ברי ברייזלטון	1	paranames-en-he
+Ariel Tankus	אריאל טנקוס	1	paranames-en-he
+Joseph Trotsky	טרוצקי, יוסף	1	paranames-en-he
+Hanan Porat	חנן פורת	1	paranames-en-he
+Jacob Samuel Fuchs	יעקב שמואל פוקס	1	paranames-en-he
+Phil Gordon	פיל גורדון	1	paranames-en-he
+Jacob Rodrigues Pereira	יעקב פרייר	1	paranames-en-he
+Gal Avraham	גל אברהם	1	paranames-en-he
+Prince Dimitri Romanov	דמיטרי רומנוביץ', נסיך רוסיה	1	paranames-en-he
+Ekaterina Zakharieva	אקטרינה זכרייבה	1	paranames-en-he
+Isabel Marie Gose	איזבל מארי גוזה	1	paranames-en-he
+Elizabeth Marshall	אליזבת מרשל	1	paranames-en-he
+Robin Byrd	רובין בראד	1	paranames-en-he
+Meng'er Zhang	מנג'ר ג'אנג	1	paranames-en-he
+Buck Adams	באק אדמס	1	paranames-en-he
+Gil Samsonov	גיל סמסונוב	1	paranames-en-he
+Harald Edelstam	הרלד אדלשטאם	1	paranames-en-he
+Tomer Machloof	תומר מחלוף	1	paranames-en-he
+Edward Lovett Pearce	אדוארד לובט פירס	1	paranames-en-he
+R. Budd Dwyer	רוברט באד דווייר	1	paranames-en-he
+Mordechai Elefant	מרדכי אליפנט	1	paranames-en-he
+Franz Ludwig Fick	פרנץ לודוויג פיק	1	paranames-en-he
+Tom Malchow	טום מלצ'ו	1	paranames-en-he
+Kodo Sawaki	קודו סאוואקי	1	paranames-en-he
+Apostolos Christou	אפוסטולוס כריסטו	1	paranames-en-he
+Tom Biss	טום ביס	1	paranames-en-he
+Gaius Julius Solinus	סולינוס	1	paranames-en-he
+Tyrese Maxey	טייריס מקסי	1	paranames-en-he
+Moshe Dothan	משה דותן	1	paranames-en-he
+Edgar Prince	אדגר פרינס	1	paranames-en-he
+Tamar Tamir	תמר תמיר	1	paranames-en-he
+Reuven Tanamy	ראובן תנעמי	1	paranames-en-he
+Carolyn S. Gordon	קרולין גורדון	1	paranames-en-he
+Bertalan Edelstein	ברטלן אדלשטיין	1	paranames-en-he
+Matthew Margeson	מתיו מרגסון	1	paranames-en-he
+Robyn Hurder	רובין הורדר	1	paranames-en-he
+Jakob Claussen	יאקוב קלאוסן	1	paranames-en-he
+Daliyah Gal Elgal	דליה גל אלגל	1	paranames-en-he
+Julen Agirrezabala	יולן אגירסבאלה	1	paranames-en-he
+Johann Friedrich Schröter	יוהאן פרידריך שרטר	1	paranames-en-he
+Laura Berlin	לאורה ברלין	1	paranames-en-he
+Andrew Scott	אנדרו סקוט	1	paranames-en-he
+Guglielmo Nasi	גוליילמו נאסי	1	paranames-en-he
+Valentyn Moskvyn	ולנטין מוסקבין	1	paranames-en-he
+Eiríkur Hauksson	איריקור הוקסון	1	paranames-en-he
+Varshini Prakash	ורשיני פראקש	1	paranames-en-he
+Stepan Beletsky	סטפן בלצקי	1	paranames-en-he
+Yitsḥaḳ Ḥazan	יצחק חזן	1	paranames-en-he
+Kaye Hall	קיי הול	1	paranames-en-he
+David Moon	דייוויד מון	1	paranames-en-he
+Leila Vaziri	לילה ואזירי	1	paranames-en-he
+Jacob Breuer	יעקב בר-אור	1	paranames-en-he
+Blaine Maye	בליין מיי	1	paranames-en-he
+Bagrat I of Abkhazia	בגרט הראשון	1	paranames-en-he
+Tony To	טוני טו	1	paranames-en-he
+Michael Bryan	מייקל בריאן	1	paranames-en-he
+Ede Kallós	אדה קלוש	1	paranames-en-he
+Victor Kandinsky	ויקטור קנדינסקי	1	paranames-en-he
+Valdemar III of Denmark	ולדמר השלישי, מלך דנמרק	1	paranames-en-he
+Tom Begich	טום בגיץ'	1	paranames-en-he
+Itzhak Nahmias	יצחק נחמיאס	1	paranames-en-he
+Friedrich Pfotenhauer	פרידריך פפוטנהאוור	1	paranames-en-he
+Gaia Weiss	גאיה וייס	1	paranames-en-he
+Adolph Joffe	אדולף יופה	1	paranames-en-he
+Adolf Ellenbogen	אדולף אלנבוגן	1	paranames-en-he
+André Dziezuk	אנדרה דז'ייזק	1	paranames-en-he
+John Murphy	ג'ון מרפי	1	paranames-en-he
+Dov Lando	דוב לנדו	1	paranames-en-he
+Leonid Berdichevsky	לאוניד אפנסייביץ' ברדיצ'בסקי	1	paranames-en-he
+Mercedes Mason	מרסדס מייסון	1	paranames-en-he
+Deborah L. Birx	דברה בירקס	1	paranames-en-he
+Frédy Girardet	פרדי ז'ירארדה	1	paranames-en-he
+Jürgen Goslar	יורגן גוסלר	1	paranames-en-he
+Jeanne Merkus	ז'אן מרקוס	1	paranames-en-he
+Bion of Borysthenes	ביון מבוריסתנס	1	paranames-en-he
+Guadalupe Rivera Marín	גואדלופה ריברה מרין	1	paranames-en-he
+Jacob Steinberg	יעקב שטיינברג	1	paranames-en-he
+Dennis Gassner	דניס גסנר	1	paranames-en-he
+Sándor Gerő	שאנדור גרה	1	paranames-en-he
+Isaac Mossel	איזק מוסל	1	paranames-en-he
+Heinz Schaller	היינץ שאלר	1	paranames-en-he
+Gladys Reichard	גלאדיס רייכארד	1	paranames-en-he
+Hal Kramer	האל קרמר	1	paranames-en-he
+Walter Rauff	ולטר ראוף	1	paranames-en-he
+Nimrod Krivitzky	נמרוד קרביצקי	1	paranames-en-he
+Sara Beck	"שרה ב""ק"	1	paranames-en-he
+William James Müller	ויליאם ג'יימס מולר	1	paranames-en-he
+Nathalie Bul'an'sung Sanata	נטלי בולאנסונג סנטה	1	paranames-en-he
+Orlando Woolridge	אורלנדו וולרידג'	1	paranames-en-he
+Edmund Walker	אדמונד ווקר	1	paranames-en-he
+Aleksandr Rzheshevsky	אלכסנדר רז'שבסקי	1	paranames-en-he
+Shinobu Toyoda	שינובו טויודה	1	paranames-en-he
+Samir Ujkani	סמיר אויקני	1	paranames-en-he
+John P. Wetherill	ג'ון פ. ות'ריל	1	paranames-en-he
+Boris Mokrousov	בוריס אנדריביץ' מוקרואוסוב	1	paranames-en-he
+Anno Birkin	אנו בירקין	1	paranames-en-he
+Mohammed Helmy	מוחמד חלמי	1	paranames-en-he
+Erich von Hornbostel	אריך פון הורנבוסטל	1	paranames-en-he
+Shlomo Schwartzberg	שלמה שוורצברג	1	paranames-en-he
+Eylon Nuphar	אילון נופר	1	paranames-en-he
+Jacques de Noyon	ז'אק דה נויון	1	paranames-en-he
+Jon Hopkins	ג'ון הופקינס	1	paranames-en-he
+Yossi Hacham	יוסי חכם	1	paranames-en-he
+Elisabeth Dermot Walsh	אליזבת דרמוט וולש	1	paranames-en-he
+Taylor Dearden	טיילור דירדן	1	paranames-en-he
+Menachem Mendl Braunstein	מנחם מנדל בראונשטיין	1	paranames-en-he
+Marion Darlington	מריון דרלינגטון	1	paranames-en-he
+Anatoly Karpov	אנטולי קרפוב	1	paranames-en-he
+Arthur Kennedy	ארתור קנדי	1	paranames-en-he
+Gill Dennis	ג'יל דניס	1	paranames-en-he
+Vladimir Fedoseev	ולדימיר פדוסייב	1	paranames-en-he
+Shmuel Elitzur	שמואל אליצור	1	paranames-en-he
+Schuyler Colfax	סקיילר קולפקס	1	paranames-en-he
+Hiroyuki Imaishi	הירויוקי אימאישי	1	paranames-en-he
+Lydia Cacho	לידיה קאצ'ו	1	paranames-en-he
+Adler, Yitsḥaḳ Eliyahu, ha-Kohen	אדלר, יצחק אליהו בן יהושע	1	paranames-en-he
+Jonathan Golan	יונתן גולן	1	paranames-en-he
+Caesar Seligmann	צזר זליגמן	1	paranames-en-he
+John Bagnold Burgess	ג'ון בגנולד בורגס	1	paranames-en-he
+Estelle Valeanu	אסטל ולאנו	1	paranames-en-he
+Jean Leclerc	ז'אן לקלרק	1	paranames-en-he
+Pyotr Wrangel	פיוטר וראנגל	1	paranames-en-he
+Earl St. John	ארל סנט ג'ון	1	paranames-en-he
+Kim Bum	קים בום	1	paranames-en-he
+Claude Cahun	קלוד קאהון	1	paranames-en-he
+Justine Siegemund	יוסטינה זיגמונד	1	paranames-en-he
+Kfir Damari	כפיר דמרי	1	paranames-en-he
+Himilco	חימילקו	1	paranames-en-he
+Ingvild Bryn	אינגוילד ברין	1	paranames-en-he
+Shimʻon Ḥefets	שמעון חפץ	1	paranames-en-he
+Nassim Yarhi	נסים ירחי	1	paranames-en-he
+Iann Dior	איאן דיור	1	paranames-en-he
+Agathe Uwilingiyimana	אגתה אווילינגיימאנה	1	paranames-en-he
+Guo Ningning	גואו נינג'ינג	1	paranames-en-he
+Kamil Bednář	קמיל בדנר	1	paranames-en-he
+Basil Emmott	בסיל אמונט	1	paranames-en-he
+Micha Shuldiner	מיכה שולדינר	1	paranames-en-he
+Umberto Bossi	אומברטו בוסי	1	paranames-en-he
+Yaʻaḳovzon, Ḥayim Yehudah	יעקבסון, חיים יהודה	1	paranames-en-he
+Daniel Hecht	דניאל הכט	1	paranames-en-he
+Lou Hudson	לו הדסון	1	paranames-en-he
+Con Coughlin	קון קופלין	1	paranames-en-he
+Abraham Brun	אברהם ברון	1	paranames-en-he
+Mary Fields	מרי פילדס	1	paranames-en-he
+Ilan Tehila	אילן תהילה	1	paranames-en-he
+Carsten Ramelow	קארסטן ראמלו	1	paranames-en-he
+Tatian	טטיאנוס	1	paranames-en-he
+Hema Malini	המה מליני	1	paranames-en-he
+Bill Quinn	ביל קווין	1	paranames-en-he
+Russell Patterson	ראסל פטרסון	1	paranames-en-he
+Albert Ingham	אלברט אינגהאם	1	paranames-en-he
+Violet Archer	ויולט ארצ'ר	1	paranames-en-he
+David Bashevkin	דוד אליקים בשבקין	1	paranames-en-he
+Antonio Mancini	אנטוניו מנצ'יני	1	paranames-en-he
+Marco Bode	מרקו בודה	1	paranames-en-he
+Oleksandr Haydash	אלכסנדר גאיידש	1	paranames-en-he
+Yorgan Agblemagnon	יורגן אגבלמגנון	1	paranames-en-he
+Shifra Lerer	שפרה לרר	1	paranames-en-he
+Barak Nachsholi	ברק נחשולי	1	paranames-en-he
+Fisher-Shusṭerovits', Śarah	פישר-שוסטרוביץ', שרה	1	paranames-en-he
+Kafri, Ḥaṿah	כפרי, חוה	1	paranames-en-he
+James Wilby	ג'יימס וילבי	1	paranames-en-he
+Siegfried Rosenbaum	שמעון רוזנבאום	1	paranames-en-he
+Anatoly Rogozhin	אנאטולי רוגוז'ין	1	paranames-en-he
+Valerie Mahfood	ואלרי מפוד	1	paranames-en-he
+Jorge Luis Corrales	ז'ורז'ה קוראלס	1	paranames-en-he
+Miriam Yeung	מרים יאנג	1	paranames-en-he
+Bernard Joy	ברנרד ג'וי	1	paranames-en-he
+Saxo Grammaticus	סקסו גרמטיקוס	1	paranames-en-he
+Itzhak Perlman	יצחק פרלמן	1	paranames-en-he
+Cyriel Dessers	סיריאל דסרס	1	paranames-en-he
+Ludvík Aškenazy	לודוויק אשכנזי	1	paranames-en-he
+David Fincher	דייוויד פינצ'ר	1	paranames-en-he
+Robbie Daymond	רובי דיימונד	1	paranames-en-he
+Mark Barrowcliffe	מארק בארוקליף	1	paranames-en-he
+Thomas Lang	תומאס לאנג	1	paranames-en-he
+Howard Garns	הווארד גארנס	1	paranames-en-he
+Manuel Akanji	מנואל אקאנג'י	1	paranames-en-he
+Bo'az Klartag	בועז קלרטג	1	paranames-en-he
+Gustav Wetterström	גוסטב וטרסטרום	1	paranames-en-he
+Liang Hua	ליאנג הואה	1	paranames-en-he
+Eitan Israeli	ישראלי, איתן, 1935-	1	paranames-en-he
+David Avramson	דוד אברהמסון	1	paranames-en-he
+Lisa Nandy	ליסה ננדי	1	paranames-en-he
+Julie Anthony	ג'ולי אנתוני	1	paranames-en-he
+Uri Shapira	אורי שפירא	1	paranames-en-he
+Melissa Rycroft	מליסה ריקרופט	1	paranames-en-he
+Adlène Guedioura	עדלאן קדיורה	1	paranames-en-he
+Dov Berish Weidenfeld	דב בריש וידנפלד	1	paranames-en-he
+Roxxxy Andrews	רוקסי אנדרוס	1	paranames-en-he
+Ariela Lowenstein	אריאלה לבנשטיין	1	paranames-en-he
+Pedro Zaballa	פדרו סבאיה	1	paranames-en-he
+Mezezius	מיזיזיוס	1	paranames-en-he
+David Anders	דייוויד אנדרס	1	paranames-en-he
+Sylvia Jefferies	סילביה ג'פריס	1	paranames-en-he
+H. B. Halicki	אייץ. בי. הליקי	1	paranames-en-he
+Bob Lido	בוב דילו	1	paranames-en-he
+Ignatz Rosenak	איגנאץ רוזנק	1	paranames-en-he
+Karl Harrer	קרל הרר	1	paranames-en-he
+Nicolas Furtado	ניקולאס פורטדו	1	paranames-en-he
+Kimberly Kagan	קימברלי קגן	1	paranames-en-he
+Sunny Boy	סאני בוי	1	paranames-en-he
+Isabella of Aragon	איזבלה מאראגון	1	paranames-en-he
+Francesco Albani	פרנצ'סקו אלבני	1	paranames-en-he
+Labraid Loingsech	לברייג' לוינגשך	1	paranames-en-he
+Thomas Warren Sarnoff	תומאס וורן סארנוף	1	paranames-en-he
+Ross McCall	רוס מקול	1	paranames-en-he
+Melina Perez	מלינה פרז	1	paranames-en-he
+Omer Shapira	עומר שפירא	1	paranames-en-he
+Liz Hannah	ליז האנה	1	paranames-en-he
+Jay Koller	שיש קולר	1	paranames-en-he
+Ardal O'Hanlon	ארדל או'הנלן	1	paranames-en-he
+Adam Smith	אדם סמית'	1	paranames-en-he
+Abdelilah Benkirane	עבד אל-אילה בן כיראן	1	paranames-en-he
+Bill Joy	ביל ג'וי	1	paranames-en-he
+Elfi Eschke	אלפי אשקה	1	paranames-en-he
+Martin Unrein	מרטין אונריין	1	paranames-en-he
+Ofer Levi	עפר לוי	1	paranames-en-he
+Catterino Cavos	קטרינו קאווס	1	paranames-en-he
+Fini Leitersdorf	פיני לייטרסדורף	1	paranames-en-he
+Stephen Stills	סטפן סטילס	1	paranames-en-he
+Erich Mendelsohn	אריך מנדלסון	1	paranames-en-he
+Albert Austin	אלברט אוסטין	1	paranames-en-he
+Karl Maria Demelhuber	קרל מריה דימלובר	1	paranames-en-he
+David Pulkrábek	דוד פולקרבק	1	paranames-en-he
+Joseph P. Bradley	ג'וזף בראדלי	1	paranames-en-he
+Hu Shuli	הו שולי	1	paranames-en-he
+Esther Shalev-Gerz	אסתר שלו-גרץ	1	paranames-en-he
+Fernando Alejandre Martínez	פרננדו אלחנדרה מרטינז	1	paranames-en-he
+David L. Bazelon	דוד ל. באזלון	1	paranames-en-he
+Amos Lavi	עמוס לביא	1	paranames-en-he
+Shoshana Zimmerman	שושנה צימרמן	1	paranames-en-he
+Marcel Breslașu	מרצ'ל ברסלשו	1	paranames-en-he
+Joseph Schooling	ג'וזף סקולינג	1	paranames-en-he
+Stephen Frears	סטיבן פרירס	1	paranames-en-he
+Maurice of Nassau	מאוריץ, נסיך אורנז'	1	paranames-en-he
+Levie Van Ouwerkerk	לביאה ואן אוורקרק	1	paranames-en-he
+Enzo Francescoli	אנסו פרנצ'סקולי	1	paranames-en-he
+Eadweard Muybridge	אדוארד מוייברידג'	1	paranames-en-he
+Dan Spring	דן ספרינג	1	paranames-en-he
+Alejandro Balde	אלחנדרו באלדה	1	paranames-en-he
+Cedric Maxwell	סדריק מקסוול	1	paranames-en-he
+Mikoláš Aleš	מיקולש אלש	1	paranames-en-he
+Barak Heymann	ברק הימן	1	paranames-en-he
+Guttorm of Norway	גוטורם, מלך נורווגיה	1	paranames-en-he
+Marie-Josée Croze	מארי ז'וזה קרוז	1	paranames-en-he
+Nawaf Salam	נוואף סלאם	1	paranames-en-he
+Rob Hyman	רוב הימן	1	paranames-en-he
+Kathleen Rubins	קתלין רובינס	1	paranames-en-he
+Jane Anderson	ג'יין אנדרסון	1	paranames-en-he
+Mickey Mantle	מיקי מנטל	1	paranames-en-he
+Jacob ben Gershom ha-Gozer	יעקב בן גרשום הגוזר	1	paranames-en-he
+Óscar López Hernández	אוסקר לופס הרננדס	1	paranames-en-he
+Gertrude Himmelfarb	גרטרוד הימלפארב	1	paranames-en-he
+Nest ferch Cadell	נסט פארך קאדל	1	paranames-en-he
+Gary Williams	גארי ויליאמס	1	paranames-en-he
+Peter Ludvig Panum	פטר פאנום	1	paranames-en-he
+Zisi Veizman	זיסי ויצמן	1	paranames-en-he
+Eon of Axum	און, מלך אקסום	1	paranames-en-he
+Jiří Rusnok	ייז'י רוסנוק	1	paranames-en-he
+Johnny Friedlaender	ג'וני פרידלנדר	1	paranames-en-he
+Ri Chun-hee	רי צ'אן-הי	1	paranames-en-he
+Gesaffelstein	גזאפלשטיין	1	paranames-en-he
+Moritz Rahmer	מוריץ רהמר	1	paranames-en-he
+Campbell Scott	קמפבל סקוט	1	paranames-en-he
+Stane Potočar	סטיין פוטוצ'אר	1	paranames-en-he
+Frederick George Holweck	פרדריק ג'ורג הולווק	1	paranames-en-he
+Claire Verity	קלייר וריטי	1	paranames-en-he
+Archduchess Michaela of Austria	מיכאלה פון הבסבורג	1	paranames-en-he
+Gerberga of Saxony	גרברג מסקסוניה	1	paranames-en-he
+Florrie R. Burke	פלורי ר. ברק	1	paranames-en-he
+Jehoshua Kugler	יהושע קוגלר	1	paranames-en-he
+David Walton	דייוויד וולטון	1	paranames-en-he
+Ofira Asayag	אופירה אסייג	1	paranames-en-he
+Pablo Torre	פבלו טורה	1	paranames-en-he
+Luisella Ottolenghi Mortara	לואיזה מורטרה אוטולנגי	1	paranames-en-he
+Avraham Aldema	אברהם אלדמע	1	paranames-en-he
+Michael Maltese	מייקל מלטיז	1	paranames-en-he
+Asaf Ta-Shma	אסף תא-שמע	1	paranames-en-he
+Gérard Buhr	ז'ראר בור	1	paranames-en-he
+Lautaro Acosta	לאוטרו אקוסטה	1	paranames-en-he
+Aleksandr Novikov	אלכסנדר נוביקוב	1	paranames-en-he
+John Redmond	ג'ון רדמונד	1	paranames-en-he
+William Lee D. Ewing	ויליאם לי יואינג	1	paranames-en-he
+Alexander Lazarev	אלכסנדר לאזארב	1	paranames-en-he
+Alan Alda	אלן אלדה	1	paranames-en-he
+Arthur Gardner	ארתור גרדנר	1	paranames-en-he
+Don DiNicola	דון דניקולה	1	paranames-en-he
+Janny Brandes-Brilleslijper	יני ברנדס-ברילסלייפר	1	paranames-en-he
+Shalom Shlomo	שלום שלמה	1	paranames-en-he
+Carlo Levi	קרלו לוי	1	paranames-en-he
+Max Gillies	מקס גיליס	1	paranames-en-he
+David ben Abraham al-Fasi	דוד בן אברהם אלפאסי	1	paranames-en-he
+Tom Priestley	טום פריסטלי	1	paranames-en-he
+Charlie Ferraez	צ'ארלי פרז	1	paranames-en-he
+Jack Greene	ג'ק גרין	1	paranames-en-he
+Smadar Katz	סמדר כץ	1	paranames-en-he
+Orit Fuchs	אורית פוקס	1	paranames-en-he
+Brenda Marshall	ברנדה מרשל	1	paranames-en-he
+Anna Diop	אנה דיופ	1	paranames-en-he
+Shmuel Huppert	שמואל הופרט	1	paranames-en-he
+Shlomoh Umberto Nahon	שלמה אומברטו נכון	1	paranames-en-he
+Dovber Schneuri	דובער שניאורי	1	paranames-en-he
+Taya Valkyrie	טאיה ואלקירי	1	paranames-en-he
+Amit Fisher	עמית פישר	1	paranames-en-he
+Gryllus	גרילוס	1	paranames-en-he
+Ma Ying-jeou	מא יינג-ג'יו	1	paranames-en-he
+Saad Al Sheeb	סעד א-שיב	1	paranames-en-he
+Muhammad Naji al-Otari	מוחמד נאג'י אל-עוטרי	1	paranames-en-he
+Naky Sy Savané	נאקי קי סוואנה	1	paranames-en-he
+Alexei Shaposhnikov	אלכסיי שפושניקוב	1	paranames-en-he
+Liam Gallagher	ליאם גלאגר	1	paranames-en-he
+Marilyn Eastman	מרילין איסטמן	1	paranames-en-he
+Adriana Krnáčová	אדריאנה קרנאצ׳ובה	1	paranames-en-he
+Karsten Kroon	קרסטן קרון	1	paranames-en-he
+Friedrich Christoph Dahlmann	פרידריך כריסטוף דאלהמן	1	paranames-en-he
+Raquel Diaz	שאול גאררו	1	paranames-en-he
+Kurt Singer	קורט זינגר	1	paranames-en-he
+Lajos Ernst	לאיוש ארנסט	1	paranames-en-he
+David Hare	דייוויד הר	1	paranames-en-he
+Breon O'Casey	בריאן או'קייסי	1	paranames-en-he
+Isaac Mirkin	יצחק מירקין	1	paranames-en-he
+Antonio Tajani	אנטוניו טייאני	1	paranames-en-he
+Margaret of Baden	מרגרטה מבאדן	1	paranames-en-he
+Raja Krishnamoorthi	ראג'ה קרישנאמורת'י	1	paranames-en-he
+John House	ג'ון האוס	1	paranames-en-he
+Carson Daly	קרסון דיילי	1	paranames-en-he
+Jean-Louis Laneuville	ז'אן-לואי לנוויל	1	paranames-en-he
+Joseph Bové	אוסיפ בובה	1	paranames-en-he
+Jesse Powell	ג'סי פאוול	1	paranames-en-he
+Ángeles Bravo	אנג'לס בראבו	1	paranames-en-he
+Yuri Lowenthal	יורי לוונטאל	1	paranames-en-he
+Piotr Kuczera	פיוטר קוצ'רה	1	paranames-en-he
+Harry Bolus	הארי בולוס	1	paranames-en-he
+Darwin Atapuma	דרווין אטאפומה	1	paranames-en-he
+Bernard Bailyn	ברנרד ביילין	1	paranames-en-he
+Anton Mitryushkin	אנטון מיטריושקין	1	paranames-en-he
+Androsthenes of Thasos	אנדרוסתנס מתאסוס	1	paranames-en-he
+Patrick Pearse	פטריק פירס	1	paranames-en-he
+David N. Livingstone	דייוויד ליווינגסטון	1	paranames-en-he
+Juan Antonio Abad Pérez	חואן אנטוניו עבאד פרז	1	paranames-en-he
+Nathan Kress	נייתן קרס	1	paranames-en-he
+Munaiyirah Umm Talal	מונייר אום טלאל	1	paranames-en-he
+William Bennett	ויליאם בנט	1	paranames-en-he
+Keren Berger	קרן ברגר	1	paranames-en-he
+Tareck El Aissami	טארק אל-עיסאמי	1	paranames-en-he
+Joseph Gallieni	ז'וזף גליאני	1	paranames-en-he
+Julius Posener	יוליוס פוזנר	1	paranames-en-he
+John Goodman	ג'ון גודמן	1	paranames-en-he
+La Goulue	לה גולו	1	paranames-en-he
+Nirupama Devi	נירופאמה דבי	1	paranames-en-he
+Larry O'Brien	לארי או'בריאן	1	paranames-en-he
+Paul Erwin von Hase	פאול ארווין פון האזה	1	paranames-en-he
+Yossi Yablonka	יוסי יבלונקה	1	paranames-en-he
+Steve Largent	סטיב לרג'נט	1	paranames-en-he
+Hedwig Sophie of Brandenburg	הדוויג סופיה מברנדנבורג	1	paranames-en-he
+Frieder Nake	פרידר נאק	1	paranames-en-he
+Tinchy Stryder	טינצ'י סטריידר	1	paranames-en-he
+Sun Piaoyang	סון פיאויאנג	1	paranames-en-he
+Leon Kopelman	ליאון קופלמן	1	paranames-en-he
+Śari Ṿalakh	שרי וולך	1	paranames-en-he
+Smedley Butler	סמדלי באטלר	1	paranames-en-he
+Nicanor Parra	ניקאנור פארה	1	paranames-en-he
+Angunnguaq Larsen	אנגונגואק לארסן	1	paranames-en-he
+François Dupeyron	פרנסואה דופירון	1	paranames-en-he
+Eitan Gorlin	איתן גורלין	1	paranames-en-he
+Zufer Avdija	זופר אבדיה	1	paranames-en-he
+Benni McCarthy	בני מקארתי	1	paranames-en-he
+Antonio Aakeel	אנטוניו אאקיל	1	paranames-en-he
+José Lutzenberger	חוסה לוטזנברגר	1	paranames-en-he
+Yoshi	יושי	1	paranames-en-he
+Sophie Amalie of Brunswick-Lüneburg	סופיה אמליה מבראונשווייג-לינבורג	1	paranames-en-he
+Matthias Weidenhöfer	מאתיס וויידנהופר	1	paranames-en-he
+Stuart Sutcliffe	סטיוארט סאטקליף	1	paranames-en-he
+Koo Kien Keat	קו קיין קיט	1	paranames-en-he
+Beram Kayal	בירם כיאל	1	paranames-en-he
+Tōru Iwatani	טורו איוואטאני	1	paranames-en-he
+Xavier Woods	אקסייבר וודס	1	paranames-en-he
+L. Rudi	רודי, ל.	1	paranames-en-he
+Constantin Hârjeu	קונסטנטין חרז'או	1	paranames-en-he
+Warwick Gilbert	ווריק גילברט	1	paranames-en-he
+Jacob Marmorosch	יעקב מרמורוש	1	paranames-en-he
+Shulamit Ṿaller	שולמית ולר	1	paranames-en-he
+Thomas Will	תומאס וויל	1	paranames-en-he
+Paul Koulak	פול קולאק	1	paranames-en-he
+Péter Bokor	פטר בוקור	1	paranames-en-he
+Jackson Nickerson	ג'קסון ניקרסון	1	paranames-en-he
+Natalie Clifford Barney	נטאלי קליפורד בארני	1	paranames-en-he
+Elly Heuss-Knapp	אלי הויס-קנאפ	1	paranames-en-he
+Godigisel	גודיגיסל	1	paranames-en-he
+Nikolay Kopeykin	ניקולאי קופאיקין	1	paranames-en-he
+George Saunders	ג'ורג' סנדרס	1	paranames-en-he
+Vladislav Galkin	ולדיסלב גלקין	1	paranames-en-he
+George Armitage Miller	ג'ורג' ארמיטג' מילר	1	paranames-en-he
+Peter Anderson	פטר אנדרסון	1	paranames-en-he
+Shimon bar Yochai	שמעון בר יוחאי	1	paranames-en-he
+Elizabeth Felton	אליזבת פלטון	1	paranames-en-he
+Frank Gerald Blaker	פרנק בלקר	1	paranames-en-he
+Chōzaburō Tanaka	צ'וזבורו טנקה	1	paranames-en-he
+June Goodfield	ג'ון גודפילד	1	paranames-en-he
+Photinus of Sirmium	פוטינוס	1	paranames-en-he
+George Biddle	ג'ורג' בידל	1	paranames-en-he
+Allan Sandage	אלן סנדאג'	1	paranames-en-he
+Yisroel Friedman	ישראל פרידמן	1	paranames-en-he
+Dalia Lamdani	דליה למדני	1	paranames-en-he
+Hitomi Obara	היטומי אוברה	1	paranames-en-he
+Sebastián Raval	סבסטיאן ראוואל	1	paranames-en-he
+Chester Schaeffer	צ'סטר שאפר	1	paranames-en-he
+Romà Forns	רומה פורנס	1	paranames-en-he
+Isaac Rokach	יצחק רוקח	1	paranames-en-he
+Casper Nielsen	קספר נילסן	1	paranames-en-he
+Etienne Rey	אטיין ריי	1	paranames-en-he
+Malte Metzelder	מאלטה מצלדר	1	paranames-en-he
+Nicholas D. Johnson	ניק ג'ונסון	1	paranames-en-he
+Vivica A. Fox	ויוויקה א. פוקס	1	paranames-en-he
+Moshe Danishevsky	משה דנישבסקי	1	paranames-en-he
+Cris Judd	כריס ג'אד	1	paranames-en-he
+Nosekeni Fanny	נוסקני פאני	1	paranames-en-he
+Lee Demarbre	לי דמרבר	1	paranames-en-he
+Almış	אלמיש	1	paranames-en-he
+Mehdi Torabi	מהדי תוראבי	1	paranames-en-he
+Georg August Schweinfurth	גאורג שווינפורט	1	paranames-en-he
+Alun Armstrong	אלן ארמסטרונג	1	paranames-en-he
+Sergio Minerbi	סרג'יו יצחק מינרבי	1	paranames-en-he
+Alessandra Meyer-Wölden	אלסנדרה מייר-וולדן	1	paranames-en-he
+Luise Freiin von Dörnberg	לואיז פון דורנברג	1	paranames-en-he
+Ali Kamal Al-Issawi	עלי כמאל אלעיסאווי	1	paranames-en-he
+Claudette Colbert	קלודט קולבר	1	paranames-en-he
+Yosef Bar-Yosef	יוסף בר-יוסף	1	paranames-en-he
+Kitty Foxx	קאתי פוקס	1	paranames-en-he
+Frank Yablans	פרמק יבלנס	1	paranames-en-he
+Stanisław August Poniatowski	סטניסלאב פוניאטובסקי	1	paranames-en-he
+Omar Colley	עומאר קולי	1	paranames-en-he
+Colin Mochrie	קולין מוקרי	1	paranames-en-he
+Thomas Mitchell	תומאס מיצ'ל	1	paranames-en-he
+Jane Heckington	ג'יין האקינטון	1	paranames-en-he
+Lygdamis I of Halicarnassus	ליגדמיס הראשון	1	paranames-en-he
+Yeshayahu A. Jelinek	ישעיהו ילינק	1	paranames-en-he
+Steve Shelley	סטיב שלי	1	paranames-en-he
+Mary Rosenblum	מרי רוזנבלום	1	paranames-en-he
+Harley Knoles	הארי נולס	1	paranames-en-he
+Stephen Hales	סטפן היילס	1	paranames-en-he
+Maud Gage Baum	מוד גייג' באום	1	paranames-en-he
+Vladimir Kolpakchi	ולדימיר יעקבלביץ' קולפאקצ'י	1	paranames-en-he
+Vasily Shumov	וסילי שומוב	1	paranames-en-he
+Ryan Porteous	ראיין פורטאוס	1	paranames-en-he
+Devon Odessa	דבון אודסה	1	paranames-en-he
+Bruce Greyson	ברוס גרייסון	1	paranames-en-he
+Glenn Jones	גלן ג'ונס	1	paranames-en-he
+Franz von Bayros	פרנץ פון ביירוס	1	paranames-en-he
+Annabel Karmel	אנאבל כרמל	1	paranames-en-he
+Cy Endfield	סי אנדפילד	1	paranames-en-he
+Baruch of Ḳosov	ברוך מקוסוב	1	paranames-en-he
+Salvatore Totino	סלווטורה טוטינו	1	paranames-en-he
+Ian Weighill	איאן וייהיל	1	paranames-en-he
+Glenn Anders	גלן אנדרס	1	paranames-en-he
+Jean-Pierre Barda	ז'אן פייר ברדה	1	paranames-en-he
+Ann Coulter	אן קולטר	1	paranames-en-he
+Arnau Bargués	ארנו ברגואס	1	paranames-en-he
+Yaakov Nevo	יעקב נבו	1	paranames-en-he
+Kartir	קרתיר	1	paranames-en-he
+Kurt Julius	קורט יוליוס	1	paranames-en-he
+Alice Ambrose	אליס אמברוז	1	paranames-en-he
+Veniamin Basner	וניאמין בסנר	1	paranames-en-he
+Vicky Kaya	ויקי קאיה	1	paranames-en-he
+Carter Harrison	קרטר הריסון	1	paranames-en-he
+Elena Khanum	אלנה ח'אמום	1	paranames-en-he
+Jim Carroll	ג'ים קרול	1	paranames-en-he
+Nicholas Rowe	ניקולאס רואו	1	paranames-en-he
+Nikolaos Kaklamanakis	ניקוס קקלמנאקיס	1	paranames-en-he
+Lynn Morley Martin	לין מורלי מרטין	1	paranames-en-he
+Sudhindralal Roy	סודהינדראלאל רוי	1	paranames-en-he
+Bill Lancaster	ביל לנקסטר	1	paranames-en-he
+Meira Barnea-Goldberg	מאירה ברנע-גולדברג	1	paranames-en-he
+Joel Elkes	ג'ואל אלקס	1	paranames-en-he
+Ken Robinson	קן רובינסון	1	paranames-en-he
+Paul D. Boyer	פול בויר	1	paranames-en-he
+Dragana of Serbia	דראגאנה מסרביה	1	paranames-en-he
+Ada Nield Chew	עדה ניילד צ'ו	1	paranames-en-he
+Virgilio Redondo	וירג'יליו רדונדו	1	paranames-en-he
+Louis Cohen	לואי כהן	1	paranames-en-he
+Avraham Orly	אברהם אורלי	1	paranames-en-he
+Hiyya b. Joseph	רבי חייא בר יוסף	1	paranames-en-he
+Daniel J. Drucker	דניאל יהושע דרוקר	1	paranames-en-he
+Abba Mari ben Eligdor	אבא מרי בן אליגדור	1	paranames-en-he
+Isaac Gutstein	גוטשטין, יצחק	1	paranames-en-he
+Ichirō Hatoyama	איצ'ירו הטויאמה	1	paranames-en-he
+Shelley Mann	שלי מאן	1	paranames-en-he
+Rudolf Sonneborn	רודולף גולדשמידט סונבורן	1	paranames-en-he
+Brant Daugherty	ברנט דוהרטי	1	paranames-en-he
+Jahn Teigen	יאן טייגן	1	paranames-en-he
+Haruka Tachimoto	הרוקה טאצ'ימוטו	1	paranames-en-he
+Louis L'Amour	לואיס ל'אמור	1	paranames-en-he
+Esriel Erich Hildesheimer	עזריאל הילדסהיימר	1	paranames-en-he
+Shalom Rokban	שלום רוקבן	1	paranames-en-he
+Gregg Berger	גרג ברגר	1	paranames-en-he
+Paulina Tajman	פאולינה מאורר	1	paranames-en-he
+Nikolay Rukavishnikov	ניקוליי רוקאבישניקוב	1	paranames-en-he
+Pascal Zuberbühler	פסקל צוברבולר	1	paranames-en-he
+Talya Topaz	טופז, טליה	1	paranames-en-he
+Ross Marquand	רוס מרקוואנד	1	paranames-en-he
+Gus Trikonis	גאס טריקוניס	1	paranames-en-he
+Yitzhak Herbst	יצחק הרבסט	1	paranames-en-he
+Hanan Laskin	חנן לסקין	1	paranames-en-he
+Narḳis, Shelomi	נרקיס, שלומי	1	paranames-en-he
+Alex Hirsch	אלכס הירש	1	paranames-en-he
+Robert Brandom	רוברט ברנדום	1	paranames-en-he
+Andy Yorke	אנדי יורק	1	paranames-en-he
+Guibert of Nogent	גיבר מנוז'ן	1	paranames-en-he
+Bruce Babbitt	ברוס בביט	1	paranames-en-he
+Natasha Gregson Wagner	נטשה גרגסון וגנר	1	paranames-en-he
+Bennett Miller	בנט מילר	1	paranames-en-he
+Sienna Guillory	סיינה גילורי	1	paranames-en-he
+Ödön Pártos	עדן פרטוש	1	paranames-en-he
+Philotas	פילוטאס	1	paranames-en-he
+Kimberley Nixon	קימברלי ניקסון	1	paranames-en-he
+William Keighley	ויליאם קילי	1	paranames-en-he
+Giovanni di Giovanni	ג'ובאני די ג'ובאני	1	paranames-en-he
+Igor Kunitsyn	איגור קוניצין	1	paranames-en-he
+Jesse L. Martin	ג'סי ל. מרטין	1	paranames-en-he
+Emily Coutts	אמילי קוטס	1	paranames-en-he
+Billy Porter	בילי פורטר	1	paranames-en-he
+Daniel Moder	דניאל מודר	1	paranames-en-he
+Danny Murphy	דני מרפי	1	paranames-en-he
+Patrick Sanders	פטריק סנדרס	1	paranames-en-he
+Levan Gabriadze	לוואן גבריאדזה	1	paranames-en-he
+Abdülmecid I	אבדילמג'יט הראשון	1	paranames-en-he
+Hemky Madera	המקי מדרה	1	paranames-en-he
+Berihu Aregawi	בריהו ארגאווי	1	paranames-en-he
+Marc Zwiebler	מארק צוויבלר	1	paranames-en-he
+Guntram	גונטארם	1	paranames-en-he
+Wissam al-Hassan	ויסאם אל-חסן	1	paranames-en-he
+Hilde Schramm	הילדה שראם	1	paranames-en-he
+Byron Scott	ביירון סקוט	1	paranames-en-he
+Dina El Sherbiny	דינה אל שרביני	1	paranames-en-he
+Carl Friedrich Goerdeler	קרל פרידריך גרדלר	1	paranames-en-he
+Patrick J. Hurley	פטריק הרלי	1	paranames-en-he
+Andrew Donald Booth	אנדרו דונלד בות'	1	paranames-en-he
+Kelly M. Armstrong	קלי ארמסטרונג	1	paranames-en-he
+June Walker	ג'ון ווקר	1	paranames-en-he
+Clayton Christensen	קלייטון כריסטנסן	1	paranames-en-he
+Hal Holbrook	האל הולברוק	1	paranames-en-he
+Blake Pieroni	בלייק פירוני	1	paranames-en-he
+Leo V the Armenian	לאון החמישי הארמני	1	paranames-en-he
+Talorgan II	טאלורגאן השני, מלך הפיקטים	1	paranames-en-he
+Sylvie Neeman Romascano	סילבי נמן	1	paranames-en-he
+Itamar Simonson	איתמר סימונסון	1	paranames-en-he
+Jean-François van Boxmeer	ז'אן פרנסואה ואן בוקשמיר	1	paranames-en-he
+John Charles Fields	ג'ון צ'ארלס פילדס	1	paranames-en-he
+Federico Fernández	פדריקו פרננדס	1	paranames-en-he
+Marguerite Higgins	מרגריט היגינס	1	paranames-en-he
+Zvi Bar-Sever	צבי בר-סבר	1	paranames-en-he
+Duilio Coletti	דואיליו קולטי	1	paranames-en-he
+Johannes Meisenheimer	יוהנס מייזנהיימר	1	paranames-en-he
+Louis Gonda	לואיס גונדה	1	paranames-en-he
+Ami Kondo	אמי קונדו	1	paranames-en-he
+Timofey Khryukin	טימופיי חריוקין	1	paranames-en-he
+Bailee Madison	ביילי מדיסון	1	paranames-en-he
+Nir Tamir	ניר תמיר	1	paranames-en-he
+John Barry	ג'ון בארי	1	paranames-en-he
+Anna Gorshkova	אנה גורשקובה	1	paranames-en-he
+Philippa de Mohun	פיליפה דה מוהון	1	paranames-en-he
+Jud Tylor	ג'וד טילור	1	paranames-en-he
+Omar Hayssam	עומר היית'ם	1	paranames-en-he
+Shlomi Hoffman	שלומי הופמן	1	paranames-en-he
+Rodrigo Bentancur	רודריגו בנטקור	1	paranames-en-he
+Uuno Kailas	אונו קיילאס	1	paranames-en-he
+Tim Vincent	טים וינסנט	1	paranames-en-he
+Juan Sebastián Verón	חואן סבסטיאן ורון	1	paranames-en-he
+Nikolaos Mavrokordatos	ניקולאוס מברוקורדאטוס	1	paranames-en-he
+Yair Kravitz	יאיר קרביץ	1	paranames-en-he
+Benjamin Musaphia	בנימין מוספיא	1	paranames-en-he
+Günter Meinardus	גונטר מיינרדוס	1	paranames-en-he
+Gina Prince-Bythewood	ג'ינה פרינס בית'ווד	1	paranames-en-he
+Kosta Aleksić	קוסטה אלכסיץ'	1	paranames-en-he
+Olivier François	אוליביה פרנסואה	1	paranames-en-he
+Eric Saade	אריק סעדה	1	paranames-en-he
+Eddie Jones	אדי ג'ונס	1	paranames-en-he
+Alfredo Bini	אלפרדו ביני	1	paranames-en-he
+Victor Guérin	ויקטור גרן	1	paranames-en-he
+Pasuk Phongpaichit	פסוק פונגפאיצ'יט	1	paranames-en-he
+Noemi Cassuto	קאסוטו, נעמי, 1938-	1	paranames-en-he
+Cade Cunningham	קייד קנינגהם	1	paranames-en-he
+Battus I of Cyrene	באטוס הראשון	1	paranames-en-he
+Schimon Schamir	שמעון שמיר	1	paranames-en-he
+Selig Suskin	זליג סוסקין	1	paranames-en-he
+Pete Riley	פיטר ריילי	1	paranames-en-he
+Marissa Ribisi	מריסה ריביסי	1	paranames-en-he
+Ordelafo Faliero	אורדלאפו פאליירו	1	paranames-en-he
+Roger Williams	רוג'ר ויליאמס	1	paranames-en-he
+Nati Hortig	נתי הורטיג	1	paranames-en-he
+Jimmy Jones	ג'ימי ג'ונס	1	paranames-en-he
+Rufus Jones	רופוס ג'ונס	1	paranames-en-he
+Wayland Holyfield	ויילנד הוליפילד	1	paranames-en-he
+Paul Heyse	פאול הייזה	1	paranames-en-he
+Steven Yeun	סטיבן יאון	1	paranames-en-he
+Dvori Rand	רנד, דבורי	1	paranames-en-he
+François Anthoine	פרנסואה אנטואן	1	paranames-en-he
+George William Curtis	ג'ורג' ויליאם קרטיס	1	paranames-en-he
+Christian Kern	כריסטיאן קרן	1	paranames-en-he
+Andrzej Trzaskowski	אנדז'יי טז'סקובסקי	1	paranames-en-he
+JoJo	ג'וסן אופרמן	1	paranames-en-he
+Steve Morison	סטיב מוריסון	1	paranames-en-he
+Jules Chatron	ז'ולס שטרון	1	paranames-en-he
+Oliver Smith	אוליבר סמית	1	paranames-en-he
+Eliezer Katz	כץ, אליעזר בן שמואל הלל	1	paranames-en-he
+Shoichi Yokoi	שואיצ'י יוקוי	1	paranames-en-he
+Jeremy Silman	ג'רמי סילמן	1	paranames-en-he
+Elitzur Bar-Asher Siegal	אליצור בר-אשר סיגל	1	paranames-en-he
+Darío Brizuela	דריו בריזואלה	1	paranames-en-he
+Yitzhak Vaknin	יצחק וקנין	1	paranames-en-he
+Theophano	תאופנו	1	paranames-en-he
+Chaim Ben Attar	חיים בן עטר	1	paranames-en-he
+Carl Honoré	קרל אונורה	1	paranames-en-he
+Fahrettin Koca	פארטין קוג'ה	1	paranames-en-he
+Lee Phillip Bell	לי פיליפ בל	1	paranames-en-he
+Orly Tagar	אורלי תגר	1	paranames-en-he
+Gianni Di Venanzo	ג'אני די וננזו	1	paranames-en-he
+Anne Parillaud	אן פריו	1	paranames-en-he
+Hajjar Gibran	הג'אר ג'בראן	1	paranames-en-he
+Thomas Tew	תומס טאו	1	paranames-en-he
+Motty Weiss	מוטי וייס	1	paranames-en-he
+Martin Sacks	מרטין זקס	1	paranames-en-he
+Josef Even	יוסף אבן	1	paranames-en-he
+Mihály Zichy	מיהאי זיצ'י	1	paranames-en-he
+Linda Carroll	לינדה קרול	1	paranames-en-he
+Amit Saar	עמית סער	1	paranames-en-he
+Nuša Derenda	נושה דרנדה	1	paranames-en-he
+Chris March	כריס מארץ'	1	paranames-en-he
+Max Bemis	מקס במיס	1	paranames-en-he
+ʻAlizah Zalon	עליזה זלון	1	paranames-en-he
+Daniel Newman	דניאל ניומן	1	paranames-en-he
+Josh Duncan	ג'וש דאנקן	1	paranames-en-he
+ʻAmor Abiṭbul	עמור אביטבול	1	paranames-en-he
+Mosheh Rabinovits	רבינוביץ, משה	1	paranames-en-he
+Tom Howard	טום הווארד	1	paranames-en-he
+Rachel Brosnahan	רייצ'ל ברוסנהאן	1	paranames-en-he
+Dutch Ruppersberger	דאץ' רופרסברגר	1	paranames-en-he
+Schmuel Schmelka Kornitzer	שמואל שמלקה קורניצר	1	paranames-en-he
+Nikita Tatarenkov	ניקיטה טטארנקוב	1	paranames-en-he
+Malachi Hizkia	מלאכי חזקיה	1	paranames-en-he
+Syukuro Manabe	שוקורו מנבה	1	paranames-en-he
+Giancarlo Cocchia	ג'יאנקרלו קוקייה	1	paranames-en-he
+Yiḥya Alshekh	יחיא אלשיך	1	paranames-en-he
+Moshe Yechiel Epstein	משה יחיאל הלוי אפשטיין	1	paranames-en-he
+Leela Dube	לילה דובה	1	paranames-en-he
+Maxwell Setton	מקסוול סטון	1	paranames-en-he
+Yaniv Roznai	יניב רוזנאי	1	paranames-en-he
+Leonard Herzenberg	ליאונרד הרזנברג	1	paranames-en-he
+Ezechiel N'Douassel	אזקיאל נדואסל	1	paranames-en-he
+Maria Eichhorn	מריה אייכהורן	1	paranames-en-he
+Gustaf Åkerhielm	גוסטב אוקרילם	1	paranames-en-he
+Tones and I	טונס אנד איי	1	paranames-en-he
+Eran Sagi	ערן שגיא סשיצקי	1	paranames-en-he
+Martin Pasko	מרטין פסקו	1	paranames-en-he
+Frank Edward Brown	פרנק אדוארד בראון	1	paranames-en-he
+Yuli Dunsky	יולי דונסקי	1	paranames-en-he
+Kirstjen Nielsen	קירסטג'ן נילסן	1	paranames-en-he
+Michael Friedrich Quade	מיכאל פרידריך קוואדה	1	paranames-en-he
+Masad Barhoum	מסעד ברהום	1	paranames-en-he
+Lee Guber	לי גובר	1	paranames-en-he
+Florent Sinama Pongolle	פלורן סינמה פונגול	1	paranames-en-he
+Peter W. Galbraith	פיטר ו. גלבריית	1	paranames-en-he
+A. J. Langer	איי ג'יי לנגר	1	paranames-en-he
+Keith Krehbiel	קית' קרביל	1	paranames-en-he
+Israel Gerson	ישראל גרשון	1	paranames-en-he
+Marcia Hines	מרסיה הינס	1	paranames-en-he
+Lisa Chappell	ליסה צ'אפל	1	paranames-en-he
+Jacob Immanuel Schochet	יעקב עמנואל שוחט	1	paranames-en-he
+Isaac Samuel Reggio	יצחק שמואל רג'יו	1	paranames-en-he
+Israel Kulas	ישראל קולס	1	paranames-en-he
+André Elbaz	אנדרה אלבז	1	paranames-en-he
+Florence Bloch	פלורנס בלוך	1	paranames-en-he
+Bahya ben Asher	בחיי בן אשר	1	paranames-en-he
+Pauline Therese of Württemberg	פאולינה תרזה, דוכסית וירטמברג	1	paranames-en-he
+R.J. Zwi Werblowsky	רפאל יהודה צבי ורבלובסקי	1	paranames-en-he
+Ayman Azhil	איימן אז'יל	1	paranames-en-he
+Mikaël Cantave	מייקל קאנטווה	1	paranames-en-he
+Shelomo Ben Buya`a	שלמה בן בויאעא	1	paranames-en-he
+Noam Gidron	נעם גדרון	1	paranames-en-he
+Joshua Zak	יהושע זק	1	paranames-en-he
+Jean-Antoine de Cambacérès	ז'אן-אנטואן דה קמבאסרס	1	paranames-en-he
+Wolf Kaplan	זאב קפלן	1	paranames-en-he
+Marlon Brando	מרלון ברנדו	1	paranames-en-he
+Reviel Netz	רויאל נץ	1	paranames-en-he
+Masaru Sato	מאסרו סאטו	1	paranames-en-he
+Igal Milchtaich	יגאל מילכטייך	1	paranames-en-he
+Attius Tullius	אטיוס טוליוס	1	paranames-en-he
+Ofek Nahman	אופק נחמן	1	paranames-en-he
+Shlomo Shapira	שלמה שפירא	1	paranames-en-he
+Yogindranath Basu	יוגינדראנת באסו	1	paranames-en-he
+Baic Klara	קלרה בייץ'	1	paranames-en-he
+Gafna Amir	גפי אמיר	1	paranames-en-he
+Mikhail Avilov	מיכאיל אבילוב	1	paranames-en-he
+Fritz Riemann	פריץ רימן	1	paranames-en-he
+Brad Beyer	בראד בייר	1	paranames-en-he
+Ben Whitehead	בן וייטהד	1	paranames-en-he
+Leon Reich	ליאון רייך	1	paranames-en-he
+Sixto Rodriguez	סיקסטו רודריגז	1	paranames-en-he
+Michael Schmidt	מייקל שמידט	1	paranames-en-he
+Javier Urruticoechea	חבייר אורוטי	1	paranames-en-he
+Nathalie Caldonazzo	נטלי קלדונאצו	1	paranames-en-he
+Christenze Kruckow	כריסטנזה קרוקוב	1	paranames-en-he
+Lili Fehér	לילי פהר	1	paranames-en-he
+Herman Gorter	הרמן גורטר	1	paranames-en-he
+Shirine Boukli	שירין בוקלי	1	paranames-en-he
+Joseph C. Brun	ג'וזף ברון	1	paranames-en-he
+Freddy Kahana	פרדי כהנא	1	paranames-en-he
+Cathy McGowan	קאתי מקגוואן	1	paranames-en-he
+Vasily Vereshchagin	וסילי ורשצ'אגין	1	paranames-en-he
+Zecharia Dershowitz	זכריה דרשוביץ	1	paranames-en-he
+Isidre Flotats i Vilanova	איזידרה פלוטטס	1	paranames-en-he
+Conchata Ferrell	קונצ'טה פרל	1	paranames-en-he
+Doris Fitschen	דוריס פיטשן	1	paranames-en-he
+Marie-Alphonse Ratisbonne	אלפונס רטיסבון	1	paranames-en-he
+Michael Mann	מייקל מאן	1	paranames-en-he
+Mitch James	מיץ' ג'יימס	1	paranames-en-he
+Anfernee Dijksteel	אנפרני דייקסטיל	1	paranames-en-he
+Ayn Robbins	איין רובינס	1	paranames-en-he
+Mariya Abakumova	מריה אבקומובה	1	paranames-en-he
+Asaf Sarig	אסף שריג	1	paranames-en-he
+Gordon Anderson	גורדון אנדרסון	1	paranames-en-he
+Ron-Robert Zieler	רון-רוברט צילר	1	paranames-en-he
+Sadamichi Kajioka	סדמיצ'י קג'יאוקה	1	paranames-en-he
+Jacob Kotzky	יעקב קוצקי	1	paranames-en-he
+A. O. Scott	איי. או. סקוט	1	paranames-en-he
+Johann Gottlieb Naumann	יוהאן גוטליב נאומן	1	paranames-en-he
+Frank Liddell	פרנק לידל	1	paranames-en-he
+Gotthard Höveln	גוטהארד פון הוולן	1	paranames-en-he
+Ruth Popkin	רות פופקין	1	paranames-en-he
+Ivan Fyodorovich Michurin	איוואן מיצ'ורין	1	paranames-en-he
+Inanna Sarkis	איננה סרקיס	1	paranames-en-he
+Noah Tamir	נח טמיר	1	paranames-en-he
+Kanji Ishiwara	אישיווארה קנג'י	1	paranames-en-he
+Lowell S. Hawley	לוול הוולי	1	paranames-en-he
+Lionel Rogosin	ליונל רוגוזין	1	paranames-en-he
+Franz Welser-Möst	פרנץ ולזר-מסט	1	paranames-en-he
+Moshe Kassirer	משה קסירר	1	paranames-en-he
+Patricia Clarkson	פטרישה קלארקסון	1	paranames-en-he
+Ofri Lankri	עופרי לנקרי	1	paranames-en-he
+Hanna Knyazyeva-Minenko	חנה קנייזבה-מיננקו	1	paranames-en-he
+Franz Kline	פרנץ קליין	1	paranames-en-he
+David Levithan	דיוויד לויתן	1	paranames-en-he
+Ousmane Dabo	עוסמאן דאבו	1	paranames-en-he
+Isaac Leib Goldberg	יצחק ליב גולדברג	1	paranames-en-he
+Dan Butler	דון באטלר	1	paranames-en-he
+Phyllis Neilson–Terry	פיליס נילסון-טרי	1	paranames-en-he
+Greg Garcia	גרג גרסיה	1	paranames-en-he
+Julius Lippert	יוליוס ליפרט	1	paranames-en-he
+Shimon Yiftah	שמעון יפתח	1	paranames-en-he
+Michael Haneke	מיכאל הנקה	1	paranames-en-he
+Kristoffer Klaesson	קריסטופר קלאסון	1	paranames-en-he
+Giulio Brogi	ג'וליו ברוגי	1	paranames-en-he
+Luther Rice	לותר רייס	1	paranames-en-he
+Bruno Lage	ברונו לאז'ה	1	paranames-en-he
+Tim Healy	טים הילי	1	paranames-en-he
+Yani Rosenthal	יאני רוזנטל	1	paranames-en-he
+Teodoro Llorente Olivares	תיאודור לורנטה אוליבארס	1	paranames-en-he
+Hiyya bar Ashi	רב חייא בר אשי	1	paranames-en-he
+C. Jay Cox	סי. ג'יי קוקס	1	paranames-en-he
+Bernie Grundman	ברני גרונדמן	1	paranames-en-he
+Baruch Schönfeld	ברוך שנפלד	1	paranames-en-he
+Glenn Burke	גלן בורק	1	paranames-en-he
+Dragan Šakota	דרגן שקוטה	1	paranames-en-he
+Maksym Rylsky	מקסים רילסקי	1	paranames-en-he
+Alan Stern	אלן סטרן	1	paranames-en-he
+Roma Maffia	רומה מאפיה	1	paranames-en-he
+Abdullah III Al-Salim Al-Sabah	עבדאללה א־סלים א־צבאח	1	paranames-en-he
+Yosef Berkovich Sapir	יוסף ספיר	1	paranames-en-he
+Yang Xiong	יאנג שיונג	1	paranames-en-he
+Nigel Short	נייג'ל שורט	1	paranames-en-he
+Yasuhiro Kobe	יאסוהירו קובי	1	paranames-en-he
+Juozas Budraitis	יואוזאס בודראיטיס	1	paranames-en-he
+Tajlu Khanum	תאג'לי ביגום	1	paranames-en-he
+Imanol Alguacil	אימנול אלגואסיל	1	paranames-en-he
+Timo Soini	טימו סויני	1	paranames-en-he
+Talor Battle	טיילור באטל	1	paranames-en-he
+Tanaka Giichi	טנאקה גיאיצ'י	1	paranames-en-he
+Tabea Zimmermann	טביאה צימרמן	1	paranames-en-he
+Asher Laibi	אשר לייבי	1	paranames-en-he
+Elizabeth Goodridge	אליזבת גודרידג'	1	paranames-en-he
+Scott Grimes	סקוט גריימס	1	paranames-en-he
+Rinah Eschiek	אסחייק, רינה	1	paranames-en-he
+Earl Ray Tomblin	ארל ריי טמבלין	1	paranames-en-he
+Amram Ebgi	עמרם אבגי	1	paranames-en-he
+Dov Dvir	דב דביר	1	paranames-en-he
+Tom DeSanto	טום דיסנטו	1	paranames-en-he
+Brad Johnson	בראד ג'ונסון	1	paranames-en-he
+Kathryn Cave	קתרין קייב	1	paranames-en-he
+Michel-Étienne Turgot	מישל-אטיין טורגו	1	paranames-en-he
+Hazel Scott	הייזל סקוט	1	paranames-en-he
+Dan Chamizer	דן חמיצר	1	paranames-en-he
+Al-Husayn I ibn Ali	אל-חוסיין בן עלי אט-טורקי	1	paranames-en-he
+Abu'l Haret Muhammad	אבו אל-חארת' מחמד בן פריע'ון	1	paranames-en-he
+Henry Wells	הנרי ולס	1	paranames-en-he
+Demetrius of Pharos	דמטריוס מפארוס	1	paranames-en-he
+André Link	אנדרה לינק	1	paranames-en-he
+Richard Creedon	ריצ'רד קרידון	1	paranames-en-he
+Abraham Gideon Abudiente	אברהם בן גדעון אבודיענטי	1	paranames-en-he
+Guillaume-Antoine Olivier	גיום אוליבייה	1	paranames-en-he
+Mordechai Nessyahu	מרדכי נסיהו	1	paranames-en-he
+Publius Martius Verus	פובליוס מארטיוס ורוס	1	paranames-en-he
+John Moore	ג'ון מור	1	paranames-en-he
+Hayyim Angel	חיים אנג'ל	1	paranames-en-he
+Yusuf al-Azma	יוסוף אל-עזמה	1	paranames-en-he
+Arlene Phillips	ארלן פיליפס	1	paranames-en-he
+Blanchard Ryan	בלנשרד ריאן	1	paranames-en-he
+Leon Lishner	לאון לישנר	1	paranames-en-he
+Aleksandr Abugov	אלכסנדר אבוגוב	1	paranames-en-he
+Irving Lerner	אירווינג לרנר	1	paranames-en-he
+Raymond Dart	ריימונד דארט	1	paranames-en-he
+Malcolm Thomas	מלקולם תומאס	1	paranames-en-he
+Niv Fliter	ניב פליטר	1	paranames-en-he
+Bertrandon de La Broquière	ברטרנדון דה לה ברוקייר	1	paranames-en-he
+Gustav Brecher	גוסטב ברכר	1	paranames-en-he
+Yafa Ben Menashe	יפה בן מנשה	1	paranames-en-he
+Maria Elsner	מריה אלסנר	1	paranames-en-he
+Mike Lee	מייק לי	1	paranames-en-he
+Joseph Almanzi	יוסף אלמנצי	1	paranames-en-he
+Kathryn Grody	קת'רין גרודי	1	paranames-en-he
+Zeng Jiongzhi	דזנג ג'יונגג'ה	1	paranames-en-he
+Christian Karlsson	כריסטיאן קרלסון	1	paranames-en-he
+Ferdinand von Wrangel	פרדיננד וראנגל	1	paranames-en-he
+Sophie, Princess of Prussia	סופיה, נסיכת פרוסיה	1	paranames-en-he
+Dalius Čekuolis	דליוס קקוליס	1	paranames-en-he
+Anatol Gurevitch	אנטול גורביץ'	1	paranames-en-he
+Cindy Pepper	סינדי פפר	1	paranames-en-he
+Herman Lubinsky	הרמן לובינסקי	1	paranames-en-he
+Mauro Zárate	מאורו סראטה	1	paranames-en-he
+Erwin Neher	ארווין נהר	1	paranames-en-he
+Leon Fleisher	לאון פליישר	1	paranames-en-he
+Laura Kenny	לורה קני	1	paranames-en-he
+Werner March	מארך	1	paranames-en-he
+Phoebe Hearst	פיבי הרסט	1	paranames-en-he
+Gideon Sa'ar	גדעון סער	1	paranames-en-he
+Fritz Klein	פריץ קליין	1	paranames-en-he
+Jennifer Cody	ג'ניפר קודי	1	paranames-en-he
+Mary Stewart	מארי סטיוארט	1	paranames-en-he
+Dana Reichmann	דנה רייכמן	1	paranames-en-he
+Prince Baudouin of Belgium	בודואן, נסיך בלגיה	1	paranames-en-he
+Cornelius Cole	קורנליוס קול	1	paranames-en-he
+Michael Pasman	מיכאל פסמן	1	paranames-en-he
+Gerrit Dou	חריט דאו	1	paranames-en-he
+Epictetus	אפיקטטוס	1	paranames-en-he
+Olga Kurylenko	אולגה קורילנקו	1	paranames-en-he
+Annie Castledine	אנני קאסלדין	1	paranames-en-he
+Harvey Weinstein	הארווי ויינסטין	1	paranames-en-he
+Henry of Schweinfurt	היינריך משוויינפורט	1	paranames-en-he
+Carmel Vaisman	כרמל ווייסמן	1	paranames-en-he
+Nasif al-Yaziji	נאצף אל-יאזג'י	1	paranames-en-he
+Sergey Lukyanenko	סרגיי לוקיאננקו	1	paranames-en-he
+Steven Chu	סטיבן צ'ו	1	paranames-en-he
+Itshak Turgeman	איציק תורג'מן	1	paranames-en-he
+Richard Isay	ריצ'רד איסאי	1	paranames-en-he
+Hirokazu Tanaka	הוריקזו טנקה	1	paranames-en-he
+Augusto da Costa	אוגוסטו דה קוסטה	1	paranames-en-he
+Pasquale Blasi	פּסקואלה בּלזי	1	paranames-en-he
+Stefan Toshev	סטפן טושב	1	paranames-en-he
+Winfried Otto Schumann	וינפריד אוטו שומאן	1	paranames-en-he
+Shimshon Amitsur	שמשון עמיצור	1	paranames-en-he
+David Filo	דייוויד פיילו	1	paranames-en-he
+Jürgen Klopp	יורגן קלופ	1	paranames-en-he
+Ochus	אוכוס	1	paranames-en-he
+Mary Beth Hurt	מרי בת' הרט	1	paranames-en-he
+David Cohen Yeunaten	דוד הכהן יהונתן	1	paranames-en-he
+David Wilson	דייוויד וילסון	1	paranames-en-he
+Greg Erb	גרג ארב	1	paranames-en-he
+Israel Lyons	ישראל ליונס האב	1	paranames-en-he
+Franka Potente	פרנקה פוטנטה	1	paranames-en-he
+Gyula Mándi	גיולה מאנדי	1	paranames-en-he
+John Stanley Grauel	ג'ון סטנלי גראוול	1	paranames-en-he
+James Carville	ג'יימס קארוויל	1	paranames-en-he
+Philippa Pearce	פיליפה פירס	1	paranames-en-he
+Pavel Tabakov	פאבל טבקוב	1	paranames-en-he
+Uri Timor	אורי תימור	1	paranames-en-he
+Patrick Leahy	פטריק לייהי	1	paranames-en-he
+Neville Cenac	נוויל סנאק	1	paranames-en-he
+Karim Sadjadpour	כרים סדג'אדפור	1	paranames-en-he
+Bernard Brodie	ברנרד ברודי	1	paranames-en-he
+Moshe Mousai	משה מוסאי	1	paranames-en-he
+György Kurtág Jr.	ג'רג' קורטג הבן	1	paranames-en-he
+Olivia Shakespear	אוליביה שייקספיר	1	paranames-en-he
+Francisco Jiménez de Cisneros	פרנסיסקו חימנס דה סיסנרוס	1	paranames-en-he
+István Dózsa	אישטוואן דוז׳ה	1	paranames-en-he
+Henry Compton	הנרי קומפטון	1	paranames-en-he
+Alfred Elmore	אלפרד אלמור	1	paranames-en-he
+Ignacy Jakub Massalski	איגנצי מסלסקי	1	paranames-en-he
+Lyudmila Pavlichenko	לודמילה פבליצ'נקו	1	paranames-en-he
+Niccolò Tartaglia	ניקולו טרטליה	1	paranames-en-he
+Oskar Kokoschka	אוסקר קוקושקה	1	paranames-en-he
+Zerahiah the Greek	זרחיה היווני	1	paranames-en-he
+Carol Nugent	קרול נאגט	1	paranames-en-he
+Victor Bodson	ויקטור בודסון	1	paranames-en-he
+Talorc I	טאלורק הראשון, מלך הפיקטים	1	paranames-en-he
+George B. Post	ג'ורג' בראון פוסט	1	paranames-en-he
+Arnon, Menaḥem	ארנון, מנחם, 1894-1975	1	paranames-en-he
+George Koltanowski	ג'ורג' קולטנובסקי	1	paranames-en-he
+Vincent Chalvon-Demersay	וינסנט צ'בלון-דמרסי	1	paranames-en-he
+Karl Koller	קארל קולר	1	paranames-en-he
+Leibel Haschel	לייבלה השל	1	paranames-en-he
+Annett Böhm	אנט בוהם	1	paranames-en-he
+Maeve Quinlan	מייב קווינלאן	1	paranames-en-he
+Herleva	הרלבה	1	paranames-en-he
+Benjamin Cohen	בנימין כהן	1	paranames-en-he
+Eva Melander	אווה מלאנדר	1	paranames-en-he
+Adiv Gal	אדיב גל	1	paranames-en-he
+Alecko Eskandarian	אלקו אסקנדריאן	1	paranames-en-he
+Rivka Ravitz	רבקה רביץ	1	paranames-en-he
+Malcolm Bradbury	מלקולם ברדבורי	1	paranames-en-he
+Robert Wall	רוברט וול	1	paranames-en-he
+Michiel van Musscher	מיכאל ואן מוסשר	1	paranames-en-he
+Shoshi Marciano	שוש מרציאנו	1	paranames-en-he
+Dhuoda	דהודה	1	paranames-en-he
+Antonia Bird	אנטוניה בירד	1	paranames-en-he
+Karel Zeman	קארל זמאן	1	paranames-en-he
+Feiga Drora Eisner	פייגה-דרורה אייזנר	1	paranames-en-he
+Tom Jung	טום ג׳ונג	1	paranames-en-he
+Shlomi Avrahami	שלומי אברהמי	1	paranames-en-he
+Portia de Rossi	פורשיה דה רוסי	1	paranames-en-he
+Emilia Eberle	אמיליה אברלה	1	paranames-en-he
+Nintoku	נינטוקו, קיסר יפן	1	paranames-en-he
+Alexander Kircher	אלכסנדר קירכר	1	paranames-en-he
+Marcel Heller	מרסל הלר	1	paranames-en-he
+Hans Schmidt	הנס שמידט	1	paranames-en-he
+Bobby Flay	בובי פליי	1	paranames-en-he
+William Dean Howells	ויליאם דין האוולס	1	paranames-en-he
+Lady Bunny	ליידי באני	1	paranames-en-he
+Anne Lacaton	אן לקטון	1	paranames-en-he
+Broncho Billy Anderson	ברונקו בילי אנדרסון	1	paranames-en-he
+Iosif Langbard	יוסיף לנגברד	1	paranames-en-he
+Naim Qassem	נעים קאסם	1	paranames-en-he
+Hyman Goldin	היימן אליאס גולדין	1	paranames-en-he
+Emanuel Wessely	עמנואל וייזל	1	paranames-en-he
+Abraham Salomon Camondo	אברהם סלומון קמונדו	1	paranames-en-he
+Richard Russell	ריצ'רד ראסל	1	paranames-en-he
+Jean Rogers	ג'ין רוג'רס	1	paranames-en-he
+Huda Sultan	הודא סולטאן	1	paranames-en-he
+Tomer Z	תומר צדקיהו	1	paranames-en-he
+Győző Kulcsár	ג'זה קולצ'אר	1	paranames-en-he
+Antonio Rattín	אנטוניו ראטין	1	paranames-en-he
+Len Wiseman	לן וייסמן	1	paranames-en-he
+Penney Finkelman Cox	פני פינקלמן קוקס	1	paranames-en-he
+John Diefenbaker	ג'ון דיפנבייקר	1	paranames-en-he
+Lee Henderson	לי הנדרסון	1	paranames-en-he
+Paul Douglas	פול דאגלס	1	paranames-en-he
+Alfie Arcuri	אלפי ארקורי	1	paranames-en-he
+Sándor Pajor	שאנדור פאיור	1	paranames-en-he
+Nene Hatun	ננה האטון	1	paranames-en-he
+Michaela Coel	מיכאלה קואל	1	paranames-en-he
+Anneliese van der Pol	אנליס ואן דר פול	1	paranames-en-he
+Sean Porter	שון פורטר	1	paranames-en-he
+Duván Zapata	דובאן ספאטה	1	paranames-en-he
+Lev Karakhan	לב קאראחן	1	paranames-en-he
+Adi Yehuda Weintraub	עדי יהודה ווינטראוב	1	paranames-en-he
+Imre Hermann	אימרה הרמן	1	paranames-en-he
+François Habeneck	פרנסואה האבנק	1	paranames-en-he
+Yael Odem	יעל אודם	1	paranames-en-he
+Norman Manea	נורמן מנאה	1	paranames-en-he
+Moshe Gromb	גרומב, משה	1	paranames-en-he
+Süleyman Soylu	סולימאן סוילו	1	paranames-en-he
+Rudy Giuliani	רודולף ג'וליאני	1	paranames-en-he
+Robert Shapiro	רוברט שפירו	1	paranames-en-he
+Chris Perry	כריס פרי	1	paranames-en-he
+Lior Farhi	ליאור פרחי	1	paranames-en-he
+Wolfgang Neuschmidt	וולפגנג נוישמידט	1	paranames-en-he
+Gedalyah Aharon Rabinovits	גדליה אהרן רבינוביץ	1	paranames-en-he
+Richard Knill Freeman	ריצ'ארד ניל פרימן	1	paranames-en-he
+Emmy Clarke	איימי קלארק	1	paranames-en-he
+Bernard Butler	ברנרד באטלר	1	paranames-en-he
+Frank Williams	פרנק ויליאמס	1	paranames-en-he
+Max Colpet	מקס קולפה	1	paranames-en-he
+Adahan, Yiḥya, 1865 or 1866-1957	אדהאן, יחיא בן מכלוף, 1865-1957	1	paranames-en-he
+Alec Peters	אלק פיטרס	1	paranames-en-he
+Yoav Gilboa	יואב גלבוע	1	paranames-en-he
+Dov Rozenberg	דב רוזנברג	1	paranames-en-he
+George Louis Beer	ג'ורג' לואיס ביר	1	paranames-en-he
+Zlatibor Lončar	זלטיבור לונקר	1	paranames-en-he
+Miriam Faust	מרים פאוסט	1	paranames-en-he
+John Beddington	ג'ון בדדינגטון	1	paranames-en-he
+Pinchas Hacohen Peli	פינחס פלאי	1	paranames-en-he
+Johann Gottlieb Graun	יוהאן גוטליב גראון	1	paranames-en-he
+Winifred Beilby	ויניפרד ביילביי	1	paranames-en-he
+Andreas Baader	אנדריאס באדר	1	paranames-en-he
+Glynn Edwards	גלין אדוארדס	1	paranames-en-he
+Wilhelm Maybach	וילהלם מייבאך	1	paranames-en-he
+İsmail Kahraman	איסמעיל קאהרמן	1	paranames-en-he
+Tsila Hayun	צילה חיון	1	paranames-en-he
+Heraclius	הרקליוס, קיסר האימפריה הביזנטית	1	paranames-en-he
+Shlomit Haber-Schaim	שלומית הבר-שיים	1	paranames-en-he
+Pyotr Bagration	פיוטר בגרטיון	1	paranames-en-he
+Yahusha Rozen	יהושע רוזן	1	paranames-en-he
+Michael Ventura	מייקל ונטורה	1	paranames-en-he
+Amnon Lipkin-Shahak	אמנון ליפקין-שחק	1	paranames-en-he
+Eric Brevig	אריק ברוויג	1	paranames-en-he
+Payton Pritchard	פייטון פריצ'רד	1	paranames-en-he
+Mykola Trublai͏̈ni	ניקולאי טרובלאיני	1	paranames-en-he
+Reuven Katz	ראובן כץ	1	paranames-en-he
+Vance D. Brand	ואנס בראנד	1	paranames-en-he
+Yuri Ahronovitch	יורי אהרונוביץ'	1	paranames-en-he
+Charley Chase	צ'ארלי צ'ייס	1	paranames-en-he
+Svetlana Katok	סבטלנה קטוק	1	paranames-en-he
+Miguel Ángel Vivas	מיגל אנחל ויואס	1	paranames-en-he
+Otto Neubauer	אוטו נויבאואר	1	paranames-en-he
+May Wilson Preston	מאי וילסון פרסטון	1	paranames-en-he
+Omer Golan	עומר גולן	1	paranames-en-he
+Brenda Shaffer	ברנדה שפר	1	paranames-en-he
+Joshua McGuire	ג'ושוע מק'גוויר	1	paranames-en-he
+Chiaki Kuriyama	צ'יאקי קוריאמה	1	paranames-en-he
+Andrew Rannells	אנדרו ראנלס	1	paranames-en-he
+Garrett Lerner	גארט לרנר	1	paranames-en-he
+Oscar Fischer	אוסקר פישר	1	paranames-en-he
+Sophie Wohlmuth	סופי וולמות	1	paranames-en-he
+Nachman Dushanski	נחמן אלכסנדרון	0	paranames-en-he-neg
+Melville Jacobs	מלוויל פולר	0	paranames-en-he-neg
+Edd Gould	אד הולוויי	0	paranames-en-he-neg
+Fin Argus	פין אדקוויסט	0	paranames-en-he-neg
+Mona Hawa	מוניקה קלייר	0	paranames-en-he-neg
+Taha Hussein	טהא מוחמד עלי	0	paranames-en-he-neg
+Algirdas Butkevičius	אלגירדס ברזאוסקאס	0	paranames-en-he-neg
+Netanʼel, Eliyahu	נתנאל בן שלום אביטל	0	paranames-en-he-neg
+Achim Exner	אכים פון בוריס	0	paranames-en-he-neg
+Yuli Nudelman	יולי תמיר	0	paranames-en-he-neg
+Missy Stone	מיסי אליוט	0	paranames-en-he-neg
+Lazarus Cohen	אליעזר ברגמן	0	paranames-en-he-neg
+Mariel Hemingway	מריאל זגוניס	0	paranames-en-he-neg
+Ann Lee	אן פיבלס	0	paranames-en-he-neg
+Mena Massoud	מינה סוברי	0	paranames-en-he-neg
+Kerron Clement	קרון סטוארט	0	paranames-en-he-neg
+Kenny Vance	קני סייף	0	paranames-en-he-neg
+Galit Giat	גלית אילת	0	paranames-en-he-neg
+Onias I	חוניו השלישי	0	paranames-en-he-neg
+Lori Horwitz	לורי מאקקנה	0	paranames-en-he-neg
+Natalya Tetenova	נטליה יגורובה	0	paranames-en-he-neg
+Elkan Nathan Adler	אלקן בגוט	0	paranames-en-he-neg
+Dilshod Nazarov	דילשוד צ'ארייב	0	paranames-en-he-neg
+Naoko Takahashi	נאוקו מורי	0	paranames-en-he-neg
+Clémence Poésy	קלמנציה  מאוסטריה	0	paranames-en-he-neg
+Esaias Tegnér	אסיאס ואן דה ולדה	0	paranames-en-he-neg
+Prasanna Chandra Vidyaratna	פראסאנה נאראיאן צ'אודהורי	0	paranames-en-he-neg
+Imane Khalifeh	אימאנה מרגה	0	paranames-en-he-neg
+Amnon Kapeliouk	כספי, אמנון	0	paranames-en-he-neg
+unnamed son Bonaparte	נסיכה פיקטית בעלת שם לא ידוע	0	paranames-en-he-neg
+Penina Halperin	פנינה מוהנדו	0	paranames-en-he-neg
+Itta Shedletzky	איטה בן-חיים קלר	0	paranames-en-he-neg
+Tuomo Suomalainen	טואומו רוטו	0	paranames-en-he-neg
+Besart Abdurahimi	בסארט ברישה	0	paranames-en-he-neg
+Maximus of Ephesus	מקסימוס הקונפסור	0	paranames-en-he-neg
+Mendi Zaltzman	מנדי רודן	0	paranames-en-he-neg
+Rigoberto Urán	ריגוברטו ריבאס	0	paranames-en-he-neg
+Corine Rottschäfer	קורין מאוך	0	paranames-en-he-neg
+Cassie Scerbo	קאסי סטיוארט	0	paranames-en-he-neg
+Willie Banks	וילי יאנג	0	paranames-en-he-neg
+Hayden Panettiere	היידן כריסטנסן	0	paranames-en-he-neg
+Candice Bergen	קנדיס אקולה	0	paranames-en-he-neg
+Rob Tapert	רוב סטיבנסון	0	paranames-en-he-neg
+Major Dodge	מייג'ור אוונס	0	paranames-en-he-neg
+Caspar Phillipson	קאספר פן בארל	0	paranames-en-he-neg
+Lilac Sigan	לילך לב-ארי	0	paranames-en-he-neg
+Shōta Hattori	שותא רוסתוולי	0	paranames-en-he-neg
+Gunning Bedford	גאנינג בדפורד ג'וניור	0	paranames-en-he-neg
+Nigel Kneale	נייג'ל הייברס	0	paranames-en-he-neg
+Zane Holtz	זיין לאו	0	paranames-en-he-neg
+Ignazio Cerio	איניאציו אבאטה	0	paranames-en-he-neg
+Silvio Horta	סילביו אורלנדו	0	paranames-en-he-neg
+Lodewijk Toeput	אליעזר סרלואיס	0	paranames-en-he-neg
+Samuel Białobłocki	סמואל פרייס	0	paranames-en-he-neg
+Raj Chetty	ראג' קאפור	0	paranames-en-he-neg
+Ezri Tarazi	אזרי קונסה	0	paranames-en-he-neg
+Andri Moustakoudes	אנדרי גודיונסן	0	paranames-en-he-neg
+Eddy Merckx	אדי האמל	0	paranames-en-he-neg
+Ariane Littman Cohen	אריאן מנושקין	0	paranames-en-he-neg
+Cornelia Scheffer	קורנליה ג'יימס קנון	0	paranames-en-he-neg
+Monica Zetterlund	מוניקה ורדימון	0	paranames-en-he-neg
+Lai Ching-te	לאי פנג-ווי	0	paranames-en-he-neg
+Selman Weniaminowitsch Kleinerman	זלמן אברהם וקסמן	0	paranames-en-he-neg
+Margitta Pufe	מרגיטה גומל	0	paranames-en-he-neg
+Rizwan Manji	ריז ח'אן	0	paranames-en-he-neg
+Désiré Defauw	דזירה אקארה	0	paranames-en-he-neg
+Oleksii Arestovych	אולקסי רזניקוב	0	paranames-en-he-neg
+Goga Bitadze	גוגה אשכנזי	0	paranames-en-he-neg
+Mandy Stein	אמנדה סקומאנו	0	paranames-en-he-neg
+Sigismund II Augustus	זיגמונט השלישי ואזה	0	paranames-en-he-neg
+Baal Shem of London	הבעל שם טוב	0	paranames-en-he-neg
+Daichi Kamada	דייצ'י סוזוקי	0	paranames-en-he-neg
+Lipót Herman	ליפוט אשנר	0	paranames-en-he-neg
+Ebba Busch	אבה טסדורף	0	paranames-en-he-neg
+Ludwik Solski	לודוויג טייכמן	0	paranames-en-he-neg
+Thorsten Nordenfelt	טורסטן פינק	0	paranames-en-he-neg
+Patrik Sinkewitz	פטריק אוז'דניק	0	paranames-en-he-neg
+Kareem Abdul-Jabbar	כרים חג'ג'	0	paranames-en-he-neg
+Arnaldo Tamayo Méndez	ארנלדו בפטיסטה	0	paranames-en-he-neg
+Sandrine Salerno	סנדרין בודנה	0	paranames-en-he-neg
+Bruce Robertson	ברוס מארי	0	paranames-en-he-neg
+Dietrich Stobbe	דיטריך תורו	0	paranames-en-he-neg
+Delphine de Girardin	דלפין דה ויגאן	0	paranames-en-he-neg
+Dennis Day	דניס דיקמאייר	0	paranames-en-he-neg
+Herod of Chalcis	ארכלאוס	0	paranames-en-he-neg
+Con Leventhal	קון קוליוואס	0	paranames-en-he-neg
+Belinda Bauer	בלינדה הוקינג	0	paranames-en-he-neg
+Apollodorus of Seleucia	אפולודורוס איש פלרון	0	paranames-en-he-neg
+Shokichi Yagi	שוקיצ'י נצוי	0	paranames-en-he-neg
+Pierre-Louis Moreau de Maupertuis	פייר-לואי דיטש	0	paranames-en-he-neg
+Laila Kinnunen	לילה	0	paranames-en-he-neg
+Yevgeny Shapovalov	יבגני לוין	0	paranames-en-he-neg
+Gerson Rodrigues	גרשון כהן	0	paranames-en-he-neg
+Bebo Kobo	בבו ואלדס	0	paranames-en-he-neg
+Jang Dong-geon	ג'אנג דונג-וו	0	paranames-en-he-neg
+Rav Mesharshiya	רב ברונא	0	paranames-en-he-neg
+Gady Zalman	גדי קוזמא	0	paranames-en-he-neg
+Bonaventure des Périers	בונוונטורה הקדוש	0	paranames-en-he-neg
+Kiki Bertens	קיקי דימולה	0	paranames-en-he-neg
+Willibald	וילי רוטנשטיינר	0	paranames-en-he-neg
+Dua, Ḳopl, 1898-1942	דואה ליפה	0	paranames-en-he-neg
+Anne-Sophie Brasme	אן-סופי ביון	0	paranames-en-he-neg
+Antun Mihanović	אנטון סעאדה	0	paranames-en-he-neg
+Lal Behari Day	לאל קרישנה אודוואני	0	paranames-en-he-neg
+Zidanta II	זידנתש הראשון	0	paranames-en-he-neg
+Charles-François Brisseau de Mirbel	שארל-פרנסואה דוביני	0	paranames-en-he-neg
+Jumana Emil Aboud	ג'ומאנה אמיל אבוד	0	paranames-en-he-neg
+Dovi Garmise	דובי וינרוט	0	paranames-en-he-neg
+Unnur Brá Konráðsdóttir	אונור בירנה וילהיאמסדויטיר	0	paranames-en-he-neg
+Pernell Whitaker	פרנל רוברטס	0	paranames-en-he-neg
+Ervin László	ארווין באואר	0	paranames-en-he-neg
+Elmar Mäder	אלמר גסימוב	0	paranames-en-he-neg
+Edgard Varèse	אדגרד פרסין	0	paranames-en-he-neg
+Janne Suokonautio	יאן אנדרסון	0	paranames-en-he-neg
+Rada Rassimov	ראדה דנבה	0	paranames-en-he-neg
+Strategius Apion	סטרטגיוס	0	paranames-en-he-neg
+Dag Hammarskjöld	דאג מאלמברג	0	paranames-en-he-neg
+Jenn Murray	ג'ן פרוסק	0	paranames-en-he-neg
+Lazzaro Uzielli	אוטולינגי, אליעזר מנחם	0	paranames-en-he-neg
+Lazar Polyakov	לאזאר קוליסבסקי	0	paranames-en-he-neg
+Elly Heuss-Knapp	אליעזר כדורי	0	paranames-en-he-neg
+Menucha Rochel Slonim	אילון, מנוחה	0	paranames-en-he-neg
+Burgess Owens	ברג'ס מרדית'	0	paranames-en-he-neg
+Gaius Atilius Regulus	גאיוס קלאודיוס פולכר	0	paranames-en-he-neg
+Hryhorii Kvitka-Osnovianenko	גריגורי אוסטרובסקי	0	paranames-en-he-neg
+Tammar Zilber	תמר מור-סלע	0	paranames-en-he-neg
+Shammai Chalatnikow	שמאי קנצפולסקי	0	paranames-en-he-neg
+Kajsa Bergqvist	קייסה אולונגרן	0	paranames-en-he-neg
+Ytzhak Bareket	יצחק כץ	0	paranames-en-he-neg
+Cees Nooteboom	סיז בנצינגר	0	paranames-en-he-neg
+Captain Ella	קפטן ביפהארט	0	paranames-en-he-neg
+Barthold von Ribbentrop	ברתולד פלס	0	paranames-en-he-neg
+Saara Aalto	סאארה קוגונגלווה	0	paranames-en-he-neg
+Stefi Kiesler	סטפי באום	0	paranames-en-he-neg
+Lauryn Hill	לורין ויליאמס	0	paranames-en-he-neg
+Natasha O'Keeffe	נטשה הייסטינגס	0	paranames-en-he-neg
+Ziad Rahbani	זיאד אבו עין	0	paranames-en-he-neg
+Alaric I	אלאריך השני	0	paranames-en-he-neg
+Spike Feresten	ספייק כהן	0	paranames-en-he-neg
+Devlet Bahçeli	דוויט הטון	0	paranames-en-he-neg
+Menno Mans	מנו מייס	0	paranames-en-he-neg
+Shōji Nishimura	שוג'י יונמורה	0	paranames-en-he-neg
+Ersan Saner	ארסאן אילייסובה	0	paranames-en-he-neg
+Dwarkanath Vidyabhusan	דווארקאנת גאנגולי	0	paranames-en-he-neg
+Yossef Boukhris	יוסף קריספל	0	paranames-en-he-neg
+Gamaliel ben Pedahzur	רבן גמליאל ברבי	0	paranames-en-he-neg
+Philibert de l'Orme	פיליבר ציראנאנה	0	paranames-en-he-neg
+Kerim Kerimov	כרים פריי	0	paranames-en-he-neg
+Elʻazar Mosheh Hurṿits	אלעזרי, עדנה	0	paranames-en-he-neg
+Jasmin Vardimon	יסמין רפשה	0	paranames-en-he-neg
+Johny Srouji	ג'וני הנדריקס	0	paranames-en-he-neg
+Aleksander Miśta	אלכסנדר קרופה	0	paranames-en-he-neg
+Ganit Lev-Ari	גנית אורין	0	paranames-en-he-neg
+Uroš I of Rascia	אורוש ניקוליץ'	0	paranames-en-he-neg
+Teodoro Escamilla	תאודורו אוביאנג נגאמה מבאסוגו	0	paranames-en-he-neg
+Pär Arvidsson	פר לגרקוויסט	0	paranames-en-he-neg
+Ory Dessau	אורי שיחור	0	paranames-en-he-neg
+Nino Burjanadze	נינו הרמן	0	paranames-en-he-neg
+Archie Cross	ארצ'י קאו	0	paranames-en-he-neg
+Likhṭ, Aryeh	ליכט, אברהם יהודה	0	paranames-en-he-neg
+Juho Reinvall	יוהו קוסטי פאסיקיבי	0	paranames-en-he-neg
+Yaron Dekel	ירון דן	0	paranames-en-he-neg
+Candida Höfer	קנדידה אלווארז	0	paranames-en-he-neg
+Hal C. Kern	הל רייל	0	paranames-en-he-neg
+Treva Throneberry	טרווה אטיני	0	paranames-en-he-neg
+Eldridge Lovelace	אלדריג' קליבר	0	paranames-en-he-neg
+Kentaro Iida	קנטארו מיורה	0	paranames-en-he-neg
+Jaco Pastorius	ז'אקוב גינסבורג	0	paranames-en-he-neg
+Jerrold E. Marsden	ג'רולד קסל	0	paranames-en-he-neg
+Stacy Francis	סטייסי ויידליץ'	0	paranames-en-he-neg
+Wahb ibn Munabbih	והב בן עבד מנאף	0	paranames-en-he-neg
+Melle van Essen	מלה מל	0	paranames-en-he-neg
+Lynsey de Paul	לינסי בארטילסון	0	paranames-en-he-neg
+Mendy Gruzman	מנדי כהאן	0	paranames-en-he-neg
+Hamish Clark	המיש מקריי	0	paranames-en-he-neg
+Adel Abdel Karim Yassin	עאדל מנאע	0	paranames-en-he-neg
+Hoyt Axton	הויט ייטמן	0	paranames-en-he-neg
+Surendra Krishna Gupta	סורנדרה צ'אנדרה באנרג'י	0	paranames-en-he-neg
+Haider Ali	חיידר אל-עבאדי	0	paranames-en-he-neg
+Aisling Bea	אייסלינג וולש	0	paranames-en-he-neg
+Ryūnosuke Haga	אקוטגאווה ריונוסוקה	0	paranames-en-he-neg
+Maoz Fine	מעוז פורז	0	paranames-en-he-neg
+Mykola Ivanovych Blashchuk	ניקולאי שצ'ורס	0	paranames-en-he-neg
+Maximilien Toepler	מקסימיליאן רובספייר	0	paranames-en-he-neg
+Geert Wilders	חרט הופסטדה	0	paranames-en-he-neg
+Rico Rodriguez	ריקו לואיס	0	paranames-en-he-neg
+Riley Thomson	ריילי סטירנס	0	paranames-en-he-neg
+Abdou Diallo	עבדו דיוף	0	paranames-en-he-neg
+Mursili I	מורשיליש השני	0	paranames-en-he-neg
+Oxana Fedorova	אוקסנה יבלונסקיה	0	paranames-en-he-neg
+Azam Khan	אעזם ג'אה	0	paranames-en-he-neg
+Aristide Briand	אריסטידה בלנק	0	paranames-en-he-neg
+Izhar Harlev	יזהר שנהר	0	paranames-en-he-neg
+Isi Yanouka	איזי ליבלר	0	paranames-en-he-neg
+Ming Fang	מינג ליין	0	paranames-en-he-neg
+Mélina Robert-Michon	מלינה מצוקס	0	paranames-en-he-neg
+Vitālijs Jagodinskis	ויטליס אסטפייבס	0	paranames-en-he-neg
+Hagay Shemesh	חגי רגב	0	paranames-en-he-neg
+Barney Pressman	ברני רייץ	0	paranames-en-he-neg
+Ana Hickmann	אנה מרינקוביץ'	0	paranames-en-he-neg
+Talaat Yacoub	טלעת פאשה	0	paranames-en-he-neg
+Facundo Arana	פקונדו בונאנוטה	0	paranames-en-he-neg
+Vaughn Walker	ווהן טיילור	0	paranames-en-he-neg
+Caleb Rodney	קיילב פולוויל	0	paranames-en-he-neg
+Affonso Beato	אפונסו גונוואלס	0	paranames-en-he-neg
+Odin Thiago Holm	אודין קרטר	0	paranames-en-he-neg
+Marmaduke Wyvill	מרמדיוק טאנסטול	0	paranames-en-he-neg
+Ettore Margadonna	אטורה מסינה	0	paranames-en-he-neg
+Wasilij Riabikow	וסילי מיכאילוב	0	paranames-en-he-neg
+Violeta Parra	ויולטה ברמודז	0	paranames-en-he-neg
+Nemanja Krstić	נמניה וידיץ'	0	paranames-en-he-neg
+Ales Adamovich	אלס ביליק	0	paranames-en-he-neg
+Norma Shechter	נורמה אלרקון	0	paranames-en-he-neg
+Geraldo Alckmin	ג'רלדו סנדל	0	paranames-en-he-neg
+Amelia Warren Tyagi	אמליה פלאס	0	paranames-en-he-neg
+Orkhan	אורחן ספארוב	0	paranames-en-he-neg
+Ḳehat, Yosef, ha-Leṿi	קהת שור	0	paranames-en-he-neg
+Bjarne Stroustrup	ביארנה און	0	paranames-en-he-neg
+Nae Caranfil	נאיה יונסקו	0	paranames-en-he-neg
+Jindrich Matyas Thurn	יינדז'יך טרפישובסקי	0	paranames-en-he-neg
+Geir Hallgrímsson	גאייר הלגמו	0	paranames-en-he-neg
+Elah Rabinovits	דוברת, אלה	0	paranames-en-he-neg
+Manius Manilius	מאניוס אקיליוס גלבריו	0	paranames-en-he-neg
+Cleomenes II	קלאומנס הראשון	0	paranames-en-he-neg
+Ilkka Paananen	אילכה הנסקי	0	paranames-en-he-neg
+Bat-El Papura	בת אל שני פנחסיק	0	paranames-en-he-neg
+Marin Tomasov	מרין אולסופ	0	paranames-en-he-neg
+Tarak Chandra Churamani	טאראק צ'אנדרה סרקאר	0	paranames-en-he-neg
+Davida Teller	דוידה קרול	0	paranames-en-he-neg
+Bezalel Narkiss	בצלאל רנשבורג	0	paranames-en-he-neg
+Ori Toledano	אורי שוחט	0	paranames-en-he-neg
+Iman Mersal	אימאן שאמפרט	0	paranames-en-he-neg
+Fortuna	פורטונה רובין	0	paranames-en-he-neg
+Agata Kulesza	אגתה טרז'בוקובסקה	0	paranames-en-he-neg
+Karólína Lea Vilhjálmsdóttir	קרולינה קובלקביץ'	0	paranames-en-he-neg
+Köprülü Numan Pasha	מהמט פאשא קפרולו	0	paranames-en-he-neg
+MC Lyte	אם סי האמר	0	paranames-en-he-neg
+Jean-Charles de Borda	ז'אן צ'ארלס קזין	0	paranames-en-he-neg
+Gholam Reza Aghazadeh	ע'ולאם-רזא פהלווי	0	paranames-en-he-neg
+Teri Reeves	טרי האטצ'ר	0	paranames-en-he-neg
+Žan Karničnik	ז'אן מאייר	0	paranames-en-he-neg
+Sabina Saad	סבינה שפילריין	0	paranames-en-he-neg
+Ginny Fiennes	ג'יני טיילר	0	paranames-en-he-neg
+Walther Wenck	ולטר פון דר פוגלוויידה	0	paranames-en-he-neg
+Iona Anderson	יונה יקיר	0	paranames-en-he-neg
+Ḳaminsḳi, Y. , 1884-1958	קמינסקי, שוש	0	paranames-en-he-neg
+Lise Rønne	ליזה מאייר	0	paranames-en-he-neg
+Dakota Meyer	דקוטה דולבי	0	paranames-en-he-neg
+Myles Cooper	מיילס ברנייט	0	paranames-en-he-neg
+Mirco Garrone	מירקו ברגמסטו	0	paranames-en-he-neg
+Cathleen Falsani	קתלין נסביט	0	paranames-en-he-neg
+Sondra Currie	סונדרה לונדון	0	paranames-en-he-neg
+Deena Nicole Cortese	דינה קסטור	0	paranames-en-he-neg
+Henriette Sulzer	הנרייטה אקווה אבונגו	0	paranames-en-he-neg
+Liza Huber	ליזה ג'ונסון	0	paranames-en-he-neg
+Valery Serdyukov	ואלרי לגאסוב	0	paranames-en-he-neg
+Brooke White	ברוק מארי ברידג'ס	0	paranames-en-he-neg
+Normand Roger	נורמנד קורביל	0	paranames-en-he-neg
+Moshe Chaim Lau	משה גושן-גוטשטיין	0	paranames-en-he-neg
+Löb Carlburg	יהודה ליב נווחוביץ'	0	paranames-en-he-neg
+Rudolph Marks	רודולף מרקוס	0	paranames-en-he-neg
+Youval Shimoni	יובל יריב	0	paranames-en-he-neg
+Kamyar Pahlavi	כאמיאר עבדי	0	paranames-en-he-neg
+Ashley Young	אשלי בל	0	paranames-en-he-neg
+Aleksandar Tišma	אלכסנדר מלינוב	0	paranames-en-he-neg
+Landa, Śimḥah	לנדאו, בנימין בן דב, 1976-	0	paranames-en-he-neg
+Ramsey Lewis	רמזי קלארק	0	paranames-en-he-neg
+Zal Yanovsky	זאל בטמנגליג'	0	paranames-en-he-neg
+Meg John Barker	מג האריס	0	paranames-en-he-neg
+Mani Leib	מני פאר	0	paranames-en-he-neg
+Yehoyada Amir	יהוידע חיים	0	paranames-en-he-neg
+Terah in Islam	תרח	0	paranames-en-he-neg
+Mogens Wöldike	מוגנס וית'	0	paranames-en-he-neg
+Nikki van Dijk	ניקי בודזינסקי	0	paranames-en-he-neg
+Dariush Eghbali	דריוש פורוהר	0	paranames-en-he-neg
+Saadia Shoshany	סעדיה בנבנישתי	0	paranames-en-he-neg
+Miri Sisso	מירי נשרי	0	paranames-en-he-neg
+Perdiccas II of Macedon	פרדיקס הראשון	0	paranames-en-he-neg
+Naim Van Attenhoven	נעים גרסיה	0	paranames-en-he-neg
+Khalifa Al-Hammadi	כליפא בן מלכא	0	paranames-en-he-neg
+Deryck Whibley	דריק קוק	0	paranames-en-he-neg
+Azi Lev-On	עזי ליפשטט	0	paranames-en-he-neg
+Velvel Pasternak	ולוול זבארז'ר	0	paranames-en-he-neg
+Leibush Lewisohn	לייבוש לרר	0	paranames-en-he-neg
+Kaylee McKeown	קיילי ברייאנט	0	paranames-en-he-neg
+Margarida Camila Grimaldi	מרגרידה קרדוסו	0	paranames-en-he-neg
+Alhassan Yusuf	אלחסן קמארה	0	paranames-en-he-neg
+Jimi Stanton	ג'ימי מיסטרי	0	paranames-en-he-neg
+Ḥanah Ṭaʼu	חנה מרגלית	0	paranames-en-he-neg
+Loïc Korval	לואיק פרי	0	paranames-en-he-neg
+Sebastiano Venier	סבסטיאנו באג'ו	0	paranames-en-he-neg
+Nouri al-Maliki	נורי אל-ג'ראח	0	paranames-en-he-neg
+Koča Popović	קושה דאווד פאשה	0	paranames-en-he-neg
+Alonso Pérez	אלונסו אלברז דה פינדה	0	paranames-en-he-neg
+Danila Yakushev	דנילה חוטולב	0	paranames-en-he-neg
+Chet Holmgren	צ'ט בייקר	0	paranames-en-he-neg
+Kato Kintu	קאטו	0	paranames-en-he-neg
+Nassim Nicholas Taleb	נסים ירחי	0	paranames-en-he-neg
+Heide Rosendahl	היידה וולרט	0	paranames-en-he-neg
+Sanjeev Bhaskar	סנג'יב קומאר	0	paranames-en-he-neg
+Alison Johnstone	אליסון מילר	0	paranames-en-he-neg
+Alton B. Parker	אלטון אליס	0	paranames-en-he-neg
+Mose Mandelbaum	מוסה	0	paranames-en-he-neg
+Hermes Lima	ארמס דה פונסקה	0	paranames-en-he-neg
+Yonah Avrushmi	יונה גירונדי	0	paranames-en-he-neg
+Archduchess Louise of Austria	אדלייד מאוסטריה	0	paranames-en-he-neg
+Phyllis Nicolson	נייליר פיליס	0	paranames-en-he-neg
+Matanya Ariel	מתניה אברמסון	0	paranames-en-he-neg
+Esmé Weijun Wang	אזמה ביאנקו	0	paranames-en-he-neg
+Lucho González	לוצ'ו גטיקה	0	paranames-en-he-neg
+Friedel Epple	פרידל קלוסמן	0	paranames-en-he-neg
+Andrzej Żuławski	אנדז'יי בוגוצקי	0	paranames-en-he-neg
+Issac Vanmalsawma	צדקה, יצחק, 1923-	0	paranames-en-he-neg
+Katia Aznavour	בנוביץ', קטיה	0	paranames-en-he-neg
+Vivien Greene	ויוויאן לי	0	paranames-en-he-neg
+Dawit III	דווית הראשון, קיסר אתיופיה	0	paranames-en-he-neg
+Mar Ukva	מר בריה דרבנא	0	paranames-en-he-neg
+Marthe de Vogüé	מרתה קלר	0	paranames-en-he-neg
+R. Phelps	ר. ח. שישא	0	paranames-en-he-neg
+Simmias of Rhodes	סימיאס	0	paranames-en-he-neg
+Enoch Olinga	אינוק פאוול	0	paranames-en-he-neg
+Scot Armstrong	סקוט קוגן	0	paranames-en-he-neg
+Laureen Harper	לורין נוסבאום	0	paranames-en-he-neg
+Pramatha Chaudhuri	פראמאתהא נאת בוז	0	paranames-en-he-neg
+Francesca Capaldi	פרנסס קוואלי	0	paranames-en-he-neg
+Sherman Todd	שרמן אדמס	0	paranames-en-he-neg
+Ozzy Osbourne	אושרת זולטק	0	paranames-en-he-neg
+Jah Khalib	ג'ה וובל	0	paranames-en-he-neg
+Frederik Christian Kaas	פרדריק העשירי, מלך דנמרק	0	paranames-en-he-neg
+Irene Asanina	אירנה ואייחו	0	paranames-en-he-neg
+Izabela Kuna	איזבלה וידוביץ'	0	paranames-en-he-neg
+Mari bar Rachel	מארי קרימברי	0	paranames-en-he-neg
+Yossi Sivan	יוסי עיני	0	paranames-en-he-neg
+Corrie ten Boom	קורי מוריאו	0	paranames-en-he-neg
+Vasiliy Mishchenko	וסילי סידורנקו	0	paranames-en-he-neg
+Verne Orr	ורן טרויר	0	paranames-en-he-neg
+Tayseer Najjar	תייסיר אבו סנינה	0	paranames-en-he-neg
+Urmila Devi	אורמילה דווי דאסי	0	paranames-en-he-neg
+Rahul Gandhi	רהול קולי	0	paranames-en-he-neg
+Salif Keita	סליף סאנה	0	paranames-en-he-neg
+Annabelle Wallis	אנבל סלדורף	0	paranames-en-he-neg
+Afanasy Razmaritsyn	אפנסי אורדין נשקוקין	0	paranames-en-he-neg
+Constantino Brumidi	קונסטנטינו מברגנסה	0	paranames-en-he-neg
+Shervin Hajipour	שרבין אלנבי	0	paranames-en-he-neg
+Ashlie Brillault	אשלי אטקינסון	0	paranames-en-he-neg
+Keke Rosberg	קיקי פאלמר	0	paranames-en-he-neg
+Sri Suriyothai	סרי מ'	0	paranames-en-he-neg
+Gernot Böhme	גרנות ראמפף	0	paranames-en-he-neg
+Raymonde Abecassis	ריימונד אליין	0	paranames-en-he-neg
+Omri Katz	עמרי קניון	0	paranames-en-he-neg
+Corrado Giaquinto	קורדו סגרה	0	paranames-en-he-neg
+Kais Firro	קייס סעיד	0	paranames-en-he-neg
+Ester Ronen	אסתר כפיר	0	paranames-en-he-neg
+Lujza Mišić	לואיזה בלאהה	0	paranames-en-he-neg
+Saad el-Shazly	סעד אל-דין אבראהים	0	paranames-en-he-neg
+Pliny the Elder	פליניוס הצעיר	0	paranames-en-he-neg
+Sacha Pitoëff	סשה גורדין	0	paranames-en-he-neg
+Mouna Bassili Sehnaoui	מונה נורדין	0	paranames-en-he-neg
+Finnegan Biden	פינגן אולדפילד	0	paranames-en-he-neg
+Valens	ואלנס הבוגר	0	paranames-en-he-neg
+Yemima Evron	ימימה ארגז	0	paranames-en-he-neg
+Catharina Magdalena Naumann	קתרינה לודרס	0	paranames-en-he-neg
+Sadie American	סיידי סנדלר	0	paranames-en-he-neg
+Jemima Osunde	ג'מיימה סומגונג	0	paranames-en-he-neg
+Naram-Sin of Assyria	נרם-סין	0	paranames-en-he-neg
+Penny Hardaway	פני סרטורי	0	paranames-en-he-neg
+Zdeněk Štybar	זדנייק סבייראק	0	paranames-en-he-neg
+Admon	אדמון, בשמת	0	paranames-en-he-neg
+Carey Loftin	קארי ואן דייק	0	paranames-en-he-neg
+Piero Strozzi	פיירו קפוצ'ילי	0	paranames-en-he-neg
+Baer ben Alexander Goldberg	דב בר רטנר	0	paranames-en-he-neg
+Shulamith Lev-Aladgem	שולמית פיירסטון	0	paranames-en-he-neg
+Giuseppina Leone	ג'וזפינה בוצאקי	0	paranames-en-he-neg
+Gedalyahu‏ Akselrod	גדליהו וואלף	0	paranames-en-he-neg
+Mór Mezei	מור קורח	0	paranames-en-he-neg
+Elspeth Reoch	אלספת' רוסטו	0	paranames-en-he-neg
+Lavi Zitner	לביא שפיגלמן	0	paranames-en-he-neg
+Hesychius of Alexandria	הסיכיוס ממילטוס	0	paranames-en-he-neg
+Kornél Sziklay	קורנל טאבורי	0	paranames-en-he-neg
+Zhou Xinfang	ג'ואו צ'ונפיי	0	paranames-en-he-neg
+Glenn Curtiss	גלן הודל	0	paranames-en-he-neg
+Bridget Regan	ברידג'ט מוינאהן	0	paranames-en-he-neg
+Peaches	פיצ'ס גלדוף	0	paranames-en-he-neg
+Colonel Sanders	קולונל טום פארקר	0	paranames-en-he-neg
+Nechtan mac Der-Ilei	נכטאן הראשון, מלך הפיקטים	0	paranames-en-he-neg
+Mare Winningham	מארה דיבאבה	0	paranames-en-he-neg
+Wei Xiaodong	ויי ג'ינגשנג	0	paranames-en-he-neg
+Lelio Sozzini	לליו לוטאצי	0	paranames-en-he-neg
+Lucio Godoy	לוצ'יו דאלה	0	paranames-en-he-neg
+Maynard Dixon	מיינארד אולסון	0	paranames-en-he-neg
+Gini Cruz Santos	ג'יני רטיקר	0	paranames-en-he-neg
+Clio Barnard	קליאו צ'יאנג	0	paranames-en-he-neg
+Barbu Iscovescu	ברבו נמציאנו	0	paranames-en-he-neg
+Willi Bleicher	וילי ינטש	0	paranames-en-he-neg
+Huguette Caland	הוגט דרייפוס	0	paranames-en-he-neg
+Bak Hirs	ישראל באק	0	paranames-en-he-neg
+Bengt Strömgren	בנט סמואלסון	0	paranames-en-he-neg
+Alonzo Bodden	אלונזו בייברס	0	paranames-en-he-neg
+Dom Justo Takayama	דום אום רומאו	0	paranames-en-he-neg
+Jordi Pujol	ז'ורדי מאסיפ	0	paranames-en-he-neg
+Karnit Bahartan	קרנית פלוג	0	paranames-en-he-neg
+Damasus II	דמסוס הראשון	0	paranames-en-he-neg
+Bärbel Kösters Lucchitta	ברבל אינהלדר	0	paranames-en-he-neg
+Appius Claudius Caudex	אפיוס קלאודיוס קאיקוס	0	paranames-en-he-neg
+Dasha Fuentes	דאשה אסטפייבה	0	paranames-en-he-neg
+Naḥaman Harṭman	נחמן בר רב חסדא	0	paranames-en-he-neg
+The Game	הונקי טונק מן	0	paranames-en-he-neg
+Giulio Tremonti	ג'וליו קרלו ארגאן	0	paranames-en-he-neg
+Mitsuru Matsui	מיטסורו אושיג'ימה	0	paranames-en-he-neg
+Cäcilie Avenarius	צציליה פון אסקלס	0	paranames-en-he-neg
+Aemilia Clara	אימיליה לפידה	0	paranames-en-he-neg
+Danielle Goldstein-Waldman	דניאל האריס	0	paranames-en-he-neg
+Jaafar Mohammed Saad	ג'עפר א-צאדק	0	paranames-en-he-neg
+Rockin' Robin	רוקין דופסי	0	paranames-en-he-neg
+Rachela Hutner	רחלה פופובצר	0	paranames-en-he-neg
+Esdra Pontremoli	עזרא אלחסיד	0	paranames-en-he-neg
+Arild Huitfeldt	ארילד אנדרסן	0	paranames-en-he-neg
+Emrah Karaduman	אמרה איפק	0	paranames-en-he-neg
+Tanner Foust	טאנר טסמן	0	paranames-en-he-neg
+Eiji Yoshikawa	אייג'י אוקאדה	0	paranames-en-he-neg
+Onur Bulut	אונור דוגאן	0	paranames-en-he-neg
+Rubens Peale	רובנס דה פאלקו	0	paranames-en-he-neg
+Umberto Cassuto	אומברטו אקו	0	paranames-en-he-neg
+Kori Inkpen	קורי ריי	0	paranames-en-he-neg
+Karen Avraham	קארן הורני	0	paranames-en-he-neg
+Jessika Muscat	ג'סיקה קאר	0	paranames-en-he-neg
+Aleksandre Basilaia	אלכסנדרה ג'אנלידזה	0	paranames-en-he-neg
+Teuku Umar	טאוקו יקוב	0	paranames-en-he-neg
+Sikandar Khan Lodi	סיקנדר האית ח'אן	0	paranames-en-he-neg
+Robi Shapira	רובי שונברגר	0	paranames-en-he-neg
+Sharafuddin I of Selangor	שראפודין לוטפילאייב	0	paranames-en-he-neg
+Aimery II de Lusignan	הזה	0	paranames-en-he-neg
+Margaret Rutherford	מרגרט מיורק	0	paranames-en-he-neg
+Jonnie West	יוני בור	0	paranames-en-he-neg
+Moses Hagiz	משה ברייטברד	0	paranames-en-he-neg
+Yō Yoshinari	יואל קלופט	0	paranames-en-he-neg
+Serhat Balcı	סרהאט	0	paranames-en-he-neg
+Clodoaldo	קלודואלדו סילבה	0	paranames-en-he-neg
+Hania Sinclair	הניה רני	0	paranames-en-he-neg
+Simcha Golan	שמחה זיסל זיו	0	paranames-en-he-neg
+daughter of Adrian II	בתו של יוליוס קונסטנטיוס	0	paranames-en-he-neg
+Attilio Fontana	אטיליו פראריס	0	paranames-en-he-neg
+Joost van den Broek	יוסט ואן דן פונדל	0	paranames-en-he-neg
+Misha Gabriel	מישה אזנבור	0	paranames-en-he-neg
+Burke Moses	בורק הנרי	0	paranames-en-he-neg
+Horia Sima	הוריה קרפ	0	paranames-en-he-neg
+Millard Mitchell	מילרד קאופמן	0	paranames-en-he-neg
+Dwayne Johnson	דוויין מיטשל	0	paranames-en-he-neg
+Minamoto no Yoshitsune	מינאמוטו נו יושיטומו	0	paranames-en-he-neg
+Chrissy Metz	כריסי טיגן	0	paranames-en-he-neg
+Vincenz Hruby	וינצנץ פטמילך	0	paranames-en-he-neg
+Benzi Brofman	בנצי ליברמן	0	paranames-en-he-neg
+Elana Arian	אילנה סונה	0	paranames-en-he-neg
+Leda Cosmides	לדה סמיונובה	0	paranames-en-he-neg
+Aurora Li	אאורורה פבלובנה דמידובה	0	paranames-en-he-neg
+Nijat Abasov	ניג'אט שיחאליזדה	0	paranames-en-he-neg
+Paulette Goddard	פאולט הורטי	0	paranames-en-he-neg
+Nicolae Gropeanu	ניקולאיה גוצה	0	paranames-en-he-neg
+Glynis Johns	גליניס נון	0	paranames-en-he-neg
+Manor Solomon	מנור חסן	0	paranames-en-he-neg
+Megan Andelloux	מייגן מקדונל	0	paranames-en-he-neg
+Ferenc Kazinczy	פרנץ הבשי	0	paranames-en-he-neg
+Zayn al-Din Gorgani	זאין מאליק	0	paranames-en-he-neg
+Alberto della Marmora	אלברטו גרנאדו	0	paranames-en-he-neg
+Stoyan Ganev	סטויאן דאנב	0	paranames-en-he-neg
+Sweyn III of Denmark	סוון השני, מלך דנמרק	0	paranames-en-he-neg
+Sylvie Gance	סילבי גאדמר	0	paranames-en-he-neg
+Maksymilian Horwitz	מקסימיליאן גולדשטיין	0	paranames-en-he-neg
+JP Karliak	ג'ייפי סאקס	0	paranames-en-he-neg
+Mufid Mari	מופיד נשאשיבי	0	paranames-en-he-neg
+Etay Shilony	איתי אקסלרד	0	paranames-en-he-neg
+Forrest Griffin	פורסט גודלאק	0	paranames-en-he-neg
+Gavin Spokes	גאווין שמיט	0	paranames-en-he-neg
+Zito	זיטו לובומבו	0	paranames-en-he-neg
+Finlay Knox	פינליי קורי	0	paranames-en-he-neg
+Timothé Rupil	טימותי לואוו-קברו	0	paranames-en-he-neg
+Lois Wyse	לואיס מקסוול	0	paranames-en-he-neg
+Yekusiel Yehuda Teitelbaum	יקותיאל יהודה הלברשטאם	0	paranames-en-he-neg
+Arye Juhász	אריה אבישר	0	paranames-en-he-neg
+Melvyn Ong	מלווין בראג	0	paranames-en-he-neg
+Marilyn Ruth Take	מרלין וורן	0	paranames-en-he-neg
+Alvan Cullom Gillem, Jr.	אלוון	0	paranames-en-he-neg
+Assis Adi	אסיס שאטובריאנד	0	paranames-en-he-neg
+Vano Merabishvili	ונו מורדלי	0	paranames-en-he-neg
+Fatima	פאטימה ג'ינה	0	paranames-en-he-neg
+Halim El-Dabh	חלים דמוס	0	paranames-en-he-neg
+Marye of Yejju	מארי אן פוקס	0	paranames-en-he-neg
+Chiang Peng-Lung	צ'יאנג קאי שק	0	paranames-en-he-neg
+Falk Hentschel	פלק הלפרין	0	paranames-en-he-neg
+Şehsuvar Sultan	שאהסוואר קאדין אפנדי	0	paranames-en-he-neg
+Cathy Murphy	קתי מקמוריס רוג'רס	0	paranames-en-he-neg
+Hay Plumb	היי פטרי	0	paranames-en-he-neg
+Micki Free	מיקי בוגנים	0	paranames-en-he-neg
+Noach Sluzki	נח פלוג	0	paranames-en-he-neg
+Maisie Peters	מייסי ריצ'רדסון סלרס	0	paranames-en-he-neg
+Elle Macpherson	אל ניומרק	0	paranames-en-he-neg
+Fergus Gordon Kerr	פרגוס סוטר	0	paranames-en-he-neg
+Bryant Reeves	בראיינט דאנסטון	0	paranames-en-he-neg
+Gardner Cole	גרדנר פוקס	0	paranames-en-he-neg
+Orah Shiloh	בן יוסף, אורה	0	paranames-en-he-neg
+Ingolf Dahl	אינגולף רוסברג	0	paranames-en-he-neg
+Marius Jolivet	מריוס לקטוש	0	paranames-en-he-neg
+Andrij Łozowski	אנדריג' פארק	0	paranames-en-he-neg
+Tsuri Śagi	צוריאל, דורית	0	paranames-en-he-neg
+Ishwar Chandra Gupta	אישוואר צ'אנדרה באסו	0	paranames-en-he-neg
+Irving Cummings	אירווינג קריסברג	0	paranames-en-he-neg
+Shaul Smadja	שאול פ. מונסליזה	0	paranames-en-he-neg
+Cesare Maldini	צ'זארה מריה דה וקי	0	paranames-en-he-neg
+Kazuyoshi Akiyama	קאזויושי מיורה	0	paranames-en-he-neg
+Kabir Akhtar	קאביר בדי	0	paranames-en-he-neg
+Grigori Kozintsev	גריגורי אלכסנדרוביץ' סטרוגנוב	0	paranames-en-he-neg
+Yevgeniy Chernukhin	יבגני דולמטובסקי	0	paranames-en-he-neg
+Tiago Camilo	טיאגו ספליטר	0	paranames-en-he-neg
+Javier Sotomayor	חאבייר בלבואה	0	paranames-en-he-neg
+Finola Hughes	פינולה דוואייר	0	paranames-en-he-neg
+Ruthie Kalman	רותי שץ	0	paranames-en-he-neg
+Serena Scott Thomas	סרינה ריידר	0	paranames-en-he-neg
+Lilly Guttmann	לילי וצ'אוסקי	0	paranames-en-he-neg
+Omry Perel	עמרי קורן	0	paranames-en-he-neg
+Clarissa Munger Badger	קלריסה פינקולה אסטס	0	paranames-en-he-neg
+Adler, Yitsḥaḳ Eliyahu, ha-Kohen	אדלער, שמריה מנשה, הכהן	0	paranames-en-he-neg
+Haley Lu Richardson	היילי אנדרסון	0	paranames-en-he-neg
+Arthur Chaskalson	ארתור לינדו פטרסון	0	paranames-en-he-neg
+Dudy Bar-Zvi	דודי שמאי	0	paranames-en-he-neg
+Mehmet Scholl	מחמט אוז	0	paranames-en-he-neg
+Sa'ar Benbenishti	סער פדידה	0	paranames-en-he-neg
+Redmond Barry	רדמונד אוניל	0	paranames-en-he-neg
+Jeb Bush	ג'ב סטיוארט	0	paranames-en-he-neg
+Telma Hopkins	תלמה מונטיירו	0	paranames-en-he-neg
+Mati Klarwein	רגב, מתי	0	paranames-en-he-neg
+Yoshitoshi	יושיטושי אבה	0	paranames-en-he-neg
+Jaclyn Barclay	ג'קלין סטאפ	0	paranames-en-he-neg
+Hasso von Manteuffel	האסו פלאטנר	0	paranames-en-he-neg
+Bilal Coulibaly	בילאל אל-ח'נוס	0	paranames-en-he-neg
+Bashar al-Zoubi	בשאר אבן בורד	0	paranames-en-he-neg
+Radek Šírl	ראדק צ'רני	0	paranames-en-he-neg
+Gohar Mamajiwala	גוהר גספריאן	0	paranames-en-he-neg
+Kie Kusakabe	קי קיטאנו	0	paranames-en-he-neg
+Zusha Schapiro	משולם זושא מאניפולי	0	paranames-en-he-neg
+Marinus II	מרינוס הראשון	0	paranames-en-he-neg
+Vinzenz Kiefer	וינצנץ שטל	0	paranames-en-he-neg
+Juha Pentikäinen	יואה ואטיינן	0	paranames-en-he-neg
+Zé Luís	זאב ייבין	0	paranames-en-he-neg
+Bireshwar Basu	בירשוואר פאנדיי	0	paranames-en-he-neg
+Shlomit Lica	טור פז, שלומית	0	paranames-en-he-neg
+Bismillah Khan Mohammadi	ביסמילה חאן	0	paranames-en-he-neg
+Marjorie, Countess of Carrick	מרג'ורי למברטי	0	paranames-en-he-neg
+Shaily Shindler	שי-לי ליפא	0	paranames-en-he-neg
+Edzard Ernst	אדזארד יאקוב ואן הולטה	0	paranames-en-he-neg
+Oszkár Kálmán	אוסקר יאסי	0	paranames-en-he-neg
+Donal Gibson	דונאל לוג	0	paranames-en-he-neg
+Alber Saber	אלבר אלבז	0	paranames-en-he-neg
+Stefanos Dedas	סטפנוס ציציפס	0	paranames-en-he-neg
+Jafudà Bonsenyor	יהודה אלפקים	0	paranames-en-he-neg
+Pancho Villa	פאנצ'ו ולדיגרוב	0	paranames-en-he-neg
+Hayyim Moses B. Silberrschuetz	חיים אריה זוטא	0	paranames-en-he-neg
+Ousmane Cisse	עוסמן סמבן	0	paranames-en-he-neg
+Panos Koronis	פאנוס קיאמוס	0	paranames-en-he-neg
+Siyabonga Nomvethe	ווסי קונן	0	paranames-en-he-neg
+Asim Abu Shakra	אסים פרחאטוביץ'	0	paranames-en-he-neg
+Andrés Neuman	אנדרס נוצ'יוני	0	paranames-en-he-neg
+Athanasius the Athonite	אתנסיוס	0	paranames-en-he-neg
+Louie Anderson	לואי רמזי	0	paranames-en-he-neg
+Cormac Wibberley	קורמאק מקארתי	0	paranames-en-he-neg
+Zen Gesner	זן מקגראת'	0	paranames-en-he-neg
+Gerschon Jarecki	גרשון בן אליעזר סגל	0	paranames-en-he-neg
+Cary Brothers	קארי פאולר	0	paranames-en-he-neg
+Kerri Strug	קרי גרין	0	paranames-en-he-neg
+Yael Rom	יעל לוטן	0	paranames-en-he-neg
+Trương Tấn Sang	תרונג צ'ין	0	paranames-en-he-neg
+Si Tianfeng	סי היימן	0	paranames-en-he-neg
+Eithne Coyle	איית'ן דאן	0	paranames-en-he-neg
+Al-Musta'in	אל-מסתעין הראשון	0	paranames-en-he-neg
+Luana Pinheiro	לואנה מנגרדו	0	paranames-en-he-neg
+Efraim Ilin	אפרים הלוי	0	paranames-en-he-neg
+Masaji Kiyokawa	מסאג'י קיטאנו	0	paranames-en-he-neg
+Yasha Romano	יעקב מנשירוב‎‎	0	paranames-en-he-neg
+Lital Shemesh	ליטל שוורץ	0	paranames-en-he-neg
+Thanasis Papazoglou	תנאסיס סקורטופולוס	0	paranames-en-he-neg
+Norio Sasaki	נוריו סוזוקי	0	paranames-en-he-neg
+Andy Gee	אנדי גולדוורת'י	0	paranames-en-he-neg
+Linnea Deb	דייוויד לינדסטרום	0	paranames-en-he-neg
+Tamer Hassan	טמר לבנט	0	paranames-en-he-neg
+Eynat Baranovsky	עינת גז	0	paranames-en-he-neg
+Nanette Fabray	ננט ברגן	0	paranames-en-he-neg
+Kay Redfield Jamison	קיי פיסקר	0	paranames-en-he-neg
+Deniz Çakır	דניז טק	0	paranames-en-he-neg
+Miroslav Vacek	מירוסלב מרקוביץ'	0	paranames-en-he-neg
+Akil Mitchell	אקיל קינג	0	paranames-en-he-neg
+Herennius Modestinus	הרניוס אטרוסקוס	0	paranames-en-he-neg
+Jure Francetić	יורה זדובץ	0	paranames-en-he-neg
+Jonathan Tammuz	ג'ונתן שואו	0	paranames-en-he-neg
+Madelyn Cline	מדלין דויטש	0	paranames-en-he-neg
+Zohara Yaniv	זוהרה	0	paranames-en-he-neg
+Rona Fromchenko	רונה סופר	0	paranames-en-he-neg
+Jost Amman	ג'וסט הרמנד	0	paranames-en-he-neg
+Katsuhiro Otomo	קצוהירו מצומוטו	0	paranames-en-he-neg
+Eugen Fischer de Farkasházy	אויגן פון קהלר	0	paranames-en-he-neg
+Farish Jenkins	פארי א. נור	0	paranames-en-he-neg
+Aleksa Palladino	אלכסה אברמוביץ'	0	paranames-en-he-neg
+Friedhelm Hans Hartmann	פרידהלם וינקלמן	0	paranames-en-he-neg
+Mauricio Vallina	מאוריציו רואה	0	paranames-en-he-neg
+Reuven Gal	ראובן כהן	0	paranames-en-he-neg
+Kristin Sigurdsdatter	קריסטין הרמל	0	paranames-en-he-neg
+Abhijit Kunte	אבהיג'יט באנרג'י	0	paranames-en-he-neg
+Dodie	דודי סמית	0	paranames-en-he-neg
+Dorothee Kern	דורותי מטליצקי	0	paranames-en-he-neg
+Jarrad Rogers	ג'ראד ברנת'וויט	0	paranames-en-he-neg
+Sol Lenzini	סול פוליטו	0	paranames-en-he-neg
+Taryn Manning	טארין פאואר	0	paranames-en-he-neg
+Wade Hampton III	וייד ויליאמס	0	paranames-en-he-neg
+Petteri Koponen	פטרי טאלאס	0	paranames-en-he-neg
+Jean-Christophe Rufin	ז'ן-כריסטוף יוקוז	0	paranames-en-he-neg
+Ezriel Tauber	עזריאל אוירבך	0	paranames-en-he-neg
+Slick Rick	סליק ווטס	0	paranames-en-he-neg
+Alen Ožbolt	אלן חלילוביץ'	0	paranames-en-he-neg
+Hirsh Polyanker	הירש לקרט	0	paranames-en-he-neg
+Henia Abramsky	הניה סוצ'ר-זיו	0	paranames-en-he-neg
+Kiran Chandra Bandyopadhyay	קיראן צ'אנד צ'אטופאדהיאי	0	paranames-en-he-neg
+Gershom Komarov	גרשם שלום	0	paranames-en-he-neg
+Samm Henshaw	סם לוין	0	paranames-en-he-neg
+Abbas	עבאס עלי ח'אן	0	paranames-en-he-neg
+Jicchak Lubelski	יצחק יעקב רבינוביץ	0	paranames-en-he-neg
+Sumner Welles	סאמנר לוק אליוט	0	paranames-en-he-neg
+Iain Banks	איאן ב. מקדונלד	0	paranames-en-he-neg
+Arvid Carlsson	ארויד קובל	0	paranames-en-he-neg
+Hari Nef	הארי קונזרו	0	paranames-en-he-neg
+Ned Block	נד באומן	0	paranames-en-he-neg
+Maryna Viazovska	מרינה קרוט	0	paranames-en-he-neg
+Wasfi Kabha	וספי א-תל	0	paranames-en-he-neg
+Amado Boudou	אמאדו קריו פואנטס	0	paranames-en-he-neg
+Ḳraʼus, Tsevi Aryeh	קראוס, מרים	0	paranames-en-he-neg
+Ryann Shane	ראיין רדמונד	0	paranames-en-he-neg
+Austen Rydell	אוסטן מיקולקה	0	paranames-en-he-neg
+Vivienne Westwood	ויויאן מינג	0	paranames-en-he-neg
+Ephrat Levy-Lahad	אפרת אביסרור פז	0	paranames-en-he-neg
+Vikas Gowda	ויקאס סווארופ	0	paranames-en-he-neg
+Inal Tasoev	אינאל גטיגז'ב	0	paranames-en-he-neg
+Donny Montell	דוני האת'וויי	0	paranames-en-he-neg
+Dezső Szomory	דז'ו קלר	0	paranames-en-he-neg
+Marcello Hernandez	מרסלו פיאצ'נטיני	0	paranames-en-he-neg
+Dmitri Kharine	דמיטרי שוסטקוביץ'	0	paranames-en-he-neg
+Minas Hantzidis	מינאס חאדזיסאבאס	0	paranames-en-he-neg
+Elwyn C. Lee	אלווין ראלף ברלקמפ	0	paranames-en-he-neg
+Vinod Khanna	וינוד כוסלה	0	paranames-en-he-neg
+Hisham III of Córdoba	הישאם מטאר	0	paranames-en-he-neg
+Silviu Purcărete	סילביו ברוקאן	0	paranames-en-he-neg
+Raḥel Shor	רחל ורנהגן	0	paranames-en-he-neg
+Talal Alkernawi	טלאל אסד	0	paranames-en-he-neg
+Tully Marshall	טולי בלנשארד	0	paranames-en-he-neg
+Isidora Sekulić	איזידורה גורשטר	0	paranames-en-he-neg
+Sten Suvio	סטן קונוב	0	paranames-en-he-neg
+Šefik Džaferović	שפיק בשלאגיץ'	0	paranames-en-he-neg
+Asya Lukin	אסיה רולס	0	paranames-en-he-neg
+Ephraim S Grossman	אפרים גרינבלט	0	paranames-en-he-neg
+Shifrah Shvarts	שפרה וינשטוק אשכול	0	paranames-en-he-neg
+Lucette Lagnado	לוסט דטוש	0	paranames-en-he-neg
+Wendela Hebbe	ונדלה ביקר	0	paranames-en-he-neg
+Christa McAuliffe	כריסטה וולף	0	paranames-en-he-neg
+General Nelson A. Miles	גנרל טום אצבעוני	0	paranames-en-he-neg
+Bohuslav Sobotka	בוהוסלב מרטינו	0	paranames-en-he-neg
+Josias Leslie Porter	ג'ושייה פריסט	0	paranames-en-he-neg
+Heraclides Lembus	הרקלידס	0	paranames-en-he-neg
+Nuno Espírito Santo	נונו רוקה	0	paranames-en-he-neg
+Ber Saryn	דב בר בורוכוב	0	paranames-en-he-neg
+Arash	אראש מרנדי	0	paranames-en-he-neg
+Veniamin Smekhov	וניאמין קאברין	0	paranames-en-he-neg
+Jennings Lang	יהודה טופל	0	paranames-en-he-neg
+Lavoslav Kadelburg	לאלוסלאב שוורץ	0	paranames-en-he-neg
+Rachel Barenblat	רייצ'ל הרטמן	0	paranames-en-he-neg
+Iztok Podbregar	איזטוק ירץ	0	paranames-en-he-neg
+Stevan Mirković	סטיבן לרנר	0	paranames-en-he-neg
+Cass Ballenger	קאס סאנשטיין	0	paranames-en-he-neg
+Jena Malone	ג'ינה גריזוולד	0	paranames-en-he-neg
+Ḥalamish, Mordekhai, 1912-1989	חלמיש, חן	0	paranames-en-he-neg
+Cody Johnson	קודי מולקו	0	paranames-en-he-neg
+Marleen Gorris	מרלין ויסינק	0	paranames-en-he-neg
+Moncef Souissi	מונצ'ף דוייב	0	paranames-en-he-neg
+Suzanne Karpelès	סוזן ברון	0	paranames-en-he-neg
+Phoenix Raei	פיניקס מארי	0	paranames-en-he-neg
+Ḳeller, Mosheh Uri	קלר רינו	0	paranames-en-he-neg
+Leonie Beck	לאוני סוואן	0	paranames-en-he-neg
+Leor Grady	ליאור צח	0	paranames-en-he-neg
+Arnon Bentur	ארנון בן-דוד	0	paranames-en-he-neg
+Noëlle Boisson	נואל פרקר	0	paranames-en-he-neg
+Jimena Barón	חימנה דיאס	0	paranames-en-he-neg
+Ambroise Louis Garneray	אמברואז פרה	0	paranames-en-he-neg
+Micky van de Ven	מיקי רוזנפלד	0	paranames-en-he-neg
+Abe Saperstein	אייב ויגודה	0	paranames-en-he-neg
+Basil Eidenbenz	בזיל סכרוף	0	paranames-en-he-neg
+Eleasar Löw	אלעזר פלקלס	0	paranames-en-he-neg
+Martinus J. G. Veltman	מרטינוס ביירינק	0	paranames-en-he-neg
+Marisa Román	מריסה מטרלה	0	paranames-en-he-neg
+Carmi Bartal	כרמי הורוביץ	0	paranames-en-he-neg
+Gamal  Hassan	גמאל עבד אל נאצר	0	paranames-en-he-neg
+Hanno	האנו פבקור	0	paranames-en-he-neg
+Jochen Rindt	יוכן פארטש	0	paranames-en-he-neg
+Kayla Emter	קיילה קרומר	0	paranames-en-he-neg
+García Jofre de Loaísa	גרסיה השני, מלך גליסיה	0	paranames-en-he-neg
+Batia Malka	בתיה קולטון	0	paranames-en-he-neg
+Gar Forman	מיכאל גרעין	0	paranames-en-he-neg
+Branco Weiss	ברנקו ואן דן בומן	0	paranames-en-he-neg
+Sadegh Goudarzi	צאדק הדאיאת	0	paranames-en-he-neg
+Carlon Jeffery	קרלון בראון	0	paranames-en-he-neg
+Huseyn Erkenov	חוסיין שהיד סוהרוורדי	0	paranames-en-he-neg
+Ingibiorg Finnsdottir	אינגיביורג מסקסוניה	0	paranames-en-he-neg
+Troilokyanath Mukhopadhyay	טרוילוקיאנת סאניאל	0	paranames-en-he-neg
+Nasim Pedrad	נסים מלול	0	paranames-en-he-neg
+Șmil Marcovici	שמיל רוכמן	0	paranames-en-he-neg
+Gilberto Kassab	ז'ילברטו ז'יל	0	paranames-en-he-neg
+Gia Gunn	ג'יה לונג	0	paranames-en-he-neg
+Aleks Marić	אלכס כרמל	0	paranames-en-he-neg
+Ina Césaire	אינה מאי גאסקין	0	paranames-en-he-neg
+Dana Terrace	דנה אלעזר-הלוי	0	paranames-en-he-neg
+Bronwen Hughes	ברונוון מנטל	0	paranames-en-he-neg
+Langston Galloway	לנגסטון יוז	0	paranames-en-he-neg
+Virginie Foucault	וירג'יני סט מרטין	0	paranames-en-he-neg
+Kaspar Hauser	קספר פון בארת	0	paranames-en-he-neg
+Saliou Guindo	סאליו סיס	0	paranames-en-he-neg
+Florence Pernel	פלורנס סטנלי	0	paranames-en-he-neg
+Donta Hall	דונטה סמית'	0	paranames-en-he-neg
+Mishori Bilu	מישורי, ישראל משה	0	paranames-en-he-neg
+Dagny Haraldsen	דאגני	0	paranames-en-he-neg
+Al-Walid I	אל-וליד השני	0	paranames-en-he-neg
+Sahl ben Matzliah	סהל בן סעד	0	paranames-en-he-neg
+Yasushi Shimamura	יאסושי ימאגוצ'י	0	paranames-en-he-neg
+Kees van Wonderen	קס אימניק	0	paranames-en-he-neg
+Nzingha Stewart	נג'ינגה מבנדה	0	paranames-en-he-neg
+Messaoud El Mediouni	מסעוד מעארך	0	paranames-en-he-neg
+Chan Ho Lim	צ'אן קנסטה	0	paranames-en-he-neg
+Denny Hulme	דני מנדס	0	paranames-en-he-neg
+Ibragim Gasanbekov	איברגים סמדוב	0	paranames-en-he-neg
+Rezső Bálint	רז'ה טרק	0	paranames-en-he-neg
+Angelo da Costa Júnior	אנג'לו מאי	0	paranames-en-he-neg
+Satyendranath Dutta	סאטיינדראנת טאגור	0	paranames-en-he-neg
+İsmail Özden	איסמעיל הוסיין סיראג'י	0	paranames-en-he-neg
+Yanay Ofran	ינאי ישראלי	0	paranames-en-he-neg
+Nataly Cahana	נטלי דון	0	paranames-en-he-neg
+Ben-Ḥayim, Avraham ben Daṿid	בן חיים, חיים, 1935-	0	paranames-en-he-neg
+Pyrrhus II of Epirus	פירוס	0	paranames-en-he-neg
+Natan Yehudah Leyb Mintsberg	נתן גשטטנר	0	paranames-en-he-neg
+Chin Han	צ'ינ נקאמורה	0	paranames-en-he-neg
+Ken Jay	קן האריס	0	paranames-en-he-neg
+Cleo Anthony	קלאו דה מרוד	0	paranames-en-he-neg
+Shmaya Smilan	שמעיה אביאלי	0	paranames-en-he-neg
+Avivi Yavin	אביבי זוהר	0	paranames-en-he-neg
+Erela Lehrer	אראלה גולן	0	paranames-en-he-neg
+Maureen Connolly	מורין אורת'	0	paranames-en-he-neg
+Zuhair Al-Karmi	זוהיר מוראד	0	paranames-en-he-neg
+Kat︠s︡, Ĭosef, 1977-	כץ, יוסף יצחק	0	paranames-en-he-neg
+Miro Ben Shimon	מירו ריס	0	paranames-en-he-neg
+Hannie Schaft	האני ליפס	0	paranames-en-he-neg
+Hanni Lévy	הני ונצל	0	paranames-en-he-neg
+Dane Clark	דיין דיהן	0	paranames-en-he-neg
+Phil Hellmuth	פיל גורדון	0	paranames-en-he-neg
+January Jones	ינוארי סוחודולסקי	0	paranames-en-he-neg
+Alexandrine Meley	אלכסנדרין ויקטואר אלאונור דמאס	0	paranames-en-he-neg
+Abu'l Haret Muhammad	מהיאר דילמי	0	paranames-en-he-neg
+Stian Kristiansen	סטיאן בארסנס סימונסן	0	paranames-en-he-neg
+Takayuki Mikami	טקיוקי אוהירה	0	paranames-en-he-neg
+Yoan Makoundou	יואן גופראן	0	paranames-en-he-neg
+Monobaz I	מונבז השני	0	paranames-en-he-neg
+Lakshmi Sahgal	לקשמי מנצ'ו	0	paranames-en-he-neg
+Haridas Goswami	הארידאס האלדר	0	paranames-en-he-neg
+Elinor Carucci	אלינור מרי דרווין	0	paranames-en-he-neg
+Tehila Hakimi	תהילה עופר	0	paranames-en-he-neg
+Ilze Graubiņa	אילזה יאונלקסנה	0	paranames-en-he-neg
+Maham Begum	מהאם אנגה	0	paranames-en-he-neg
+Avigdor Dagan	אביגדור קליין	0	paranames-en-he-neg
+Ullrich Haupt, Sr.	אולקיך זיראו	0	paranames-en-he-neg
+Mat Yeung	מאט אישביה	0	paranames-en-he-neg
+Rosa Manus	רוזה פון פראונהיים	0	paranames-en-he-neg
+Phoebe Adele Gates	פיבי אנה טראקייר	0	paranames-en-he-neg
+Octavia the Younger	אוקטביה סן לורן	0	paranames-en-he-neg
+Niaz Diasamidze	ניאז מורשד	0	paranames-en-he-neg
+Hugues Sicotte	איג אופרה	0	paranames-en-he-neg
+Anwar Hadid	אנואר סאדאת	0	paranames-en-he-neg
+Jessica Williams	ג'סיקה בייל	0	paranames-en-he-neg
+Zuzana Hejnová	זוזנה צ'פוטובה	0	paranames-en-he-neg
+Andra Day	אנדרה מיליאן	0	paranames-en-he-neg
+Kelsey Asbille	קלסי גראמר	0	paranames-en-he-neg
+Erdem Can	ארדם ארנר	0	paranames-en-he-neg
+Loyd Blankenship	לויד זיגמון	0	paranames-en-he-neg
+Monir Morad	מוניר שאהרודי פרמאן-פרמאיאן	0	paranames-en-he-neg
+Hilel Birger	הלל אלכסנדרוב	0	paranames-en-he-neg
+Dafne Schippers	דפני קין	0	paranames-en-he-neg
+Rochelle Mass	ראשל אדסון	0	paranames-en-he-neg
+Soudamini Debi	סאודאמיני סינגהא	0	paranames-en-he-neg
+Bjørn Arild Gram	ביירנסטרנה ביירנסון	0	paranames-en-he-neg
+Yaniv Lavi	יניב ביטון	0	paranames-en-he-neg
+Ozer Rabin	עוזר סמולנסקין	0	paranames-en-he-neg
+Jorja Smith	ג'ורג'ה פוקס	0	paranames-en-he-neg
+Zou Shiming	דזואו ין	0	paranames-en-he-neg
+Marika Rivera	מריקה מיצוטאקיס	0	paranames-en-he-neg
+Batyah Karmi	רכבי, בתיה, 1913-2006	0	paranames-en-he-neg
+Eusebius of Vercelli	אוסביוס	0	paranames-en-he-neg
+Riccardo Sottil	ריקרדו פרי	0	paranames-en-he-neg
+Enrico Corradini	חנוך הנריק גליצנשטיין	0	paranames-en-he-neg
+Ulrika Dahl	אולריקה אלאונורה, נסיכת דנמרק	0	paranames-en-he-neg
+Noam Akrish	נעם אליעז	0	paranames-en-he-neg
+Niv Sultan	ניב ליליאן	0	paranames-en-he-neg
+Muteesa I	מוטסה השני מבוגנדה	0	paranames-en-he-neg
+Coleman Hawkins	קולמן סטיוארט	0	paranames-en-he-neg
+Heraclius	ארקלה הראשון	0	paranames-en-he-neg
+Gwen Wetzler	גוון לה גאליין	0	paranames-en-he-neg
+Sylvana Simons	סילבנה ילדה	0	paranames-en-he-neg
+Carola Häggkvist	קרולה רגנייר	0	paranames-en-he-neg
+Z'ev ben Shimon Halevi	ז'אב	0	paranames-en-he-neg
+Oved Yehezkel	עובד שיפריס	0	paranames-en-he-neg
+Slobodan Kovačevski	סלובודן רובזיץ'	0	paranames-en-he-neg
+Hedi Slimane	הדי נפאטי	0	paranames-en-he-neg
+Stipe Pletikosa	סטיפה מיוצ'יצ'	0	paranames-en-he-neg
+Wassily de Basil	וסילי לאונטיף	0	paranames-en-he-neg
+Yoo Ju-eun	יו א אין	0	paranames-en-he-neg
+Elnatan Salami	אלנתן שלום	0	paranames-en-he-neg
+Ẓebi Hirsch Dainow	צבי הירש הכהן שרשבסקי	0	paranames-en-he-neg
+Moctezuma II	מוקטסומה הראשון	0	paranames-en-he-neg
+Toma Nikiforov	"ישעיהו תומא שי""ק"	0	paranames-en-he-neg
+Marit Ruth	מרית מייסלר	0	paranames-en-he-neg
+Mikhaʾel Grinshṭain	מיכאל אברהם	0	paranames-en-he-neg
+Tamzin Malleson	טמזין אאותווייט	0	paranames-en-he-neg
+Ino Topper	אינו שאקי	0	paranames-en-he-neg
+Jacko Razon	ג'קו אייזנברג	0	paranames-en-he-neg
+Lavinia Veiongo Fotu	לוויניה פונטנה	0	paranames-en-he-neg
+Ilan Moyal	אילן בוארון	0	paranames-en-he-neg
+Chaya Brodie	חיה שחם	0	paranames-en-he-neg
+Jhon Durán	ג'ון קולמה	0	paranames-en-he-neg
+Lázaro Martínez	לאסרו קארדנאס	0	paranames-en-he-neg
+Cris Judd	כריס סייבורג	0	paranames-en-he-neg
+Narine Aleksanyan	נארין דובלאטיאן	0	paranames-en-he-neg
+Iacob Salomo ben Aravi	יעקב פליקס	0	paranames-en-he-neg
+Bernshṭain, Mosheh	ברנשטין, עמינדב	0	paranames-en-he-neg
+Kamla Persad-Bissessar	קמלה פאנט	0	paranames-en-he-neg
+Hero of Alexandria	הירו פיינס-טיפין	0	paranames-en-he-neg
+Eléanore de Roye	אלאונורה מגדלנה מסקסוניה-צייץ	0	paranames-en-he-neg
+Idi Amin	רב אידי בר אבין	0	paranames-en-he-neg
+Rose McConnell Long	רוזה פלטסון	0	paranames-en-he-neg
+Gavi Thompson	גאבי	0	paranames-en-he-neg
+Semyon Dukach	סמיון טרסקונוב	0	paranames-en-he-neg
+Alphons von Mensdorff-Pouilly	אלפונס טהון	0	paranames-en-he-neg
+Chilonis	כילוניס	0	paranames-en-he-neg
+Kenichi Fukui	קניצ'י סוזומורה	0	paranames-en-he-neg
+Václav Chvátal	ואצלב האוול	0	paranames-en-he-neg
+Buddy Holly	באדי איבסן	0	paranames-en-he-neg
+Leora Vinik	לאורה ריבלין	0	paranames-en-he-neg
+Stevo Teodosievski	סטבו פנדרובסקי	0	paranames-en-he-neg
+Harve Bennett	הארווי פוסטר	0	paranames-en-he-neg
+Leopold Horovitz	לאופולד הרביעי, דוכס אנהלט	0	paranames-en-he-neg
+Renat Dadashov	רנאט סיידוף	0	paranames-en-he-neg
+Kang Sheng	קאנג דניאל	0	paranames-en-he-neg
+Jung Jae-il	רונג ג'אנג	0	paranames-en-he-neg
+Ato Mukhamedshanov	אטו בולדון	0	paranames-en-he-neg
+Jackie Nespral	ג'קי ברוייר	0	paranames-en-he-neg
+Blagoje Marjanović	בלאגויה אג'יץ'	0	paranames-en-he-neg
+Hampton Sides	המפטון פנצ'ר	0	paranames-en-he-neg
+Vissarion Belinsky	סרגיי טורופ	0	paranames-en-he-neg
+Antigonus I	מתתיהו אנטיגונוס השני	0	paranames-en-he-neg
+Algernon de Horsey	אלגרנון צ'ארלס סווינבורן	0	paranames-en-he-neg
+Hananiah	חנניה רייכמן	0	paranames-en-he-neg
+Tommaso Landolfi	תומאסו טרטה	0	paranames-en-he-neg
+Ludwig Dürr	לודוויג האנס פישר	0	paranames-en-he-neg
+Lacey Von Erich	לייסי בנגהארד	0	paranames-en-he-neg
+Chika Anadu	צ'יקה	0	paranames-en-he-neg
+Skip Marley	סקיפ וודס	0	paranames-en-he-neg
+Bence Szabolcsi	פיטר בנס	0	paranames-en-he-neg
+Nnamdi Kanu	ננמדי אזיקיווה	0	paranames-en-he-neg
+Danny Yatom	דני שלום	0	paranames-en-he-neg
+Édouard Herriot	אדוארד וולף	0	paranames-en-he-neg
+Madhav Gadgil	מדהב שת	0	paranames-en-he-neg
+Zahi Karkabi	צחי גיגי	0	paranames-en-he-neg
+Linoy Rogers	לינוי בר-גפן	0	paranames-en-he-neg
+Raquel Chalfi	רחל טורס	0	paranames-en-he-neg
+Chiaki Mukai	צ'יאקי קוריאמה	0	paranames-en-he-neg
+Peggy Shippen	מרגרט  מילר	0	paranames-en-he-neg
+Bilhah Rubinstein	בלהה מנהיים	0	paranames-en-he-neg
+Avraam Miletsky	אברהם בן-ארויה	0	paranames-en-he-neg
+Fredi Washington	פרדי וולקר	0	paranames-en-he-neg
+Józef Wybicki	יוזף קרונר	0	paranames-en-he-neg
+Jackson La Mar	ג'קסון ברונדג'	0	paranames-en-he-neg
+Hanita Rosenbluth	חניתה צנטנר	0	paranames-en-he-neg
+Amin Hossein Rahimi	אמין טריף	0	paranames-en-he-neg
+Grainne Marmion	גרייני מרפי	0	paranames-en-he-neg
+Pio Baroja	פיו אנג'לטי	0	paranames-en-he-neg
+Hamza Ali Al-Khateeb	חמזה אבן עבד אלמטלב	0	paranames-en-he-neg
+Stone Cold Steve Austin	סטון גוסארד	0	paranames-en-he-neg
+Catharine MacKinnon	קתרין מקולי	0	paranames-en-he-neg
+Autumn de Wilde	אוטומן רייסיר	0	paranames-en-he-neg
+Eloise Harriet Stannard	אלואיז ג'רוויס מקגרו	0	paranames-en-he-neg
+Deni Hočko	דני אבדיה	0	paranames-en-he-neg
+János Kerekes	יאנוש הרשקו	0	paranames-en-he-neg
+Karan Kapoor	קארן אוברוי	0	paranames-en-he-neg
+Gauthier Destenay	גוטייה גרומייה	0	paranames-en-he-neg
+Ilija Martinović	איליה נסטורובסקי	0	paranames-en-he-neg
+Karim Rekik	כרים אוניסיוו	0	paranames-en-he-neg
+Lasha Shavdatuashvili	לאשה ז'ווניה	0	paranames-en-he-neg
+Ludmilla Tchérina	לודמילה אסינג	0	paranames-en-he-neg
+Leni Klum	לני פרקר	0	paranames-en-he-neg
+Maude Barlow	מוד נוג׳נט	0	paranames-en-he-neg
+Adiel Amorai	עדיאל שרמר	0	paranames-en-he-neg
+Selma Bacha	סלמה שטרן	0	paranames-en-he-neg
+Thelma Connell	תלמה בורדמן	0	paranames-en-he-neg
+Hernán Medford	הרנן סילס זוזאו	0	paranames-en-he-neg
+Unai Núñez	אונאי סימון	0	paranames-en-he-neg
+Wladimir Köppen	ולדימיר מקובסקי	0	paranames-en-he-neg
+Gavril Radomir	גאבריל דז'או	0	paranames-en-he-neg
+Yitschak Shnoor	מיכל הכהן	0	paranames-en-he-neg
+Raf Simons	ראף ואלונה	0	paranames-en-he-neg
+D'Arcy Wentworth Thompson	דארסי קארדן	0	paranames-en-he-neg
+Ciara Janson	קיארה רנה	0	paranames-en-he-neg
+Rodney Alcala	רודני רולנד	0	paranames-en-he-neg
+Tahia Halim	תחיה קאזם	0	paranames-en-he-neg
+Joanna Brooks	ג'ואנה זיגר	0	paranames-en-he-neg
+Jean-Patrick Courtois	ז'אן-פטריק מאנשט	0	paranames-en-he-neg
+Yehoshafat Harkabi	יהושפט הראל	0	paranames-en-he-neg
+Yoshio Taniguchi	יושיאו נישינה	0	paranames-en-he-neg
+Clara Calamai	קלרה ברטרם טיילור	0	paranames-en-he-neg
+Abed Abdi	מיריה אובוטה	0	paranames-en-he-neg
+Alena Alova	אלונה איב	0	paranames-en-he-neg
+Tucker Carlson	טאקר גייטס	0	paranames-en-he-neg
+Debra Monk	דברה וינגר	0	paranames-en-he-neg
+Dorian Missick	דוריאן פיני-סמית'	0	paranames-en-he-neg
+Manning Redwood	מנינג קלארק	0	paranames-en-he-neg
+Rashid Tali’a	ראשיד ג'ונסון	0	paranames-en-he-neg
+Damion Lowe	דיימיון לי	0	paranames-en-he-neg
+Malkah Shapiro	מלכה מוצ'ניק	0	paranames-en-he-neg
+Shen Congwen	שנג טונג	0	paranames-en-he-neg
+Alla Mazur	אלה טומניאן	0	paranames-en-he-neg
+Kat Blaque	קאט דנינגס	0	paranames-en-he-neg
+Rachelle Alterman	רחל שפרכר-פרנקל	0	paranames-en-he-neg
+Grisha Arad	גרישה פיליפוב	0	paranames-en-he-neg
+Scoot McNairy	סקוט הנדרסון	0	paranames-en-he-neg
+Ortal Ben-Shoshan	אורטל אורן	0	paranames-en-he-neg
+Khaim Mogilever	חיים משה יואל מארגאלעס דאווידזאן	0	paranames-en-he-neg
+Kasriel Broydo	כתריאל צבי שרהזון	0	paranames-en-he-neg
+Xie Fuzhi	שיה ג'ון	0	paranames-en-he-neg
+Kaikh, Gidʻon, 1923-2015	קייך, דובי, 1968-	0	paranames-en-he-neg
+Belah Golombovits	בלה אלמוג	0	paranames-en-he-neg
+Teófilo Cubillas	טאופילו גוטיירס	0	paranames-en-he-neg
+Yardena Hadas	גבתי, ירדנה	0	paranames-en-he-neg
+Túpac Amaru II	טופאק אמארו	0	paranames-en-he-neg
+Mulla Mahmud Jaunpuri	מולא סדרא	0	paranames-en-he-neg
+Dubi Benyamini	דובי לנץ	0	paranames-en-he-neg
+Roh Moo-hyun	רו טי-וו	0	paranames-en-he-neg
+Yaqob Zera	יעקב, קיסר אתיופיה	0	paranames-en-he-neg
+Pau Gasol	פבלו קזאלס	0	paranames-en-he-neg
+Camilo José Cela	קמילו חוסה סלה קונדה	0	paranames-en-he-neg
+Hernando de Alarcón	ארננדו דה גריחלווה	0	paranames-en-he-neg
+Anne-Marie Cazalis	אן-מארי דוד	0	paranames-en-he-neg
+Rusty Joiner	רסטי שווימר	0	paranames-en-he-neg
+Ignác Gábor	איגנץ' מולנר	0	paranames-en-he-neg
+Madeleine Kunin	מדלין מרטין	0	paranames-en-he-neg
+Ariston of Chios	אריסטון	0	paranames-en-he-neg
+Tuomas Vohlonen	תומאס קנטלינן	0	paranames-en-he-neg
+Đura Jakšić	ג'וראג' בראנקוביץ	0	paranames-en-he-neg
+Viktoriya Isakova	ויקטוריה סמיוקה	0	paranames-en-he-neg
+Murdoch Mitchison	מרדוך סטיוארט, דוכס אולבני	0	paranames-en-he-neg
+Pierce Fulton	פירס לפייג'	0	paranames-en-he-neg
+Yariv Krieger	יריב, עמית	0	paranames-en-he-neg
+Adlai Stevenson III	עדלי סטיבנסון	0	paranames-en-he-neg
+Joe Lombardo	ג'ו דונלי	0	paranames-en-he-neg
+Helge Kragh	הלגה אולב	0	paranames-en-he-neg
+Vicky Peretz	ויקי ג'ונס	0	paranames-en-he-neg
+Farrah Franklin	פארה מון	0	paranames-en-he-neg
+Şebnem Korur Fincancı	שבנם פאקר	0	paranames-en-he-neg
+ʻIlai Boṭner	עילאי הרסגור-הנדין	0	paranames-en-he-neg
+Steeve Elana	סטיב יאגו	0	paranames-en-he-neg
+Marielle Labèque	מריאל הלר	0	paranames-en-he-neg
+Spiridon Trikoupis	ספירידון יאניוטיס	0	paranames-en-he-neg
+Eraldo Da Roma	ארלדו פצ'י	0	paranames-en-he-neg
+Beryl Clutterbuck Markham	בריל גאסטאלדלו	0	paranames-en-he-neg
+Vsevolod Larionov	וסבולוד פודובקין	0	paranames-en-he-neg
+Katie Hill	קייטי אולברייט	0	paranames-en-he-neg
+Friedemann Schrenk	פרידמן שמול	0	paranames-en-he-neg
+Rumen Radev	רומן פטקוב	0	paranames-en-he-neg
+Isidor Straus	איזידור ריינר	0	paranames-en-he-neg
+Mervyn LeRoy	מרוין וורן	0	paranames-en-he-neg
+Pietro Lorenzetti	פייטרו טראדוניקו	0	paranames-en-he-neg
+Dafydd Williams	דוויד' אפ גריפיד'	0	paranames-en-he-neg
+Prasanta Chandra Mahalanobis	פארנסטה פאטאנייאק	0	paranames-en-he-neg
+Yair Naveh	יאיר מיכאלי	0	paranames-en-he-neg
+Cassandra Jean	קסנדרה אוסטין	0	paranames-en-he-neg
+Tobi Vail	טובי אמוסן	0	paranames-en-he-neg
+Nándor Szenkár	נאנדור מדראשי-בק	0	paranames-en-he-neg
+Shigenori Tōgō	שיגנורי מטסוי	0	paranames-en-he-neg
+Yahia Fofana	יחיא עטיית אללה	0	paranames-en-he-neg
+Yeala Hazut	יעלה שקד	0	paranames-en-he-neg
+Hadasa Rubin	הנדלר, הדסה	0	paranames-en-he-neg
+Landon Pigg	לנדון ליבוירון	0	paranames-en-he-neg
+America Ferrera	אמריקה אוליבו	0	paranames-en-he-neg
+Apollo Crews	מילטון אובוטה	0	paranames-en-he-neg
+Ithobaal III	אתבעל השני	0	paranames-en-he-neg
+William Abadie	ויליאם קליי פורד	0	paranames-en-he-neg
+Faiz Ahmad	פאיז אבו סהיבאן	0	paranames-en-he-neg
+Přemysl Pitter	יאנסה פרמיסל	0	paranames-en-he-neg
+Arata Isozaki	אראטה פורוטה	0	paranames-en-he-neg
+Bénédicte Savoy	בנדיקט קווראור	0	paranames-en-he-neg
+Kiyoshi Yoshida	קיושי נאקאמורה	0	paranames-en-he-neg
+Carlton Henry Hoel	קרלטון למקה	0	paranames-en-he-neg
+Sașa Pană	סשה לוקיץ'	0	paranames-en-he-neg
+Mayana Neiva	מעיינה זץ	0	paranames-en-he-neg
+Yeshaq Iyasu	יסחק הראשון, קיסר אתיופיה	0	paranames-en-he-neg
+Hadassa Biribis-Uri	הדסה סמואל	0	paranames-en-he-neg
+Pasteur Rahajason	פסטר ביזימונגו	0	paranames-en-he-neg
+Yisrael Hasson	ישראל מנדל קפלן	0	paranames-en-he-neg
+Izak Parviz Nazarian	יצחק אלוני	0	paranames-en-he-neg
+Din Yacov Gemer	דין דין אביב	0	paranames-en-he-neg
+Aesop	אייסופ רוק	0	paranames-en-he-neg
+Modibo Adama	מודיבו מאיגה	0	paranames-en-he-neg
+Horacio Rodríguez Larreta	הוראסיו קארטס	0	paranames-en-he-neg
+Sardar Muhammad Ibrahim Khan	סרדר ביגלרי	0	paranames-en-he-neg
+Ansel Braun	אנסל אלגורט	0	paranames-en-he-neg
+Iris Peake	איריס דינרמן	0	paranames-en-he-neg
+Uziel Beller	עוזיאל חזן	0	paranames-en-he-neg
+Shakira Micklewhite	שאקירה	0	paranames-en-he-neg
+Lowry Mays	לורי קול	0	paranames-en-he-neg
+Jody Allen	ג'ודי ויליאמס	0	paranames-en-he-neg
+Branislav Ivanović	ברניסלאב יובאנוביץ'	0	paranames-en-he-neg
+Cosmé McMoon	קוסמה דה טורס	0	paranames-en-he-neg
+Shaykh Muhammad-'Alí	שיח' חידר	0	paranames-en-he-neg
+Bülent Ecevit	בילנט ארסוי	0	paranames-en-he-neg
+Viggo Mortensen	ויגו ברון	0	paranames-en-he-neg
+Gergely Csiky	גרגיי טאפולצאי	0	paranames-en-he-neg
+Helmut Klingen	הלמוט הסה	0	paranames-en-he-neg
+Ingo Wellenreuther	אינגו מצמאכר	0	paranames-en-he-neg
+Naphtali Levy	נפתלי הרץ וייזל	0	paranames-en-he-neg
+Wallis Currie-Wood	ווליס סימפסון	0	paranames-en-he-neg
+Yoash Tzidon	יואש ועדיה	0	paranames-en-he-neg
+Umar ibn Al-Khattāb	עומר שייח' מירזא	0	paranames-en-he-neg
+Brooklyn Sudano	ברוקלין בקהאם	0	paranames-en-he-neg
+Gerrit Graham	חריט דאו	0	paranames-en-he-neg
+Rinah Nezer	אסחייק, רינה	0	paranames-en-he-neg
+Edison Azcona	אדיסון צ'אן	0	paranames-en-he-neg
+Julen Lopetegui	יולן אגירסבאלה	0	paranames-en-he-neg
+Jasmine Richards	יסמין ליו	0	paranames-en-he-neg
+Nita Lowey	ניטה מהטה	0	paranames-en-he-neg
+Mnesarchus of Athens	מנסרכוס	0	paranames-en-he-neg
+Guglielmo Nasi	גוליילמו ויקאריו	0	paranames-en-he-neg
+Tukulti-Ninurta I	תוכולתי-נינורתה השני	0	paranames-en-he-neg
+Alicia Coutts	אליסיה דיקנשטיין	0	paranames-en-he-neg
+Katz, Ḥaim V.	כץ, ירמיהו בן יחיאל מיכל	0	paranames-en-he-neg
+Blaze Berdahl	בלייז ביילי	0	paranames-en-he-neg
+Brice Sensabaugh	בריס פורנייה	0	paranames-en-he-neg
+Brennan Morris	ברנן קלוסט	0	paranames-en-he-neg
+Petras Avižonis	פטרס גרישקביצ'יוס	0	paranames-en-he-neg
+Esti Zakhem	אסתי ממו	0	paranames-en-he-neg
+Chick Corea	צ'יק האלברט	0	paranames-en-he-neg
+Kaia Gerber	קאיה קאנפי	0	paranames-en-he-neg
+Elinoar Moav	אלינער ברקת	0	paranames-en-he-neg
+Stephen McCole	סטיבן וורד	0	paranames-en-he-neg
+Yoshihide Suga	יושיהידה האיישי	0	paranames-en-he-neg
+Dejan Bodiroga	דיאן סביצ'ביץ'	0	paranames-en-he-neg
+Isar Josef Einhorn	איסר קלונסקי	0	paranames-en-he-neg
+Grete Reichmann	גרטה פאיה	0	paranames-en-he-neg
+Bregman, Ḥ. P.	ברעגמאן, שמואל, 1891-1942	0	paranames-en-he-neg
+Dimitry Shumsky	דימיטקי אליישקביץ	0	paranames-en-he-neg
+Torii Mototada	טורי קיונאגה	0	paranames-en-he-neg
+Gitta Alpár	גיטה הלאס	0	paranames-en-he-neg
+Kai McKenzie-Lyle	קאי האברץ	0	paranames-en-he-neg
+Fadi Zidan	פאדי אל-הדמי	0	paranames-en-he-neg
+Ney Rosauro	ברנאט ניי	0	paranames-en-he-neg
+Geraldine Doyle	ג'רלדין פיצג'רלד	0	paranames-en-he-neg
+Olha Saladukha	אולגה, נסיכת קייב	0	paranames-en-he-neg
+Humphry Repton	האמפרי דייווי	0	paranames-en-he-neg
+Daiki Iwamasa	דייקי האשיוקה	0	paranames-en-he-neg
+Bronson Reed	ברונסון וב	0	paranames-en-he-neg
+Will Chase	ויל קליי	0	paranames-en-he-neg
+Orly Reiner	אורלי קסטל-בלום	0	paranames-en-he-neg
+Yiftach Ashkenazi	יפתח רייכר-עתיר	0	paranames-en-he-neg
+Anya Lahiri	אניה צ'אלוטרה	0	paranames-en-he-neg
+Luan Vieira	לואן סנטנה	0	paranames-en-he-neg
+Friedrich Weber	פרידריך פון אמרלינג	0	paranames-en-he-neg
+Theophil Wurm	תאופיל הנסן	0	paranames-en-he-neg
+Crazy Mike	סוס משוגע	0	paranames-en-he-neg
+Eneko Sagardoy	אנאקו לנדבורו	0	paranames-en-he-neg
+Harel Gordin	הראל ברזילי	0	paranames-en-he-neg
+Guðni Jóhannesson	גוד'מונדור קמבן	0	paranames-en-he-neg
+Franck Honorat	פרנק צ'רוטי	0	paranames-en-he-neg
+Fern Britton	פרן מייקלס	0	paranames-en-he-neg
+Aisha	הישה הינדס	0	paranames-en-he-neg
+Drora Domini	ליבנה, דרורה, 1955-	0	paranames-en-he-neg
+Mory Kanté	מורי דיאו	0	paranames-en-he-neg
+Ásgeir Sigurvinsson	אאוסגייר אאוסגיירסון	0	paranames-en-he-neg
+Saba Aziz	סאבא סומך	0	paranames-en-he-neg
+Janel Parrish	ג'נל מולוני	0	paranames-en-he-neg
+Nika Turković	ניקה מליה	0	paranames-en-he-neg
+Mel Lewis	מל סטיוארט	0	paranames-en-he-neg
+Saleh Abdullah Saleh Al-Ahmar	סאלח סלים	0	paranames-en-he-neg
+Shapur III	שאפור הראשון	0	paranames-en-he-neg
+Annibale Lippi	אניבאלה זואילו	0	paranames-en-he-neg
+Tonino Valerii	טונינו גוארה	0	paranames-en-he-neg
+Yaropolk I of Kyiv	יארופולק השני, נסיך קייב	0	paranames-en-he-neg
+Évrard Titon du Tillet	אברהרד, רוזן לימבורג-שטירום	0	paranames-en-he-neg
+Gesine Krüger	גזינה פרזה	0	paranames-en-he-neg
+Levia Manos	לביאה אפלבום	0	paranames-en-he-neg
+Åsta Gudbrandsdatter	אסטה נילסן	0	paranames-en-he-neg
+Shaḥaḳ, Rut	שחק ברנר	0	paranames-en-he-neg
+Hans-Jürgen Fip	הנס-יורגן שטומפף	0	paranames-en-he-neg
+Yuriy Arabov	יורי סדיך	0	paranames-en-he-neg
+Josefine Domes	יוזפין סובודה	0	paranames-en-he-neg
+Jesse Bradford	ג'ס ליברמור	0	paranames-en-he-neg
+Tai Baribo	טאי אורטהאי	0	paranames-en-he-neg
+Luciano Spalletti	לוסיאנו פרננדש	0	paranames-en-he-neg
+Vidal Benveniste	וידאל הצרפתי	0	paranames-en-he-neg
+Eliaz Kohen	אליעז סגל	0	paranames-en-he-neg
+Orin Julie	אורין רוזנר	0	paranames-en-he-neg
+Yevgeniya Lapova	יבגניה קולודקו	0	paranames-en-he-neg
+Agha Petros	אגא שאהיד עלי	0	paranames-en-he-neg
+Marcin Mroziński	מרצ'ין קמינסקי	0	paranames-en-he-neg
+Anne Wood	אן מארי	0	paranames-en-he-neg
+Gidʻon, Roberṭ	גדעון שונמי	0	paranames-en-he-neg
+Holland Roden	הולנד	0	paranames-en-he-neg
+Pauline Gracia Beery Mack	פולין דייוויס-תומפסון	0	paranames-en-he-neg
+Badri Patarkatsishvili	בדרי מאיסורדזה	0	paranames-en-he-neg
+Harold Courlander	הרולד ה. בנדר	0	paranames-en-he-neg
+Rawhi Mushtaha	רוחי פתוח	0	paranames-en-he-neg
+Hana Barak Engel	האנה	0	paranames-en-he-neg
+Siegbert Salomon Prawer	זיגברט טאראש	0	paranames-en-he-neg
+Rickard Öste	ריקרד יירנסון	0	paranames-en-he-neg
+Mariah Bonner	גיבנר, מריה	0	paranames-en-he-neg
+Laraine Day	לריין ניומן	0	paranames-en-he-neg
+Paul-Émile Borduas	פול-אמיל דאיבר	0	paranames-en-he-neg
+Kinga Duda	קינגה קסוזסור	0	paranames-en-he-neg
+Hayuta Bahat	חיותה בוסל	0	paranames-en-he-neg
+Riad Salameh	ריאד א-סולח	0	paranames-en-he-neg
+Timaeus of Locri	טימאיוס	0	paranames-en-he-neg
+Raimond Aumann	ריימונד גייטה	0	paranames-en-he-neg
+Ṭeller, Shemuʼel Shelomoh	טלר	0	paranames-en-he-neg
+Jenni Hermoso	ג'ני וויליאמס	0	paranames-en-he-neg
+Leah Jamieson	לאה לב	0	paranames-en-he-neg
+Emmet O'Neal	אמט בויל	0	paranames-en-he-neg
+Berengaria of Navarre	ברנגריה מפורטוגל	0	paranames-en-he-neg
+Jota	ג'וטה ימאמוטו	0	paranames-en-he-neg
+Iakob Gogebashvili	יעקב ניקולדזה	0	paranames-en-he-neg
+Jelle Bataille	ילה דוין	0	paranames-en-he-neg
+Cameron Monaghan	קמרון ת'ור	0	paranames-en-he-neg
+Secondo Pia	סקונדו קמפיני	0	paranames-en-he-neg
+Avichai Mibar	אביחי רונצקי	0	paranames-en-he-neg
+Meira Weiss	מאירה מנסור	0	paranames-en-he-neg
+Ronke Ojo	רונקה אודוסניה	0	paranames-en-he-neg
+Lygdamis II	ליגדמיס הראשון	0	paranames-en-he-neg
+Isiah Pacheco	אייזיאה וייטלוק ג'וניור	0	paranames-en-he-neg
+Meghan Heffern	מייגן מקארתי	0	paranames-en-he-neg
+Mykhailo Verbytskyi	מיכאילו דרהומאנוב	0	paranames-en-he-neg
+Josefa Bayeu	ג'וזפה דה אובידוש	0	paranames-en-he-neg
+Avraham Katz	אברהם זיגמן	0	paranames-en-he-neg
+Dorrit Yaacoby	דורית מוסאיוף	0	paranames-en-he-neg
+Velimir Stjepanović	ולימיר מיכאילו תאודורוביץ'	0	paranames-en-he-neg
+Cullen Moss	קאלן ג'ונס	0	paranames-en-he-neg
+Tzur Rupin	צור שיזף	0	paranames-en-he-neg
+Bashir Eiti	באשיר אחמד	0	paranames-en-he-neg
+Sidonia Sidon	סידוניה פון בורק	0	paranames-en-he-neg
+Bacurius III of Iberia	באקוריוס האיברי	0	paranames-en-he-neg
+Turgut Özal	דראגוט	0	paranames-en-he-neg
+Takahiro Moriuchi	טאקאהירו האצ'יגו	0	paranames-en-he-neg
+Carolin Simon	קרולין וייס	0	paranames-en-he-neg
+Mstislav Keldysh	מסטיסלב דובוז'ינסקי	0	paranames-en-he-neg
+Alberico Albricci	אלבריגו אבאני	0	paranames-en-he-neg
+Lactantius Placidus	לקטאנטיוס	0	paranames-en-he-neg
+Valentine Telegdi	ולנטינוס	0	paranames-en-he-neg
+Yelizaveta Bibikova	יליזבטה סווילובה	0	paranames-en-he-neg
+Zypora Frank	ציפורה ספייסמן	0	paranames-en-he-neg
+Katarzyna Wilk	קתרינה פלדמן	0	paranames-en-he-neg
+Gao Yaojie	גאו מין	0	paranames-en-he-neg
+Shuto Machino	שוטו אבה	0	paranames-en-he-neg
+Joop Stoffelen	יופ זוטמלק	0	paranames-en-he-neg
+Salma Hayek	סלמה ג'איוסי	0	paranames-en-he-neg
+Cornelis Antonius Bombach	קורנליס נורברטוס גיסברכטס	0	paranames-en-he-neg
+Hila Vazan	נועם, הילה	0	paranames-en-he-neg
+Xenophon Overton Pindall	קסנופון איש אפסוס	0	paranames-en-he-neg
+Haraprasad Roy	הארפראסד שאסטרי	0	paranames-en-he-neg
+Thornton Chase	תורונתון פרילנד	0	paranames-en-he-neg
+Mrs Jonson	פטריק קמפבל	0	paranames-en-he-neg
+Gelbarṭ, Iris	גלברט, מרדכי	0	paranames-en-he-neg
+Fritz Feld	פריץ ריגר	0	paranames-en-he-neg
+Shashibhushan Purakayastha	שאשיבהושאן וידיאלאנקאר	0	paranames-en-he-neg
+Dixie D'Amelio	דיקסי דין	0	paranames-en-he-neg
+Levana Shifman	לבנה חכים	0	paranames-en-he-neg
+Leland Wilkinson	לילנד	0	paranames-en-he-neg
+Paavo Talvela	פאבו ירווי	0	paranames-en-he-neg
+Kendrick Ray	קנדריק פאריס	0	paranames-en-he-neg
+Zamir, Raḥel	זמיר כהן	0	paranames-en-he-neg
+Dio Chrysostom	דיון מאלכסנדריה	0	paranames-en-he-neg
+Willow Johnson	וילו שילדס	0	paranames-en-he-neg
+AJ Michalka	אפריל מנדז	0	paranames-en-he-neg
+Dalya Cohen-Mor	דליה ב. י. כהן	0	paranames-en-he-neg
+Richard Cordery	ריצ'רד בדפורד	0	paranames-en-he-neg
+Ante Rebić	אנטה מרקוביץ'	0	paranames-en-he-neg
+Estella Solomons	אסטלה וורן	0	paranames-en-he-neg
+Marge Champion	מארג' רדמונד	0	paranames-en-he-neg
+Alban Ukaj	אלבן ברג	0	paranames-en-he-neg
+Yuriko Koike	יוריקו מיאמוטו	0	paranames-en-he-neg
+Demna Gvasalia	דמנה שנגלאיה	0	paranames-en-he-neg
+Mithridates I Callinicus	מיתרידטס הראשון, מלך קיוס	0	paranames-en-he-neg
+ʻOvadyah Yaʻbets	עובדיה המון	0	paranames-en-he-neg
+Ramzi Yousef	ראמזי בן א-שיבה	0	paranames-en-he-neg
+Tchia Dov	תחיה שפירא	0	paranames-en-he-neg
+Aliya Mustafina	עליה קולא	0	paranames-en-he-neg
+Mathis Landwehr	מאתיס בולי	0	paranames-en-he-neg
+Logan Lerman	לוגאן סרג'נט	0	paranames-en-he-neg
+Halle Bailey	האלי באטלר	0	paranames-en-he-neg
+Murad Abu Murad	מוראד בח'ש	0	paranames-en-he-neg
+Dante Klein	דנטה קצ'ין	0	paranames-en-he-neg
+Yehudah Muʻalem	יהודה שיף	0	paranames-en-he-neg
+Cosmo Alexander	קוזמו גורדון לאנג	0	paranames-en-he-neg
+Ihsan Abdel Quddous	עאדל אחסאן אלתורג'מאן	0	paranames-en-he-neg
+Rachael Leigh Cook	רייצ'ל סטירלינג	0	paranames-en-he-neg
+Medhi Benatia	מחדי לאסן	0	paranames-en-he-neg
+Guru Gobind Singh	הרגובינד	0	paranames-en-he-neg
+Gerasim Lebedev	גרסים איזמיילוב	0	paranames-en-he-neg
+Dirk Albert Hooijer	דירק פרימאוט	0	paranames-en-he-neg
+Blandine Gravina	בלאנדין פונט	0	paranames-en-he-neg
+Ryder Robinson	ריידר הייסדל	0	paranames-en-he-neg
+Irakli Tsirekidze	איראקלי אזארובי	0	paranames-en-he-neg
+Camila Bordonaba	קמילה מינאקווה	0	paranames-en-he-neg
+Idriss Carlos Kameni	אידריס דבי	0	paranames-en-he-neg
+Victoria Kaspi	ויקטוריה גרייבר	0	paranames-en-he-neg
+Valentín Gómez	ולנטין גלושקו	0	paranames-en-he-neg
+Drake Glover	דרייק קלנדר	0	paranames-en-he-neg
+Tang Jing	טאן הונבו	0	paranames-en-he-neg
+Kanō Jigorō	קאנו מיאקי	0	paranames-en-he-neg
+Kalle Lindroth	קאלה אקטה	0	paranames-en-he-neg
+Errico Malatesta	אריקו פטרלה	0	paranames-en-he-neg
+Reggie Walker	רג'י ג'קסון	0	paranames-en-he-neg
+Aoife Coughlan	איפי מולהולנד	0	paranames-en-he-neg
+Zack Weiss	זאק סניידר	0	paranames-en-he-neg
+Key Pittman	קי ויין	0	paranames-en-he-neg
+Baruch Tor-Raz	ברוך בן יצחק	0	paranames-en-he-neg
+Dun Karm Psaila	דון מיקיל	0	paranames-en-he-neg
+Akim Tamiroff	אקים וולינסקי	0	paranames-en-he-neg
+Narcís Martí Filosia	נרצ'יס יוסטין איאנאו	0	paranames-en-he-neg
+Eveline Widmer-Schlumpf	אוולין גודמן-טאו	0	paranames-en-he-neg
+Laurens De Bock	לורנס ואן דר-הם	0	paranames-en-he-neg
+Eugenio D'Orsi	יוז׳יניו מרטינס	0	paranames-en-he-neg
+Karl-Heinz Rummenigge	קרל-היינץ פון הסל	0	paranames-en-he-neg
+Buster Keaton	באסטר קרייב	0	paranames-en-he-neg
+Dwijendranath Tagore	דוויג'נדראנת באסו	0	paranames-en-he-neg
+Florent Malouda	פלורן פיאטרוס	0	paranames-en-he-neg
+Faith Erin Hicks	פיית' קיפייגון	0	paranames-en-he-neg
+Ronald Pelton	רונלד ו' בוק	0	paranames-en-he-neg
+Tamala Krishna Goswami	טמאלה ג'ונס	0	paranames-en-he-neg
+Zacharias Calliergi	זכריאס פאפאנדוניו	0	paranames-en-he-neg
+Olesya Sudzilovskaya	אולסיה רולין	0	paranames-en-he-neg
+Jogindranath Samaddar	יוגינדראנת סרקאר	0	paranames-en-he-neg
+Emlyn Hughes	אמלין ויליאמס	0	paranames-en-he-neg
+Halimah Yacob	האלימה נאקאי	0	paranames-en-he-neg
+Thurl Ravenscroft	ת'רל ביילי	0	paranames-en-he-neg
+Nahum M. Sarna	נחום ברנע	0	paranames-en-he-neg
+Luo Yonghao	לואו יוטונג	0	paranames-en-he-neg
+Gurgen of Georgia	גורגן מרגריאן	0	paranames-en-he-neg
+Emad Akel	עמאד חמדי	0	paranames-en-he-neg
+Danuta Kozák	דנוטה סטנקה	0	paranames-en-he-neg
+Soma Morgenstern	שומה גוטי	0	paranames-en-he-neg
+Hermine David	הרמין הגהדליאן	0	paranames-en-he-neg
+Rawya Ateya	ראוויה סעוד אל-בוסעידי	0	paranames-en-he-neg
+Aboubakar Camara	אבובקאר קייטה	0	paranames-en-he-neg
+Yechiam Sharabi	יחיעם ימיני	0	paranames-en-he-neg
+Ḳedar, Eli	קדאר ויליאמס-סטירלינג	0	paranames-en-he-neg
+Aslan Abashidze	אסלן לפינאגוב	0	paranames-en-he-neg
+Yazdegerd II	יזדגרד הראשון	0	paranames-en-he-neg
+Allen D. Candler	אלן ג'ונסון	0	paranames-en-he-neg
+Adolph Frank	אדולף וינקלר גודמן	0	paranames-en-he-neg
+Zachary Bogue	זקרי גורדון	0	paranames-en-he-neg
+Siraj al-Warraq	סיראג' אוד-דוֹאוּלה	0	paranames-en-he-neg
+Roma Downey	רומה מיטצ'ל	0	paranames-en-he-neg
+Ovidiu Anton	אובידיו הובאן	0	paranames-en-he-neg
+Edgars Rinkēvičs	אדגרס גאורקס	0	paranames-en-he-neg
+Maurizio Mendes	מאוריציו קלי	0	paranames-en-he-neg
+Steingrímur Hermannsson	סטינגרימור תורסטינסון	0	paranames-en-he-neg
+Ky Hurst	קיי דיקנס	0	paranames-en-he-neg
+Lina Wertmüller	לינה קאן	0	paranames-en-he-neg
+Suniti Devi	סוניטי נמג'ושי	0	paranames-en-he-neg
+Nadja Salerno-Sonnenberg	נדיה וסט	0	paranames-en-he-neg
+Mikolas Josef	מיקולש אלש	0	paranames-en-he-neg
+Theresia Enzensberger	תרזיה ובר פון ורוינפלס	0	paranames-en-he-neg
+Silvia Navarro	סילביה קוטון	0	paranames-en-he-neg
+Tyrone Giordano	טיירון פאואר	0	paranames-en-he-neg
+Izi Amir	איזי דורות	0	paranames-en-he-neg
+Giuseppe Piccio	ג'וזפה סינופולי	0	paranames-en-he-neg
+Pernilla Sjöholm	פרנילה אוגוסט	0	paranames-en-he-neg
+Ebbe Munck	אבה סאנד	0	paranames-en-he-neg
+Raphi Cohen	רפי אפלר-ח'טאב	0	paranames-en-he-neg
+Mir Fendereski	מיר מושארף חוסיין	0	paranames-en-he-neg
+Bar Gottfried	ברעם-אטיאס, איריס	0	paranames-en-he-neg
+Iveta Mukuchyan	איווטה רדיצ'ובה	0	paranames-en-he-neg
+Samu Jászai	שאמו סמרה	0	paranames-en-he-neg
+Mahendranath Sarkar	מאהנדראנת דאטה	0	paranames-en-he-neg
+Franciscus Sylvius	פרנסיסקוס קורנליס דונדרס	0	paranames-en-he-neg
+Lasse Hallström	לאסה וירן	0	paranames-en-he-neg
+Nicias	ניקיאס איש ניקאיה	0	paranames-en-he-neg
+Elise M. Boulding	אליזה גומפרץ	0	paranames-en-he-neg
+Joakim Lehmkuhl	ג'ואקים נואה	0	paranames-en-he-neg
+Lothar Matthäus	לותאר ביסקי	0	paranames-en-he-neg
+Shikma Bressler	שקמה עודד	0	paranames-en-he-neg
+Gusto	גוסטב גראסר	0	paranames-en-he-neg
+Bayezid II	באיזיט הראשון	0	paranames-en-he-neg
+Farley Keith	פרלי מואט	0	paranames-en-he-neg
+Leonida Tonelli	לאונידה ביסולטי	0	paranames-en-he-neg
+Melania Iancu	מלאניה טראמפ	0	paranames-en-he-neg
+Gebran Bassil	ג'יבראן תווייני	0	paranames-en-he-neg
+Petru Dumitriu	פטרו גרוזה	0	paranames-en-he-neg
+Garry Shandling	גארי קספרוב	0	paranames-en-he-neg
+Erez David Meisel	ארז ברזוליק	0	paranames-en-he-neg
+Zosia Poznańska	זושה מאמט	0	paranames-en-he-neg
+Kieron Moore	קירון דאייר	0	paranames-en-he-neg
+Virginia Farmer	וירג'יניה קלוג	0	paranames-en-he-neg
+JC Gonzalez	ג'ושוע סקוט שאזיי	0	paranames-en-he-neg
+Prabodh Kumar Bandyopadhyay	פראבוד צ'אנדרה דה	0	paranames-en-he-neg
+Olaf II of Norway	אולף קונמן	0	paranames-en-he-neg
+Hiroshi Ōshima	הירושי סוגימוטו	0	paranames-en-he-neg
+Princess Désirée, Baroness Silfverschiöld	פאודורה, נסיכת הוהנלוהה-לנגנבורג	0	paranames-en-he-neg
+Olive Jean Dunn	אוליב גריפית סטול	0	paranames-en-he-neg
+Tallulah Bankhead	טלולה ויליס	0	paranames-en-he-neg
+Masud Ghnaim	מסעוד גראח'אני	0	paranames-en-he-neg
+Ansgar	אנסגר קנאוף	0	paranames-en-he-neg
+Osher Azulay	אושר שקלים	0	paranames-en-he-neg
+Walt Mossberg	וולט בלאמי	0	paranames-en-he-neg
+Dinara Drukarova	דינארה סאפינה	0	paranames-en-he-neg
+May East	מאי תגר	0	paranames-en-he-neg
+Athenodoros Cordylion	אתנודורוס קנניטס	0	paranames-en-he-neg
+Dudi Fadlon	דודי שובל	0	paranames-en-he-neg
+Vjekoslav Luburić	וייקוסלב בוואנדה	0	paranames-en-he-neg
+Riz Ortolani	ריז אחמד	0	paranames-en-he-neg
+Nik Powell	ניק, מרים, 1922-2012	0	paranames-en-he-neg
+Elli Kafka	אלי מרגליות	0	paranames-en-he-neg
+Luís Vinício	לואיס פרייטו	0	paranames-en-he-neg
+Nilkamal Lahiri	נילקאמאל מוסטופי	0	paranames-en-he-neg
+Emre Can	אמרה אזדמיר	0	paranames-en-he-neg
+Filip Dewinter	פיליפ אינגבריגטסן	0	paranames-en-he-neg
+Ariel Barnett	אריאל ויסמן	0	paranames-en-he-neg
+Kfir Udi	כפיר לייבוביץ'	0	paranames-en-he-neg
+Domènec Torrent	דומנק בלמניה	0	paranames-en-he-neg
+Ima shel Leʼahleh	אימא שלום	0	paranames-en-he-neg
+Duarte Pacheco Pereira	דוארטה דה מנזש, המשנה למלך הודו	0	paranames-en-he-neg
+Atlanta	אטלנטה בליס	0	paranames-en-he-neg
+Egbert	אגברט שורמן	0	paranames-en-he-neg
+Omer Tal	עומר קליין	0	paranames-en-he-neg
+Goffredo Malaterra	ג'ופרדו לומבארדו	0	paranames-en-he-neg
+Lidiya Timashuk	לידיה טראן	0	paranames-en-he-neg
+Tan Boon Heong	תנעמי, זכריה בן משה	0	paranames-en-he-neg
+Almaz Ayana	אלמז מנגיסטו	0	paranames-en-he-neg
+Clarke Scholes	קלארק רוזנברג	0	paranames-en-he-neg
+Aldo Tonti	אלדו סקוורדה	0	paranames-en-he-neg
+Alar Kivilo	אלאר קאריס	0	paranames-en-he-neg
+Tsutomu Adachi	צוטומו מיאזאקי	0	paranames-en-he-neg
+Elioz of Mtskheta	אליעוז רבין	0	paranames-en-he-neg
+Ilham Aliyev	אילהאם טוהטי	0	paranames-en-he-neg
+Gertruda Dawidowicz	גרטרוד קאודרס	0	paranames-en-he-neg
+Alix of Reynel	אליקס דה לנואה	0	paranames-en-he-neg
+Peary Chand Mitra	פירי צ'ארן סירקר	0	paranames-en-he-neg
+Trudie Styler	טרודי גודווין	0	paranames-en-he-neg
+Beck Cole	בק	0	paranames-en-he-neg
+Arnaut Danjuma	ארנאוט דניאל	0	paranames-en-he-neg
+Cilla Elazar	סילה בלאק	0	paranames-en-he-neg
+Hou Renzhi	הואו יוז'ואו	0	paranames-en-he-neg
+Yūko Tanaka	יוקו ארימורי	0	paranames-en-he-neg
+Sheri S. Tepper	שרי סנט קלר	0	paranames-en-he-neg
+Saif Ali Khan	סיף אל-ערב קדאפי	0	paranames-en-he-neg
+Yarom Vardimon	ירום אריאב	0	paranames-en-he-neg
+Moustafa Safouan	מוסטפא עמר	0	paranames-en-he-neg
+Ramnath Biswas	ראמנאת וידיאראטנה	0	paranames-en-he-neg
+Rudi Rosenfeld	רודי דוצ'קה	0	paranames-en-he-neg
+Zac Goldsmith	זאק ניקולסון	0	paranames-en-he-neg
+Blanca Portillo	בלנקה רודריגז מרטין	0	paranames-en-he-neg
+Tadeusz Kantor	טדאוש שלוסרסקי	0	paranames-en-he-neg
+Stokely Chaffin	סטוקלי קרמייקל	0	paranames-en-he-neg
+Wacław Święcicki	וצלב וישליצקי	0	paranames-en-he-neg
+Shmarya Loeb Hurwitz	שמריה גוטמן	0	paranames-en-he-neg
+Naama Eisenbruch	נעמה שולץ	0	paranames-en-he-neg
+Te Rauangaanga	תאומים, אברהם בן צבי הירש, 1814-1868	0	paranames-en-he-neg
+Iso Shapira	י. שאיעוויטש	0	paranames-en-he-neg
+London Breed	לונדון און דה טראק	0	paranames-en-he-neg
+Paulinho	פאוליניו דה ויולה	0	paranames-en-he-neg
+Shabana Rehman Gaarder	שבאנה עזמי	0	paranames-en-he-neg
+Hironobu Sakaguchi	הירונובו טקסאקי	0	paranames-en-he-neg
+Louis-Eugène Lamoral de Ligne	קאוויניאק	0	paranames-en-he-neg
+Nevo Kimchi	נבו, יהושפט, 1940-	0	paranames-en-he-neg
+Philippe Goffin	פיליפ רוסלו	0	paranames-en-he-neg
+Kineret Rubinstein	כנרת לימוני	0	paranames-en-he-neg
+Safaa Fathy	סאפה האדי	0	paranames-en-he-neg
+Rémy Girard	רמי שברין	0	paranames-en-he-neg
+Ram Caspi	רם צ'אנדרה דאטה	0	paranames-en-he-neg
+Dinah Sheridan	דינה אנגלוד	0	paranames-en-he-neg
+Randi Weingarten	רנדי מאיים סינגר	0	paranames-en-he-neg
+Doina Melinte	דוינה קורניה	0	paranames-en-he-neg
+Desislava of Bulgaria	דסיסלאבה ראדבה	0	paranames-en-he-neg
+Gordian III	גורדיאנוס הראשון	0	paranames-en-he-neg
+Willis Goldbeck	ויליס לם	0	paranames-en-he-neg
+Oleksa Hirnyk	אולקסה דוב-בוש	0	paranames-en-he-neg
+Alvise Contarini	אלויזי בראגאדין	0	paranames-en-he-neg
+Moris Farhi	מוריס כהן	0	paranames-en-he-neg
+Pierre-Marie Théas	פייר-מארי ז'רלייה	0	paranames-en-he-neg
+Gianna Terzi	ג'יאנה מייקלס	0	paranames-en-he-neg
+Oleksandr Ponomariov	אולכסנדר סטטסנקו	0	paranames-en-he-neg
+Shamshi-Adad II	שמשי-אדד החמישי	0	paranames-en-he-neg
+Nahshon ben Zadok	נחשון-גולדנברג, יפעת	0	paranames-en-he-neg
+Jadunath Sarkar	ג'אדונאת מוקהופאדהיאי	0	paranames-en-he-neg
+Benzion Freshwater	בנציון כץ	0	paranames-en-he-neg
+Ziya Selçuk	זיא גקאלפ	0	paranames-en-he-neg
+Yumiko Takahashi	יומיקו אשיקווה	0	paranames-en-he-neg
+Peretz Vazan	פרץ נפתלי	0	paranames-en-he-neg
+Sanṭo, Yoʼav	סנטו לוקאסטו	0	paranames-en-he-neg
+Betsey Johnson	בטסי סטיבנסון	0	paranames-en-he-neg
+Urban III	אורבנוס השביעי	0	paranames-en-he-neg
+Chandler Canterbury	צ'נדלר דייוויס	0	paranames-en-he-neg
+W. W. Thayer	ולדיסלב קובלסקי	0	paranames-en-he-neg
+Yigʼal Tsur	יגאל לוסין	0	paranames-en-he-neg
+Edda Köchl-König	אדה מוסוליני	0	paranames-en-he-neg
+Vahid Asghari	ואהיד חלילודזיץ'	0	paranames-en-he-neg
+Désirée Artôt	דזירה קלארי	0	paranames-en-he-neg
+Ilya Gurevich	איליה לופרט	0	paranames-en-he-neg
+Guadalupe Rivera Marín	גואדלופה מרין	0	paranames-en-he-neg
+Brianna Throssell	בריאנה לאב	0	paranames-en-he-neg
+Ḳahn, A.,	יעקב בן חיים פיבוש, הכהן	0	paranames-en-he-neg
+Aristarchus of Samothrace	אריסטרכוס מסאמוס	0	paranames-en-he-neg
+Pooh Shiesty	פו ריצ'רדסון	0	paranames-en-he-neg
+Guidobaldo II della Rovere	גווידובלדו דה מונטפלטרו	0	paranames-en-he-neg
+Kathrine Switzer	קתרין קרסמן טיילור	0	paranames-en-he-neg
+Mosab Hassan Yousef	מוסעב אל–ח'טיב	0	paranames-en-he-neg
+Collins Mbesuma	קולינס פני	0	paranames-en-he-neg
+Yonit Wiener-Well	יונית שהם	0	paranames-en-he-neg
+Tenzin Zopa	טנזין פאלמו	0	paranames-en-he-neg
+Boutros Ghali	בוטרוס מועלם	0	paranames-en-he-neg
+Lucille Bliss	לוסיל אייכנגרין	0	paranames-en-he-neg
+Fabian Busch	פביאן וגנר	0	paranames-en-he-neg
+Brian Herbert	בריאן נלסון	0	paranames-en-he-neg
+LaMarcus Adna Thompson	למרכוס אולדריג'	0	paranames-en-he-neg
+Marie-Jeanne Schellinck	מארי-ז'אן קורטלין	0	paranames-en-he-neg
+Fionn O'Shea	פיון ווייטהד	0	paranames-en-he-neg
+Mikio Okamoto	מיקיו נארוזה	0	paranames-en-he-neg
+Uriel Busso	רוס, אוריאל	0	paranames-en-he-neg
+Harun al-Rashid	הארון פארוקי	0	paranames-en-he-neg
+Ramona Marquez	רמונה יאנג	0	paranames-en-he-neg
+Pyotr Rachkovsky	פטר וורשיגורה	0	paranames-en-he-neg
+Serge Lofo Bongeli	סרג' אנקרי	0	paranames-en-he-neg
+Montserrat Caballé	מונסראט אביו אי סולר	0	paranames-en-he-neg
+Petit Biscuit	פטיט	0	paranames-en-he-neg
+Hoshea Friedman	הושע בן אלה	0	paranames-en-he-neg
+Paige Spara	פייג' גבהרדט קוגנטי	0	paranames-en-he-neg
+Marie-Anne Chazel	מארי-אן ליבר	0	paranames-en-he-neg
+Domingos da Guia	דומינגוס אוליביירה	0	paranames-en-he-neg
+Soraya Sáenz de Santamaría	סוראיה מירה	0	paranames-en-he-neg
+Frederick Merk	פרדריק סייקס	0	paranames-en-he-neg
+Mayan Rafic	מעין רוגל	0	paranames-en-he-neg
+Kenyon Martin Jr.	קניון מרטין	0	paranames-en-he-neg
+Anastas Michos	אנסטאס מיקויאן	0	paranames-en-he-neg
+Sylvanus Epiphanio Olympio	סילוונוס מורלי	0	paranames-en-he-neg
+Trevor Barry	טרבור טורדג'מן	0	paranames-en-he-neg
+Kosei Inoue	קוסיי טאני	0	paranames-en-he-neg
+Maroun Gantous	מארון לחאם	0	paranames-en-he-neg
+Sofie Jäger	סופי גראבול	0	paranames-en-he-neg
+Cwi Elimelech Szapiro	צבי הירש מרימנוב	0	paranames-en-he-neg
+Asclepiades of Tragilus	אסקלפיאדס	0	paranames-en-he-neg
+Per Frandsen	פר אנייר	0	paranames-en-he-neg
+Dream	דרים קרדשיאן	0	paranames-en-he-neg
+Osvaldo Valenti	אוסבלדו גוליחוב	0	paranames-en-he-neg
+Arnold Ridley	ארנולד שוורצמן	0	paranames-en-he-neg
+Fulvio Collovati	פולביו אורסיני	0	paranames-en-he-neg
+Lyudmila Pavlichenko	ליודמילה קוסטקינה	0	paranames-en-he-neg
+Julia Stegner	ג'וליה פירסון	0	paranames-en-he-neg
+Yuval Yanai	יובל בנאי	0	paranames-en-he-neg
+Maddalena de' Medici	מדלאנה ויסקונטי	0	paranames-en-he-neg
+Morteza Ansari	מורתזא ניי-דאווד	0	paranames-en-he-neg
+Campbell Stuart	קמפבל בסט	0	paranames-en-he-neg
+Creighton Abrams	קרייגטן רות'נברגר	0	paranames-en-he-neg
+Hy Zaret	היי קיילוס	0	paranames-en-he-neg
+Edyta Górniak	אדיטה הרבוש	0	paranames-en-he-neg
+Yara Shahidi	יערה מרטינז	0	paranames-en-he-neg
+Maarouf al-Dawalibi	מערוף אלרצאפי	0	paranames-en-he-neg
+Norah Jones	נורה הווארד	0	paranames-en-he-neg
+Jacqueline Kennedy Onassis	ז'קלין טונג	0	paranames-en-he-neg
+Jesper Christensen	ייספר גרונקיאר	0	paranames-en-he-neg
+Yacov Livne	יעקב שרתוק	0	paranames-en-he-neg
+Casper Crump	קספר נילסן	0	paranames-en-he-neg
+Dong Zhihao	דונג ג'וו	0	paranames-en-he-neg
+Dea Hadar	דאה לוהר	0	paranames-en-he-neg
+Ben-Tsiyon Mordekhai Ḥazan	בן ציון ורבין	0	paranames-en-he-neg
+Abaza Siyavuş Pasha	אבאזה סיאבוש פאשה הראשון	0	paranames-en-he-neg
+Peri Gilpin	פרי רוזנפלד	0	paranames-en-he-neg
+Miho Imano	מיהו מיניי	0	paranames-en-he-neg
+Abdullahi Yusuf Ahmed	עבדאללהי קארשי	0	paranames-en-he-neg
+Karlo Sakandelidze	קרלו ברוצ'יץ'	0	paranames-en-he-neg
+Timofei Dokshizer	טימופיי מרגאסוב	0	paranames-en-he-neg
+CeCe McDonald	סיסי ויינאנס	0	paranames-en-he-neg
+Sulayman ibn Abd al-Malik	סולימאן א-נאבולסי	0	paranames-en-he-neg
+Patience Wright	פיישנס אוזוקוור	0	paranames-en-he-neg
+Petr Čech	פיוטר דרוז'ינין	0	paranames-en-he-neg
+Turki bin Sultan	תורכי הראשון בן עבד אל-עזיז אל סעוד	0	paranames-en-he-neg
+Juliano Belletti	ג'וליאנו מר	0	paranames-en-he-neg
+Sayf ibn Umar	סייף א-דין ג'קמק	0	paranames-en-he-neg
+Li Zongren	לי קה שינג	0	paranames-en-he-neg
+Shiva Nazar Ahari	שיווה נגר	0	paranames-en-he-neg
+Laurent Koscielny	לורן ד'ארבייה	0	paranames-en-he-neg
+Mantsur Marzuk	מנצור, עזריאל בן משה	0	paranames-en-he-neg
+Claudiu Târziu	קלאודיו באסטיה	0	paranames-en-he-neg
+Noura Ghazi	נורה אל קאעב	0	paranames-en-he-neg
+ʻAzriʼel Zelig Slonim	עזריאל זעליג בן יששכר דובר קרעלענשטיין	0	paranames-en-he-neg
+Tauno Hannikainen	טאונו סאוקונן	0	paranames-en-he-neg
+Gagik II of Armenia	גאגיק הראשון	0	paranames-en-he-neg
+Danijela Martinović	דניאלה סטויאנוביץ'	0	paranames-en-he-neg
+Sting	סטינג	0	paranames-en-he-neg
+Cécilia Attias	ססיליה ראן רונארסדוטיר	0	paranames-en-he-neg
+Lene Egeli	לינה ניסטרום	0	paranames-en-he-neg
+Pavle Pap	פאבלה יורישיץ' שטורם	0	paranames-en-he-neg
+Gerberga of Saxony	גרברגה	0	paranames-en-he-neg
+Dusty Springfield	דאסטי ג'ונסון	0	paranames-en-he-neg
+Danuel House	דנואל פיפולי	0	paranames-en-he-neg
+Semadar Shir	סמדר הרצפלד	0	paranames-en-he-neg
+Manto Tshabalala-Msimang	מנטו מברוגנוס	0	paranames-en-he-neg
+Nati Kluger	נתי עזריה	0	paranames-en-he-neg
+Serghei Cleșcenco	סרגיי פאשצ'נקו	0	paranames-en-he-neg
+Nasreddin	נאסראדין מוראט חאן	0	paranames-en-he-neg
+Lowell S. Hawley	לוול ג'ורג'	0	paranames-en-he-neg
+Yam Wolczak	ים מדר	0	paranames-en-he-neg
+Tslil Ast	צליל קליפי	0	paranames-en-he-neg
+Móric Pogány	מוריץ אולמן	0	paranames-en-he-neg
+Jyoti Bachaspati	ג'יוטי אמגה	0	paranames-en-he-neg
+Didi Benami	דידי הררי	0	paranames-en-he-neg
+Faisal al-Duwaish	פייסל אל-גאמדי	0	paranames-en-he-neg
+Harry Frederick Recher	הארי הפל	0	paranames-en-he-neg
+Rehavia Vardi	רחביה רוזנבוים	0	paranames-en-he-neg
+Benoît Poelvoorde	בנואה אמון	0	paranames-en-he-neg
+Fuat Köprülü	פואט צ'אפה	0	paranames-en-he-neg
+Carter Glass	קרטר הריסון	0	paranames-en-he-neg
+Anthemius	אנתמיוס מטרלס	0	paranames-en-he-neg
+Gawhar Khatun	גווהר ח'אנום	0	paranames-en-he-neg
+Fyodor Kostenko	פיודור אפרקסין	0	paranames-en-he-neg
+Pincus Puchkoff	פנחס  גרין	0	paranames-en-he-neg
+Moni Ovadia	מוני הרמתי	0	paranames-en-he-neg
+Heliodorus of Alexandria	הליודורוס מלאריסה	0	paranames-en-he-neg
+Elaine Benson	איליין צ'או	0	paranames-en-he-neg
+MacKenzie Porter	מקנזי מאוזי	0	paranames-en-he-neg
+Chaskel Besser	יחזקאל שרגא ליפשיץ הלברשטאם	0	paranames-en-he-neg
+Emmeline Pankhurst	אמלין סטיגליץ	0	paranames-en-he-neg
+Reʼuven Shabat	ראובני, נעמי	0	paranames-en-he-neg
+Menasseh Ben Israel	מנשה בן יחזקאל יונה גראסבערג	0	paranames-en-he-neg
+Tudhaliya I	תודחליאש הרביעי	0	paranames-en-he-neg
+Shaun Parkes	שוהן רוס	0	paranames-en-he-neg
+Bess Truman	בס ארמסטרונג	0	paranames-en-he-neg
+Bergljót Þórisdóttir	ברגליוט הוקונשדאטר	0	paranames-en-he-neg
+Nathalie Sorce	נטלי לוקה	0	paranames-en-he-neg
+Ḥarif, Mosheh Ḥ.	חריף, פ.	0	paranames-en-he-neg
+Bertold of Regensburg	ברטולד הומל	0	paranames-en-he-neg
+Lukács Mácsay	לוּקאץ׳ פיצ׳י	0	paranames-en-he-neg
+Margot Becke-Goehring	מרגו דרקסלר	0	paranames-en-he-neg
+Alenka Bratušek	אלנקה ארמנק	0	paranames-en-he-neg
+Akio Toyoda	אקיו טקוצ'י	0	paranames-en-he-neg
+Heber Manning Wells	הבר דאוסט קרטיס	0	paranames-en-he-neg
+Luca Boschi	לוקה טוני	0	paranames-en-he-neg
+Alparslan Türkeş	אלפ ארסלאן	0	paranames-en-he-neg
+Gitl Meisel	גיטל שכטר-וישוונאט	0	paranames-en-he-neg
+Michelle Fischbach	מישל רוקה	0	paranames-en-he-neg
+Rúrik Gíslason	רוריק	0	paranames-en-he-neg
+Tali Ben Bassat	טלי בלפונטה	0	paranames-en-he-neg
+Heddy Lester	הדי קון	0	paranames-en-he-neg
+Faustina the Younger	פאוסטינה קובלסקה	0	paranames-en-he-neg
+Chubby Checker	צ'אבי קוקס	0	paranames-en-he-neg
+Pip Broughton	פיפ טורנס	0	paranames-en-he-neg
+Tedi  Shauli	טדי פפאברמי	0	paranames-en-he-neg
+Narendra Modi	נארנדרה קומאר בוז	0	paranames-en-he-neg
+Dimitrios Gounaris	דמטריוס ויקאלאס‎	0	paranames-en-he-neg
+Asha Banks	עיישה חאג'י מדעי	0	paranames-en-he-neg
+Louis-Jean Koenigswarter	לואי-ז'אן רסל	0	paranames-en-he-neg
+Chone Wolfsthal	חנא שמרוק	0	paranames-en-he-neg
+Heikki Salmela	הייקה קולה	0	paranames-en-he-neg
+Itō Toyoo	איטו אג'איירה	0	paranames-en-he-neg
+Frederica of Mecklenburg-Strelitz	פרדריקה וילסון	0	paranames-en-he-neg
+Radisav Nedeljkovič	ראדיסאב צ'ורצ'יץ'	0	paranames-en-he-neg
+Ivry Elbaz	עברי גיטליס	0	paranames-en-he-neg
+Ruy López de Segura	רוי גונזלס דה קליבחו	0	paranames-en-he-neg
+Brewster H. Shaw	ברוסטר קייל	0	paranames-en-he-neg
+Doni	דוני מונרדו	0	paranames-en-he-neg
+India Leon	אינדיה אוקסנברג	0	paranames-en-he-neg
+Haidar Abdel-Shafi	חיידר אבו בכר אל-עטאס	0	paranames-en-he-neg
+Isidore Last	יחזקאל אפשטיין	0	paranames-en-he-neg
+Lolita Lebrón	לוליטה דוידוביץ	0	paranames-en-he-neg
+Leslie Greif	לסלי מרטין	0	paranames-en-he-neg
+Hakohen, Daṿid Daniyel	הכהן, אליעזר, 1900-1971	0	paranames-en-he-neg
+Maura Johnston	מורה הילי	0	paranames-en-he-neg
+Hartley T. Ferrar	הארטלי סויר	0	paranames-en-he-neg
+Elek Falus	אלק ארקל	0	paranames-en-he-neg
+Youth	יוט' לאגון	0	paranames-en-he-neg
+Zina Kalay-Kleitman	צינה דיזנגוף	0	paranames-en-he-neg
+Uriya Shavit	אוריה אהרון פירסט	0	paranames-en-he-neg
+Jacinda Barrett	ג'סינדה ארדרן	0	paranames-en-he-neg
+Aiko	אייקו, נסיכת יפן	0	paranames-en-he-neg
+Kseniya Lavrova-Glinka	קסניה קניאזבה	0	paranames-en-he-neg
+Jenny Lind	ג'ני גייג'	0	paranames-en-he-neg
+Hippolytus of Thebes	היפוליטוס מרומא	0	paranames-en-he-neg
+Svetlana Shkolina	סווטלנה מסטרקובה	0	paranames-en-he-neg
+Nava Zuckerman	נאוה בן-אור	0	paranames-en-he-neg
+Ashok Kumar Walia	אשוק אמריטראג'	0	paranames-en-he-neg
+Aripert II	אריברט הראשון	0	paranames-en-he-neg
+Vardan Tigranyan	ורטן ממיקוניאן	0	paranames-en-he-neg
+Smadar Eliasaf	סמדר אוטולנגי	0	paranames-en-he-neg
+Giuliano de' Medici	ג'וליאנו פיגראס	0	paranames-en-he-neg
+Debora Kahn-Sriber	דבורה פוגל	0	paranames-en-he-neg
+Yukiko Kobayashi	יוקיקו אקאבה	0	paranames-en-he-neg
+Thích Quảng Đức	טיק נהאט האן	0	paranames-en-he-neg
+Jefferson Lerma	ז'פרסון	0	paranames-en-he-neg
+Erika Scheimer	אריקה טודה	0	paranames-en-he-neg
+Han Seung-won	חאן פיי דזה	0	paranames-en-he-neg
+Just Blaze	ג'סט בצר	0	paranames-en-he-neg
+Avrum Mordche Schwartz	אברהם לייב בורשטיין	0	paranames-en-he-neg
+Julien Bontemps	ג'וליאן בייקר	0	paranames-en-he-neg
+Kåre Johannessen	קארה אינגבריגטסן	0	paranames-en-he-neg
+Ballard MacDonald	באלארד ברקלי	0	paranames-en-he-neg
+Musa Budeiri	מוסא א-תעמרי	0	paranames-en-he-neg
+Wagner Lopes	ואגנר	0	paranames-en-he-neg
+Tzachi Hanegbi	צחי אוסטרובסקי	0	paranames-en-he-neg
+Simchah ben Abraham Calimani	שמחה סולובייצ'יק	0	paranames-en-he-neg
+Firas Abu Akel	פיראס נסאר	0	paranames-en-he-neg
+Al-Musta'sim	אל-מסתעצם השני	0	paranames-en-he-neg
+Rhea Chakraborty	ריאה קאפור	0	paranames-en-he-neg
+Rida Muhammad Rashid	עלי ריקאבי	0	paranames-en-he-neg
+Julie Myerson	יולי וילסון	0	paranames-en-he-neg
+Adad-nirari I	אדד-ניררי השני	0	paranames-en-he-neg
+József Tornai	יוז'ף קלן	0	paranames-en-he-neg
+Sigmundur Davíð Gunnlaugsson	סיגמונדור בן ברסטיר	0	paranames-en-he-neg
+Leona Helmsley	לאונה סטיבנס	0	paranames-en-he-neg
+Abderrahmane Sissako	עבד א-רחמאן אל-יוספי	0	paranames-en-he-neg
+Bernhard Gregory	ברנהארד פון נהר	0	paranames-en-he-neg
+Aksel Kankaanranta	אקסל וילהלמסון יוהנסן	0	paranames-en-he-neg
+Carla Cassola	קרלה קמפרה	0	paranames-en-he-neg
+Chinami Nishimura	צ'ינאמי נמבה	0	paranames-en-he-neg
+Agustina Córdova	אגוסטינה צ'רי	0	paranames-en-he-neg
+P. D. Eastman	פי. ג'יי. קרליסימו	0	paranames-en-he-neg
+Sada Baby	סדה תומפסון	0	paranames-en-he-neg
+Sylvain Idangar	סילבן וויט	0	paranames-en-he-neg
+Meritxell Roigé i Pedrola	מירטקסל באטה	0	paranames-en-he-neg
+Toyohiko Kagawa	טויוהיקו נארוקאווה	0	paranames-en-he-neg
+Joy Mangano	ג'וי ניקולס	0	paranames-en-he-neg
+Refaʼelah	רפאל שלמה לניאדו	0	paranames-en-he-neg
+Euthymius the Great	אבטימי מטרנובו	0	paranames-en-he-neg
+Walker Percy	וווקר א. קיין	0	paranames-en-he-neg
+Octávio Mateus	אוקטביו פס	0	paranames-en-he-neg
+Makoto Ida	מקוטו האסבה	0	paranames-en-he-neg
+Ferran Adrià	פראן טורס	0	paranames-en-he-neg
+Seneca the Elder	סנקה	0	paranames-en-he-neg
+Yao Ming	יאן ווניואן	0	paranames-en-he-neg
+Kathrin Neimke	קתרין אונטרוורצאכר	0	paranames-en-he-neg
+Killian Scott	קיליאן הייז	0	paranames-en-he-neg
+Can Togay	ג'אן בונומו	0	paranames-en-he-neg
+Goldshṭain, Ḥayim	גולדשטין, משה, 1909-1985	0	paranames-en-he-neg
+Clay Higgins	קליי מרזו	0	paranames-en-he-neg
+Prusias I of Bithynia	פרוסיאס השני, מלך ביתיניה	0	paranames-en-he-neg
+Sia	סיה קורומה	0	paranames-en-he-neg
+Lesley Boone	לסלי דאנקן	0	paranames-en-he-neg
+Gobinda Chandra Sen	גובינדה צ'אנדרה דאס	0	paranames-en-he-neg
+Elissa	אליסה ראיס	0	paranames-en-he-neg
+Baxter Humby	בקסטר דיורי	0	paranames-en-he-neg
+Vanče Šikov	ואנס גרי	0	paranames-en-he-neg
+Calvin Demba	קלווין רמזי	0	paranames-en-he-neg
+Joumana Haddad	ג'ומאנה שמעון	0	paranames-en-he-neg
+Ramaz Shengelia	רמאז צ'יאורלי	0	paranames-en-he-neg
+Franziska Cechal	פרנציסקה טרגנר	0	paranames-en-he-neg
+Dragoș Grigore	דראגוש וודה	0	paranames-en-he-neg
+Väinö Kokkinen	ואינו לינה	0	paranames-en-he-neg
+Paltiel Giat	פלטיאל דייקן	0	paranames-en-he-neg
+Aron Steven Haddad	אהרון סג׳׳ל עפשטיין	0	paranames-en-he-neg
+Mariam Baouardy	מרים ציצישווילי	0	paranames-en-he-neg
+Jacek Góralski	ג'ק אייזנר	0	paranames-en-he-neg
+Eero Aarnio	אירו סארינן	0	paranames-en-he-neg
+Larissa Pereira	לריסה וולפרט	0	paranames-en-he-neg
+Adrian Fine	אדריאנוס החמישי	0	paranames-en-he-neg
+Fumiko Yonezawa	פומיקו סויג'ימה	0	paranames-en-he-neg
+Katherine Waterston	קתרין פרקינסון	0	paranames-en-he-neg
+Masahiko Kōmura	מסאהיקו נישימורה	0	paranames-en-he-neg
+Kit Coleman	קיט דה ואל	0	paranames-en-he-neg
+Rima Issa	רמה זידן	0	paranames-en-he-neg
+Yehiel Krize	יחיאל צגאי	0	paranames-en-he-neg
+Merle Greene Robertson	מרלה דנדרידג'	0	paranames-en-he-neg
+Jawad El Yamiq	ג'וואד סלים	0	paranames-en-he-neg
+Zia Mohyeddin	זיא מחמוד	0	paranames-en-he-neg
+Pa Odiase	פה סוצ'יאטוונג	0	paranames-en-he-neg
+George Ezra	ג'ורג' פרדריק סטאוט	0	paranames-en-he-neg
+Melih Cevdet Anday	מלי שלוק	0	paranames-en-he-neg
+Yftach Katzur	יפתח גפנר	0	paranames-en-he-neg
+Tariel Kutateladze	טריאל אבסוב	0	paranames-en-he-neg
+Masatoshi Fukui	מסטושי ניי	0	paranames-en-he-neg
+Kálmán Széll	קלמן ה. סילברט	0	paranames-en-he-neg
+Percival Hall	פרסיוול לוול	0	paranames-en-he-neg
+Viacheslav Fetisov	ויאצ'סלאב הראשון, נסיך קייב	0	paranames-en-he-neg
+Blaise de Vigenère	בלז מטווידי	0	paranames-en-he-neg
+Cade Foehner	קייד קנינגהם	0	paranames-en-he-neg
+Jakob Nielsen	יאקוב מיכאל ריינהולד לנץ	0	paranames-en-he-neg
+Fatih Akin	פתיח אוואן	0	paranames-en-he-neg
+Berta Boncza	ברטה טירק	0	paranames-en-he-neg
+Elmo Lincoln	אלמו סמית'	0	paranames-en-he-neg
+Nachshon Meiran	נחשון וקסמן	0	paranames-en-he-neg
+Eshkar Erblich-Brifman	אשכר אלדן כהן	0	paranames-en-he-neg
+Limor Shmerling Magazanik	לימור שמילה	0	paranames-en-he-neg
+Patrice Higonnet	פטריס בוגראן-דובורג	0	paranames-en-he-neg
+Spiro Denkov	ספירו אגניו	0	paranames-en-he-neg
+Loránd Eötvös	לוראנד פניבש	0	paranames-en-he-neg
+Oren Weigenfeld	אורן אייזנמן	0	paranames-en-he-neg
+Kaz Firpo	מוסה קזם קראבקיר	0	paranames-en-he-neg
+Samra Rahimli	סמרה	0	paranames-en-he-neg
+Nicklas Lidström	ניקלאס בנדטנר	0	paranames-en-he-neg
+Newton Thomas Sigel	ניוטון בייקר	0	paranames-en-he-neg
+Blanche of Valois	בלאנש דאגדייל	0	paranames-en-he-neg
+Suppiluliuma I	שופילוליומש השני	0	paranames-en-he-neg
+Vaughan Ronald Pratt	ווהאן לואו	0	paranames-en-he-neg
+Eugénie Söderberg	אז'ני לה סומר	0	paranames-en-he-neg
+Terell Thomas	טרל אונדאן	0	paranames-en-he-neg
+Hamid Naficy	האמיד עלי	0	paranames-en-he-neg
+Noureddine Naybet	נור א-דין מורסלי	0	paranames-en-he-neg
+Makhluf Idan	מכלוף אביטן	0	paranames-en-he-neg
+Jeannot Szwarc	ג'אנוט בול	0	paranames-en-he-neg
+Sulamith Messerer	שולמית גולדהבר	0	paranames-en-he-neg
+Deborah Read Franklin	דבורה טאנן	0	paranames-en-he-neg
+Houda Miled	הודא עזרא נונו	0	paranames-en-he-neg
+Florin Răducioiu	פלורין קונסטנטינוביצי	0	paranames-en-he-neg
+Giancarlo Maldonado	ג'יאנקרלו מארוקי	0	paranames-en-he-neg
+Magen Broshi	חלוץ, מגן	0	paranames-en-he-neg
+Reuel Abraham	רעואל שועלי	0	paranames-en-he-neg
+Yōji Matsuda	יוג'י קאירד	0	paranames-en-he-neg
+Liudolf, Duke of Swabia	ליאודולף, דוכס סקסוניה	0	paranames-en-he-neg
+Abby Hoffman	אבי אליוט	0	paranames-en-he-neg
+Jeanne Bonaparte	ז'אן ברוסה	0	paranames-en-he-neg
+Itai Sharon	איתי ליבוביץ	0	paranames-en-he-neg
+Suzie Navot	סוזי מקנייל	0	paranames-en-he-neg
+Gish Amit	גיש ג׳ן	0	paranames-en-he-neg
+Žiga Samar	ז'יגה פרליך	0	paranames-en-he-neg
+Stas Mikhaylov	סטס מיסז'ניקוב	0	paranames-en-he-neg
+Koren Amisha	קורן שדמי	0	paranames-en-he-neg
+Hatice Sultan	הטיס אסלאן	0	paranames-en-he-neg
+Malcom McLean	מלקום	0	paranames-en-he-neg
+Maxime Guillaume	מקסים שאנו	0	paranames-en-he-neg
+Hamida Banu Begum	חמידה אל-עטאס	0	paranames-en-he-neg
+Newaya Maryam	ניואיה קראסטוס, קיסר אתיופיה	0	paranames-en-he-neg
+A'Lelia Bundles	א'ליליה ווקר	0	paranames-en-he-neg
+Jerry Lucas	ג'רי רובינזון	0	paranames-en-he-neg
+Arlen Specter	ארלן אסקארפטה	0	paranames-en-he-neg
+Izzat Darwaza	עיזאת חאמד	0	paranames-en-he-neg
+Josif Bageri	יוסף דורפמן	0	paranames-en-he-neg
+Etelka Benkő	אטלקה יוז'ף	0	paranames-en-he-neg
+Leonīds Salcevičs	לאונידס קלנינש	0	paranames-en-he-neg
+Ioannis Papapetrou	יואניס קולטיס	0	paranames-en-he-neg
+Priya Hart	פרייה קומאר צ'אטופאדהיאי	0	paranames-en-he-neg
+Jean-Louis Guez de Balzac	ג'ובאני לואיג'י מסבויה	0	paranames-en-he-neg
+Madge Evans	מאדג' בלייק	0	paranames-en-he-neg
+Mauro Checcoli	מאורו מלבסי	0	paranames-en-he-neg
+Desiderius Orban	הילדפרנד	0	paranames-en-he-neg
+Zevulun Shoshanah	זבולון תוחמן	0	paranames-en-he-neg
+Gabi Ashkenazi	גבי נוימרק	0	paranames-en-he-neg
+Gilly Hartal	גילי פלוור	0	paranames-en-he-neg
+Clyde Geronimi	קלייד וייגאנד	0	paranames-en-he-neg
+Wiley Rutledge	ווילי ויגינס	0	paranames-en-he-neg
+Rio Ferdinand	ריו דוואנטו	0	paranames-en-he-neg
+Silvina Landsmann	סילבינה אפשטיין-ליטמן	0	paranames-en-he-neg
+Coby White	קובי בראון	0	paranames-en-he-neg
+Y. Kuris	י. פעקעטע	0	paranames-en-he-neg
+Offir Malol	אופיר כהן	0	paranames-en-he-neg
+Lynne Ramsay	לין דיוק	0	paranames-en-he-neg
+Bo'az Klartag	בועז מעודה	0	paranames-en-he-neg
+Florrie	פלורי ר. ברק	0	paranames-en-he-neg
+Amasis II	אמאסיס	0	paranames-en-he-neg
+Etty Wieseltier	אתיטל, 1949-	0	paranames-en-he-neg
+Inbar Ronen	ענבר סוירפמן	0	paranames-en-he-neg
+Mizuki Noguchi	מיזוקי יאמאמוטו	0	paranames-en-he-neg
+Lidar Artzi	לידר דנה	0	paranames-en-he-neg
+Alois Miedl	אלויס שוורץ	0	paranames-en-he-neg
+Cate Bauer	קייט קמפבל	0	paranames-en-he-neg
+Iggy Waxman	איגי פופ	0	paranames-en-he-neg
+Rufus Jones	רופוס סוול	0	paranames-en-he-neg
+Damon Gameau	דיימון היל	0	paranames-en-he-neg
+Yonas	יונס מלדה	0	paranames-en-he-neg
+Issa El-Issa	עיסא סיסי	0	paranames-en-he-neg
+Bette Midler	בטי דייוויס	0	paranames-en-he-neg
+Qi Jianhong	צ'י ג'י-גואנג	0	paranames-en-he-neg
+Amoz Gibson	אמוץ בכר	0	paranames-en-he-neg
+Theodoric I	דיטריך הראשון, רוזן וטין	0	paranames-en-he-neg
+Tristan Egolf	טריסטאן אוליבר	0	paranames-en-he-neg
+Gevorg Tamanyan	גאבורג גאזריאן	0	paranames-en-he-neg
+Becky Ann Baker	בקי פריישטדט	0	paranames-en-he-neg
+Yoshiyuki Koike	יושיוקי מושא	0	paranames-en-he-neg
+Aaron ben Moseh Rofe	ארון קרטר	0	paranames-en-he-neg
+Conall mac Taidg	קונאל מק קומגאל	0	paranames-en-he-neg
+Loy Vaught	לוי הנדרסון	0	paranames-en-he-neg
+Diane Baratier	דיאן רוגיירו	0	paranames-en-he-neg
+Damyan Velchev	דמיאן, נטליה	0	paranames-en-he-neg
+Luisa C. Mondschein Halfon	לואיסה דה גוסמן	0	paranames-en-he-neg
+Yasin Hamed	יאסין סלמאני	0	paranames-en-he-neg
+Bernie Lowe	ברני סנדרס	0	paranames-en-he-neg
+Jesús María Zamora	ישו	0	paranames-en-he-neg
+Queen Alia of Jordan	קמילה, מלכת הממלכה המאוחדת	0	paranames-en-he-neg
+Colleen Ballinger	קולין הובר	0	paranames-en-he-neg
+Aymen Dahmen	איימן בנבדרהמנה	0	paranames-en-he-neg
+Skyler Brigmann	סקילר גיסונדו	0	paranames-en-he-neg
+Bimala Dasgupta	בימאלה צ'ארן לאהא	0	paranames-en-he-neg
+Bamberger, Shulamith	במברגר, שלמה, 1926-	0	paranames-en-he-neg
+Vasilij Raev	ואסילי ז'בוגאר	0	paranames-en-he-neg
+Yujiro Kushida	יוהירו אישיהרה	0	paranames-en-he-neg
+Tobiah	טוביה בן אליעזר	0	paranames-en-he-neg
+La Malinche	לה היר	0	paranames-en-he-neg
+Claude-Louis Navier	קלוד-לואי מתייה	0	paranames-en-he-neg
+Priyanath Sen	פריאנאת רוי	0	paranames-en-he-neg
+Geeta Dutt	גיטה באלי	0	paranames-en-he-neg
+Felix Naim	פליקס טיילהבר	0	paranames-en-he-neg
+Mahalia Jackson	מהליה	0	paranames-en-he-neg
+Geva Barkai	גבע אלון	0	paranames-en-he-neg
+Yogendra Chandra Gupta	יוגנדרה צ'אנדרה באסו	0	paranames-en-he-neg
+Adonis Stevenson	אדוניס דיאז	0	paranames-en-he-neg
+Edo de Waart	רכניץ, עדו	0	paranames-en-he-neg
+Atticus Shaffer	אטיקוס פהר	0	paranames-en-he-neg
+Eduard Khil	אדוארד רוכארדט	0	paranames-en-he-neg
+Dick Sprang	דיק היימן	0	paranames-en-he-neg
+Zoë Bell	זואי בויל	0	paranames-en-he-neg
+Nicolai Abildgaard	ניקולאי הנסן	0	paranames-en-he-neg
+Liav Mizrahi	ליאב אורגד	0	paranames-en-he-neg
+Shahaf Volman	שחף דור	0	paranames-en-he-neg
+Abd ar-Razzaq an-Naif	עבדאללה אבן א-זובייר	0	paranames-en-he-neg
+Blair Jenkins	בלייר בראון	0	paranames-en-he-neg
+Satya Churn Law	סאטיה קינקאר גוסוואמי	0	paranames-en-he-neg
+Deke Slayton	דייק שרון	0	paranames-en-he-neg
+Whitfield Cook	ויטפילד דיפי	0	paranames-en-he-neg
+Sarat Chandra Shastri	סארט צ'אנדרה דאס	0	paranames-en-he-neg
+Tillie Ziegler	טילי וולדן	0	paranames-en-he-neg
+Dmytro Serhiyovych Osadchyi	דמיטרי סובה	0	paranames-en-he-neg
+Kenrick Monk	קנריק ז'ורז'	0	paranames-en-he-neg
+Ronny Yovel	רוני ג'קסון	0	paranames-en-he-neg
+Joscelin II	ז'וסלין השלישי, רוזן אדסה	0	paranames-en-he-neg
+Preston Cloud	פרסטון רוברט טיש	0	paranames-en-he-neg
+Faraj Said Bin Ghanem	פאראג' גאראייב	0	paranames-en-he-neg
+Gustave Kahn	גוסטב לאזאר	0	paranames-en-he-neg
+Theophano	תאופנו האתונאית	0	paranames-en-he-neg
+Milton Rosmer	מילטון ס. הרשי	0	paranames-en-he-neg
+Tunji Awojobi	טונג'י קאסים	0	paranames-en-he-neg
+Lorkh, Ḳ.	לורך, יואב	0	paranames-en-he-neg
+Pico Iyer	פיקו אלכסנדר	0	paranames-en-he-neg
+Ganesh Acharya	גאנש פרסאד טימילסינה	0	paranames-en-he-neg
+Jupp Kapellmann	יופ דרוואל	0	paranames-en-he-neg
+Danit Kama	צור, דנית	0	paranames-en-he-neg
+Rogel Alpher	רוגל נחום	0	paranames-en-he-neg
+Nesli Barda	נסלי	0	paranames-en-he-neg
+Shahar Tzuberi	שחר עמיר	0	paranames-en-he-neg
+Ardian Nuhiu	ארדיאן סיאף	0	paranames-en-he-neg
+Amenhotep II	אמנחותפ הראשון	0	paranames-en-he-neg
+Nysa of Cappadocia	נייסה	0	paranames-en-he-neg
+Antoine-Louis Barye	אנטואן-לואי ברגה	0	paranames-en-he-neg
+Alok	אלוק שארמה	0	paranames-en-he-neg
+Golomb, Naʻamah	גולומב, דקלה	0	paranames-en-he-neg
+Lilit Mkrtchian	לילית פיפויאן	0	paranames-en-he-neg
+Ibrahima Bakayoko	איברהימה קונטה	0	paranames-en-he-neg
+Agathocles	אגתוקלס מפלה	0	paranames-en-he-neg
+Kamel al-Budeiri	כאמל עריקאת	0	paranames-en-he-neg
+Ayoub Amraoui	איוב א-סח'תיאני	0	paranames-en-he-neg
+Leighton Clarkson	לייטון ביינס	0	paranames-en-he-neg
+Livnat Afriat-Jurnou	לבנת בן-חמו	0	paranames-en-he-neg
+Noriko Hiraoka	נוריקו אנו	0	paranames-en-he-neg
+Martine Moïse	מרטין ברקוה	0	paranames-en-he-neg
+Cornelius Castoriadis	קורנליוס הרץ	0	paranames-en-he-neg
+Boris Gurevich	בוריס ארונסון	0	paranames-en-he-neg
+Bertram Korn	ברטרם ברוקהאוז	0	paranames-en-he-neg
+Rinaldo Rinaldi	רינלדו פיאג'ו	0	paranames-en-he-neg
+Hendrik Handloegten	הנדריק סימון ורסנל	0	paranames-en-he-neg
+Daud Turki	דאוד ח'אן קראני	0	paranames-en-he-neg
+Rina Yerushalmi	רינה קמחי	0	paranames-en-he-neg
+Trina Robbins	טרינה שארט היימן	0	paranames-en-he-neg
+Tshering Tobgay	תשרינג יאנגדון	0	paranames-en-he-neg
+Valeriya Novodvorskaya	ולריה שקיראנדו	0	paranames-en-he-neg
+Walton Ford	וולטון ווקר	0	paranames-en-he-neg
+Kofi Kingston	קופי סיריבו	0	paranames-en-he-neg
+Dalal Abu Amneh	דלאל מוגרבי	0	paranames-en-he-neg
+Ethel Ogden	אתל ברינגר	0	paranames-en-he-neg
+Avichay Katzin	אביחי אדרעי	0	paranames-en-he-neg
+Jean-Pierre Ramsay-Levi	ז'אן פייר אניירה	0	paranames-en-he-neg
+Lo Hsiang-lin	לו וויי	0	paranames-en-he-neg
+Adam Harper	אדם יאנג	0	paranames-en-he-neg
+Trude Haim	טרודה דותן	0	paranames-en-he-neg
+Gio Paolo Bombarda	ג'יו באטה גורי	0	paranames-en-he-neg
+Jordan Fisher	ג'ורדן לארסון	0	paranames-en-he-neg
+Camryn Rogers	קמרין מנהיים	0	paranames-en-he-neg
+Malin Moström	מלין מטסדוטר	0	paranames-en-he-neg
+Andrius Kubilius	אנדריוס גודז'יוס	0	paranames-en-he-neg
+Drest V	דרסט התשיעי, מלך הפיקטים	0	paranames-en-he-neg
+Shalev Hulio	שלו הרוש	0	paranames-en-he-neg
+Maximilian Dirr	מקסימיליאן ליסט	0	paranames-en-he-neg
+Kurt Engels	קורט המרלינג	0	paranames-en-he-neg
+Zoila Frausto Gurgel	זוילה אוגרטה דה לנדיבאר	0	paranames-en-he-neg
+Renen Schorr	רנן מוסינזון	0	paranames-en-he-neg
+Abigail Marlowe	אביגיל מק'קרן	0	paranames-en-he-neg
+Arrigo Beccari	אריגו מינרבי	0	paranames-en-he-neg
+Fatma Rouchdi	פאטמה זוהרה זאמון	0	paranames-en-he-neg
+Lucian Freud	לוציאן קורנגולד	0	paranames-en-he-neg
+Michele Luzzati	מישל קריידר	0	paranames-en-he-neg
+Nosson Dovid Rabinowich	נתן מאיר וכטפוגל	0	paranames-en-he-neg
+Carel Fabritius	קארל קשט	0	paranames-en-he-neg
+Yasmine Bleeth	יסמין שואיך	0	paranames-en-he-neg
+Wenzel Fuchs	ואצלב רנדר	0	paranames-en-he-neg
+Chasida Avidar	חסידה לנדאו	0	paranames-en-he-neg
+Melora Walters	מלורה הארדין	0	paranames-en-he-neg
+Taj Mahal	טאג' אטוואל	0	paranames-en-he-neg
+Shake Milton	070 שייק	0	paranames-en-he-neg
+Meadow Walker	מאדו ויליאמס	0	paranames-en-he-neg
+Irad Malkin	עירד אייכלר	0	paranames-en-he-neg
+Clair Cameron Patterson	קלייר אנגל	0	paranames-en-he-neg
+Bluma Berent	בלומה זייגרניק	0	paranames-en-he-neg
+Nalinibala Bhanja Choudhurani	נאליניבאלה גוש	0	paranames-en-he-neg
+Sigurd von Ilsemann	זיגורד סיר	0	paranames-en-he-neg
+Perla Danoch	פרלה הייני-ג'רדין	0	paranames-en-he-neg
+Bevis Mugabi	בוויס הילייר	0	paranames-en-he-neg
+Siv Rajendram	סיב ינסן	0	paranames-en-he-neg
+Eliora Zholkovski	אליאורה רון	0	paranames-en-he-neg
+Jaroslav Šilhavý	ירוסלב דושק	0	paranames-en-he-neg
+Démètre Bibesco	דמטרה שיפארוס	0	paranames-en-he-neg
+Anush Hovhannisyan	אנוש נקשיאן	0	paranames-en-he-neg
+Theodora	תאודורה קאנטאקוזנה	0	paranames-en-he-neg
+Illana Diamant	אילנה גוזס	0	paranames-en-he-neg
+Jud Tylor	ג'אד בושלר	0	paranames-en-he-neg
+Jeannie Ebner	ג'ני גפיגן	0	paranames-en-he-neg
+Steinunn Sigurðardóttir	סטיינון ולדיס אוסקרסדוטיר	0	paranames-en-he-neg
+Seligman Baer Bamberger	זליגמן, נעם, 1929-2016	0	paranames-en-he-neg
+Karsten Kroon	קרסטן טוטר	0	paranames-en-he-neg
+Colm Meaney	קולם מק'ארתי	0	paranames-en-he-neg
+Artemisia Gentileschi	ארטמיסיה הראשונה מקאריה	0	paranames-en-he-neg
+Rhoemetalces I	רומטלקס השני, מלך אודירסה	0	paranames-en-he-neg
+Conway The Machine	קונוויי טיארל	0	paranames-en-he-neg
+Luciana Souza	לוצ'אנה פלוצי	0	paranames-en-he-neg
+Hedva Yehezkeli	חדוה טפרברג	0	paranames-en-he-neg
+Friedlander Méír Hirsch	מנחם פרידלנדר	0	paranames-en-he-neg
+Gunnar Thoroddsen	גונאר לארסון	0	paranames-en-he-neg
+Abdul Karim Abdullah al-Arashi	עבד אל-קדיר ח'אן	0	paranames-en-he-neg
+Ifat Kaplan-Ashiri	יפעת רשף	0	paranames-en-he-neg
+Adrianne León	אדריאן וואדוביץ'	0	paranames-en-he-neg
+Charlotte Wessels	שרלוט הלדיין	0	paranames-en-he-neg
+Alfonso Cuarón	אלפונסו קאסו	0	paranames-en-he-neg
+Angeles Martin	אנג'לס בראבו	0	paranames-en-he-neg
+Yagel Oshri	יגל הרוש	0	paranames-en-he-neg
+Ludmila Golobchik	לודמילה ציפנסקיה	0	paranames-en-he-neg
+Marlen Ferrer	פרר מרלן	0	paranames-en-he-neg
+Bishweshwar Tarkaratna	בישוושוואר טארקאלאנקאר	0	paranames-en-he-neg
+Sándor Szana	שאנדור גאל	0	paranames-en-he-neg
+Cuauhtémoc	קוואוטמוק בלנקו	0	paranames-en-he-neg
+Rodolphe Laflamme	רודולף אלכסנדר	0	paranames-en-he-neg
+Syarhey Herasimets	סרגיי צ'רניק	0	paranames-en-he-neg
+Amina Najiba Khanum Effendi	אמינה וואדוד	0	paranames-en-he-neg
+Toshihiro Omodaka	יושיהירו אאויאמה	0	paranames-en-he-neg
+Marny Eng	מרני קנדי	0	paranames-en-he-neg
+Raman Vasilyuk	ראמן פארימלה	0	paranames-en-he-neg
+Brenton Spencer	ברנטון ריקארד	0	paranames-en-he-neg
+Gaspar Corte-Real	גספר נואה	0	paranames-en-he-neg
+Hideyuki Ōsawa	הידיוקי מוטוהאשי	0	paranames-en-he-neg
+Hulk	האלק הוגאן	0	paranames-en-he-neg
+Abune Mathias	אבונא פאלוס	0	paranames-en-he-neg
+Mikkel Kaufmann	מיקל ביירג	0	paranames-en-he-neg
+Meier Tzelniker	מאיר שורץ	0	paranames-en-he-neg
+Yehiam Prior	יחיעם פדן	0	paranames-en-he-neg
+Danni Recht	דני בסן	0	paranames-en-he-neg
+Sandy Martin	סנדי סטרן	0	paranames-en-he-neg
+Rosen Plevneliev	רוסן ז'ליאזקוב	0	paranames-en-he-neg
+Daiṭsh, Yoshuʻa Heshil	דייטש, פרץ טוביה	0	paranames-en-he-neg
+Gert Günther Hoffmann	גרט יונקה	0	paranames-en-he-neg
+Violant of Castile	ויולנטה מאראגון	0	paranames-en-he-neg
+Nicolaus I Bernoulli	ניקולאוס אוטו	0	paranames-en-he-neg
+Rivka Uziel	רבקה הכהן	0	paranames-en-he-neg
+Rusudan of Georgia	רוסודן מצ'רקסיה	0	paranames-en-he-neg
+Dor Peles	דור גל	0	paranames-en-he-neg
+Alessia Cara	אלסיה זקיני	0	paranames-en-he-neg
+Dragan Bender	דרזן קיקנוביץ'	0	paranames-en-he-neg
+Gasparo da Salò	גספרו בלבי	0	paranames-en-he-neg
+Roula Khalaf	רולא ח'ורי	0	paranames-en-he-neg
+Ramiro Funes Mori	רמירו דה מאסטו	0	paranames-en-he-neg
+Tzvi Tirosh	צבי זוירי	0	paranames-en-he-neg
+Anastasios Bakasetas	אנסטסיוס השני, קיסר האימפריה הביזנטית	0	paranames-en-he-neg
+Yared Bayeh	ירד	0	paranames-en-he-neg
+Constance Chapman	קונסטנס וו	0	paranames-en-he-neg
+Harris Ho	האריס הנקוק	0	paranames-en-he-neg
+Gilda de Abreu	גילדה רדנר	0	paranames-en-he-neg
+Cory Vitiello	קורי מונטית'	0	paranames-en-he-neg
+Stelian Bordeianu	סטליאן טנאסה	0	paranames-en-he-neg
+Vittoria Colonna	ויטוריה אליאוטי	0	paranames-en-he-neg
+Ove Kindvall	אובה הויג-גילדברג	0	paranames-en-he-neg
+Ralf Fährmann	ראלף מולר	0	paranames-en-he-neg
+Murilo Bustamante	מורילו סרקיירה	0	paranames-en-he-neg
+Calev Myers	כלב בן דוד	0	paranames-en-he-neg
+Icchak Grudberg	יצחק אבן	0	paranames-en-he-neg
+Volker Springel	פולקר בק	0	paranames-en-he-neg
+Anett Mészáros	אנט קונטאבייט	0	paranames-en-he-neg
+Savvas Pantelidis	סאבאס פורסאטידיס	0	paranames-en-he-neg
+Geula Ben-Eliezer	גאולה סירי	0	paranames-en-he-neg
+Puah Shalev-Toren	פועה רקובסקי	0	paranames-en-he-neg
+Meyrav Feldman	מירב וורמסר	0	paranames-en-he-neg
+Carry Hess	קארי אולרייך	0	paranames-en-he-neg
+Tod Carter	טוד וולטרס	0	paranames-en-he-neg
+Shṭainberg, Y.	שטיינבערג, משה חיים	0	paranames-en-he-neg
+Avihai Zafrani	אביחי ידין	0	paranames-en-he-neg
+John Henry Twachtman	ג'ון קבוט	0	paranames-en-he-neg
+Ruđer Josip Bošković	רו פארה	0	paranames-en-he-neg
+Ri Rosenfeld	רי יונג-הו	0	paranames-en-he-neg
+Shadi Ballan	שאדי שעבאן	0	paranames-en-he-neg
+Freeman Dyson	פרימן ויליאמס	0	paranames-en-he-neg
+Bension Taragan	בנציון הכהן	0	paranames-en-he-neg
+Ezékiel Mózes Lipsitz Fischmann	יחזקאל הרמלך	0	paranames-en-he-neg
+Gela Charkviani	גלה מסחי	0	paranames-en-he-neg
+Roei Gordana	רועי רוזנברג	0	paranames-en-he-neg
+Abel Hernández	אבל באלבו	0	paranames-en-he-neg
+Aishwarya Rai Bachchan	אייסוואריה, מלכת נפאל	0	paranames-en-he-neg
+Kardam of Bulgaria	קארדאם, נסיך טרנובו	0	paranames-en-he-neg
+Kortney Ryan Ziegler	קורטני קיין	0	paranames-en-he-neg

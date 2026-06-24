@@ -1,0 +1,26 @@
+# Curated headline eval pairs. Columns: a <TAB> b <TAB> label <TAB> category
+# label: 1 = same person, 0 = different. Lines starting with # are ignored.
+G. Washington	George Washington	1	initials
+T. Jefferson	Thomas Jefferson	1	initials
+J. F. Kennedy	John Fitzgerald Kennedy	1	initials
+A. Einstein	Albert Einstein	1	initials
+George Washington	Thomas Jefferson	0	initials
+صلاح الأيوبي	صلاح الدين الأيوبي	1	arabic-subset
+عبد الله المصري	عبد الله محمد المصري	1	arabic-subset
+محمد الغزالي	محمد بن محمد الغزالي	1	arabic-subset
+صلاح الدين الأيوبي	نور الدين الزنكي	0	arabic-subset
+عبد الله المصري	عبد الرحمن المصري	0	arabic-subset
+صلاح الدين	Salah al-Din	1	cross-script
+صلاح الدين	Salah ad-Deen	1	cross-script
+صلاح الدين الأيوبي	Salah al-Din al-Ayyubi	1	cross-script
+محمد	Mohammed	1	cross-script
+محمد	Muhammad	1	cross-script
+أحمد	Ahmed	1	cross-script
+عمر	Omar	1	cross-script
+صلاح الدين	Thomas Jefferson	0	cross-script
+محمد	George	0	cross-script
+Maria de la Cruz	María de la Cruz González	1	iberian
+Jose Garcia Lopez	José García	1	iberian
+Ana Maria Silva Santos	Ana Maria Santos	1	iberian
+Carlos Ruiz Gonzalez	Carlos Ruiz Mendoza	0	iberian
+Jean-Pierre de la Fontaine	Jean de la Fontaine	1	iberian

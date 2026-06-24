@@ -1,0 +1,4003 @@
+# Derived from ParaNames (https://github.com/bltlab/paranames), CC-BY-SA 4.0,
+# built from Wikidata. Sampled EN<->ZH person pairs for cross-script eval.
+# Columns: a<TAB>b<TAB>label<TAB>category   (label 1=same person, 0=different)
+Masaya Ozeki	尾關昌也	1	paranames-en-zh
+Wang Junbai	王君白	1	paranames-en-zh
+Liu Huo	劉濩	1	paranames-en-zh
+Reinaldo Marcus Green	雷纳尔多·马库斯·格林	1	paranames-en-zh
+Lê Quốc Phương	黎奎彭	1	paranames-en-zh
+Guo Tianxiang	郭天祥	1	paranames-en-zh
+Sibylla of Acerra	阿切拉的西比拉	1	paranames-en-zh
+Jenny-Mai Nuyen	燕妮-迈·阮	1	paranames-en-zh
+Slavko Goluža	斯拉夫科·戈卢扎	1	paranames-en-zh
+Zhang Lishu	張力恕	1	paranames-en-zh
+Chang Yup Kim	金昌燁	1	paranames-en-zh
+Han Shan	韓繕	1	paranames-en-zh
+Kai Schumann	凯·舒曼	1	paranames-en-zh
+Yuan Hongyu	袁洪愈	1	paranames-en-zh
+Chang Yu-chi	張玉奇	1	paranames-en-zh
+Hu Jing	胡景	1	paranames-en-zh
+Zhou Yingao	周應鼇	1	paranames-en-zh
+Natalia Golomidova	納塔利婭·果洛米多娃	1	paranames-en-zh
+Fang Anren	方安仁	1	paranames-en-zh
+Peter Rühmkorf	彼得·呂姆克爾夫	1	paranames-en-zh
+Sho Hirako	平光尚	1	paranames-en-zh
+Shen ?	沈㷆	1	paranames-en-zh
+Sun Shouming	孫壽銘	1	paranames-en-zh
+Li Shi	李氏	1	paranames-en-zh
+Wei Huan	韋渙	1	paranames-en-zh
+Shiba Akizane	斯波詮真	1	paranames-en-zh
+Eugene	柳真	1	paranames-en-zh
+Lin Feng	林鳳	1	paranames-en-zh
+Abdeljalil El Hajji	阿布德拉里·艾尔·哈吉	1	paranames-en-zh
+Gema Zamprogna	葛瑪·山普拉格納	1	paranames-en-zh
+Fu Shiyue	傅式说	1	paranames-en-zh
+Tomo Milicevic	托莫·米利塞维奇	1	paranames-en-zh
+Wu Ji	武濟	1	paranames-en-zh
+Kim Nak-oh	金洛五	1	paranames-en-zh
+Huang She	黃射	1	paranames-en-zh
+Hong Shangxiang	洪上庠	1	paranames-en-zh
+Xu Xian	徐憲	1	paranames-en-zh
+Mark Udall	马克·尤德尔	1	paranames-en-zh
+Su Yuanrui	蘇元瑞	1	paranames-en-zh
+Huang Guitian	黄桂田	1	paranames-en-zh
+Nguyễn Phúc Miên Cư	阮福綿𡨢	1	paranames-en-zh
+Shen Yan	沈琰	1	paranames-en-zh
+Katie Taylor	凯蒂·泰勒	1	paranames-en-zh
+Gu Qiao	顧樵	1	paranames-en-zh
+Zhou Shi	周氏	1	paranames-en-zh
+Kodama Roichi	兒玉魯一	1	paranames-en-zh
+Li Junyan	李君羨	1	paranames-en-zh
+Li Genshen	李根深	1	paranames-en-zh
+Yuan Xianggang	袁象崗	1	paranames-en-zh
+Lin Kongzhai	林空齋	1	paranames-en-zh
+Jia Daishi	賈待仕	1	paranames-en-zh
+He Tan	何郯	1	paranames-en-zh
+Guo Ren	郭仁	1	paranames-en-zh
+Yang Guoshun	楊國順	1	paranames-en-zh
+Lin Adriene	林孟瑾	1	paranames-en-zh
+Herbert Wehner	赫伯特·魏纳	1	paranames-en-zh
+Mariette Bosch	馬里埃特·博世	1	paranames-en-zh
+Sandra Drzymalska	桑德拉·兹马尔斯卡	1	paranames-en-zh
+Liu Hui	劉繪	1	paranames-en-zh
+Mike Malone	迈克尔·马龙	1	paranames-en-zh
+Ban Zhi	班穉	1	paranames-en-zh
+Uma Sambanthan	乌玛·善班丹	1	paranames-en-zh
+Shi Jingchun	釋景淳	1	paranames-en-zh
+Kea Bouman	科尼莉亞·布曼	1	paranames-en-zh
+Mário Fernandes	马里奥·费南迪斯	1	paranames-en-zh
+Helge Liljebjörn	黑尔格·利耶比约恩	1	paranames-en-zh
+Bernard Hogan-Howe	伯納·霍根-豪	1	paranames-en-zh
+Ren Yong	任用	1	paranames-en-zh
+RowVaughn Wells	羅沃恩·威爾斯	1	paranames-en-zh
+Feng Wei	馮威	1	paranames-en-zh
+Tang Qingyuan	湯慶源	1	paranames-en-zh
+Bao Jianlin	包漸林	1	paranames-en-zh
+Li Ji	李吉	1	paranames-en-zh
+Cynthia Estlund	辛西娅·伊斯特隆德	1	paranames-en-zh
+John Friedmann	约翰·弗里德曼	1	paranames-en-zh
+Bruno Marie-Rose	布鲁诺·马里-罗斯	1	paranames-en-zh
+Kenneth Lee Pike	肯尼思·派克	1	paranames-en-zh
+Zafar Sarfraz	扎法尔·萨尔夫拉兹	1	paranames-en-zh
+James Renwick Jr.	小詹姆斯·倫威克	1	paranames-en-zh
+Lin Lunlun	林伦伦	1	paranames-en-zh
+Ma Qiansheng	马千乘	1	paranames-en-zh
+Dong Ziyan	董子筵	1	paranames-en-zh
+Takahiro Yamada	山田隆弘	1	paranames-en-zh
+Yuan Li	苑禮	1	paranames-en-zh
+Theresa Russell	泰莉莎·拉塞尔	1	paranames-en-zh
+John Rawlins	约翰 罗斯林	1	paranames-en-zh
+Charlie Choi	蔡潔鈴	1	paranames-en-zh
+Cai Qixin	蔡啟新	1	paranames-en-zh
+Zhang Baoe	張寶堮	1	paranames-en-zh
+Samantha Redgrave	萨曼莎·雷德格雷夫	1	paranames-en-zh
+Liu Duo	劉鐸	1	paranames-en-zh
+Ji Xin	季鐔	1	paranames-en-zh
+Li Hang	李行	1	paranames-en-zh
+Eddie Tolan	埃迪·托蘭	1	paranames-en-zh
+Rao Shi	饒氏	1	paranames-en-zh
+Liu Chang	劉昶	1	paranames-en-zh
+Karmen Stavec	卡門·斯塔維克	1	paranames-en-zh
+Qi Mou	齊某	1	paranames-en-zh
+Zhao Congben	趙從賁	1	paranames-en-zh
+Xu Guoxiang	徐國相	1	paranames-en-zh
+Hao Lin	郝林	1	paranames-en-zh
+Ruan Hongdao	阮弘道	1	paranames-en-zh
+Ke Huapeng	柯化鵬	1	paranames-en-zh
+Li Wuren	李武仁	1	paranames-en-zh
+Ni Shengyu	倪勝育	1	paranames-en-zh
+Gao Yong	高湧	1	paranames-en-zh
+Monique Dartonne	莫妮克·达顿	1	paranames-en-zh
+Merfyn Jones	梅爾芬·瓊斯	1	paranames-en-zh
+Yang  Chongying	楊重英	1	paranames-en-zh
+Cao Guoyu	曹國裕	1	paranames-en-zh
+Cong Hua	叢鞾	1	paranames-en-zh
+Gu-Tang Gong	龚固堂	1	paranames-en-zh
+Ivana Wong	王舒銳	1	paranames-en-zh
+Xu Jing	徐經	1	paranames-en-zh
+Zhao Qi	趙企	1	paranames-en-zh
+Ed Smaron	埃德·斯马隆	1	paranames-en-zh
+Yu Zhun	于準	1	paranames-en-zh
+Justin Reinsilber	贾斯汀·莱茵西尔伯	1	paranames-en-zh
+Wang Fu	王紱	1	paranames-en-zh
+Ya Boy	雅男孩	1	paranames-en-zh
+Jiang Xu	姜敍	1	paranames-en-zh
+Liu Chang	劉昌	1	paranames-en-zh
+André Trindade	安德烈	1	paranames-en-zh
+Francisco Macías Nguema	弗朗西斯科·马西埃·恩圭马	1	paranames-en-zh
+Liu Kuan	劉寬	1	paranames-en-zh
+Takashi Fukunishi	福西崇史	1	paranames-en-zh
+Lesley Boone	萊斯利·布恩	1	paranames-en-zh
+Chengqi	成琦	1	paranames-en-zh
+Hou Chongxuan	侯崇玄	1	paranames-en-zh
+Zhu You	朱宥	1	paranames-en-zh
+Rao Changlin	饒昌麟	1	paranames-en-zh
+Kareena Lee	卡琳娜·李	1	paranames-en-zh
+Hayashi Tadasu	林董	1	paranames-en-zh
+Lin Kai Ting	林楷庭	1	paranames-en-zh
+Tang Gao	湯誥	1	paranames-en-zh
+Zhao Shi	趙氏	1	paranames-en-zh
+Daniil Simkin	丹尼尔·西姆金	1	paranames-en-zh
+Răzvan Florea	勒兹万·弗洛蕾亚	1	paranames-en-zh
+Dong Xiang	董相	1	paranames-en-zh
+Chen Tezi	陳特子	1	paranames-en-zh
+Valentine Mason Johnson	瓦倫丁·梅森·約翰遜	1	paranames-en-zh
+Su Gui	苏瓌	1	paranames-en-zh
+Makar Zaporozhskiy	马卡·扎布罗斯基	1	paranames-en-zh
+Shun Chi Ming	岑智明	1	paranames-en-zh
+Justin Love	贾斯汀·勒夫	1	paranames-en-zh
+Minna Gombell	明娜·岡貝爾	1	paranames-en-zh
+Zhang Guohua	张国华	1	paranames-en-zh
+Emmanuelle Wargon	埃玛纽埃勒·瓦贡	1	paranames-en-zh
+Nelson Cruz	尼尔森·克鲁斯	1	paranames-en-zh
+Hu Kaosheng	胡考生	1	paranames-en-zh
+Olga Hepnarová	奧爾嘉·赫本納羅瓦	1	paranames-en-zh
+Pu Huairen	濮懷仁	1	paranames-en-zh
+David Ferriero	戴维·费列罗	1	paranames-en-zh
+Ash Regan	阿什·鄧哈姆	1	paranames-en-zh
+Hu Guyan	許顧言	1	paranames-en-zh
+Xu Qiaochu	徐翹楚	1	paranames-en-zh
+Kim Joong Heek	金重熙	1	paranames-en-zh
+Dean Collins	迪安·科林斯	1	paranames-en-zh
+Wanlin	關霖	1	paranames-en-zh
+Zhang Shi	張氏	1	paranames-en-zh
+Tang Bi	唐璧	1	paranames-en-zh
+Fu Shizhong	傅時中	1	paranames-en-zh
+Andreea Marin	安德莉亚·巴妮察	1	paranames-en-zh
+Chen Wenyan	陳文衍	1	paranames-en-zh
+Ling Zhe	淩哲	1	paranames-en-zh
+Shu Chien	錢煦	1	paranames-en-zh
+Mayurachat Muenpasitiwet	玛尤拉查·穆恩帕西威	1	paranames-en-zh
+Sun Lu	孫錄	1	paranames-en-zh
+Lv Shiguang	呂世光	1	paranames-en-zh
+Huang Shiyou	黃世脩	1	paranames-en-zh
+Jesse Johnson	杰西·強生	1	paranames-en-zh
+Wen Liang	溫良	1	paranames-en-zh
+Jakub Hanák	雅各布·哈纳克	1	paranames-en-zh
+Ju Guanglu	鄒光祿	1	paranames-en-zh
+Nik Bärtsch	尼克·巴施	1	paranames-en-zh
+Hong Shi	洪氏	1	paranames-en-zh
+Hisao Kanamori	金森久雄	1	paranames-en-zh
+Yves Mankel	伊夫·曼克尔	1	paranames-en-zh
+Neşe Mercan	内谢·梅尔詹	1	paranames-en-zh
+Iryna Vereshchuk	伊琳娜·韦列休克	1	paranames-en-zh
+Eyal Berkovic	艾亚尔·贝尔科维奇	1	paranames-en-zh
+Li Qiangfen	李强奋	1	paranames-en-zh
+Masaru Hachinohe	八戶優	1	paranames-en-zh
+Oka Antara	奥卡·安塔拉	1	paranames-en-zh
+Stanley Holloway	斯坦利·霍洛威	1	paranames-en-zh
+N. K. Fairbank	纳撒尼尔·凯洛格·费尔班克	1	paranames-en-zh
+Hao Xinggong	郝興功	1	paranames-en-zh
+Gao Fang	高方	1	paranames-en-zh
+Justin Chou	周守訓	1	paranames-en-zh
+Zia Mian	齊亞·米安	1	paranames-en-zh
+Li Zhiguo	李志国	1	paranames-en-zh
+Zhang Rudun	張汝敦	1	paranames-en-zh
+Gérard Laumon	热拉尔·洛蒙	1	paranames-en-zh
+Wu Yingning	吳應宁	1	paranames-en-zh
+Georgi Ivanov	格奥尔基·伊万诺夫	1	paranames-en-zh
+Robert Lapham	羅伯特·拉帕姆	1	paranames-en-zh
+Mafalda Carbonell	马福尔达·卡博内尔	1	paranames-en-zh
+Lester Allan Pelton	萊斯特·艾倫·佩爾頓	1	paranames-en-zh
+Novruz Mammadov	諾夫魯茲·馬馬多夫	1	paranames-en-zh
+Li Hongquan	李鸿泉	1	paranames-en-zh
+Mu Xiang	穆相	1	paranames-en-zh
+Su Deng	粟登	1	paranames-en-zh
+Shi Weizheng	士惟政	1	paranames-en-zh
+Luiz Carlos Pereira	路易斯·卡洛斯·佩雷拉	1	paranames-en-zh
+Karin Oberhofer	卡琳·奥伯霍费尔	1	paranames-en-zh
+James Hadley Chase	詹姆斯·哈德里·切斯	1	paranames-en-zh
+Bill Millin	比爾·米林	1	paranames-en-zh
+Anastasia Vyaltseva	安娜斯塔西亚·维尔特塞瓦	1	paranames-en-zh
+Wang Xuanyou	王宣猷	1	paranames-en-zh
+Kheriga	克赫里加	1	paranames-en-zh
+Liu Bian	劉卞	1	paranames-en-zh
+Wu Chongen	吳崇恩	1	paranames-en-zh
+Hsu Ming-Chieh	許銘傑	1	paranames-en-zh
+Iván de la Peña	伊万·德拉培尼亚	1	paranames-en-zh
+Li Boxiang	李伯祥	1	paranames-en-zh
+Wang Jizhao	王吉兆	1	paranames-en-zh
+Runa Shimotsuki	霜月瑠奈	1	paranames-en-zh
+Hassan Johnson	哈桑·约翰逊	1	paranames-en-zh
+Singqo Sali Tutung	胜光法师	1	paranames-en-zh
+Patrick Meehan	帕特·米漢	1	paranames-en-zh
+Florian Stetter	弗洛里安·斯泰特	1	paranames-en-zh
+Lu Ping	盧軿	1	paranames-en-zh
+Lu Jian	呂堅	1	paranames-en-zh
+Filip Kuba	菲利普·库巴	1	paranames-en-zh
+Antonin Svoboda	安东宁·斯沃博达	1	paranames-en-zh
+Jamie Metzl	孟天行	1	paranames-en-zh
+Zheng Jigua	鄭季騧	1	paranames-en-zh
+Hong Tingshao	洪廷杓	1	paranames-en-zh
+Princess Taining	太宁公主	1	paranames-en-zh
+Suo Yuandai	索元岱	1	paranames-en-zh
+William J. Porter	威廉·J·波特	1	paranames-en-zh
+Danny Frisella	丹尼·弗里塞亞	1	paranames-en-zh
+Jerry Trainor	傑瑞·特雷納	1	paranames-en-zh
+Zu Yi	祖嶷	1	paranames-en-zh
+Alan J. Friedman	艾伦·J·弗里德曼	1	paranames-en-zh
+Dai Jun	戴濬	1	paranames-en-zh
+Yan Wu	嚴武	1	paranames-en-zh
+Wu Li	吳鯉	1	paranames-en-zh
+Zhang Ying	張穎	1	paranames-en-zh
+Khaled al-Rahal	哈立德·拉哈尔	1	paranames-en-zh
+Kuntae Kim	金僅泰	1	paranames-en-zh
+Li Jin	李瑾	1	paranames-en-zh
+Gavin Robinson	加文·羅賓遜	1	paranames-en-zh
+Xiong Cankui	熊燦奎	1	paranames-en-zh
+Xu Jian	徐建	1	paranames-en-zh
+Ye Shi	葉氏	1	paranames-en-zh
+Liu Yuanshen	劉源深	1	paranames-en-zh
+Wang Fu	王輔	1	paranames-en-zh
+Andreas von Bülow	安德烈亚斯·冯·比洛	1	paranames-en-zh
+Chen Ce	陳策	1	paranames-en-zh
+Malcolm Stevens	马尔寇姆史蒂文斯	1	paranames-en-zh
+Frank Thilly	弗兰克·梯利	1	paranames-en-zh
+Cauê Ito	考埃·伊东	1	paranames-en-zh
+Somanas Vadhanavadi	索玛娜·瓦他娜瓦迪	1	paranames-en-zh
+Elina Svitolina	伊莉娜·斯維托莉娜	1	paranames-en-zh
+Noriko Ohara	小原乃梨子	1	paranames-en-zh
+Eugène Fraysse	欧仁·弗雷斯	1	paranames-en-zh
+George Bird Grinnell	乔治·伯德·格林内尔	1	paranames-en-zh
+Kong Youyi	孔幼儀	1	paranames-en-zh
+Roger Godsiff	羅傑·戈德席夫	1	paranames-en-zh
+Mahmut Atalay	马哈茂德·阿塔莱	1	paranames-en-zh
+Edwin Wendler	埃德温·温德勒	1	paranames-en-zh
+Dylan Wenzel-Halls	迪伦·文策尔-豪尔斯	1	paranames-en-zh
+Freddie Steele	費迪·史泰爾	1	paranames-en-zh
+Zhu Shi	朱氏	1	paranames-en-zh
+Jelko Kacin	耶尔科·卡钦	1	paranames-en-zh
+Hubert Duprat	休伯特·杜普拉特	1	paranames-en-zh
+Patrick Moya	帕特里克·莫亞	1	paranames-en-zh
+He Di	何滌	1	paranames-en-zh
+Mehmed Rushdi Pasha	米塔希姆·穆罕默德·拉什迪帕夏	1	paranames-en-zh
+Aurora Rodríguez Carballeira	奥罗拉·罗德里格斯·卡巴莱拉	1	paranames-en-zh
+Zhao Huang	赵锽	1	paranames-en-zh
+Yao Heng	姚珩	1	paranames-en-zh
+Ferdinando Gandolfi	费迪南多·甘多尔菲	1	paranames-en-zh
+Yin Xing	尹性	1	paranames-en-zh
+Matsudaira Noriyasu	松平乘保	1	paranames-en-zh
+Meru Nukumi	生見愛瑠	1	paranames-en-zh
+Oscar Fraulo	奧斯卡·弗勞	1	paranames-en-zh
+Xu Jing	徐璟	1	paranames-en-zh
+Richard Harrington	理查德·哈靈頓	1	paranames-en-zh
+Xu Yi	徐懌	1	paranames-en-zh
+Paolo Perino	保罗·佩里诺	1	paranames-en-zh
+Connie Britton	康妮·布里登	1	paranames-en-zh
+Ge Yu	葛豫	1	paranames-en-zh
+Wu Wenzhi	吳文質	1	paranames-en-zh
+Li Changjun	李長鈞	1	paranames-en-zh
+Lv Shi	呂氏	1	paranames-en-zh
+Rao Muqiang	饒目强	1	paranames-en-zh
+Yu Wenyao	喻文耀	1	paranames-en-zh
+Ye Ni	葉薿	1	paranames-en-zh
+Qiu Zhaolin	丘兆麟	1	paranames-en-zh
+Chris Messina	克里斯·梅希納	1	paranames-en-zh
+Horst von Rom	霍斯特·馮·羅姆	1	paranames-en-zh
+Xiao Jingchu	蕭經初	1	paranames-en-zh
+Amari Torayasu	甘利虎泰	1	paranames-en-zh
+Mia Hope Gaywood	米娅·霍普·盖伍德	1	paranames-en-zh
+Pan Guoding	潘国定	1	paranames-en-zh
+Emilio Portes Gil	埃米利奥·波特斯·希尔	1	paranames-en-zh
+Wu Xun	吳洵	1	paranames-en-zh
+Sampson Simson	桑普森·錫姆森	1	paranames-en-zh
+Tayc	泰克	1	paranames-en-zh
+Niu Ba	牛覇	1	paranames-en-zh
+Hu Guang	胡廣	1	paranames-en-zh
+Zhu Shi	祝氏	1	paranames-en-zh
+F. S. Collier	F·S·柯里爾	1	paranames-en-zh
+Bianca Buitendag	比安卡·比騰道格	1	paranames-en-zh
+Sun Mingfeng	孫鳴鳳	1	paranames-en-zh
+Nebojša Koharović	奈博伊沙·科哈罗维奇	1	paranames-en-zh
+Zhao Yanguang	趙彦珖	1	paranames-en-zh
+Josephine Wayne	约瑟芬·韦恩	1	paranames-en-zh
+Irina Reznikova	伊琳娜·雷兹尼科娃	1	paranames-en-zh
+Tang Xing	唐興	1	paranames-en-zh
+Yu Zhanlin	禹占林	1	paranames-en-zh
+Benoît Van Dorslaer	贝努瓦·范·多斯莱尔	1	paranames-en-zh
+Shi Zuo	施佐	1	paranames-en-zh
+Sukanto Tanoto	陳江和	1	paranames-en-zh
+Xue Zhun	薛准	1	paranames-en-zh
+Tareque Masud	塔尔克·马苏德	1	paranames-en-zh
+Umberto Pettinicchio	翁贝托·佩蒂尼奇奥	1	paranames-en-zh
+Diego Buonanotte	迭戈·博纳诺特	1	paranames-en-zh
+Wu Shi	吳氏	1	paranames-en-zh
+Zhang Menglan	張夢蘭	1	paranames-en-zh
+Dmytro Koliesnikov	德米特罗·科列斯尼科夫	1	paranames-en-zh
+Shim Woo-sung	沈雨晟	1	paranames-en-zh
+Ruler 5	5号统治者	1	paranames-en-zh
+Chen Shijun	陳世儁	1	paranames-en-zh
+Lin Shuzheng	林樹政	1	paranames-en-zh
+Yang Shi	楊湜	1	paranames-en-zh
+Hans Kitzbichler	汉斯·基茨比希勒	1	paranames-en-zh
+Qiao Si	喬思	1	paranames-en-zh
+Xue Zhongda	薛仲達	1	paranames-en-zh
+David D. Newsom	大衛·紐森	1	paranames-en-zh
+Stefan Maderer	斯特凡·马德雷尔	1	paranames-en-zh
+Gao Yuan	高源	1	paranames-en-zh
+Mao Zhongan	毛仲安	1	paranames-en-zh
+Miao Ke	苗恪	1	paranames-en-zh
+Zhang Xibao	張錫葆	1	paranames-en-zh
+Shahnaz Husain	夏赫娜兹·侯赛因	1	paranames-en-zh
+Tang Jing	唐京	1	paranames-en-zh
+Suhanya Raffel	華安雅	1	paranames-en-zh
+Fang Shi	方氏	1	paranames-en-zh
+Wei Jianzhong	韋建中	1	paranames-en-zh
+Liu Ting	劉綎	1	paranames-en-zh
+Cai Gong	蔡珙	1	paranames-en-zh
+Wang Huang	王潢	1	paranames-en-zh
+Stefanie Powers	斯蒂芬妮·鲍尔斯	1	paranames-en-zh
+Shintarō Ushiroku	後宮信太郎	1	paranames-en-zh
+Mairead McGuinness	麥瑞德·麥吉尼斯	1	paranames-en-zh
+Aleksandr Bokovikov	亚历山大·亚历山德罗维奇·博科维科夫	1	paranames-en-zh
+Pere Calbó i Roca	佩爾·納瓦羅·莫雷拉	1	paranames-en-zh
+Li Zongsi	李宗思	1	paranames-en-zh
+Gérard Larrat	热拉尔·拉拉	1	paranames-en-zh
+Bogdan Stancu	博格丹·斯坦庫	1	paranames-en-zh
+Qiao Ju	喬聚	1	paranames-en-zh
+Ron Wear	润·维尔	1	paranames-en-zh
+Jan Czerski	扬·切尔斯基	1	paranames-en-zh
+Xuan Daxun	宣大勳	1	paranames-en-zh
+John McClurg	约翰·麦克鲁格	1	paranames-en-zh
+Guo Fen	郭汾	1	paranames-en-zh
+Diego Valeri	迪亞高·華拿里	1	paranames-en-zh
+Giacomo Boni	賈科莫·波尼	1	paranames-en-zh
+Dmitry Meskhiev	德米特里·梅斯希耶夫	1	paranames-en-zh
+Vladimir Kornilov	弗拉基米尔·科尔尼洛夫	1	paranames-en-zh
+Addison Holley	艾迪生·霍利	1	paranames-en-zh
+Wang Zhenshi	王振世	1	paranames-en-zh
+Qian Pu	錢浦	1	paranames-en-zh
+Tianrui Miao	繆天瑞	1	paranames-en-zh
+Paul-Henri Spaak	保罗-亨利·斯巴克	1	paranames-en-zh
+Huang Shi	黃氏	1	paranames-en-zh
+Yong Rui	雍鋭	1	paranames-en-zh
+Li Yue	李鉞	1	paranames-en-zh
+Qi Jian	齊諫	1	paranames-en-zh
+Takashi Sambonsuge	三本菅崇	1	paranames-en-zh
+E Jingping	鄂竟平	1	paranames-en-zh
+Emily Woof	艾米莉·伍夫	1	paranames-en-zh
+Reby Cary	瑞比·卡里	1	paranames-en-zh
+Bai Shiliang	白世良	1	paranames-en-zh
+Otsuichi	乙一	1	paranames-en-zh
+Peng Shi	彭氏	1	paranames-en-zh
+Léa Pool	莉亞·普爾	1	paranames-en-zh
+Koyu Tanaka	田中康湧	1	paranames-en-zh
+Umberto Eco	翁贝托·埃可	1	paranames-en-zh
+Xie Jieshu	謝階樹	1	paranames-en-zh
+Lu Yuan	盧瑗	1	paranames-en-zh
+Huang Tai	黃泰	1	paranames-en-zh
+Anders Refn	安德斯·雷弗恩	1	paranames-en-zh
+Peter Billingsley	彼得·比靈斯利	1	paranames-en-zh
+Wu Shanrong	吳善容	1	paranames-en-zh
+Jiřina Bohdalová	吉里娜·波达洛娃	1	paranames-en-zh
+Cheng Jia	程价	1	paranames-en-zh
+Lei Fangru	雷方儒	1	paranames-en-zh
+Hassan Yektapanah	哈桑·耶克塔帕納赫	1	paranames-en-zh
+Ding Yingwen	丁應文	1	paranames-en-zh
+Feng Shirong	馮世榮	1	paranames-en-zh
+Jin Wei	金渭	1	paranames-en-zh
+Cale Yarborough	克尔·亚伯勒	1	paranames-en-zh
+Gong Xiu	龔修	1	paranames-en-zh
+Hua Tingmo	華廷謨	1	paranames-en-zh
+Sasy	萨西·曼凯恩	1	paranames-en-zh
+Sanemasa Fujiwara	藤原實政	1	paranames-en-zh
+Craig Shoemaker	克雷格·休梅克	1	paranames-en-zh
+Shi Wengui	石文貴	1	paranames-en-zh
+Tyler Naquin	泰勒·納昆	1	paranames-en-zh
+Wang Bangzhu	王邦柱	1	paranames-en-zh
+Cam Kennedy	凱姆·肯尼迪	1	paranames-en-zh
+Liu Shi	劉氏	1	paranames-en-zh
+Kate Forbes	凱特·福布斯	1	paranames-en-zh
+Geng Bao	耿寶	1	paranames-en-zh
+Liu Hunkang	劉混康	1	paranames-en-zh
+Ren Xiji	任希績	1	paranames-en-zh
+Li Jian	李簡	1	paranames-en-zh
+Ding Linbing	丁林並	1	paranames-en-zh
+Weng Changyong	翁長庸	1	paranames-en-zh
+Peter Barlow	彼得·巴洛	1	paranames-en-zh
+Antônio Anastasia	安东尼奥·阿纳斯塔西亚	1	paranames-en-zh
+Gao Can	高燦	1	paranames-en-zh
+Paloma Cela	帕洛玛·塞拉	1	paranames-en-zh
+Zhang JinLan	張金蘭	1	paranames-en-zh
+Henry Travers	亨利·特拉弗斯	1	paranames-en-zh
+Wang Yun	王惲	1	paranames-en-zh
+Hiromi Yamamoto	山本宏美	1	paranames-en-zh
+Kikkawa Hironori	吉川廣紀	1	paranames-en-zh
+Leslie Edwards	莱斯利·爱德华兹	1	paranames-en-zh
+Zhou Dao	周導	1	paranames-en-zh
+Song Zhen	宋珍	1	paranames-en-zh
+Xie Yingyuan	謝應元	1	paranames-en-zh
+Yan Ershu	顏爾樞	1	paranames-en-zh
+Zhang Mou	張某	1	paranames-en-zh
+Lin Daigong	林代工	1	paranames-en-zh
+Gustavo Matosas	古斯塔博	1	paranames-en-zh
+Randy Castillo	藍迪·卡斯蒂略	1	paranames-en-zh
+Guangzhao	廣照	1	paranames-en-zh
+Zhou Shi	周氏	1	paranames-en-zh
+Chen Seng	陳僧	1	paranames-en-zh
+Zhang Zuo	張祚	1	paranames-en-zh
+Shi Shi	史氏	1	paranames-en-zh
+Li Dacen	李大涔	1	paranames-en-zh
+Yang Gongpu	楊公浦	1	paranames-en-zh
+Zhang Yulv	張玉履	1	paranames-en-zh
+Shi Jinchen	施近臣	1	paranames-en-zh
+Manami Hanawa	塙真奈美	1	paranames-en-zh
+Juri Wiesner	尤里·威斯纳	1	paranames-en-zh
+Liu Guangdi	劉光第	1	paranames-en-zh
+Richie Roberts	李奇·羅勃茲	1	paranames-en-zh
+Liu Bingzhang	刘秉璋	1	paranames-en-zh
+Liu Zhao	劉釗	1	paranames-en-zh
+Victor Prouvé	维克托·普鲁韦	1	paranames-en-zh
+Le Yu	樂玉	1	paranames-en-zh
+Richard Foltz	理查德·福爾茨	1	paranames-en-zh
+Harrison Browne	哈里森·布朗	1	paranames-en-zh
+Inna Stepanova	因娜·斯捷潘諾娃	1	paranames-en-zh
+Wang Chuixian	王垂憲	1	paranames-en-zh
+George Herbert Duckworth	乔治·达克沃斯	1	paranames-en-zh
+Wei Shi	韋式	1	paranames-en-zh
+Zhou Zhi	周志	1	paranames-en-zh
+Alfred Müller-Armack	阿尔弗雷德·米勒-阿尔马克	1	paranames-en-zh
+Yuan Guoning	袁國寧	1	paranames-en-zh
+Tibor Házi	哈齐·蒂博尔	1	paranames-en-zh
+Liu Zhiqing	劉智清	1	paranames-en-zh
+Álex Perea	亚历克斯·佩雷亚	1	paranames-en-zh
+Guo Qing	郭青	1	paranames-en-zh
+Niegubo	揑古伯	1	paranames-en-zh
+Chen Jian	陳諫	1	paranames-en-zh
+Mariya Petkova	玛丽亚·佩特科娃	1	paranames-en-zh
+Ng Shek-ho	吳錫豪	1	paranames-en-zh
+Euthyphro	游叙弗伦	1	paranames-en-zh
+Sandy Marton	桑迪·马顿	1	paranames-en-zh
+Joachim Patinir	若阿基姆·帕蒂尼尔	1	paranames-en-zh
+Gunhild Carling	冈希尔德·卡林	1	paranames-en-zh
+Dejan Koturović	德扬·科图罗维奇	1	paranames-en-zh
+Billy Semple	森寶	1	paranames-en-zh
+Kirk Haston	柯克·哈斯顿	1	paranames-en-zh
+Tang Wenshou	唐文壽	1	paranames-en-zh
+Georgina Parkes	乔治娜·帕克斯	1	paranames-en-zh
+Kanja Ibrahim Sesay	坎贾·西赛	1	paranames-en-zh
+Zhu Jianli	朱緘歷	1	paranames-en-zh
+Yuan Yi	元揖	1	paranames-en-zh
+Raphaël Alibert	拉斐尔·阿利贝尔	1	paranames-en-zh
+Gao Ze	高澤	1	paranames-en-zh
+Maurice Podoloff	莫里斯·波杜夫	1	paranames-en-zh
+Elham Surash	法扎德·曼蘇里	1	paranames-en-zh
+Jennifer Hoppe	珍妮佛·哈普·豪斯	1	paranames-en-zh
+Edna Best	埃德娜·贝斯特	1	paranames-en-zh
+Amnon Wolf	阿姆农·沃尔夫	1	paranames-en-zh
+Sam Hammington	森·海明頓	1	paranames-en-zh
+Miao Bifu	苗必復	1	paranames-en-zh
+Giuseppe Giannini	朱塞佩·詹尼尼	1	paranames-en-zh
+Christian Henson	克里斯蒂安·亨森	1	paranames-en-zh
+Cao Shilong	曹士龍	1	paranames-en-zh
+Fu Shi	傅氏	1	paranames-en-zh
+Srimanta Sankardeva	巽格尔代沃	1	paranames-en-zh
+Zhu Changqing	朱長卿	1	paranames-en-zh
+Troy Cassar-Daley	特洛伊·卡萨尔-戴利	1	paranames-en-zh
+Carlo D'Ursi	卡洛·杜尔西	1	paranames-en-zh
+Michael Betancourt	邁可·貝坦柯特	1	paranames-en-zh
+Heikki Liimatainen	海基·利马泰宁	1	paranames-en-zh
+Bai Bei	白北	1	paranames-en-zh
+Xi Ming	奚銘	1	paranames-en-zh
+Yao Hongtu	姚宏圖	1	paranames-en-zh
+Megan Jastrab	梅根·雅斯特拉布	1	paranames-en-zh
+José Mariano Salas	荷西·馬里亞諾·薩拉斯	1	paranames-en-zh
+Liu Tingpin	劉廷聘	1	paranames-en-zh
+Gō Wakabayashi	若林豪	1	paranames-en-zh
+Jane Anderson	珍·愛德森	1	paranames-en-zh
+He Shi	賀氏	1	paranames-en-zh
+Marisa Siketa	玛莉莎·西凯塔	1	paranames-en-zh
+Ray Keech	雷·基奇	1	paranames-en-zh
+Jang Woo-ram	張友濫	1	paranames-en-zh
+Yrjö Nikkanen	于尔约·尼卡宁	1	paranames-en-zh
+Kuo Jung Tsai	蔡國榮	1	paranames-en-zh
+Jarosław Żamojda	雅罗斯瓦夫·扎莫伊达	1	paranames-en-zh
+Frederika Charlotte Riedesel	費德莉卡·夏洛特·李德塞	1	paranames-en-zh
+Wang Qin	王钦	1	paranames-en-zh
+Daniel Köllerer	丹尼爾·科勒爾	1	paranames-en-zh
+Ingrid Sandahl	英丽德·桑达尔	1	paranames-en-zh
+Yu Liang	俞亮	1	paranames-en-zh
+Laith Hussein	萊斯·侯賽因	1	paranames-en-zh
+Maksym Kryvtsov	馬克西姆·克雷夫佐夫	1	paranames-en-zh
+Richárd Bánhidi	理查德·班希迪	1	paranames-en-zh
+Pierre Dolbeault	皮埃尔·杜比尔特	1	paranames-en-zh
+He Pin	何品	1	paranames-en-zh
+Dilone	迪隆	1	paranames-en-zh
+Wang Ze	王澤	1	paranames-en-zh
+Md. Anizam Ab. Rahman	阿尼占拉曼	1	paranames-en-zh
+Dingiri Bandara Welagedara	丁吉里·班达拉·韦拉格达拉	1	paranames-en-zh
+Wang Qian	王骞	1	paranames-en-zh
+Henry Jones	亨利·瓊斯	1	paranames-en-zh
+Cheng Wenyi	成文彜	1	paranames-en-zh
+Raymond Desèze	雷蒙·德塞茲	1	paranames-en-zh
+Christian Maria Goebel	克里斯蒂安·玛丽亚·戈贝尔	1	paranames-en-zh
+Kenny Wu	鄔家麟	1	paranames-en-zh
+Fausto Xavier Aguilera	福斯托·泽维尔·阿奎莱拉	1	paranames-en-zh
+Asami Hagiwara	萩原麻美	1	paranames-en-zh
+Tom Petersson	汤姆·彼得森	1	paranames-en-zh
+Andrey Terentyev	A. A.切連契耶夫	1	paranames-en-zh
+Xu Gang	徐綱	1	paranames-en-zh
+Ning Zihua	寧梓華	1	paranames-en-zh
+Peng Lingxiao	彭凌霄	1	paranames-en-zh
+Wang Gongzhen	王宫臻	1	paranames-en-zh
+Zheng Shouyuan	鄭守元	1	paranames-en-zh
+Luis Romero	路易斯·罗梅罗	1	paranames-en-zh
+Wu Jizhi	武繼植	1	paranames-en-zh
+Wu Yimin	吳一民	1	paranames-en-zh
+Hussain Salman	侯賽因·沙林	1	paranames-en-zh
+Samuel Allen Rice	塞繆爾·A·賴斯	1	paranames-en-zh
+Ryōgoku Yūjirō	兩國勇治郎	1	paranames-en-zh
+Li Jianfu	李建復	1	paranames-en-zh
+King Mu of Zhou	周穆王	1	paranames-en-zh
+Xiao Ruming	蕭汝明	1	paranames-en-zh
+Neng Chi	能持	1	paranames-en-zh
+Shen Yong	沈鏞	1	paranames-en-zh
+Cristián Enrique Contreras Molina	克里斯蒂安·孔特雷拉斯-莫利納	1	paranames-en-zh
+Wang Rudi	汪如底	1	paranames-en-zh
+Wang Wei	王薇	1	paranames-en-zh
+Pan Zhishang	潘志尚	1	paranames-en-zh
+Qian Pan	錢槃	1	paranames-en-zh
+Lou Zhuo	樓梲	1	paranames-en-zh
+Busahanwen	布薩翰文	1	paranames-en-zh
+Chen Cheng	陳誠	1	paranames-en-zh
+Li Zongkong	李宗孔	1	paranames-en-zh
+Hu Zhen	許振	1	paranames-en-zh
+Jean-Pierre Bacri	让-皮埃尔·巴克里	1	paranames-en-zh
+Hou Mu	侯穆	1	paranames-en-zh
+Liu Yuqi	劉毓琦	1	paranames-en-zh
+Ryan Verdugo	瑞安·维尔杜戈	1	paranames-en-zh
+Cui Chengwu	崔成務	1	paranames-en-zh
+Tabinshwehti	莽瑞體	1	paranames-en-zh
+Noah Brooks	诺亚·布鲁克斯	1	paranames-en-zh
+Folke Rabe	福克·拉貝	1	paranames-en-zh
+Wang Degu	王德固	1	paranames-en-zh
+Frank Stauffacher	法兰克·斯特法彻	1	paranames-en-zh
+Lv Shi	呂氏	1	paranames-en-zh
+Song Pude	宋溥德	1	paranames-en-zh
+Takahiro Sasaki	佐佐木隆博	1	paranames-en-zh
+David E. Bloom	大衛·布魯姆	1	paranames-en-zh
+Saïd Ennjimi	塞德·恩吉米	1	paranames-en-zh
+Liu Xiangdong	刘向东	1	paranames-en-zh
+Lu Yaolin	陸瑤林	1	paranames-en-zh
+Horatio Nelson	霍雷肖·纳尔逊，第一代纳尔逊子爵	1	paranames-en-zh
+Xiang Zhuanzheng	向傳正	1	paranames-en-zh
+Zhang Shi	張氏	1	paranames-en-zh
+Dong Wang	董旺	1	paranames-en-zh
+Zeng Shidan	曾師旦	1	paranames-en-zh
+Kazuya Ojima	小島和哉	1	paranames-en-zh
+Mavis Wong	黃語芊	1	paranames-en-zh
+Wang Han	王䤴	1	paranames-en-zh
+Shi Qingyuan	釋清源	1	paranames-en-zh
+Ghulam Moinuddin Khanji	古兰·慕尤丁·坎吉	1	paranames-en-zh
+Norman H. Bangerter	諾曼·班格特	1	paranames-en-zh
+Tiago Rafael Maia Silva	泰亞高·施華（足球員，出生於1993年）	1	paranames-en-zh
+Yannick Ferrera	雅尼克·费雷拉	1	paranames-en-zh
+Tina Maze	蒂娜·梅兹	1	paranames-en-zh
+Hu Hongdian	胡鴻典	1	paranames-en-zh
+Francisco Labastida	弗朗西斯科·拉巴斯蒂达·奥乔亚	1	paranames-en-zh
+Herbert Friedmann	赫爾伯特·傅利曼	1	paranames-en-zh
+Yoshihide Nishikawa	西川吉英	1	paranames-en-zh
+José Hugo Garaycoa Hawkins	何塞·雨果·加拉伊科阿·霍金斯	1	paranames-en-zh
+Emily Hahn	项美丽	1	paranames-en-zh
+Koisaya	戀小夜	1	paranames-en-zh
+Dou Siliang	竇思亮	1	paranames-en-zh
+Jiang Ying	江英	1	paranames-en-zh
+Wang Shifang	王世芳	1	paranames-en-zh
+Anthony Henley	安東尼·亨利	1	paranames-en-zh
+Tayfun Pirselimoğlu	塔伊丰·皮尔西里莫格	1	paranames-en-zh
+Xue Li	薛里	1	paranames-en-zh
+Xiaoyong Chen	陈晓勇	1	paranames-en-zh
+Ray Bumatai	雷·布马塔伊	1	paranames-en-zh
+Zhang Heng	张衡	1	paranames-en-zh
+Liu Xichun	柳熙春	1	paranames-en-zh
+Clement VII	克雷芒七世	1	paranames-en-zh
+Wu Shi	吳氏	1	paranames-en-zh
+Jonathan McReynolds	乔纳森·麦克雷诺兹	1	paranames-en-zh
+Ji An	紀安	1	paranames-en-zh
+Zhu Dong	朱棟	1	paranames-en-zh
+Liu Yunzhui	劉允椎	1	paranames-en-zh
+Marilyn Agliotti	瑪麗蓮·阿格里奧蒂	1	paranames-en-zh
+Honeysuckle Weeks	汉妮萨科·维克斯	1	paranames-en-zh
+Song Shi	宋氏	1	paranames-en-zh
+Toshitake Nakayama	中山俊丈	1	paranames-en-zh
+Rolf Kahn	罗尔夫·卡恩	1	paranames-en-zh
+Celine Held	瑟琳·赫德	1	paranames-en-zh
+Liu Chuan	劉傳	1	paranames-en-zh
+Anne-Dominique Toussaint	安妮-多米尼克·图森	1	paranames-en-zh
+Wang Wanpeng	王万鹏	1	paranames-en-zh
+Zhao Daoxing	趙道興	1	paranames-en-zh
+Miroslav Stoch	米罗斯拉夫·斯托奇	1	paranames-en-zh
+Liu Genglu	刘耕路	1	paranames-en-zh
+Casimir I of Oświęcim	卡齊米日一世	1	paranames-en-zh
+Rosemary Murphy	羅絲瑪麗·墨菲	1	paranames-en-zh
+Di Mou	狄某	1	paranames-en-zh
+Iosif Shklovsky	约瑟夫·什克洛夫斯基	1	paranames-en-zh
+Ren Wenzhi	任文質	1	paranames-en-zh
+Harry Aarts	哈里·阿尔特斯	1	paranames-en-zh
+Howard McGillin	霍华德·麦吉林	1	paranames-en-zh
+Lajos Jánossy	拉約什·雅諾西	1	paranames-en-zh
+Wei Shi	韋氏	1	paranames-en-zh
+Koji Tomita	富田浩司	1	paranames-en-zh
+Shi Zeyin	施則寅	1	paranames-en-zh
+Lin Shi	林氏	1	paranames-en-zh
+Ren Yi	任儀	1	paranames-en-zh
+Peter Tork	彼得·托克	1	paranames-en-zh
+Iori Shigano	志賀乃夷織	1	paranames-en-zh
+Sena Miyake	三宅星南	1	paranames-en-zh
+Shen Yunying	沈雲應	1	paranames-en-zh
+Zhao Yanbo	趙彥博	1	paranames-en-zh
+Jiang Yingluan	姜應鸞	1	paranames-en-zh
+Byron Ng	伍嘉文	1	paranames-en-zh
+Lando Buzzanca	兰多·布赞卡	1	paranames-en-zh
+Guillaume Faye	纪尧姆·法耶	1	paranames-en-zh
+Joseph Schalk	约瑟夫·沙尔克	1	paranames-en-zh
+Carmen Pereira	卡尔曼·佩雷拉	1	paranames-en-zh
+Henri Meunier	亨利·默尼耶	1	paranames-en-zh
+Chen Shen	陳紳	1	paranames-en-zh
+Huang Gao	黃誥	1	paranames-en-zh
+JeA	金孝珍	1	paranames-en-zh
+Teresa Yenque	特蕾莎·叶尼克	1	paranames-en-zh
+Zhao Wenyu	趙文郁	1	paranames-en-zh
+Francesco Antonio Bonporti	F.A. 邦波尔蒂	1	paranames-en-zh
+Adila Khanum	阿迪拉·哈努姆	1	paranames-en-zh
+Xie Xu	謝緒	1	paranames-en-zh
+Hu Zhao	許詔	1	paranames-en-zh
+Yukina Kurisu	栗栖雪奈	1	paranames-en-zh
+John McAfee	約翰·邁克菲	1	paranames-en-zh
+Keido Fukushima	福島慶道	1	paranames-en-zh
+Bian Zun	卞鐏	1	paranames-en-zh
+Xing Shi	邢氏	1	paranames-en-zh
+Ma Tianhe	馬天合	1	paranames-en-zh
+Mou Hongdao	某弘道	1	paranames-en-zh
+Liu Tong	劉彤	1	paranames-en-zh
+Wang Shi	王氏	1	paranames-en-zh
+Zhang Wentai	張文泰	1	paranames-en-zh
+Domilson Cordeiro dos Santos	多多	1	paranames-en-zh
+Ma Xin	馬信	1	paranames-en-zh
+Li Shimo	李士模	1	paranames-en-zh
+David Baker	大衛·貝克	1	paranames-en-zh
+Zhang Hao	張昊	1	paranames-en-zh
+Kong Chuanhuan	孔傳煥	1	paranames-en-zh
+Zhang Yifeng	張一鳳	1	paranames-en-zh
+Mayumi Shō	莊真由美	1	paranames-en-zh
+Sebastiano Nela	塞巴斯蒂亚诺·内拉	1	paranames-en-zh
+Yu Shihan	俞士瀚	1	paranames-en-zh
+Francesco Cerasi	弗朗切斯科·塞拉西	1	paranames-en-zh
+Anastasia Bliznyuk	安娜塔西亞·布麗茨尤克	1	paranames-en-zh
+Hu Xiong	胡雄	1	paranames-en-zh
+Mihriay Erkin	米日阿依·艾尔肯	1	paranames-en-zh
+Carl Sferrazza Anthony	卡爾·斯費拉扎·安東尼	1	paranames-en-zh
+Cai Shengyu	蔡勝宇	1	paranames-en-zh
+Han Tai	韓泰	1	paranames-en-zh
+Eugene Seneta	尤金·塞內塔	1	paranames-en-zh
+Kelly Rowan	凯利·罗万	1	paranames-en-zh
+Rod Higgins	罗德·希金斯	1	paranames-en-zh
+Man Mohan Adhikari	曼·莫汉·阿迪卡里	1	paranames-en-zh
+Cui Jujian	崔居儉	1	paranames-en-zh
+Xu Yuanshen	徐元宷	1	paranames-en-zh
+Nicolae Paulescu	尼可莱·包勒斯克	1	paranames-en-zh
+Li Pizheng	李丕正	1	paranames-en-zh
+Mou Shi	某氏	1	paranames-en-zh
+Chen Shi	陳氏	1	paranames-en-zh
+Martin Castrogiovanni	馬丁·卡斯特羅喬瓦尼	1	paranames-en-zh
+Xu Zhisong	許之淞	1	paranames-en-zh
+Ariyoshi Akira	有吉明	1	paranames-en-zh
+Lorcan Cranitch	洛爾坎·克拉尼奇	1	paranames-en-zh
+Max Loehr	罗樾	1	paranames-en-zh
+Amrapali Dubey	阿姆拉帕利·杜比	1	paranames-en-zh
+Chen Shifang	陳世芳	1	paranames-en-zh
+Yu Shaokang	于绍康	1	paranames-en-zh
+Edgar Salli	埃德加·薩里	1	paranames-en-zh
+Zhang Zhu	張鑄	1	paranames-en-zh
+Wang  Yufeng	王虞鳳	1	paranames-en-zh
+Li Wenyou	李文友	1	paranames-en-zh
+John Augustine Zahm	約翰·奧古斯丁·扎姆	1	paranames-en-zh
+Cao Wenhui	曹文輝	1	paranames-en-zh
+Pu Zhizhen	濮之珍	1	paranames-en-zh
+Nora Jane Noone	諾拉-珍·孥恩	1	paranames-en-zh
+Dany Robin	妲妮·罗宾	1	paranames-en-zh
+André Hakim	安德烈·哈基姆	1	paranames-en-zh
+Shi Yifang	師義方	1	paranames-en-zh
+Song Xinqi	宋心琦	1	paranames-en-zh
+Le Dayuan	樂大原	1	paranames-en-zh
+Li Fujun	李府君	1	paranames-en-zh
+Ruan Zhenduo	阮振铎	1	paranames-en-zh
+Edivaldo Hermoza	路查斯	1	paranames-en-zh
+Sun Shouyi	孫壽翼	1	paranames-en-zh
+Mike McCormack	邁克·麥柯馬克	1	paranames-en-zh
+Lun Wenxu	倫文敘	1	paranames-en-zh
+Han Zhen	韩真	1	paranames-en-zh
+Zhang Maoqin	張茂芹	1	paranames-en-zh
+Pengfei Wang	王鹏飞	1	paranames-en-zh
+Lucy Ching Man Fai	程文輝	1	paranames-en-zh
+Kitsuregawa Hirouji	喜連川熙氏	1	paranames-en-zh
+Jozef Lenárt	约瑟夫·勒纳尔特	1	paranames-en-zh
+Lin Fuxiang	林孚相	1	paranames-en-zh
+Shi Jie	施杰	1	paranames-en-zh
+Joe Savery	喬·薩弗里	1	paranames-en-zh
+Yoo Yong-sung	柳鏞成	1	paranames-en-zh
+Jerry Eaves	杰里·伊维斯	1	paranames-en-zh
+Brandon Vraagom	布兰登·弗拉戈姆	1	paranames-en-zh
+Zheng Yunsheng	鄭允升	1	paranames-en-zh
+Sengjianu	僧家奴	1	paranames-en-zh
+Gan Zhu	甘鑄	1	paranames-en-zh
+Yu-Ting Hsu	徐宇霆	1	paranames-en-zh
+Oakley Bull	奥克利·布尔	1	paranames-en-zh
+Pang Yue	龐説	1	paranames-en-zh
+Shi Gaoxian	史高先	1	paranames-en-zh
+Li Boqian	李伯潛	1	paranames-en-zh
+Wang Shi	王氏	1	paranames-en-zh
+Luka Babić	盧卡·巴比奇	1	paranames-en-zh
+Wang Zhide	王志徳	1	paranames-en-zh
+Ji Shi	紀氏	1	paranames-en-zh
+Zhou Zhilun	周之輪	1	paranames-en-zh
+René Echevarria	瑞尼·埃沙瓦利亞	1	paranames-en-zh
+Jia Wenyuan	賈文元	1	paranames-en-zh
+Liu Lin	刘林	1	paranames-en-zh
+Manuel Komnenos Raoul	曼努埃尔·科穆宁·拉乌尔	1	paranames-en-zh
+Du Huo	杜霍	1	paranames-en-zh
+Perez Hilton	裴瑞茲·希爾頓	1	paranames-en-zh
+Ye Huanghua	葉皇華	1	paranames-en-zh
+Li Mei Su	蘇麗媚	1	paranames-en-zh
+Mamata Banerjee	玛玛塔·班纳吉	1	paranames-en-zh
+Éder dos Santos	艾達·杜斯山度士	1	paranames-en-zh
+Fan Qi	范琦	1	paranames-en-zh
+Carlos Secretário	卡洛斯·塞克雷塔里奥	1	paranames-en-zh
+Fan Ying	樊瑩	1	paranames-en-zh
+Deng Guan	鄧瓘	1	paranames-en-zh
+Giuseppe Andriolo	朱塞佩·安德里奥洛	1	paranames-en-zh
+Qiu Dayou	丘大猷	1	paranames-en-zh
+Chen Xiaotian	陈笑天	1	paranames-en-zh
+Huang Zhe	黃轍	1	paranames-en-zh
+Jeong Seung-ug	郑承旭	1	paranames-en-zh
+Zhang Ao	張滶	1	paranames-en-zh
+Shen Yinzhi	沈尹志	1	paranames-en-zh
+Peter-Michael Kolbe	彼得-米夏埃尔·科尔贝	1	paranames-en-zh
+August Kekulé	弗里德里希·奥古斯特·凯库勒·冯·斯特拉多尼茨	1	paranames-en-zh
+Yang Shi	楊氏	1	paranames-en-zh
+Duan Da	段达	1	paranames-en-zh
+Helan Lin	賀蘭臨	1	paranames-en-zh
+Alia Sabur	艾莉雅·沙伯	1	paranames-en-zh
+Chris Hadfield	克里斯·哈德菲爾德	1	paranames-en-zh
+Mike Mokamba	邁克·莫坎巴·年奧	1	paranames-en-zh
+Tam Ah Fook	譚亞福	1	paranames-en-zh
+Zhang Mou	張某	1	paranames-en-zh
+Margaret Beale	玛格丽特·比尔	1	paranames-en-zh
+Jiang Wenju	姜文舉	1	paranames-en-zh
+Xue Yan	薛淹	1	paranames-en-zh
+Helena van der Meulen	海伦娜·范·德梅伦	1	paranames-en-zh
+Huang Bingxun	黃炳勳	1	paranames-en-zh
+Paule Emanuele	保拉·埃马努埃莱	1	paranames-en-zh
+Jill Vidal	衛詩	1	paranames-en-zh
+Joanna Brodzik	乔安娜·布罗兹克	1	paranames-en-zh
+Yan Shi	閻氏	1	paranames-en-zh
+Yu Qi	俞杞	1	paranames-en-zh
+Paula Ben-Gurion	保拉·本-古里安	1	paranames-en-zh
+Tögs-Ochiryn Namnansüren	那木囊苏伦	1	paranames-en-zh
+Luo Qiong	羅瓊	1	paranames-en-zh
+Yang Shi	楊氏	1	paranames-en-zh
+Ma Shi-Li	馬世莉	1	paranames-en-zh
+Nels Potter	尼爾斯·波特	1	paranames-en-zh
+Salvatore Todisco	萨尔瓦托雷·托迪斯科	1	paranames-en-zh
+Dietrich Adam	迪特里希·亚当	1	paranames-en-zh
+Zheng Shi	鄭氏	1	paranames-en-zh
+Carl-Erik Svensson	卡尔-埃里克·斯文松	1	paranames-en-zh
+Shi Yi	師頤	1	paranames-en-zh
+Chen Shi	陳氏	1	paranames-en-zh
+Cui Zhang	崔章	1	paranames-en-zh
+Liu Jinmei	劉盡美	1	paranames-en-zh
+Leopoldo Mastelloni	莱奥波尔多·马斯戴罗尼	1	paranames-en-zh
+Peter Bieri	帕斯卡·梅西耶	1	paranames-en-zh
+Qiao Lin	喬琳	1	paranames-en-zh
+Li Gaolian	李高濂	1	paranames-en-zh
+Li Lu	李路	1	paranames-en-zh
+Li Ce	李策	1	paranames-en-zh
+Mo Bao Fei Bao	墨宝非宝	1	paranames-en-zh
+Ri Hak-chol	李學哲	1	paranames-en-zh
+Zhang Chu	張琡	1	paranames-en-zh
+Ilkka Järvi-Laturi	優卡·亞比-拉圖里	1	paranames-en-zh
+Shi Xianchuang	釋顯窗	1	paranames-en-zh
+Zha Tiaofeng	查調鳳	1	paranames-en-zh
+Wu Guangzu	吳光祖	1	paranames-en-zh
+Lu Shi	盧氏	1	paranames-en-zh
+Eric IV of Denmark	埃里克四世	1	paranames-en-zh
+Gabriel Gascon	加布里埃尔·加斯孔	1	paranames-en-zh
+Jin Han	金瀚	1	paranames-en-zh
+Kasper Antonsen	卡斯珀·安东森	1	paranames-en-zh
+Du Yanling	杜延齡	1	paranames-en-zh
+Cliff Durant	克里夫·杜蘭特	1	paranames-en-zh
+Paul Yong Choo Kiong	杨祖强	1	paranames-en-zh
+Xu Guidao	徐歸道	1	paranames-en-zh
+Teresa Cheung	章小蕙	1	paranames-en-zh
+Li Xianqiao	李憲喬	1	paranames-en-zh
+Lam Ye	藍夜	1	paranames-en-zh
+Hou Guotai	侯國泰	1	paranames-en-zh
+Hitoshi Takeuchi	竹內均	1	paranames-en-zh
+John Fortescue of Salden	約翰·福蒂斯丘	1	paranames-en-zh
+Caleb Brewster	凯莱布·布鲁斯特	1	paranames-en-zh
+Yevgeni Preobrazhensky	叶夫根尼·阿列克谢耶维奇·普列奥布拉任斯基	1	paranames-en-zh
+Kevin O'Donnell	凯文·奥唐纳	1	paranames-en-zh
+Pei Shi	裴氏	1	paranames-en-zh
+Qi Tingzhang	齊廷璋	1	paranames-en-zh
+Paul James	保羅·詹姆斯	1	paranames-en-zh
+Lucrezia Valia	卢克雷齐娅·瓦利亚	1	paranames-en-zh
+Cristobal Anaga	克里斯托瓦尔·阿纳加	1	paranames-en-zh
+Tong Yinggao	佟應皐	1	paranames-en-zh
+Cui Rong	崔戎	1	paranames-en-zh
+Cheng Ting	程霆	1	paranames-en-zh
+Dong Yinqing	董殷卿	1	paranames-en-zh
+Barbara W. Tuchman	芭芭拉·塔奇曼	1	paranames-en-zh
+Zhou Ruren	周孺人	1	paranames-en-zh
+Albertus Susanto Njoto	楊禮豐	1	paranames-en-zh
+Kuazha	夸札	1	paranames-en-zh
+Fabrício Werdum	法布雷西歐·溫頓	1	paranames-en-zh
+Pang Yao	龐遙	1	paranames-en-zh
+Wang Shi	王氏	1	paranames-en-zh
+Zhong Xian	忠禒	1	paranames-en-zh
+Sima Xuan	司馬宣	1	paranames-en-zh
+Jia Rou	賈柔	1	paranames-en-zh
+Jiří Skobla	伊日·斯科布拉	1	paranames-en-zh
+Yang Wenxie	楊文爕	1	paranames-en-zh
+Sakeda Wenkui	薩克達文奎	1	paranames-en-zh
+Aterui	阿弖流為	1	paranames-en-zh
+Huang Taqing	黃逹卿	1	paranames-en-zh
+Fu Qing Yi	傅慶貽	1	paranames-en-zh
+Heinrich II. von Moers	默爾斯的海因里希二世	1	paranames-en-zh
+Willard Thomas Sears	威拉德·西爾斯	1	paranames-en-zh
+Wang Jiasheng	王家胜	1	paranames-en-zh
+Chad Griffin	查得·格里芬	1	paranames-en-zh
+Rob Oliver	羅伯·奧利佛	1	paranames-en-zh
+Virginia Thomas	弗吉尼亚·托马斯	1	paranames-en-zh
+April Adams	阿普丽尔·亚当斯	1	paranames-en-zh
+Cai Yilin	蔡奕璘	1	paranames-en-zh
+Mozzy	蒂莫西·帕特森	1	paranames-en-zh
+Li Chun	李春	1	paranames-en-zh
+Patrice Quarteron	帕特里斯·奎特龙	1	paranames-en-zh
+Yūko Saitō	齊藤祐子	1	paranames-en-zh
+Pablo Tamez	巴勃罗·塔米兹	1	paranames-en-zh
+Cheng Zhong	程鍾	1	paranames-en-zh
+Zang Shao	臧杓	1	paranames-en-zh
+Yang Jing	楊靖	1	paranames-en-zh
+Gloria Ai	艾诚	1	paranames-en-zh
+Peter Snell	彼得·斯內爾	1	paranames-en-zh
+Hou Yiwei	侯一位	1	paranames-en-zh
+Fumiya Takahashi	高橋郁哉	1	paranames-en-zh
+Wang Hanru	王汉儒	1	paranames-en-zh
+Paul Downing	保羅·達寧	1	paranames-en-zh
+Ren Kuan	任寬	1	paranames-en-zh
+Pedro Ponce de Cabrera	佩德罗·庞塞·德卡布瑞拉	1	paranames-en-zh
+Dax O'Callaghan	戴克斯·奥卡拉汉	1	paranames-en-zh
+Li Yuankuan	黎元寬	1	paranames-en-zh
+Arden Haynes	亚登·海恩斯	1	paranames-en-zh
+Ding Xuan	丁瑄	1	paranames-en-zh
+Wang Xun	王洵	1	paranames-en-zh
+Wu Shi	吳氏	1	paranames-en-zh
+Yang Juncao	楊君操	1	paranames-en-zh
+Margarita, Princess of Hohenlohe-Langenburg	希臘的瑪格麗塔公主	1	paranames-en-zh
+Jia Zong	賈宗	1	paranames-en-zh
+Deng Huizhong	邓惠中	1	paranames-en-zh
+Lee Young-min	李榮敏	1	paranames-en-zh
+Shi Daiju	石待舉	1	paranames-en-zh
+Qasim Amin	卡希姆·艾敏	1	paranames-en-zh
+Ma Nu	馬奴	1	paranames-en-zh
+Yao Chuitai	姚垂泰	1	paranames-en-zh
+Josef Martínez	祖斯夫·馬天尼斯	1	paranames-en-zh
+Zhong Qishuo	鍾其碩	1	paranames-en-zh
+Yin Dexuan	尹德瑄	1	paranames-en-zh
+Zhu Yuanyuan	朱媛媛	1	paranames-en-zh
+Dong Zhu	董鑄	1	paranames-en-zh
+Guo Qing	郭慶	1	paranames-en-zh
+Glen Hanlon	格伦·汉隆	1	paranames-en-zh
+Kim Kwangho	金光鎬	1	paranames-en-zh
+Edvard Helsted	爱德华·赫尔斯泰兹	1	paranames-en-zh
+Chuck Quackenbush	查克·奎肯布什	1	paranames-en-zh
+Wei Duhou	魏度侯	1	paranames-en-zh
+Jonathan Fritz	費德瑋	1	paranames-en-zh
+Choi Siu Tsun	蔡兆浚	1	paranames-en-zh
+Reginald of Bar	巴尔的雷诺	1	paranames-en-zh
+Liu Qing	劉勍	1	paranames-en-zh
+Zhou Di	周廸	1	paranames-en-zh
+Ouyang Shi	歐陽氏	1	paranames-en-zh
+Matfrid	马特弗里德	1	paranames-en-zh
+Jang Sang-yoon	張商允	1	paranames-en-zh
+Wang Xueyuan	王學淵	1	paranames-en-zh
+Anne Heche	安妮·海切	1	paranames-en-zh
+Liu Yen-Chiu	劉燕秋	1	paranames-en-zh
+Xu Wenlong	许文龙	1	paranames-en-zh
+Cai Zhisheng	蔡芝生	1	paranames-en-zh
+Yuan Daiju	源待擧	1	paranames-en-zh
+Rudy Van Gelder	魯迪·范·葛德	1	paranames-en-zh
+David Coates	寇大偉	1	paranames-en-zh
+Wang Bo	王伯	1	paranames-en-zh
+Lu Yin	盧愔	1	paranames-en-zh
+Li Dai	李玳	1	paranames-en-zh
+Luo Chunmei	罗春梅	1	paranames-en-zh
+Rika Nakase	中瀨理香	1	paranames-en-zh
+Yang Gui	楊貴	1	paranames-en-zh
+Karen Clark Sheard	凯伦·克拉克·谢尔德	1	paranames-en-zh
+Joseph Rivière	约瑟夫·里维埃	1	paranames-en-zh
+Yu Gongliang	虞公亮	1	paranames-en-zh
+Shen Chenyuan	沈辰垣	1	paranames-en-zh
+To Sheck Yuen	陶錫源	1	paranames-en-zh
+Yang Daochong	楊道沖	1	paranames-en-zh
+Feng Chaoran	冯超然	1	paranames-en-zh
+Wang Cong	王樅	1	paranames-en-zh
+Niklaus Manuel	尼克勞斯·曼努埃爾	1	paranames-en-zh
+Wanyan Wugunai	完顏烏故乃	1	paranames-en-zh
+Werner Dollinger	维尔纳·多林格	1	paranames-en-zh
+Vern Stephens	佛恩·史蒂芬斯	1	paranames-en-zh
+Robert Hirsch	罗伯特·伊尔希	1	paranames-en-zh
+Yam Kai Bong	任啟邦	1	paranames-en-zh
+Jane Bell	简·贝尔	1	paranames-en-zh
+Wang De	王德	1	paranames-en-zh
+Mambillikalathil Govind Kumar Menon	库玛尔· 梅农	1	paranames-en-zh
+Feng Shi	馮氏	1	paranames-en-zh
+Takanori Maeda	前田隆禮	1	paranames-en-zh
+Pan Shi	潘氏	1	paranames-en-zh
+Liu Tingchou	劉廷籌	1	paranames-en-zh
+Lev Atamanov	列夫·阿塔馬諾夫	1	paranames-en-zh
+Philip the Tetrarch	希律·腓力	1	paranames-en-zh
+Elizabeth Kostova	伊麗莎白·柯斯托娃	1	paranames-en-zh
+Dai Changzong	戴昌宗	1	paranames-en-zh
+Lu Shi	陸氏	1	paranames-en-zh
+Luo Haowen	羅浩文	1	paranames-en-zh
+Lu Ji	陸垍	1	paranames-en-zh
+Cao Nai	曹鼐	1	paranames-en-zh
+Dugu Yongye	獨孤永業	1	paranames-en-zh
+Pondiva Sakornchan	芃蒂瓦·萨空查谙	1	paranames-en-zh
+Deng Xunyan	鄧洵彥	1	paranames-en-zh
+Lu Kuan	路寬	1	paranames-en-zh
+Gille Coemgáin of Moray	吉爾·科姆甘	1	paranames-en-zh
+Graham Dadds	格雷厄姆·达兹	1	paranames-en-zh
+Saar Niragire De Groof	萨尔·尼拉吉雷·德·格罗夫	1	paranames-en-zh
+Yan Ziyi	顏子益	1	paranames-en-zh
+Erin Richards	艾琳·理查茲	1	paranames-en-zh
+Lv Dayun	呂大雲	1	paranames-en-zh
+Guerric Catala	格里克·加泰罗尼亚	1	paranames-en-zh
+Poon Chi-fai	潘志輝	1	paranames-en-zh
+Wang Fengwen	王鳳文	1	paranames-en-zh
+Laura Ioana Paar	劳拉·伊万娜·帕尔	1	paranames-en-zh
+Jiang Qi	江圻	1	paranames-en-zh
+Clarice Power	克拉丽斯·鲍尔	1	paranames-en-zh
+Li Fangxun	李方巡	1	paranames-en-zh
+John Oldcastle	約翰·奧特卡瑟	1	paranames-en-zh
+Robert Dalva	羅伯特·達爾瓦	1	paranames-en-zh
+Cho Jin-woong	趙震雄	1	paranames-en-zh
+Jean-Pierre Naugrette	让-皮埃尔·诺格雷特	1	paranames-en-zh
+Bertram Wyatt-Brown	伯特伦·怀亚特-布朗	1	paranames-en-zh
+Wu Zhifang	吳之芳	1	paranames-en-zh
+Pei Zhu	裴著	1	paranames-en-zh
+Henry Onyekuru	亨利·安耶古魯	1	paranames-en-zh
+Genebaldo	拉昂的热纳博	1	paranames-en-zh
+Stuart Conquest	斯图尔特·康奎斯特	1	paranames-en-zh
+Tomohiro Hasumi	蓮見知弘	1	paranames-en-zh
+John Barr	约翰·巴尔	1	paranames-en-zh
+Clémence DesRochers	克莱芒斯·德斯罗彻斯	1	paranames-en-zh
+Miu Wenxian	繆文獻	1	paranames-en-zh
+Giovanni Francesco Ginetti	若望·方濟各·吉內蒂	1	paranames-en-zh
+Chanie Wenjack	查尼·溫賈克	1	paranames-en-zh
+Ying Wenzheng	應文正	1	paranames-en-zh
+Shahid Kapoor	沙希德·卡普爾	1	paranames-en-zh
+Jean Baptiste Eugène Estienne	尚·巴普提斯特·尤金·埃斯蒂安	1	paranames-en-zh
+Liu Xi	刘曦	1	paranames-en-zh
+Xia Zhiwen	夏之文	1	paranames-en-zh
+Sun Yi	孙怡	1	paranames-en-zh
+Roberto Luongo	罗伯托·卢翁戈	1	paranames-en-zh
+Zhu Hongrui	朱鴻瑞	1	paranames-en-zh
+Andrea R. Wood	安德里亚·伍德	1	paranames-en-zh
+Qiao Weide	譙惟德	1	paranames-en-zh
+Yuwen Yuan	宇文淵	1	paranames-en-zh
+Jacques Joseph Moreau	雅克-約瑟夫·莫羅	1	paranames-en-zh
+Wu Xu	吾冔	1	paranames-en-zh
+Jin Shi	金氏	1	paranames-en-zh
+Zhang Wei	張威	1	paranames-en-zh
+Zhou Shi	周氏	1	paranames-en-zh
+Yu Qin	俞鋟	1	paranames-en-zh
+Carl Hiaasen	卡尔·海森	1	paranames-en-zh
+Miriam Hopkins	米麗亞姆·霍普金斯	1	paranames-en-zh
+Gu Zhongling	谷鍾靈	1	paranames-en-zh
+Zhang Zi	張子	1	paranames-en-zh
+Suwanguaerjia Yushan	蘇完瓜爾佳豫山	1	paranames-en-zh
+Wang Ci	王賜	1	paranames-en-zh
+Park Han-byul	朴韓星	1	paranames-en-zh
+Ma Guorui	马国瑞	1	paranames-en-zh
+Dayán Viciedo	達揚·維西耶多	1	paranames-en-zh
+Zhang Yuanqi	張元玘	1	paranames-en-zh
+Tian Kongzhao	田孔昭	1	paranames-en-zh
+Cui Daben	崔大本	1	paranames-en-zh
+An Zhaozu	安昭祖	1	paranames-en-zh
+Wang Chaobi	王朝弼	1	paranames-en-zh
+Bai Yangcui	白養粹	1	paranames-en-zh
+Şahin Irmak	沙欣·伊尔马克	1	paranames-en-zh
+Park Seong-han	朴成韓	1	paranames-en-zh
+Gu Shi	顧氏	1	paranames-en-zh
+Mat Whitecross	麥特·懷特洛斯	1	paranames-en-zh
+Catherine Yi-yu Cho Woo	卓以玉	1	paranames-en-zh
+Yan Qinmo	嚴欽謨	1	paranames-en-zh
+Zhu An?	朱安㳚	1	paranames-en-zh
+Fan Zuyi	范祖義	1	paranames-en-zh
+Carl Herse	卡尔·赫斯	1	paranames-en-zh
+Cesare Bovo	塞薩爾·波沃	1	paranames-en-zh
+Yu Wenzhi	余文質	1	paranames-en-zh
+Xiao Zhizai	蕭祇載	1	paranames-en-zh
+Shen Zhang	沈璋	1	paranames-en-zh
+Shi Debao	釋德寳	1	paranames-en-zh
+Louis Comfort Tiffany	蒂凡尼	1	paranames-en-zh
+Zhong Wei	鍾位	1	paranames-en-zh
+Wu Hang	吳沆	1	paranames-en-zh
+Hiram Scott	海拉姆·斯科特	1	paranames-en-zh
+Andy Grammer	安迪·格蘭默	1	paranames-en-zh
+Xu Mai	徐邁	1	paranames-en-zh
+Yu Zhongqing	俞鍾慶	1	paranames-en-zh
+Bart Vergoossen	巴特·韦尔戈森	1	paranames-en-zh
+Ivars Godmanis	伊瓦尔斯·戈德马尼斯	1	paranames-en-zh
+Agathe Taffertshofer	阿加特·塔费茨霍费尔	1	paranames-en-zh
+Shi Renzhi	氏仁執	1	paranames-en-zh
+Kaiin Shōko	芥隱承琥	1	paranames-en-zh
+Song Dan	宋丹	1	paranames-en-zh
+Bjarne Meisel	比雅尼·迈塞尔	1	paranames-en-zh
+Tan Nahai	譚那海	1	paranames-en-zh
+Fritz Wüst	弗里茨·胡斯特	1	paranames-en-zh
+Christine Cook	克里斯蒂娜·库克	1	paranames-en-zh
+Eggert Voscherau	埃格特·福舍劳	1	paranames-en-zh
+Yiergenjueluo Wushan	伊爾根覺羅武善	1	paranames-en-zh
+Wolfgang Koeppen	沃尔夫冈·科彭	1	paranames-en-zh
+"Orlando ""Cachaíto"" López"	「小卡喬」歐蘭多·洛佩茲	1	paranames-en-zh
+Yong Wangshi	雍王适	1	paranames-en-zh
+Teresa Lewis	泰瑞莎·路易絲	1	paranames-en-zh
+Tsokye Dorje	措杰多吉	1	paranames-en-zh
+Ye Sha	葉沙	1	paranames-en-zh
+Kyron Gordon	基朗·哥頓	1	paranames-en-zh
+Fan Laoqian	范勞謙	1	paranames-en-zh
+Herb Caen	埃布·卡	1	paranames-en-zh
+Fu Zengxun	傅增濬	1	paranames-en-zh
+Liu Shi	劉氏	1	paranames-en-zh
+Norma Talmadge	诺尔玛·塔尔梅奇	1	paranames-en-zh
+Song Chenguang	宋晨光	1	paranames-en-zh
+Paul Peek	保羅·皮克	1	paranames-en-zh
+Bernard Giluk Dompok	柏纳东博	1	paranames-en-zh
+Federico di Sanseverino	費德廉·迪·聖賽維里諾	1	paranames-en-zh
+Wan Yingju	萬應舉	1	paranames-en-zh
+Wang Dingyi	王鼎彝	1	paranames-en-zh
+Wang Changshun	王昌順	1	paranames-en-zh
+Zheng Hongwei	鄭弘威	1	paranames-en-zh
+Yang Shi	楊氏	1	paranames-en-zh
+Lin Ke	林可	1	paranames-en-zh
+John Loudon McAdam	約翰·馬卡丹	1	paranames-en-zh
+Chen Chong	陳寵	1	paranames-en-zh
+Bi Zhongzhuang	畢仲莊	1	paranames-en-zh
+Zhou Huigong	周惠恭	1	paranames-en-zh
+Carrie Wen-tzu Chiang	姜文錙	1	paranames-en-zh
+Michaël Bodegas	米夏埃尔·博德加斯	1	paranames-en-zh
+Zhang Zhitian	張芝田	1	paranames-en-zh
+Vini Ciccarello	维妮·斯卡尔罗	1	paranames-en-zh
+Edigu	也迪古	1	paranames-en-zh
+Lian Yue	廉約	1	paranames-en-zh
+George Phillips Bond	乔治·邦德	1	paranames-en-zh
+Yan Yuansun	顔元孫	1	paranames-en-zh
+Leon Redbone	利昂·雷德伯恩	1	paranames-en-zh
+Lau Kwai Hong	劉桂康	1	paranames-en-zh
+Pei Lingbao	裴令寶	1	paranames-en-zh
+Cai Tingdong	蔡廷棟	1	paranames-en-zh
+Kölgen	阔列坚	1	paranames-en-zh
+Puannum	普安努姆	1	paranames-en-zh
+Tom DeFalco	湯姆·德法爾科	1	paranames-en-zh
+Ye Shi	葉湜	1	paranames-en-zh
+Yang Siyi	楊思議	1	paranames-en-zh
+Li Tingxun	李廷勳	1	paranames-en-zh
+Tu Zulan	涂祖瀾	1	paranames-en-zh
+Zhao Sijing	趙思憼	1	paranames-en-zh
+Ringang	强俄巴·仁增多吉	1	paranames-en-zh
+Wen Shi	文氏	1	paranames-en-zh
+Maria Junghetu	玛丽亚·琼赫图	1	paranames-en-zh
+Zheng Zishen	鄭資深	1	paranames-en-zh
+Leonard Koppett	雷納德·柯佩特	1	paranames-en-zh
+Wan Qi	萬玘	1	paranames-en-zh
+Lee Tae-Gon	李太坤	1	paranames-en-zh
+Alexei Eremenko	阿列克谢·叶廖缅科	1	paranames-en-zh
+Luo Chongzhen	羅崇貞	1	paranames-en-zh
+Fritz Zweig	弗里茨·茨威格	1	paranames-en-zh
+Fabrice Lambot	法布里斯·兰博	1	paranames-en-zh
+Miao Yi	苗異	1	paranames-en-zh
+Otgontsetseg Galbadrakh	奥特供斯特格·格拉巴尔达科	1	paranames-en-zh
+Hideo Den	田英夫	1	paranames-en-zh
+Alec Asher	亞歷克·阿舍	1	paranames-en-zh
+Princess Huijeong	徽靜翁主	1	paranames-en-zh
+Sajisibuhua	撒吉思卜華	1	paranames-en-zh
+Zhang Shi	張氏	1	paranames-en-zh
+George Connor	乔治·康纳	1	paranames-en-zh
+Li Rouqing	李柔卿	1	paranames-en-zh
+Liu Jie	劉傑	1	paranames-en-zh
+Wang Shiji	王師伋	1	paranames-en-zh
+Luca Venantini	卢卡·维朗迪尼	1	paranames-en-zh
+Li Jing	李敬	1	paranames-en-zh
+Dong Yuchen	董羽宸	1	paranames-en-zh
+Lei Shi	雷氏	1	paranames-en-zh
+Li Sheng	李晟	1	paranames-en-zh
+Lidija Kuliš	莉迪亚·库里什	1	paranames-en-zh
+Huang Cheng	黃橙	1	paranames-en-zh
+Lucas Cammareri	盧卡斯·卡馬雷	1	paranames-en-zh
+Zeng Yannian	曾延年	1	paranames-en-zh
+Brian Kennedy	布萊恩·肯尼迪	1	paranames-en-zh
+He Liang	何良	1	paranames-en-zh
+Darrel Brown	达雷尔·布朗	1	paranames-en-zh
+Guo Shouji	郭守畿	1	paranames-en-zh
+Huang Tianqiu	黃天球	1	paranames-en-zh
+Eric Kennington	艾瑞克·肯寧頓	1	paranames-en-zh
+Song Mei	宋梅	1	paranames-en-zh
+Paolo Fresu	保罗·弗雷苏	1	paranames-en-zh
+Wang Jing	王敬	1	paranames-en-zh
+Alexis Thérèse Petit	亚历克西·泰雷兹·珀蒂	1	paranames-en-zh
+You Shikui	游士逵	1	paranames-en-zh
+Stanislav Rostotsky	斯坦尼斯拉夫·罗斯托茨基	1	paranames-en-zh
+Yuan Caifu	袁才輔	1	paranames-en-zh
+Dean Redman	狄恩·瑞德曼	1	paranames-en-zh
+Nerva	涅尔瓦	1	paranames-en-zh
+Wang Xin	王信	1	paranames-en-zh
+Valdemaras Chomičius	瓦尔德马拉斯·科米修斯	1	paranames-en-zh
+Brian Bond	布萊恩·邦德	1	paranames-en-zh
+Censorinus	肯索里努斯	1	paranames-en-zh
+Cheng Lian	程璉	1	paranames-en-zh
+Zheng Liang	鄭亮	1	paranames-en-zh
+Toshiyuki Nakamura	中村稔幸	1	paranames-en-zh
+Alice Fischer	爱丽丝·费歇尔	1	paranames-en-zh
+Peng Mengde	彭孟德	1	paranames-en-zh
+Ōshima Takatō	大岛高任	1	paranames-en-zh
+Maurice Setters	莫里斯·塞特斯	1	paranames-en-zh
+Yan Han	顔含	1	paranames-en-zh
+Sabine Tingry	萨宾·廷格里	1	paranames-en-zh
+Kong Wenying	孔文英	1	paranames-en-zh
+Mo Jiancheng	莫建成	1	paranames-en-zh
+Jacqueline Auriol	雅克利娜·奥里奥尔	1	paranames-en-zh
+Wang Fuan	汪福安	1	paranames-en-zh
+Duan Qi	段奇	1	paranames-en-zh
+Gustav Struve	古斯塔夫·斯特鲁维	1	paranames-en-zh
+Zhu Shike	朱仕可	1	paranames-en-zh
+Teo Shun Xie	張順惜	1	paranames-en-zh
+Kazuhiko Masumoto	增本一彦	1	paranames-en-zh
+Roger Faligot	罗热·法利戈	1	paranames-en-zh
+Amalia Uys	阿玛莉亚·尤伊斯	1	paranames-en-zh
+Wu Zhiji	吳知幾	1	paranames-en-zh
+Jörg Vollmer	約爾格·福爾默	1	paranames-en-zh
+Peng Shi	彭氏	1	paranames-en-zh
+Alex Carcamo	亚力克斯·卡卡莫	1	paranames-en-zh
+Bai Bibyaon Ligkayan Bigkay	巴伊·比比亞奧恩·利格卡亞恩·比格卡伊	1	paranames-en-zh
+Jordan Wilimovsky	喬丹·威利莫夫斯基	1	paranames-en-zh
+Morgan Taylor Campbell	摩根·泰勒·坎贝尔	1	paranames-en-zh
+Richard Thompson	理查德·湯普森	1	paranames-en-zh
+Liu Guancheng	劉觀成	1	paranames-en-zh
+Guérin Van de Vorst	盖林·范·德·沃斯特	1	paranames-en-zh
+Shen Wei	沈煒	1	paranames-en-zh
+Kevin Möhwald	凯文·莫瓦尔德	1	paranames-en-zh
+Chen Shan	陳善	1	paranames-en-zh
+Mou Shi	某氏	1	paranames-en-zh
+Jozef Gregor-Tajovský	J.G. 塔约夫斯基	1	paranames-en-zh
+Wu Weiqi	吳蔚起	1	paranames-en-zh
+Frank B. Brandegee	弗蘭克·B·布蘭德吉	1	paranames-en-zh
+Jia Boyan	贾博琰	1	paranames-en-zh
+Liang Congzheng	梁從政	1	paranames-en-zh
+Galder	蓋爾德	1	paranames-en-zh
+Ju Qiwen	瞿起文	1	paranames-en-zh
+Marcelle de Manziarly	馬賽爾·德曼齊亞利	1	paranames-en-zh
+Yang Shi	楊氏	1	paranames-en-zh
+Wu Yusheng	吳愈聖	1	paranames-en-zh
+Zang Luan	臧鸞	1	paranames-en-zh
+Liu Shaowen	劉紹文	1	paranames-en-zh
+Wong Tack	黄德	1	paranames-en-zh
+Yoon Mee-hyang	尹美香	1	paranames-en-zh
+Li Bi	李苾	1	paranames-en-zh
+Don Levy	唐·利維	1	paranames-en-zh
+Glele	格萊萊	1	paranames-en-zh
+Zhou Liangzuo	周良佐	1	paranames-en-zh
+Rufus Jones	鲁弗斯·琼斯	1	paranames-en-zh
+Romain Brégerie	罗曼·布雷热里	1	paranames-en-zh
+Huang Mou	黃某	1	paranames-en-zh
+Qiu Chongyuan	邱崇元	1	paranames-en-zh
+Zeng Zongben	曾宗本	1	paranames-en-zh
+Brian K. Vaughan	布莱恩·K·沃恩	1	paranames-en-zh
+Zhou Lian	周濂	1	paranames-en-zh
+Wen Wenggui	温翁歸	1	paranames-en-zh
+Stanislav Solovkin	斯坦尼斯拉夫·索洛夫金	1	paranames-en-zh
+Zhang Yaochen	張堯臣	1	paranames-en-zh
+Sergey Kiselyov	S.V. 吉谢列夫	1	paranames-en-zh
+Chao Gongrong	晁公榮	1	paranames-en-zh
+Luo Mengyuan	羅夢元	1	paranames-en-zh
+Wang Shi	王氏	1	paranames-en-zh
+Wang Hong	汪鋐	1	paranames-en-zh
+Guo Tong	郭通	1	paranames-en-zh
+Zhou Shi	周氏	1	paranames-en-zh
+Wang Mou	王某	1	paranames-en-zh
+Jorge Perugorría Rodríguez	豪尔赫·佩鲁戈里亚	1	paranames-en-zh
+Ma Jingyi	麻敬宜	1	paranames-en-zh
+Yuan Mou	袁某	1	paranames-en-zh
+Yao Wei	姚楲	1	paranames-en-zh
+Zhi Liang	支亮	1	paranames-en-zh
+Arif Dirlik	德里克	1	paranames-en-zh
+Gao Gang	高岡	1	paranames-en-zh
+John Pordage	约翰·波达奇	1	paranames-en-zh
+Jinbo Kuranosuke	神保内藏助	1	paranames-en-zh
+Pierre Morel-A-L'Huissier	皮埃尔·莫雷拉吕西耶	1	paranames-en-zh
+Guo Dong	郭東	1	paranames-en-zh
+Samir Barač	萨米尔·巴拉奇	1	paranames-en-zh
+Zhang Guolun	張國綸	1	paranames-en-zh
+Yunxiang	雲祥	1	paranames-en-zh
+Wang Zhong	王忠	1	paranames-en-zh
+He Chengguang	賀承光	1	paranames-en-zh
+Jia Shixi	賈時習	1	paranames-en-zh
+Liu Hong	刘宏	1	paranames-en-zh
+Summer Chan	陳紫萱	1	paranames-en-zh
+Heoju	許周	1	paranames-en-zh
+Eliane Karp	埃莉亚内·卡尔普	1	paranames-en-zh
+Buhua	不花	1	paranames-en-zh
+Wei Mingda	魏名大	1	paranames-en-zh
+Xiahou Yuan	夏侯冤	1	paranames-en-zh
+François Catonné	弗朗索瓦·卡东内	1	paranames-en-zh
+Zhang Jie	章玠	1	paranames-en-zh
+Wo Benchu	沃本初	1	paranames-en-zh
+Aleksey Chupov	阿列克謝·楚波夫	1	paranames-en-zh
+Eric Nadel	艾瑞克·納戴爾	1	paranames-en-zh
+Tang Bangchuan	唐邦傳	1	paranames-en-zh
+Amedeo Chiantoni	阿梅代奥·基安托尼	1	paranames-en-zh
+Pan Lvduan	潘履端	1	paranames-en-zh
+Xu Hui	徐辉	1	paranames-en-zh
+Zhang Kai	張愷	1	paranames-en-zh
+Zhang Mian	張冕	1	paranames-en-zh
+Yang-kwon Moon	扬-克旺·穆恩	1	paranames-en-zh
+Li Tao	李燾	1	paranames-en-zh
+Malvika Bansod	瑪爾薇卡·班索德	1	paranames-en-zh
+Wei Zheng	魏政	1	paranames-en-zh
+Eunice Carter	厄尼絲·卡特	1	paranames-en-zh
+Yu Yingzhao	余應兆	1	paranames-en-zh
+Zhu Menggui	朱夢桂	1	paranames-en-zh
+Kong Shi	孔氏	1	paranames-en-zh
+Takahiko Imamura	今村貴彥	1	paranames-en-zh
+Mohammad Kazem Shariatmadari	穆罕默德·卡齊姆·沙里亞特馬達里	1	paranames-en-zh
+Yashaswini Singh Deswal	亚沙斯维妮·辛格·德斯瓦尔	1	paranames-en-zh
+Tim Young	蒂姆·扬	1	paranames-en-zh
+Huang Zhongse	黃中色	1	paranames-en-zh
+Vlado Kristl	弗拉多·克里斯特尔	1	paranames-en-zh
+Wang Zailong	王在隆	1	paranames-en-zh
+Stefan Gwildis	斯特凡·格威尔迪斯	1	paranames-en-zh
+Shu Rui	舒銳	1	paranames-en-zh
+Kou Zhongwen	寇仲溫	1	paranames-en-zh
+Shaban	沙班	1	paranames-en-zh
+Fang Ke	方可	1	paranames-en-zh
+Li Rufang	李如淓	1	paranames-en-zh
+Cao Yu	曹寓	1	paranames-en-zh
+Zhan Yijin	詹以晉	1	paranames-en-zh
+Peng Zhu	彭珠	1	paranames-en-zh
+An Tingchen	安廷臣	1	paranames-en-zh
+Kong Si	孔泗	1	paranames-en-zh
+Wang Jian	王檢	1	paranames-en-zh
+Wei Shao	韋紹	1	paranames-en-zh
+Umberto Rispoli	李寶利	1	paranames-en-zh
+Adil Candemir	阿迪勒·詹代米尔	1	paranames-en-zh
+Debra Christofferson	黛博拉·克里斯多福森	1	paranames-en-zh
+Jeremy Linn	杰里米·林	1	paranames-en-zh
+Fred Newhouse	弗雷德·纽豪斯	1	paranames-en-zh
+Li Chengyan	李承顏	1	paranames-en-zh
+Shota Rustaveli	紹塔·魯斯塔韋利	1	paranames-en-zh
+Liu Xuanting	柳萱庭	1	paranames-en-zh
+Aaron Königs	艾伦·科尼希斯	1	paranames-en-zh
+Guo Weihe	郭惟和	1	paranames-en-zh
+Fan Liangren	范良任	1	paranames-en-zh
+Tian Jiong	田泂	1	paranames-en-zh
+Wang Tianshou	王天獸	1	paranames-en-zh
+Atulo	阿姜敦	1	paranames-en-zh
+Alexander Tsiurupa	亚历山大·德米特里耶维奇·瞿鲁巴	1	paranames-en-zh
+Yoshinori Yokomitsu	橫光吉規	1	paranames-en-zh
+Tim Despic	提姆·德斯皮奇	1	paranames-en-zh
+Rupert Stadler	鲁伯特·施泰德	1	paranames-en-zh
+William Ritchie	威廉·里奇	1	paranames-en-zh
+Xiong Ai	熊愛	1	paranames-en-zh
+Hu Donggao	胡東臯	1	paranames-en-zh
+Li Xian	黎暹	1	paranames-en-zh
+Huang Ji	黃紀	1	paranames-en-zh
+Song Huang	宋璜	1	paranames-en-zh
+Nan Dawn	南·道恩	1	paranames-en-zh
+Guo Guoying	郭國英	1	paranames-en-zh
+Xiang Fangsheng	相方昇	1	paranames-en-zh
+Li Jiaxiang	李嘉祥	1	paranames-en-zh
+Gioseffo Zarlino	吉歐塞弗·查里諾	1	paranames-en-zh
+Ludwig Manzel	路德維西·曼則	1	paranames-en-zh
+Duo Duoshan	多山	1	paranames-en-zh
+Wu Zou	吳鄹	1	paranames-en-zh
+Zhang Jimeng	張繼孟	1	paranames-en-zh
+Yu Sheng	俞昇	1	paranames-en-zh
+Liu Dequan	劉德銓	1	paranames-en-zh
+Sascha Hingst	萨沙·欣斯特	1	paranames-en-zh
+Ding Shixiong	丁世雄	1	paranames-en-zh
+Matawee Teeraleekul	玫塔薇·緹拉吏袞	1	paranames-en-zh
+Alfonso, Prince of Asturias	阿方索，阿斯图里亚斯亲王	1	paranames-en-zh
+Xiao Shi	蕭氏	1	paranames-en-zh
+Jean-François Gallotte	让佛·朗索瓦·戈马特	1	paranames-en-zh
+Su Sen-yong	蘇森墉	1	paranames-en-zh
+Martin Bursík	馬丁·布爾斯克	1	paranames-en-zh
+Jakob Friedrich von Holtzendorff	弗里德里希·雅各布·冯·霍尔岑多夫	1	paranames-en-zh
+Liu Qi	柳杞	1	paranames-en-zh
+Dana Nessel	达娜·内塞尔	1	paranames-en-zh
+Joseph Odermatt	若瑟·奧德馬特	1	paranames-en-zh
+Li Qingxuan	李青選	1	paranames-en-zh
+Mo Molehong	莫樂洪	1	paranames-en-zh
+Zheng Jingsi	郑镜思	1	paranames-en-zh
+Xu Yanwen	徐彥溫	1	paranames-en-zh
+Jean Payart	尚·佩亞特	1	paranames-en-zh
+Marie Diot	玛丽·迪奥特	1	paranames-en-zh
+Zhasawusun	札撒兀孫	1	paranames-en-zh
+György Kőszegi	克塞吉·哲尔吉	1	paranames-en-zh
+Óscar Zambrano	奧斯卡·桑布拉諾	1	paranames-en-zh
+Kato Mutsuki	加藤六月	1	paranames-en-zh
+Naoto Fūga	風雅直人	1	paranames-en-zh
+Zakareth Ruben	扎卡雷斯·鲁本	1	paranames-en-zh
+Dong Xin	董炘	1	paranames-en-zh
+Georg Thoma	格奥尔格·托马	1	paranames-en-zh
+Jack Oakie	杰克·奥克	1	paranames-en-zh
+Masakatsu Miyamoto	宮本征勝	1	paranames-en-zh
+Yuan Zhen	元振	1	paranames-en-zh
+Mami Ueno	上野真実	1	paranames-en-zh
+Hiroshi Fujiwara	藤原宽	1	paranames-en-zh
+Tong Yin	童寅	1	paranames-en-zh
+Huang Moulie	黃謀烈	1	paranames-en-zh
+Ogawa Nobuo	小川信雄	1	paranames-en-zh
+Chen Huacheng	陈化成	1	paranames-en-zh
+Diego Junqueira	迭戈·榮凱拉	1	paranames-en-zh
+Ingemar Wikström	英厄马尔·维克斯特伦	1	paranames-en-zh
+Jin Hong	金紘	1	paranames-en-zh
+Usami Sanemasa	宇佐美實政	1	paranames-en-zh
+Xu Jian	徐鑒	1	paranames-en-zh
+Zhao Wenhuan	趙文渙	1	paranames-en-zh
+Jin Joo	珍珠	1	paranames-en-zh
+Natalee Holloway	娜塔莉·霍洛威	1	paranames-en-zh
+Bob Ringwood	鮑勃·林伍德	1	paranames-en-zh
+Josef Steindl	约瑟夫·施泰因德尔	1	paranames-en-zh
+Bradford Dillman	布拉福德·迪尔曼	1	paranames-en-zh
+Shen Da	申達	1	paranames-en-zh
+E. L. James	埃里卡·倫納德	1	paranames-en-zh
+Wang Jiaxi	汪家禧	1	paranames-en-zh
+Yuwen Jingne	宇文景訥	1	paranames-en-zh
+Kou Yuanmou	寇元某	1	paranames-en-zh
+Bianca Knight	比安卡·奈特	1	paranames-en-zh
+Pedro I of Brazil	佩德罗一世	1	paranames-en-zh
+Kelly Clarkson	凱莉·克萊森	1	paranames-en-zh
+Tep Vong	狄旺	1	paranames-en-zh
+Clint Hill	克林特·希尔	1	paranames-en-zh
+Otakar Mareček	奥塔卡尔·马雷切克	1	paranames-en-zh
+Li Zhan	黎瞻	1	paranames-en-zh
+Chen Ching-nan	陳靜楠	1	paranames-en-zh
+Haitao Shi	史海涛	1	paranames-en-zh
+Wu Zhuan	吳僎	1	paranames-en-zh
+Marshall B. Webb	馬歇爾·B·韋伯	1	paranames-en-zh
+Cheng Zhengkun	程正坤	1	paranames-en-zh
+Morta	莫尔塔	1	paranames-en-zh
+George Washington Parke Custis	乔治·华盛顿·帕克·卡斯蒂斯	1	paranames-en-zh
+Marie Dentière	玛丽·丹蒂埃尔	1	paranames-en-zh
+Seon Hwang	黃世温	1	paranames-en-zh
+Renee Taylor	勒妮·泰勒	1	paranames-en-zh
+Takashi Tsukagoshi	塚越孝	1	paranames-en-zh
+Alison Eastwood	艾莉森·伊斯特伍德	1	paranames-en-zh
+Liu Siwen	劉思溫	1	paranames-en-zh
+Li Shi	李氏	1	paranames-en-zh
+Susumu Chiba	千葉進步	1	paranames-en-zh
+Han Daxin	韓大信	1	paranames-en-zh
+Kikuchi Tokitaka	菊池時隆	1	paranames-en-zh
+Sun Congyin	孫從隱	1	paranames-en-zh
+Xing Shi	邢氏	1	paranames-en-zh
+Wang Yanli	王延禮	1	paranames-en-zh
+Li Shen	李绅	1	paranames-en-zh
+Shiho Fujimura	藤村志保	1	paranames-en-zh
+Kiyoshi Saitō	齋藤清	1	paranames-en-zh
+Jiang Peiran	江沛然	1	paranames-en-zh
+Princesse Lelang	樂浪公主	1	paranames-en-zh
+Ba Manzi	巴蔓子	1	paranames-en-zh
+Li Jin	李縉	1	paranames-en-zh
+Song Churen	宋處仁	1	paranames-en-zh
+Maurice Blanchot	莫里斯·布朗修	1	paranames-en-zh
+Wei Xiaochun	卫小春	1	paranames-en-zh
+Eileen Barbara Tam	楊譚愛蓮	1	paranames-en-zh
+Duan Shi	段氏	1	paranames-en-zh
+Željka Cvijanović	热莉卡·茨维亚诺维奇	1	paranames-en-zh
+Louis Ng	黃國光	1	paranames-en-zh
+Eric Allman	艾瑞克·奧爾曼	1	paranames-en-zh
+Shin Ki-joon	申基俊	1	paranames-en-zh
+Olivier Martineau	奥利维尔·玛尔提诺	1	paranames-en-zh
+He Fu	何復	1	paranames-en-zh
+Wang Ping	王平	1	paranames-en-zh
+Frank Blunstone	弗兰克·布伦斯通	1	paranames-en-zh
+Nanna Koerstz Madsen	娜娜·柯爾茲·梅德森	1	paranames-en-zh
+Robert G. Vignola	羅拔·G·維尼奧拉	1	paranames-en-zh
+Motoyuki Iemitsu	家光素行	1	paranames-en-zh
+Daisuke Matsubara	松原大典	1	paranames-en-zh
+Stephen Wearne	史蒂芬·維恩	1	paranames-en-zh
+Lin Jinyong	林金勇	1	paranames-en-zh
+Song Xixian	宋希賢	1	paranames-en-zh
+Luigi Cingolani	路易吉·辛戈拉尼	1	paranames-en-zh
+Yu Xuejun	于学军	1	paranames-en-zh
+Joseph von Spaun	约瑟夫·冯·施鲍恩	1	paranames-en-zh
+Luo Shi	羅氏	1	paranames-en-zh
+Shen Guisen	沈桂森	1	paranames-en-zh
+Lin Shiying	林士瑛	1	paranames-en-zh
+Ganggang Hu Guidice	胡刚刚	1	paranames-en-zh
+Zebastian Modin	塞巴斯蒂安·莫丁	1	paranames-en-zh
+Shigeo Fukushima	福岛滋雄	1	paranames-en-zh
+Li Tong	李通	1	paranames-en-zh
+Nisan Dağ	尼山·达格	1	paranames-en-zh
+Chen Wangzheng	陳王政	1	paranames-en-zh
+Li Yinger	李迎兒	1	paranames-en-zh
+Bikram Choudhury	畢克藍·柯得立	1	paranames-en-zh
+Hu Qizhong	胡蘄忠	1	paranames-en-zh
+Li Minzhong	李民中	1	paranames-en-zh
+Wang Shi	王氏	1	paranames-en-zh
+Pat Van Den Hauwe	范登豪威	1	paranames-en-zh
+Lautaro Acosta	劳塔罗·阿科斯塔	1	paranames-en-zh
+David Della Rocco	大卫·德拉·洛可	1	paranames-en-zh
+Duan Yixuan	段藝璇	1	paranames-en-zh
+Yuan Zhi	袁志	1	paranames-en-zh
+Walther Katzenstein	瓦尔特·卡岑施泰因	1	paranames-en-zh
+Gou Da	緱達	1	paranames-en-zh
+Su Zai	蘇在	1	paranames-en-zh
+Francis Birch	弗朗西斯·贝切	1	paranames-en-zh
+Wang Qi	汪契	1	paranames-en-zh
+Raphael Warnock	拉斐尔·沃诺克	1	paranames-en-zh
+Mangok Mathiang	曼戈·曼提耶	1	paranames-en-zh
+Xue Xue	薛雪	1	paranames-en-zh
+Skandaali	斯坎达利	1	paranames-en-zh
+Zheng Bin	鄭賓	1	paranames-en-zh
+Luo Ru	羅如	1	paranames-en-zh
+Bettina Plank	贝蒂娜·普兰克	1	paranames-en-zh
+He Jian	賀鑒	1	paranames-en-zh
+Sheryl Underwood	雪莉·安德伍德	1	paranames-en-zh
+Xiang Bingzhi	向秉直	1	paranames-en-zh
+Liu Yong	劉澭	1	paranames-en-zh
+Lee Jae-won	李載沅	1	paranames-en-zh
+Tony Chung	鍾翰林	1	paranames-en-zh
+Liu Hao	劉浩	1	paranames-en-zh
+John Xia Xue-qian	夏學謙	1	paranames-en-zh
+Rongrong Ma	马荣荣	1	paranames-en-zh
+Wang Wei	王威	1	paranames-en-zh
+He Dong	贺东	1	paranames-en-zh
+Wu Shi	吳氏	1	paranames-en-zh
+Susan H. Black	苏珊·H·布莱克	1	paranames-en-zh
+Shinichi Sato	佐藤真一	1	paranames-en-zh
+Apostolos Angelis	阿波斯托洛斯·安傑利斯	1	paranames-en-zh
+Benjamin Bollen	本杰明·博伦	1	paranames-en-zh
+Talal Yousef	塔拉尔·尤瑟夫	1	paranames-en-zh
+Zhang Zhao	張昭	1	paranames-en-zh
+Pan Dai	潘岱	1	paranames-en-zh
+Fan Shi	范氏	1	paranames-en-zh
+Jia Yan	賈掞	1	paranames-en-zh
+Francis II Rákóczi	拉科齊	1	paranames-en-zh
+Nozanin Abdulvasieva	诺札琳·阿卜杜勒瓦谢娃	1	paranames-en-zh
+Lan Hai	藍海	1	paranames-en-zh
+Dragan Adžić	德拉甘·阿季奇	1	paranames-en-zh
+Lin Shizhao	林仕釗	1	paranames-en-zh
+Liu Chaobin	劉朝賔	1	paranames-en-zh
+Li Hong	李弘	1	paranames-en-zh
+Li Xun	李訊	1	paranames-en-zh
+Shi Zhaoji	釋照寂	1	paranames-en-zh
+Adam Del Deo	亚当·戴尔·代奥	1	paranames-en-zh
+Zhang Bingkun	張秉堃	1	paranames-en-zh
+Tao Mengxun	陶夢訓	1	paranames-en-zh
+David Fernández Borbalán	大衛·費爾南德斯·波爾巴蘭	1	paranames-en-zh
+Floyd Ayité	弗洛伊德·阿伊泰	1	paranames-en-zh
+Ryōko Fukuyama	福山遼子	1	paranames-en-zh
+Jia Shixiang	賈世祥	1	paranames-en-zh
+Chang Chin-lan	張景嵐	1	paranames-en-zh
+Ding Haocun	丁好存	1	paranames-en-zh
+Abdelghani Kitab	阿卜杜勒加尼·基塔布	1	paranames-en-zh
+Edward St. Aubyn Lort-Phillips	爱德华·圣·奥比恩·洛特-菲利普斯	1	paranames-en-zh
+Zhao Yu	趙餘	1	paranames-en-zh
+Zhao Xinzun	趙信遵	1	paranames-en-zh
+Horiuchi Denjū	堀内傳重	1	paranames-en-zh
+Zha Yi	查益	1	paranames-en-zh
+Hermagoras of Temnos	特姆诺斯的赫尔马戈拉斯	1	paranames-en-zh
+Liu Shi	劉氏	1	paranames-en-zh
+Rolf Gutbrod	洛夫·葛布羅德	1	paranames-en-zh
+Sun Xianyin	孫顯寅	1	paranames-en-zh
+Tian Zengfu	田增福	1	paranames-en-zh
+Patcha Anek‑ayuwat	帕查·阿涅‑阿尤瓦特	1	paranames-en-zh
+Tang Ruhe	湯汝和	1	paranames-en-zh
+Otto Schilling	奧托·席林	1	paranames-en-zh
+Gorō Ibuki	伊吹吾郎	1	paranames-en-zh
+Li Ruyong	李孺用	1	paranames-en-zh
+Philipp Kreuzer	菲利普·克罗泽	1	paranames-en-zh
+Hu Rulin	胡汝霖	1	paranames-en-zh
+Chikara Hashimoto	橋本力	1	paranames-en-zh
+Hu Cheng	胡澄	1	paranames-en-zh
+Fu Huan	傅欢	1	paranames-en-zh
+Chu Shun	褚順	1	paranames-en-zh
+Li Zhuang	李莊	1	paranames-en-zh
+Semyon Aralov	西蒙·伊万诺维奇·阿拉诺夫	1	paranames-en-zh
+Manuel Blum	曼纽尔·布卢姆	1	paranames-en-zh
+Giulio Cacciandra	朱利奥·卡钱德拉	1	paranames-en-zh
+Tim Kruse	蒂姆·克鲁泽	1	paranames-en-zh
+Adrilles Jorge	阿德里尔斯·豪尔赫	1	paranames-en-zh
+Laird Macintosh	萊爾德·麥金托什	1	paranames-en-zh
+Michael J. Mosley	迈克尔·莫斯利	1	paranames-en-zh
+Jiang Wan	蔣萬	1	paranames-en-zh
+Ilona Christen	伊洛娜·克里斯滕	1	paranames-en-zh
+Ao Chi Hong	區志雄	1	paranames-en-zh
+Zou Shao	鄒韶	1	paranames-en-zh
+Zhao Cengqi	趙曾琦	1	paranames-en-zh
+Cao Guangyuan	曹光遠	1	paranames-en-zh
+Cheng Wei	成偉	1	paranames-en-zh
+Gustaf Ljunggren	古斯塔夫·瓊格倫	1	paranames-en-zh
+Yang Jinguang	楊覲光	1	paranames-en-zh
+Chou Dao	仇道	1	paranames-en-zh
+Liou Yu	劉煜	1	paranames-en-zh
+Zhu Guangyuan	朱光遠	1	paranames-en-zh
+Shoufu	宗室壽富	1	paranames-en-zh
+He Gui	贺瓌	1	paranames-en-zh
+Jess Margera	傑斯·馬杰拉	1	paranames-en-zh
+Feng Shi	馮氏	1	paranames-en-zh
+Halszka Osmólska	哈茲卡·奥斯穆斯卡	1	paranames-en-zh
+Jiao Ding	焦鼎	1	paranames-en-zh
+Xiang Chun	項淳	1	paranames-en-zh
+Brek Shea	布雷克·謝亞	1	paranames-en-zh
+Pan Jide	潘季德	1	paranames-en-zh
+Yang Shihuang	楊世璜	1	paranames-en-zh
+Lü Mengzheng	吕蒙正	1	paranames-en-zh
+George Stoneman	乔治·斯通曼	1	paranames-en-zh
+Lu Yan	陸偃	1	paranames-en-zh
+Wang Zhibin	王之賓	1	paranames-en-zh
+Zhang Xi	張僖	1	paranames-en-zh
+Yu Lingchen	于淩辰	1	paranames-en-zh
+Lazar Branković	拉扎尔·布兰科维奇	1	paranames-en-zh
+Jiao Xuanjian	焦玄鑑	1	paranames-en-zh
+Pan Dao	潘幬	1	paranames-en-zh
+Alexander Pylcyn	亞歷山大·派辛	1	paranames-en-zh
+Liu Jia	劉檟	1	paranames-en-zh
+Giuseppe Maria Gambaro	安守仁	1	paranames-en-zh
+Zhang Ziren	張子仁	1	paranames-en-zh
+Huang Xin	黃信	1	paranames-en-zh
+Wang Bi	王襞	1	paranames-en-zh
+Luo Xiu	羅秀	1	paranames-en-zh
+Chiara Tabani	基娅拉·塔巴尼	1	paranames-en-zh
+Margaret Taylor	玛格丽特·泰勒	1	paranames-en-zh
+Liu Qing	劉清	1	paranames-en-zh
+Miao Shen	苗深	1	paranames-en-zh
+Seo Hee-sun	徐熙善	1	paranames-en-zh
+Chen Wenbi	陳文璧	1	paranames-en-zh
+Oleg Kharuk	奥列格·哈鲁克	1	paranames-en-zh
+Huang Shi	黃氏	1	paranames-en-zh
+Kuo Yu-Wen	郭浴雯	1	paranames-en-zh
+Iyad bin Amin Madani	伊亚德·本·阿明·马达尼	1	paranames-en-zh
+Li Guanglin	李光遴	1	paranames-en-zh
+Ning Ju	甯舉	1	paranames-en-zh
+Paul Bracken	保羅·布拉肯	1	paranames-en-zh
+Craig Samson	克雷格·山姆森	1	paranames-en-zh
+Wang Xin	王心	1	paranames-en-zh
+Beiluotiemuer	孛羅帖木兒	1	paranames-en-zh
+Zeng Xiaowen	曾晓雯	1	paranames-en-zh
+Christopher A. Lipinski	克里斯多夫·里宾斯基	1	paranames-en-zh
+Chen Shi	陳氏	1	paranames-en-zh
+Bob Meusel	鲍勃·穆塞尔	1	paranames-en-zh
+Yang Pu	楊朴	1	paranames-en-zh
+Andrei Troschinsky	安德烈·德勒辛斯基	1	paranames-en-zh
+Liu Yuan	劉緣	1	paranames-en-zh
+Nina Shivdasani	尼娜·希夫達薩尼	1	paranames-en-zh
+Omotola Jalade Ekeinde	奥马托拉·贾拉德·埃金德	1	paranames-en-zh
+Wang Bian	王弁	1	paranames-en-zh
+Lenny Venito	兰尼·瓦尼托	1	paranames-en-zh
+Vivienne Parry	薇薇安·派瑞	1	paranames-en-zh
+Jin Dengxuan	金登選	1	paranames-en-zh
+Gu Yu	顧鈺	1	paranames-en-zh
+Li Jing	李景	1	paranames-en-zh
+Jun Sadogawa	佐渡川準	1	paranames-en-zh
+Shi Kekuan	史克寬	1	paranames-en-zh
+Renato Cajá	雷纳托·卡贾	1	paranames-en-zh
+Liu Congyi	劉從義	1	paranames-en-zh
+Qiu Wenji	丘文璣	1	paranames-en-zh
+Wang Min	王旻	1	paranames-en-zh
+Zhao Boquan	趙伯全	1	paranames-en-zh
+Gabriel Mouton	加布里埃爾·莫頓	1	paranames-en-zh
+Jan Grabowski	杨·格拉博夫斯基	1	paranames-en-zh
+Augustin Azémia	奥古斯丁·阿泽米亚	1	paranames-en-zh
+Parkman Raphael Wong	黃栢文	1	paranames-en-zh
+Lin Yin	林寅	1	paranames-en-zh
+Shi Cang	史藏	1	paranames-en-zh
+Hızır Sarı	赫泽尔·萨勒	1	paranames-en-zh
+Sanskruti Balgude	桑斯克鲁蒂·巴尔古德	1	paranames-en-zh
+Quim Torra	金·托拉	1	paranames-en-zh
+Chen Yi	陳懌	1	paranames-en-zh
+Winnie Chow	周文瑛	1	paranames-en-zh
+Cao Shan	曹珊	1	paranames-en-zh
+Roel Verschueren	罗埃尔·维索尔伦	1	paranames-en-zh
+C. W. M. Hart	查爾斯·威廉·墨頓·赫特	1	paranames-en-zh
+Peter van Inwagen	彼得·凡·因韋根	1	paranames-en-zh
+Jiang Chunlin	蔣春霖	1	paranames-en-zh
+Li Qin	李勤	1	paranames-en-zh
+Du Mou	杜某	1	paranames-en-zh
+Li Jiancheng	李薦成	1	paranames-en-zh
+Aoi Akane	赤根葵	1	paranames-en-zh
+Cao Fu	曹輔	1	paranames-en-zh
+Hiroki Shibata	芝田浩樹	1	paranames-en-zh
+Yang Yulong	楊遇隆	1	paranames-en-zh
+W. Cleon Skousen	克利昂·史奇森	1	paranames-en-zh
+Ran Monbu	紋舞蘭	1	paranames-en-zh
+Margaret Wycherly	瑪格麗特·威徹利	1	paranames-en-zh
+Puxu	溥緒	1	paranames-en-zh
+He Jinsuo	賀謹所	1	paranames-en-zh
+Li Ba	李霸	1	paranames-en-zh
+Meng Xun	蒙浚	1	paranames-en-zh
+Brian Robertson	布萊恩·羅伯遜	1	paranames-en-zh
+Bahalusi	八哈魯思	1	paranames-en-zh
+Wu Xilin	吴喜林	1	paranames-en-zh
+Mark Herring	馬克·希靈	1	paranames-en-zh
+Jussi Björling	约西·毕约林	1	paranames-en-zh
+Zhu Kuangye	朱匡業	1	paranames-en-zh
+Zhang Maojian	張懋建	1	paranames-en-zh
+John Arthur Ackroyd	约翰·艾克罗伊德	1	paranames-en-zh
+Tang Shihao	唐世昊	1	paranames-en-zh
+Linghu Feng	令狐渢	1	paranames-en-zh
+Song Pan	宋槃	1	paranames-en-zh
+José Corti	何塞·科爾蒂	1	paranames-en-zh
+Chang Shi	常氏	1	paranames-en-zh
+Samuel Di Carmine	萨穆埃尔·迪·卡尔米内	1	paranames-en-zh
+Tomoka Takeuchi	竹内智香	1	paranames-en-zh
+Brenda Gandini	布伦达·甘迪尼	1	paranames-en-zh
+William Beale	威廉·比尔	1	paranames-en-zh
+Panos Mouzourakis	帕諾斯·莫佐拉基斯	1	paranames-en-zh
+Chen Mou	陳某	1	paranames-en-zh
+Chuanxi Chen	陈传席	1	paranames-en-zh
+Roger Sharpe	羅格·沙爾佩	1	paranames-en-zh
+Shō Kyō	尚恭	1	paranames-en-zh
+Gustavo Ayón	古斯塔沃·阿永	1	paranames-en-zh
+Jim Gannon	吉姆·甘農	1	paranames-en-zh
+Edward J. Perkins	爱德华·J·帕金斯	1	paranames-en-zh
+N. N. Rodionov	尼古拉·罗季奥诺夫	1	paranames-en-zh
+Harvey Fierstein	哈維·菲爾斯坦	1	paranames-en-zh
+Han Bi	韓弼	1	paranames-en-zh
+Natsuko Toda	戶田奈津子	1	paranames-en-zh
+Hong Zhan	洪栴	1	paranames-en-zh
+Kamnaskires-Orodes III.	卡姆納斯基雷斯-奧羅德斯三世	1	paranames-en-zh
+Borja Mayoral	博爾哈·馬約拉爾	1	paranames-en-zh
+Hiroshi Tomita	富田廣士	1	paranames-en-zh
+Wu Beizong	吳北宗	1	paranames-en-zh
+Lu Shen	陸申	1	paranames-en-zh
+Gao Fang	高放	1	paranames-en-zh
+Du Shi	杜氏	1	paranames-en-zh
+J.B. Ghuman Jr.	小J.B.古曼	1	paranames-en-zh
+Tao Ji	陶驥	1	paranames-en-zh
+Aad Bak	阿達巴克	1	paranames-en-zh
+Clara Schumann	克拉拉·舒曼	1	paranames-en-zh
+Zhang Jingzhong	張景重	1	paranames-en-zh
+Zainal Abidin Hassan	再纳·阿比丁	1	paranames-en-zh
+Ariën van Weesenbeek	艾倫·范·韋森貝克	1	paranames-en-zh
+Chen Rui	陳睿	1	paranames-en-zh
+Erika Kapronczai	埃里卡·卡普隆扎伊	1	paranames-en-zh
+Chen Rude	陳汝德	1	paranames-en-zh
+Bernabé Fernández	伯納比·費爾南德斯	1	paranames-en-zh
+Sylvestre François Lacroix	西爾維斯特·弗朗索瓦·拉克爾華	1	paranames-en-zh
+Yiliang	奕樑	1	paranames-en-zh
+Magdalena Wunderlich	玛格达莱娜·文德利希	1	paranames-en-zh
+Li Benshu	李本樞	1	paranames-en-zh
+Hamid Awaludin	哈米德·阿瓦鲁丁	1	paranames-en-zh
+Wang Jin	王錦	1	paranames-en-zh
+Liu You	柳佑	1	paranames-en-zh
+Sung Chia-lun	宋佳倫	1	paranames-en-zh
+Zhu Liang	朱良	1	paranames-en-zh
+Xu Yi	徐易	1	paranames-en-zh
+Jin Yang	金養	1	paranames-en-zh
+Princess Jingwu	敬武公主	1	paranames-en-zh
+Tham Kuen Wei	谭权威	1	paranames-en-zh
+Kullassina-bel	库拉西纳贝尔	1	paranames-en-zh
+Sascha Maaz	萨沙·马兹	1	paranames-en-zh
+Jin Wen	金問	1	paranames-en-zh
+Zhi Jun	摯峻	1	paranames-en-zh
+Chen Yingpin	陳應聘	1	paranames-en-zh
+Mats Hummels	麥斯·曉姆斯	1	paranames-en-zh
+Vincent Lam	林文森	1	paranames-en-zh
+Queen Egbo	埃格博女王	1	paranames-en-zh
+Du Hua	杜華	1	paranames-en-zh
+Pierre Bec	皮埃尔·贝克	1	paranames-en-zh
+Zhang Zhongzan	張仲贊	1	paranames-en-zh
+Brian Stableford	布莱恩·斯塔布尔福德	1	paranames-en-zh
+Kazuhiro Ōta	大田和寬	1	paranames-en-zh
+Mao Mian	毛冕	1	paranames-en-zh
+Xu Fengxiang	徐鳳翔	1	paranames-en-zh
+Shizumu Watanabe	渡邊靜	1	paranames-en-zh
+Ni Sili	倪思立	1	paranames-en-zh
+Mikhail Zasulich	米哈伊尔·伊万诺维奇·扎苏利奇	1	paranames-en-zh
+Frederick of Strasbourg	史特拉斯堡的腓特烈	1	paranames-en-zh
+Sarah Harper	萨拉·哈珀	1	paranames-en-zh
+Alexei Evert	阿列克謝·埃弗特	1	paranames-en-zh
+Dafna Linzer	达芙娜·林泽	1	paranames-en-zh
+Chen Xun	陳勳	1	paranames-en-zh
+Jiang Anzhi	江安止	1	paranames-en-zh
+Shahram Karimi	沙赫拉姆·卡里米	1	paranames-en-zh
+Xu Cong	徐聰	1	paranames-en-zh
+Rayya Makarim	雷亚·马卡里姆	1	paranames-en-zh
+Hu Zhengyan	胡正言	1	paranames-en-zh
+Wang Mou	王某	1	paranames-en-zh
+John Zeleny	约翰·塞勒尼	1	paranames-en-zh
+Fu Chaozhen	傅朝珍	1	paranames-en-zh
+Cheng Cance	程燦策	1	paranames-en-zh
+Georg Föcking	乔治·福金	1	paranames-en-zh
+Son Bo-mi	孫寶渼	1	paranames-en-zh
+George D. Sax	喬治·D·薩克斯	1	paranames-en-zh
+Gary Dicker	格里·迪克	1	paranames-en-zh
+Jin Yuezhui	金曰追	1	paranames-en-zh
+Takeshi Kamo	加茂健	1	paranames-en-zh
+Alan B. McElroy	艾伦·B·麦克尔罗伊	1	paranames-en-zh
+Gene Oliver	基恩·奧利佛	1	paranames-en-zh
+Wang Xian	王獻	1	paranames-en-zh
+Lv He	呂和	1	paranames-en-zh
+Xavier Trias	泽维尔·特里亚斯	1	paranames-en-zh
+Grant Silcock	格蘭特·西爾科克	1	paranames-en-zh
+Louise de La Fayette	路易丝·德·拉法耶特	1	paranames-en-zh
+Masami Maeda	前田正实	1	paranames-en-zh
+Soumei Uchida	內田聰明	1	paranames-en-zh
+Lu Mian	盧緬	1	paranames-en-zh
+Lian Zhaolun	廉兆綸	1	paranames-en-zh
+Lin shuya	林淑雅	1	paranames-en-zh
+Zhang Tingbiao	章廷標	1	paranames-en-zh
+Byron Brown	拜伦·布朗	1	paranames-en-zh
+Suguru Egawa	江川卓	1	paranames-en-zh
+Béryl Gastaldello	贝丽尔·加斯塔德洛	1	paranames-en-zh
+Laurence de Grandhomme	勞倫斯·德·格朗霍姆	1	paranames-en-zh
+Nio Yantony	梁圆安	1	paranames-en-zh
+Ed White	爱德华·怀特	1	paranames-en-zh
+Lu Lin	盧臨	1	paranames-en-zh
+Alejandro García Caturla	亚历杭德罗·加西亚·卡图尔拉	1	paranames-en-zh
+Wang Wei	王蔚	1	paranames-en-zh
+Alberto Bueno	阿爾貝托·布埃諾	1	paranames-en-zh
+Toda Hiroshi	戶田博史	1	paranames-en-zh
+Ye Ming	葉鳴	1	paranames-en-zh
+Wu Shijun	吳士俊	1	paranames-en-zh
+Mo Bahc	朴某	1	paranames-en-zh
+Su Shi	蘇氏	1	paranames-en-zh
+Yao Fen	姚芬	1	paranames-en-zh
+Carlos Gimeno Valero	卡洛斯·希梅诺·瓦莱罗	1	paranames-en-zh
+Barthélémy Du Mortier	巴泰勒米·夏爾·約瑟夫·杜莫蒂爾	1	paranames-en-zh
+Li Pu	李溥	1	paranames-en-zh
+Shi Yongya	釋永牙	1	paranames-en-zh
+Xiao-Hu Sun	孙小虎	1	paranames-en-zh
+Liu Shi	劉氏	1	paranames-en-zh
+Yang Shi	楊氏	1	paranames-en-zh
+David Mullikas	戴维·穆利卡斯	1	paranames-en-zh
+Jiang Yuelun	蔣曰綸	1	paranames-en-zh
+Anke Van't Hof	安克·范特·霍夫	1	paranames-en-zh
+Wu Yanyi	武延義	1	paranames-en-zh
+Jitsugo	愿得寺兼俊	1	paranames-en-zh
+Misuzu Isshiki	一色海鈴	1	paranames-en-zh
+Marie Záhořová-Němcová	玛丽·扎霍若娃-涅姆科娃	1	paranames-en-zh
+John Wakeham, Baron Wakeham	韋瀚男爵約翰·韋瀚	1	paranames-en-zh
+Hirofumi Yamashita	山下弘文	1	paranames-en-zh
+Nonoka Murakata	村方乃乃佳	1	paranames-en-zh
+Mirko Ivanić	米爾科·伊萬尼奇	1	paranames-en-zh
+Ju Yao	聚藥	1	paranames-en-zh
+Yang Yining	楊以寧	1	paranames-en-zh
+Li Mincai	黎敏才	1	paranames-en-zh
+Xie Pan	謝磐	1	paranames-en-zh
+Binnur Karaevli	賓努爾·卡拉耶夫利	1	paranames-en-zh
+Cui He	崔和	1	paranames-en-zh
+Yuan Gong	元公	1	paranames-en-zh
+Sid Bream	席德·布里姆	1	paranames-en-zh
+Virgil Jacomini	弗吉尔·贾科米尼	1	paranames-en-zh
+Almut Eggert	阿尔穆特·埃格特	1	paranames-en-zh
+Satoko Tanaka	田中聪子	1	paranames-en-zh
+Zhao Biyu	趙必諭	1	paranames-en-zh
+Shuxing Chen	陈恕行	1	paranames-en-zh
+Dai Ke	戴克	1	paranames-en-zh
+Daniel I. Linzer	丹尼尔·林策	1	paranames-en-zh
+Guo Lun	郭倫	1	paranames-en-zh
+Mark Sloan	馬克·斯隆	1	paranames-en-zh
+Weyni Mengesha	韦尼·门格沙	1	paranames-en-zh
+Yang Sen	楊森	1	paranames-en-zh
+Jiang Men	江璊	1	paranames-en-zh
+Wilson Fittipaldi Júnior	小威爾遜·菲蒂帕爾迪	1	paranames-en-zh
+Mei Yin	梅隱	1	paranames-en-zh
+Feng F	馮F	1	paranames-en-zh
+Guo Shi	郭氏	1	paranames-en-zh
+Cai Binggong	蔡秉公	1	paranames-en-zh
+Tom Ashley	汤姆·阿什利	1	paranames-en-zh
+Gerald Holtom	格拉德·霍尔顿	1	paranames-en-zh
+Wang Shangxian	王尚賢	1	paranames-en-zh
+Wei Li	魏立	1	paranames-en-zh
+Lluc Oliveras	卢克·奥利弗拉斯	1	paranames-en-zh
+Pang Shi	龐氏	1	paranames-en-zh
+Thomas Rackett	托马斯·拉克特	1	paranames-en-zh
+Ren Binggong	任秉公	1	paranames-en-zh
+Li Yuta	李愈逹	1	paranames-en-zh
+Atsushi Hashimoto	橋本淳	1	paranames-en-zh
+Hiroe Igeta	井桁弘惠	1	paranames-en-zh
+Ye Chunji	葉春及	1	paranames-en-zh
+Lily Kwan	关莉莉	1	paranames-en-zh
+A Honga	阿洪阿	1	paranames-en-zh
+Zhu Bazong	朱拔宗	1	paranames-en-zh
+Xu Zhou	許胄	1	paranames-en-zh
+Xia Jun	夏濬	1	paranames-en-zh
+Shi Weide	施維德	1	paranames-en-zh
+William Douglas‏ O'Connor	威廉·道格拉斯·奧康納	1	paranames-en-zh
+Wang Yanrui	王延瑞	1	paranames-en-zh
+Han Xing	韓杏	1	paranames-en-zh
+Herbert Stothart	赫伯特·史都赫特	1	paranames-en-zh
+Karol Kulisz	卡罗尔·库里什	1	paranames-en-zh
+Yang Guolian	楊國璉	1	paranames-en-zh
+Erzsébet Csajbók	乔伊博克·伊丽莎白	1	paranames-en-zh
+Subhas Chandra Bose	苏巴斯·钱德拉·鲍斯	1	paranames-en-zh
+Lua Blanco	卢瓦纳·布兰科	1	paranames-en-zh
+Namgung Chim	南宮忱	1	paranames-en-zh
+Li Gong	李恭	1	paranames-en-zh
+Zhao Mengyou	趙孟槱	1	paranames-en-zh
+Umberto Zanolini	翁贝托·扎诺利尼	1	paranames-en-zh
+Li Shenbo	李申伯	1	paranames-en-zh
+Tu Shi	屠氏	1	paranames-en-zh
+Gong Shi	龔氏	1	paranames-en-zh
+Fu Xiaolan	傅小兰	1	paranames-en-zh
+Wujixiang	武吉祥	1	paranames-en-zh
+Fazal khaliq	法兹勒·哈克·哈利克亚尔	1	paranames-en-zh
+Mishal Husain	米莎·侯賽因	1	paranames-en-zh
+Alex Kwok	郭浩皇	1	paranames-en-zh
+Hideto Nakane	中根英登	1	paranames-en-zh
+Dmitry Tsyganov	德米特里·齐加诺夫	1	paranames-en-zh
+Wang Weiren	王威仁	1	paranames-en-zh
+Xi Jun	習寯	1	paranames-en-zh
+Georges Limbour	乔治·兰布尔	1	paranames-en-zh
+Qian Xuekong	錢學孔	1	paranames-en-zh
+Lehar Khan	萊哈爾·罕	1	paranames-en-zh
+Semyon Treskunov	谢苗·特列斯库诺夫	1	paranames-en-zh
+Yu Yuan	余淵	1	paranames-en-zh
+Devean George	德文·乔治	1	paranames-en-zh
+Marta Kober	马尔塔·科伯	1	paranames-en-zh
+Marek Galiński	馬雷克·加林斯基	1	paranames-en-zh
+Wu Jiong	吳炯	1	paranames-en-zh
+Zhou Zaijian	周在建	1	paranames-en-zh
+Sterling Price	斯特林·普賴斯	1	paranames-en-zh
+Jamile Samuel	杰米尔·萨穆埃尔	1	paranames-en-zh
+Ron Yeats	榮尼·耶茨	1	paranames-en-zh
+Katina Schubert	卡蒂娜·舒伯特	1	paranames-en-zh
+Ju De	鄒德	1	paranames-en-zh
+Cui Gong	崔恭	1	paranames-en-zh
+Pierre Amoyal	皮耶·阿莫亞	1	paranames-en-zh
+Yu Guanzhe	俞貫哲	1	paranames-en-zh
+Edem Mortotsi	艾德姆·莫爾托齊	1	paranames-en-zh
+Sebastian Gripenberg	塞巴斯蒂安·格里彭贝里	1	paranames-en-zh
+Luis Cordero Crespo	路易斯·科爾德羅·克雷斯波	1	paranames-en-zh
+Yi Yu-won	李裕元	1	paranames-en-zh
+Hironobu Kachō	華頂博信	1	paranames-en-zh
+Qin Shiqi	秦士奇	1	paranames-en-zh
+Robert Hunger-Bühler	罗伯特·亨格-布勒	1	paranames-en-zh
+Chen Tong	陳統	1	paranames-en-zh
+Daniel Goh	吴佩松	1	paranames-en-zh
+Aleksander Jeljaszewicz	亞歷山大·傑爾賈斯朱維奇	1	paranames-en-zh
+Bob Sprout	鮑伯·史普勞特	1	paranames-en-zh
+Charles Martin	查尔斯·马丁	1	paranames-en-zh
+Žana Novaković	扎娜·诺瓦科维奇	1	paranames-en-zh
+Ma Congsi	馬從思	1	paranames-en-zh
+Zhan Si	詹斯	1	paranames-en-zh
+Chen Chucai	陳楚材	1	paranames-en-zh
+Majid Majidi	马吉德·马吉迪	1	paranames-en-zh
+Zhu Youwen	朱友文	1	paranames-en-zh
+Ned Garver	內德·賈佛	1	paranames-en-zh
+Zhu Yun	祝允	1	paranames-en-zh
+John van Lottum	約翰·凡·羅特姆	1	paranames-en-zh
+Han Jian	韓簡	1	paranames-en-zh
+Sun Yiguo	孙宜国	1	paranames-en-zh
+Zhao Shisheng	趙仕昇	1	paranames-en-zh
+Li Lan	李覽	1	paranames-en-zh
+Dai Siwen	戴思溫	1	paranames-en-zh
+Liu Qing	劉卿	1	paranames-en-zh
+Fang Taisun	方泰孫	1	paranames-en-zh
+Zhu Guangxun	朱光訓	1	paranames-en-zh
+Louise of the Netherlands	荷蘭的路易絲公主	1	paranames-en-zh
+Pun Si I	潘詩怡	1	paranames-en-zh
+Zhang Song	章嵩	1	paranames-en-zh
+Jin Rong	金榕	1	paranames-en-zh
+Wang Pin	王聘	1	paranames-en-zh
+Liu Chuntang	劉春堂	1	paranames-en-zh
+Qieliechu	怯烈出	1	paranames-en-zh
+Fernando Martínez-Monje Restoy	費爾南多·馬丁內斯-蒙赫·雷斯托伊	1	paranames-en-zh
+Mathieu Grébille	马蒂厄·格雷比耶	1	paranames-en-zh
+Song Mingke	宋鳴珂	1	paranames-en-zh
+Han Pei	韓霈	1	paranames-en-zh
+John Lee	约翰·李	1	paranames-en-zh
+Ilaria Langasco	伊拉里亚·兰加斯科	1	paranames-en-zh
+Yilantai	依蘭泰	1	paranames-en-zh
+Alfred Braun	阿爾弗雷德·布勞恩	1	paranames-en-zh
+Wang Shubao	汪叔寶	1	paranames-en-zh
+Jin Jiugao	金九臯	1	paranames-en-zh
+Wang Cai	王才	1	paranames-en-zh
+Shen Tao	沈濤	1	paranames-en-zh
+Caryn McClelland	卡琳·麦克莱兰	1	paranames-en-zh
+Zheng Yao	鄭蕘	1	paranames-en-zh
+Denniz Pop	丹尼斯·帕普	1	paranames-en-zh
+Kim Yu-jeong	金柔廷	1	paranames-en-zh
+Iván Fresneda	伊萬·弗雷斯內達	1	paranames-en-zh
+Wang Shida	王士達	1	paranames-en-zh
+Wen Zhang	溫璋	1	paranames-en-zh
+Wu Zhao	吳昭	1	paranames-en-zh
+José del Solar	荷西·德爾·索拉爾	1	paranames-en-zh
+Juan Manuel Villasuso	魏雅蘇索	1	paranames-en-zh
+Xue Huai	薛槐	1	paranames-en-zh
+Li Shanmei	李山眉	1	paranames-en-zh
+Chen Jun	陳筠	1	paranames-en-zh
+Kang Hee-sun	姜羲先	1	paranames-en-zh
+John Shelton	約翰·謝爾頓	1	paranames-en-zh
+Cai Meng	蔡蒙	1	paranames-en-zh
+Zhong Panyun	鍾蟠雲	1	paranames-en-zh
+Yao Chengzu	姚承祖	1	paranames-en-zh
+Darezhan Omirbaev	達赫讓·奧米爾巴耶夫	1	paranames-en-zh
+Sathyan	萨蒂安	1	paranames-en-zh
+Mark Alan Hershkovitz	马克·艾伦·赫什科维茨	1	paranames-en-zh
+Hong Zhou	洪宙	1	paranames-en-zh
+Fiongdon	费英东	1	paranames-en-zh
+Hong Bin	洪斌	1	paranames-en-zh
+Luo Yingfeng	羅應鳳	1	paranames-en-zh
+Fang Meng	坊蒙	1	paranames-en-zh
+Hans Kollhoff	汉斯·科尔霍夫	1	paranames-en-zh
+Mikhail Lashevich	米哈伊爾·拉舍維奇	1	paranames-en-zh
+Zhou Shilian	周式濂	1	paranames-en-zh
+Kazuo Tsuburaya	圓谷一夫	1	paranames-en-zh
+Michel Chauty	米歇尔·绍蒂	1	paranames-en-zh
+Yao Jian	姚堅	1	paranames-en-zh
+Lúcio Lara	盧西奧·拉臘	1	paranames-en-zh
+Troy Collings	特洛伊·柯林斯	1	paranames-en-zh
+Chen Shi	陳氏	1	paranames-en-zh
+Fu Zonggao	傅宗皐	1	paranames-en-zh
+Benjamin Brown	班傑明·布朗	1	paranames-en-zh
+Chris Pond	克里斯·龐德	1	paranames-en-zh
+Alan Rothwell	亞倫·羅斯威爾	1	paranames-en-zh
+Howard Y T Cheng	鄭雨滇	1	paranames-en-zh
+Andrzej Zawada	安德魯·札瓦達	1	paranames-en-zh
+Zhen Chengsi	甄承嗣	1	paranames-en-zh
+Franz Antel	弗兰茨·安特尔	1	paranames-en-zh
+Michael C. Fox	麥可·福克斯	1	paranames-en-zh
+Tokuo Yokota	橫田德男	1	paranames-en-zh
+Matt Servitto	马特·索维托	1	paranames-en-zh
+Pavel Rassomakhin	帕维尔·拉索马欣	1	paranames-en-zh
+Yang Xijing	楊習經	1	paranames-en-zh
+Tan Tongshu	譚同叔	1	paranames-en-zh
+Kim Hyun-soo	金賢洙	1	paranames-en-zh
+Hua Jianji	華洊吉	1	paranames-en-zh
+Bae Do-hwan	白道煥	1	paranames-en-zh
+Abdullah Kassim Hanga	阿卜杜拉·卡西姆·漢加	1	paranames-en-zh
+Gui Le	歸樂	1	paranames-en-zh
+Xu Guangwen	徐光文	1	paranames-en-zh
+Yōichirō Kakizaki	柿橋洋一郎	1	paranames-en-zh
+Guo Chaozong	郭朝宗	1	paranames-en-zh
+Chen Je-cheng	陳瑞振	1	paranames-en-zh
+Charmaine Chew	夏麦尼·周	1	paranames-en-zh
+Douglas Lewis	道格拉斯·刘易斯	1	paranames-en-zh
+Wu Nansheng	吴南生	1	paranames-en-zh
+Zhang Zheng	張政	1	paranames-en-zh
+Chen Qiju	陳其具	1	paranames-en-zh
+Baptiste Pierre Bisson	巴蒂斯特·皮埃尔·比松	1	paranames-en-zh
+David Eby	尹大衛	1	paranames-en-zh
+Zhu Hao	朱昊	1	paranames-en-zh
+Johann Gustav Fischer	约翰·古斯塔夫·菲舍尔	1	paranames-en-zh
+Ashot Taronites	阿肖特·塔罗尼特斯	1	paranames-en-zh
+Chen Yan	陳岩	1	paranames-en-zh
+Muhamad Said Jonit	莫哈末赛益佐尼	1	paranames-en-zh
+Shen Zifu	沈子桴	1	paranames-en-zh
+Samuel Noah Kramer	塞缪尔·诺亚·克莱默	1	paranames-en-zh
+Paul Chelimo	保罗·切里莫	1	paranames-en-zh
+Keigo Hōgetsu	寶月圭吾	1	paranames-en-zh
+Chen Shen	陳侁	1	paranames-en-zh
+Zhao Jia	趙檟	1	paranames-en-zh
+Wu Zhongfu	吳中甫	1	paranames-en-zh
+Gao Jing	高涇	1	paranames-en-zh
+Au Yeung Wai Sum	歐陽慧心	1	paranames-en-zh
+Albert Mahuzier	阿爾伯特·馬烏齊爾	1	paranames-en-zh
+James A. Burden II	詹姆斯·博登	1	paranames-en-zh
+Liu Yinggang	劉應缸	1	paranames-en-zh
+Faruk Can Genç	法鲁克·哈吉贝吉奇	0	paranames-en-zh-neg
+Il Sakong	河日成	0	paranames-en-zh-neg
+Tsering Thar	次仁琼达	0	paranames-en-zh-neg
+Kiwi Feng	张馨予	0	paranames-en-zh-neg
+Burchard von Hornhausen	沃爾姆斯之布爾查德	0	paranames-en-zh-neg
+Michie Terada	喜多道枝	0	paranames-en-zh-neg
+Eamon Courtenay	埃蒙·基桑	0	paranames-en-zh-neg
+Yoram Kaniuk	约勒姆·哈拉布	0	paranames-en-zh-neg
+Mireia Gubianas	米瑞娅·格雷尔·维万科斯	0	paranames-en-zh-neg
+Toncho Tokmakchiev	安东尼奥·纳瓦	0	paranames-en-zh-neg
+Murad Arif	穆拉德·阿布·穆拉德	0	paranames-en-zh-neg
+Elias Mahmoudi	艾理斯·寇迪	0	paranames-en-zh-neg
+Elsa Daniel	埃尔莎·哈伦斯坦姆	0	paranames-en-zh-neg
+Rikard Nordstrøm	里卡德·伯格	0	paranames-en-zh-neg
+Vitold Kreyer	维托尔德·采拉斯基	0	paranames-en-zh-neg
+Ozaki Hozuma	尾崎惠	0	paranames-en-zh-neg
+Tarmo Kink	塔尔莫·皮拉普	0	paranames-en-zh-neg
+Sydne Rome	瑟顿·迈克勒	0	paranames-en-zh-neg
+Honoka Ishibashi	折原穗香	0	paranames-en-zh-neg
+Bea Meulman	碧·施密特	0	paranames-en-zh-neg
+Natalio D. Wheatley	纳塔利奥·洛伦佐·波奎特	0	paranames-en-zh-neg
+Luming	段路明	0	paranames-en-zh-neg
+Hilton Brown	希爾頓·麥克雷	0	paranames-en-zh-neg
+Turan	图兰·杰伊兰	0	paranames-en-zh-neg
+Zai Zaichang	宰予	0	paranames-en-zh-neg
+Oceana	吳品潔	0	paranames-en-zh-neg
+Cecelia Specht	西西莉雅·霍蘭德	0	paranames-en-zh-neg
+Hilarion	基輔的希拉利昂	0	paranames-en-zh-neg
+Kazuma Ogaeri	和马	0	paranames-en-zh-neg
+Michinori Shiraishi	墔郷通範	0	paranames-en-zh-neg
+Georgia Jones	乔治娅·古	0	paranames-en-zh-neg
+Askia Booker	阿斯基亚·穆罕默德一世	0	paranames-en-zh-neg
+Yonekichi Akai	白波瀨米吉	0	paranames-en-zh-neg
+Ealdwulf	埃爾德伍夫	0	paranames-en-zh-neg
+Petru Gherghel	彼特鲁·埃纳凯	0	paranames-en-zh-neg
+Smbat VI Bagratuni	斯姆巴德七世·巴格拉图尼	0	paranames-en-zh-neg
+Xuan Yuyan	宣綸	0	paranames-en-zh-neg
+Fakhri Khorvash	法赫利·帕夏	0	paranames-en-zh-neg
+Heraclius Constantine	希拉克略	0	paranames-en-zh-neg
+Tekin Okan Düzgün	特金·阿勒布伦	0	paranames-en-zh-neg
+Bent Larsen	本特·汉森	0	paranames-en-zh-neg
+Kimberly Huie	金伯利·希爾	0	paranames-en-zh-neg
+Maju Ozawa	真珠·特林达德	0	paranames-en-zh-neg
+Tohru Watanabe	成廣通	0	paranames-en-zh-neg
+Risei Kitazume	嘉納履正	0	paranames-en-zh-neg
+Ike Delock	艾克·恩瓦拉	0	paranames-en-zh-neg
+Zhores Medvedev	若雷斯·阿尔费罗夫	0	paranames-en-zh-neg
+Hasdrubal Gisco	迦太基的哈斯德鲁巴一世	0	paranames-en-zh-neg
+Takio Yamada	黃田多喜夫	0	paranames-en-zh-neg
+Shaharuddin Ismail	萨拉胡汀.阿都拉	0	paranames-en-zh-neg
+Margeaux Reign	玛歌	0	paranames-en-zh-neg
+Louisa Horton	路易莎·李普曼	0	paranames-en-zh-neg
+Esma Daniel	埃斯瑪蘇丹	0	paranames-en-zh-neg
+Qing Lun	马庆	0	paranames-en-zh-neg
+Tōichirō Araki	托伊奇罗·纳鲁什马	0	paranames-en-zh-neg
+Hryhoriy Nemyria	赫雷霍里·舍克斯	0	paranames-en-zh-neg
+Anette Olzon	柯樂眉	0	paranames-en-zh-neg
+Winka Wulff	陳泳伽	0	paranames-en-zh-neg
+Dorka Gáspárfalvi	朵卡·格莱拉斯	0	paranames-en-zh-neg
+Edvin Ryding	埃德文·布雷德费尔特	0	paranames-en-zh-neg
+Kaname Ōtori	原田要	0	paranames-en-zh-neg
+Paige Monaghan	佩奇·戈登	0	paranames-en-zh-neg
+Bamba Ould Daramane	班巴·福尔	0	paranames-en-zh-neg
+Qiuyuan Huang	叶秋原	0	paranames-en-zh-neg
+Sussan Deyhim	苏珊·李	0	paranames-en-zh-neg
+Joselito Vaca	何塞利托·贝拉斯克斯	0	paranames-en-zh-neg
+Qusay Munir	库赛·苏海勒	0	paranames-en-zh-neg
+Maximos V Hakim	马克西莫斯·穆穆里斯	0	paranames-en-zh-neg
+Sandrine Testud	桑德琳·贝扎曼尼法里	0	paranames-en-zh-neg
+Zhuge Jialiang	諸葛汝賢	0	paranames-en-zh-neg
+Reiko Ike	小早川怜子	0	paranames-en-zh-neg
+Nirmal Chandra Sinha	尼马尔·辛格·哈尔萨	0	paranames-en-zh-neg
+Shunzo Ono	鈴木俊三	0	paranames-en-zh-neg
+Wakamatsu Shizuko	永野若松	0	paranames-en-zh-neg
+Ladji Doucouré	拉德吉·凯塔	0	paranames-en-zh-neg
+Salam al-Zaubai	薩拉姆·沙克	0	paranames-en-zh-neg
+Pie Traynor	裴及	0	paranames-en-zh-neg
+Valtteri Moren	瓦尔泰里·菲尔普拉	0	paranames-en-zh-neg
+Lafayette Mendel	拉斐特‧普爾	0	paranames-en-zh-neg
+Iskra Donova	伊斯克拉·布拉约维奇	0	paranames-en-zh-neg
+Catrin Hedström	卡特琳·阿韦尔	0	paranames-en-zh-neg
+Harpocration	阿爾戈斯的哈耳珀克剌提翁	0	paranames-en-zh-neg
+Asanga	阿桑加·阿贝亚古纳塞克拉	0	paranames-en-zh-neg
+Ewart Horsfall	埃沃特·歐克肖特	0	paranames-en-zh-neg
+Alpha Lai	迪翁庫	0	paranames-en-zh-neg
+Okada Gyokuzan	岡田以藏	0	paranames-en-zh-neg
+Erhard Dietl	艾哈德·克罗格	0	paranames-en-zh-neg
+Jos Dom	乔斯·斯泰灵	0	paranames-en-zh-neg
+Amélie Kretz	艾米莉·伊库兹韦·法索里尼	0	paranames-en-zh-neg
+Hiromitsu Takeda	北山宏光	0	paranames-en-zh-neg
+Paloma	帕洛玛·马尔克斯	0	paranames-en-zh-neg
+Jacques-François Ochard	雅克-弗朗索瓦·梅努	0	paranames-en-zh-neg
+Hulinchi	虎林赤	0	paranames-en-zh-neg
+Kouki Watanabe	山下幸輝	0	paranames-en-zh-neg
+Manouchehr Khosrodad	马努切赫·甘吉	0	paranames-en-zh-neg
+Charalampos Mavrias	哈拉兰博斯·马克里迪斯	0	paranames-en-zh-neg
+Mikan Asakura	樞木美栞	0	paranames-en-zh-neg
+Vitaliano Borromeo	V. 勃朗卡蒂	0	paranames-en-zh-neg
+Naia Kete	奈亚·古兹	0	paranames-en-zh-neg
+Titien Wattimena	陳奇相	0	paranames-en-zh-neg
+Bobby Murphy	鲍比·拉什	0	paranames-en-zh-neg
+Richardis Catherine of Mecklenburg	蘇拉費爾德高的理查達	0	paranames-en-zh-neg
+Iñaki Ariztimuño	伊纳基·加比隆多	0	paranames-en-zh-neg
+Jože Privšek	約熱·普奇尼克	0	paranames-en-zh-neg
+Ezzat el Kamhawi	埃扎特·埃尔·阿莱利	0	paranames-en-zh-neg
+Aleksandra Zamachowska	亚历山德·拉雷本克	0	paranames-en-zh-neg
+Meli Derenalagi	梅丽·G	0	paranames-en-zh-neg
+Delroy Grant	德尔罗伊·林多	0	paranames-en-zh-neg
+Cal Dodd	卡爾·伯爾德	0	paranames-en-zh-neg
+Devon	戴文·羅德里奎	0	paranames-en-zh-neg
+Melitta Sollmann	梅琳達·本茨	0	paranames-en-zh-neg
+Hanson W. Baldwin	漢森（摔角手）	0	paranames-en-zh-neg
+Éliane Radigue	埃利亚内·加格农	0	paranames-en-zh-neg
+Fengshen Yimian	丰绅殷德	0	paranames-en-zh-neg
+Ildebrando D'Arcangelo	伊尔代布兰多·皮泽蒂	0	paranames-en-zh-neg
+Newton Diehl Baker Jr.	刘尧昌	0	paranames-en-zh-neg
+Kentarou Tomita	兼崎健太郎	0	paranames-en-zh-neg
+Kishore Jena	马凯硕	0	paranames-en-zh-neg
+One L. Goh	鄭帝元	0	paranames-en-zh-neg
+Bahar Pars	巴哈尔·沙欣	0	paranames-en-zh-neg
+Shigesato Itoi	相川茂鄉	0	paranames-en-zh-neg
+Marcello Pagliero	馬塞洛·法爾澤拉諾	0	paranames-en-zh-neg
+Mohamad Adnan Robert	莫哈末查基	0	paranames-en-zh-neg
+Chunyu Cai	淳于式	0	paranames-en-zh-neg
+Dinda Hauw	丁達·奇拉納	0	paranames-en-zh-neg
+Shoko Ota	称光	0	paranames-en-zh-neg
+Kiril Donchev	基里尔·多穆斯希耶夫	0	paranames-en-zh-neg
+Sharmila Farooqi	莎米拉·泰戈尔	0	paranames-en-zh-neg
+Utsumi Tadakatsu	內海二郎	0	paranames-en-zh-neg
+Jonathan Yeo	乔纳森·克拉文	0	paranames-en-zh-neg
+Rossana Maiorca	萝莎娜·圣·胡安	0	paranames-en-zh-neg
+Ernest-Eugène Hiolle	歐內斯特-歐仁·尼可	0	paranames-en-zh-neg
+Tun Baga Tarkan	敦墨太修	0	paranames-en-zh-neg
+Ariwara no Yukihira	在原業平	0	paranames-en-zh-neg
+Wanbao	關保	0	paranames-en-zh-neg
+Loryn Locklin	洛林·努内	0	paranames-en-zh-neg
+Esha Gupta	伊莎·狄爾	0	paranames-en-zh-neg
+Bal Gangadhar Tilak	巴爾·撒克里	0	paranames-en-zh-neg
+Mauritz von Wiktorin	毛里茨·霍坎·比约恩斯特伦-斯特凡松	0	paranames-en-zh-neg
+Wanda Landowska	翁万达	0	paranames-en-zh-neg
+Charle Cournoyer	夏尔	0	paranames-en-zh-neg
+Gerhard Olschewski	格哈德·沃尔纳	0	paranames-en-zh-neg
+Faizal Tahir	法依扎尔·塔利布	0	paranames-en-zh-neg
+Deidre Goodwin	迪德丽·豪尔	0	paranames-en-zh-neg
+Javad Mansouri	賈瓦德·科洛基	0	paranames-en-zh-neg
+Akiyoshi Nakao	吉田昭義	0	paranames-en-zh-neg
+Manoj Juneja	马诺·乔希	0	paranames-en-zh-neg
+Dor Turgeman	多爾·佩雷茨	0	paranames-en-zh-neg
+Hina Aoki	七海雏	0	paranames-en-zh-neg
+Mia Tyler	櫻井海亞	0	paranames-en-zh-neg
+Khyungpo Neljor	琼波·邦色	0	paranames-en-zh-neg
+Park In-young	朴景澈	0	paranames-en-zh-neg
+Horia Moculescu	霍里亚·洛维内斯库	0	paranames-en-zh-neg
+Keelin Woodell	基林·温特斯	0	paranames-en-zh-neg
+Candis Nergaard	坎蒂絲·凱恩	0	paranames-en-zh-neg
+Vilhelms Purvītis	威廉·蒙特斯	0	paranames-en-zh-neg
+Ren Yue	任連升	0	paranames-en-zh-neg
+Dami Im	多美	0	paranames-en-zh-neg
+Melinda Clarke	梅琳达·杜利特尔	0	paranames-en-zh-neg
+Wei-Min Ding	郝慰民	0	paranames-en-zh-neg
+Chuy García	丘伊·布拉沃	0	paranames-en-zh-neg
+Minglitiemuer	明里帖木兒	0	paranames-en-zh-neg
+Orel Mangala	郝西瑟	0	paranames-en-zh-neg
+James Benjamin Lampert	占士·佐敦	0	paranames-en-zh-neg
+Ryne Douglas Pearson	萊恩˙桑柏格	0	paranames-en-zh-neg
+Aurélie Filippetti	奥雷莉·特鲁韦	0	paranames-en-zh-neg
+Baoshan	寶善	0	paranames-en-zh-neg
+Nini Lai	妮妮·巴克·克里斯坦森	0	paranames-en-zh-neg
+Yabahu	押八忽	0	paranames-en-zh-neg
+Lauriane Genest	洛里亚娜·鲁若	0	paranames-en-zh-neg
+Hamish McDonald	哈米許·布雷克	0	paranames-en-zh-neg
+Atheena	阿瑟尔纳·弗里泽尔	0	paranames-en-zh-neg
+Shahla Lahiji	沙赫拉·阿雅玛	0	paranames-en-zh-neg
+Indian Koga	印第安·喬	0	paranames-en-zh-neg
+Guangsheng Zhou	廖光生	0	paranames-en-zh-neg
+Toma Vučić-Perišić	井上东万	0	paranames-en-zh-neg
+Mingsheng Wang	巢鳴盛	0	paranames-en-zh-neg
+Gau Show-lien	高昌湧	0	paranames-en-zh-neg
+Enid MacRobbie	伊妮·布來敦	0	paranames-en-zh-neg
+Flora Drummond	弗洛拉·佩恩·惠特尼	0	paranames-en-zh-neg
+Danilo Rinaldi	丹尼路·巴保沙	0	paranames-en-zh-neg
+Jules-Émile Péan	维夏菲尔特	0	paranames-en-zh-neg
+Gabby DeLoof	楊芷瑩	0	paranames-en-zh-neg
+Lodewijk Meyer	路德维克·范·登·伯格	0	paranames-en-zh-neg
+Shim Jae-kwon	沈錫希	0	paranames-en-zh-neg
+Putra Nababan	普特拉·伊卡·罗马	0	paranames-en-zh-neg
+Taishi Narikuni	太史慈	0	paranames-en-zh-neg
+Sebastiaan Westerweel	塞巴斯蒂安·沃斯邱林	0	paranames-en-zh-neg
+Husayn ibn Ali	海珊·貝格·拉爾赫·薩馬魯	0	paranames-en-zh-neg
+Teya Dora	泰亚·威德	0	paranames-en-zh-neg
+Grigoris Varfis	聖格里戈里	0	paranames-en-zh-neg
+Lize Marke	利茲·科普	0	paranames-en-zh-neg
+Weinan Xu	鄂维南	0	paranames-en-zh-neg
+Ego Plum	伊戈·米基塔斯	0	paranames-en-zh-neg
+Tōya Tachihara	托亚·约翰逊	0	paranames-en-zh-neg
+Arved Pittner	亞維·德其	0	paranames-en-zh-neg
+Fine Belger	菲内·森德尔	0	paranames-en-zh-neg
+Deb Roy	黛布·海蘭德	0	paranames-en-zh-neg
+Sergio Salgado	塞尔焦·马雷利	0	paranames-en-zh-neg
+Namutu	那木圖	0	paranames-en-zh-neg
+Givi Nodia	吉维·贾瓦希什维利	0	paranames-en-zh-neg
+Kanna Mori	中村環奈	0	paranames-en-zh-neg
+Raisa O'Farrill	蕾莎·阿坦巴耶娃	0	paranames-en-zh-neg
+Tsuda Sanzō	津田眞道	0	paranames-en-zh-neg
+Siniša Mihajlović	錫尼薩·馬里	0	paranames-en-zh-neg
+Manika Batra	玛尼卡·奥克西尔	0	paranames-en-zh-neg
+Ashton Sims	艾許頓·桑德斯	0	paranames-en-zh-neg
+Jaques Wagner	雅克·勒·诺瓦	0	paranames-en-zh-neg
+Tani Lynn Fujimoto	谷豐	0	paranames-en-zh-neg
+Satomura Shōshitsu	里村昌琢	0	paranames-en-zh-neg
+Changying	常英	0	paranames-en-zh-neg
+Fou Ts'ong	否必亨	0	paranames-en-zh-neg
+Mathias Lerch	馬蒂亞斯·沙赫特	0	paranames-en-zh-neg
+Cang Shilang	滄溟女子	0	paranames-en-zh-neg
+Zohra Bensalem	Z. 本斯姆拉	0	paranames-en-zh-neg
+Deena Kastor	蒂娜·溫斯坦	0	paranames-en-zh-neg
+Volkan Babacan	沃尓坎·德米雷尔	0	paranames-en-zh-neg
+Arja Tiainen	阿尔娅·尤沃宁	0	paranames-en-zh-neg
+Alassane Ouattara	阿拉薩內·佩雷阿	0	paranames-en-zh-neg
+Deyan	德扬·东科夫	0	paranames-en-zh-neg
+Kiya Buzrug-Ummid	基亚	0	paranames-en-zh-neg
+Iria Gómez Concheiro	星咲伊里亞	0	paranames-en-zh-neg
+Abdoulay Konko	阿卜杜拉萊·迪亞比	0	paranames-en-zh-neg
+Zuzanna Ginczanka	苏珊娜·加利亚	0	paranames-en-zh-neg
+Telmo Castanheira	提尔莫·舍罗	0	paranames-en-zh-neg
+Morooka Ippa	師師岡	0	paranames-en-zh-neg
+Reishi-naishinnō	令子內親王	0	paranames-en-zh-neg
+Aimée Danis	艾米·宋	0	paranames-en-zh-neg
+Oldřich Kučera	奥尔德日赫·冯德拉谢克	0	paranames-en-zh-neg
+Shyla Jennings	夏拉·史戴爾茲	0	paranames-en-zh-neg
+Clearchus of Sparta	索里的克里楚斯	0	paranames-en-zh-neg
+Sawa Ishige	澤簡德	0	paranames-en-zh-neg
+Kristoffer Joner	克里斯托夫·皮特森	0	paranames-en-zh-neg
+Harold Robert Millar	哈羅德·雅各布·史密斯	0	paranames-en-zh-neg
+Chey Chestha III	切·鄧奇利	0	paranames-en-zh-neg
+Makabe Chōken	马卡贝·甘尼	0	paranames-en-zh-neg
+Usman Garuba	乌斯曼·尤苏波夫	0	paranames-en-zh-neg
+Yori Matsumoto	斋藤与里	0	paranames-en-zh-neg
+Jeffery Dench	黎學勤	0	paranames-en-zh-neg
+Laly	拉里·戈祖埃塔	0	paranames-en-zh-neg
+Baisihulang	拜斯呼朗	0	paranames-en-zh-neg
+Jeane Kirkpatrick	珍妮·狄克遜	0	paranames-en-zh-neg
+Hironari Iwamoto	宫沢弘成	0	paranames-en-zh-neg
+Titouan Laporte	蒂图安·德罗盖	0	paranames-en-zh-neg
+Jyothi Raj	喬蒂·蘇雷卡·文納姆	0	paranames-en-zh-neg
+Vesna Čitaković	维斯娜·乌洛维奇	0	paranames-en-zh-neg
+Yiqun	恽逸群	0	paranames-en-zh-neg
+Kae Onuki	凯·库德	0	paranames-en-zh-neg
+Yilete Xizhen	伊勒忒樂善	0	paranames-en-zh-neg
+Pua Magasiva	潘健成	0	paranames-en-zh-neg
+Léopoldine Serre	利奧波汀·馮·斯滕貝格	0	paranames-en-zh-neg
+Virginio Rognoni	维尔吉尼奥·皮扎利	0	paranames-en-zh-neg
+Hardi Volmer	哈爾迪	0	paranames-en-zh-neg
+Feimo Wenfu	費莫英綬	0	paranames-en-zh-neg
+Asle Toje	阿斯勒·瓦顿	0	paranames-en-zh-neg
+Miwa Nishikawa	三輪幸助	0	paranames-en-zh-neg
+Koyata Iwasaki	鳥尾小彌太	0	paranames-en-zh-neg
+Wifredo A. Ferrer	林飞龙	0	paranames-en-zh-neg
+Chun Sung-ho	全敬煥	0	paranames-en-zh-neg
+Dídac Vilà	迪达克·波诺	0	paranames-en-zh-neg
+Shoshana S. Chatfield	绍沙纳·内塔尼亚胡	0	paranames-en-zh-neg
+Quinn Cook	奎因·達菲	0	paranames-en-zh-neg
+YaYa Gosselin	張綺恩	0	paranames-en-zh-neg
+Bahador Foladi	巴哈多爾·阿布迪	0	paranames-en-zh-neg
+Pasang Lhamu Sherpa	巴桑·拉姆·夏尔巴·秋田	0	paranames-en-zh-neg
+Bayezid II	巴耶塞特·奧斯曼	0	paranames-en-zh-neg
+Lyric McHenry	利丽克·罗斯	0	paranames-en-zh-neg
+Mirco Bergamasco	莫可•巴達西	0	paranames-en-zh-neg
+Hisui Haza	杉浦非水	0	paranames-en-zh-neg
+Milan Kuchynka	米兰·阿列克西奇	0	paranames-en-zh-neg
+Wukuli Jingwendai	吳庫禮	0	paranames-en-zh-neg
+Higinio Marín Escavy	伊吉諾·貝萊斯	0	paranames-en-zh-neg
+Ueda Akinari	上田重安	0	paranames-en-zh-neg
+Matthieu Lo Ying Ping	马修·安德罗迪亚斯	0	paranames-en-zh-neg
+Guilherme Boulos	吉列尔梅·巴拉	0	paranames-en-zh-neg
+Yeena Salas	耶娜·宋	0	paranames-en-zh-neg
+Louis-Étienne de Thouvenin	路易-艾蒂安·阿塞尔	0	paranames-en-zh-neg
+Lucho Velasco	路易斯·冈萨雷斯	0	paranames-en-zh-neg
+Deric Longden	溫兆倫	0	paranames-en-zh-neg
+Hidenori Inōe	井佐英德	0	paranames-en-zh-neg
+Arnett E. Girardeau	阿奈特·摩尔特里	0	paranames-en-zh-neg
+Norika Sefa	藤原紀香	0	paranames-en-zh-neg
+Chester Moore Hall	切斯特·霍姆斯·阿爾德里奇	0	paranames-en-zh-neg
+Fumiya Nishiguchi	佐藤文也	0	paranames-en-zh-neg
+Asun Ayllón	阿松·马瓦尔迪	0	paranames-en-zh-neg
+Vedad Radonja	韦达德·伊比舍维奇	0	paranames-en-zh-neg
+Hal Lieberman	哈尔·哈金斯	0	paranames-en-zh-neg
+Brunello Spinelli	布魯內洛·隆迪	0	paranames-en-zh-neg
+Shy FX	夏依·皮尔格林	0	paranames-en-zh-neg
+Akiharu Ishii	尾崎彰春	0	paranames-en-zh-neg
+Thorstein Johansen	索尔斯坦·哈拉格·希奥特达尔	0	paranames-en-zh-neg
+Meryem Can	玛丽娅·埃尔索兹	0	paranames-en-zh-neg
+Dajana Butulija	達傑娜·卡希兒	0	paranames-en-zh-neg
+Koos Maasdijk	科奥斯·罗茨	0	paranames-en-zh-neg
+Aviv Nevo	阿维夫·科斯洛夫	0	paranames-en-zh-neg
+Mariko Tsutsui	向井真理子	0	paranames-en-zh-neg
+Amato	阿马托·法拉利	0	paranames-en-zh-neg
+Nomura Yasushi	野村信次	0	paranames-en-zh-neg
+Jukka-Pekka Palo	尤卡-佩卡·萨拉斯泰	0	paranames-en-zh-neg
+Zsuzsanna Kézi	苏珊娜·海纳	0	paranames-en-zh-neg
+Kuyala Foluntai	啟秀	0	paranames-en-zh-neg
+Mahiro Aine	前田真宏	0	paranames-en-zh-neg
+Huxihali Bolin	瑚錫哈哩特克什布	0	paranames-en-zh-neg
+Rotem Sela	罗特姆·沙米尔	0	paranames-en-zh-neg
+Hawise, Duchess of Brittany	諾曼第的哈瓦絲	0	paranames-en-zh-neg
+Linji Yixuan	麟吉	0	paranames-en-zh-neg
+Norris Cole	诺里斯·科尔曼	0	paranames-en-zh-neg
+Lorgio Álvarez	洛治奧·巴卡	0	paranames-en-zh-neg
+Margarethe Schreinemakers	玛格丽特·冯·埃肯布雷歇尔	0	paranames-en-zh-neg
+Ching-Ping Wang	汪正平	0	paranames-en-zh-neg
+Kinko Koseki	林金子	0	paranames-en-zh-neg
+Lovemore Moyo	洛夫莫爾·馬杜庫	0	paranames-en-zh-neg
+Domas Cesevičius	多馬斯·考那斯	0	paranames-en-zh-neg
+Edwin R. Fellows	艾德溫·豪斯頓	0	paranames-en-zh-neg
+Aren Kuri	阿伦·汉森	0	paranames-en-zh-neg
+Shengzhong Lin	慕生忠	0	paranames-en-zh-neg
+Geeta Kapur	格塔·菲盖特	0	paranames-en-zh-neg
+Jean-Bertrand Aristide	让-贝特朗·巴雷尔	0	paranames-en-zh-neg
+Mink	明克·斯托爾	0	paranames-en-zh-neg
+Toshima Kagemura	豐島清元	0	paranames-en-zh-neg
+Gia Milinovich	林苑	0	paranames-en-zh-neg
+Abdiel Colberg	艾羅約	0	paranames-en-zh-neg
+Memo Rojas	梅莫·多伦特	0	paranames-en-zh-neg
+Jun-Feng Guo	孙俊峰	0	paranames-en-zh-neg
+Sid Wayne	希德尼·西恩伯格	0	paranames-en-zh-neg
+Yamaoka Tesshū	山冈光太郎	0	paranames-en-zh-neg
+Oğuz Atay	奥古兹·切丁	0	paranames-en-zh-neg
+Jaber I Al-Sabah	贾比尔·艾哈迈德·萨巴赫	0	paranames-en-zh-neg
+Balša Koprivica	巴尔沙二世	0	paranames-en-zh-neg
+Cheng Shi	程某	0	paranames-en-zh-neg
+Cássio Reis	卡斯奧·捷西斯	0	paranames-en-zh-neg
+Naoko Iyori	渡邊直子	0	paranames-en-zh-neg
+Takao Kin	矢口高雄	0	paranames-en-zh-neg
+Mico Olmos	米乔·德拉古蒂诺维奇	0	paranames-en-zh-neg
+Murray Ball	穆雷·華萊士	0	paranames-en-zh-neg
+Ondrej Duda	翁德雷·克拉尔	0	paranames-en-zh-neg
+Yanling	殷艳玲	0	paranames-en-zh-neg
+Homi K. Bhabha	霍米·塞特納	0	paranames-en-zh-neg
+Taye Diggs	塔耶·塔伊沃	0	paranames-en-zh-neg
+Tamerlan Thorell	塔梅爾蘭·巴沙耶夫	0	paranames-en-zh-neg
+Denys Stoyan	杰尼斯·什列加	0	paranames-en-zh-neg
+Kunihisa Honda	杉島邦久	0	paranames-en-zh-neg
+Dej Loaf	德·沙尼翁	0	paranames-en-zh-neg
+Florence Parly	弗洛伦斯·阿博克	0	paranames-en-zh-neg
+Namiki Shōzō I	並木千柳	0	paranames-en-zh-neg
+Margitta Pufe	玛吉塔·古梅尔	0	paranames-en-zh-neg
+Channing H. Cox	查宁·塔图姆	0	paranames-en-zh-neg
+Nam Nguyen	南在俊	0	paranames-en-zh-neg
+Billboard	告示牌	0	paranames-en-zh-neg
+Nik Ranieri	尼克·诺夫森托	0	paranames-en-zh-neg
+Sadamu Komachi	橫川定	0	paranames-en-zh-neg
+Shiraishi Nagatada	白石夏美	0	paranames-en-zh-neg
+Ninni Spone	安东尼奥·布鲁斯凯塔	0	paranames-en-zh-neg
+Ramiro III of León	丹尼尔·法哈多·明古茲	0	paranames-en-zh-neg
+Megumu Tsuji	吉田萌	0	paranames-en-zh-neg
+Tijjani Muhammad-Bande	蒂賈尼·萊金德斯	0	paranames-en-zh-neg
+C. S. Forester	C·L·弗蘭克林	0	paranames-en-zh-neg
+Costin Lazăr	科斯丁·坎比尔	0	paranames-en-zh-neg
+Manius Valerius Maximus Messalla	马尼乌斯·库里乌斯·登塔图斯	0	paranames-en-zh-neg
+Juliane Engelmann	朱莉安·菲施	0	paranames-en-zh-neg
+Ania Marson	安妮亚·金斯基	0	paranames-en-zh-neg
+Donn Tatum	唐·坎伯恩	0	paranames-en-zh-neg
+Sy Smith	賽·岡伯格	0	paranames-en-zh-neg
+Zeph E. Daniel	泽·埃利斯	0	paranames-en-zh-neg
+Ptolemy	托勒密五世	0	paranames-en-zh-neg
+Tricia Penrose	特里西婭·尼克松·考克斯	0	paranames-en-zh-neg
+Slade Gorton	斯萊德·布羅克曼	0	paranames-en-zh-neg
+Liz Cackowski	麗姿·克萊本服裝公司	0	paranames-en-zh-neg
+Marvin Ducksch	馬文·貝格拉斯	0	paranames-en-zh-neg
+Ezel Doruk	埃泽尔·阿凯	0	paranames-en-zh-neg
+Nyaung-U Hpi	良宇修羅漢	0	paranames-en-zh-neg
+Ratna Pathak	勒娜·阿斯馬拉	0	paranames-en-zh-neg
+Baurzhan Islamkhan	鮑爾贊·穆罕默德·扎諾夫	0	paranames-en-zh-neg
+Vijayabahu IV of Dambadeniya	維闍耶巴忽三世	0	paranames-en-zh-neg
+Aryeh Gelblum	阿瑞耶·诺曼彻纳	0	paranames-en-zh-neg
+Margery Fry	瑪潔麗·威爾遜	0	paranames-en-zh-neg
+Ong Chong Chew	邕聖祐	0	paranames-en-zh-neg
+Lhamo Tsering	拉姆	0	paranames-en-zh-neg
+Lorna McDonald	罗娜·雷弗	0	paranames-en-zh-neg
+Tymoteusz Puchacz	蒂蒙图斯·卡波维兹	0	paranames-en-zh-neg
+Meret Oppenheim	瑪瑞·貝克	0	paranames-en-zh-neg
+Gunner Wright	贡沃尔·伯克哈特	0	paranames-en-zh-neg
+Devaki	德瓦基·克里希南	0	paranames-en-zh-neg
+Ermes Flavio de Bonis	厄尔梅斯·穆奇内利	0	paranames-en-zh-neg
+Vasıf Çınar	拉斯·布莱克伍德	0	paranames-en-zh-neg
+Thorfinn the Mighty	索芬•卡爾瑟夫尼	0	paranames-en-zh-neg
+Yane Marques	扬埃·桑丹斯基	0	paranames-en-zh-neg
+Chigan Gong	赤干	0	paranames-en-zh-neg
+Miyabi Akita	米亚比·塔泰什	0	paranames-en-zh-neg
+Seigi Ozeki	田中正義	0	paranames-en-zh-neg
+Cardinal Mazarin	洛汗枢机	0	paranames-en-zh-neg
+Heidi Shyu	海蒂·莫尔	0	paranames-en-zh-neg
+Barnaba Oriani	巴纳巴·马里亚尔·本杰明	0	paranames-en-zh-neg
+Junpei Morishita	高木淳平	0	paranames-en-zh-neg
+Yoo Il	庾龍源	0	paranames-en-zh-neg
+Issy Van Randwyck	黄洁仪	0	paranames-en-zh-neg
+Royce Johnson	羅伊斯·里頓	0	paranames-en-zh-neg
+Xiangkui Yang	祥奎	0	paranames-en-zh-neg
+Maša Lizdek	中山雅	0	paranames-en-zh-neg
+Manfred Engelmann	曼弗雷德·格拉赫	0	paranames-en-zh-neg
+Ilan Ronen	伊兰·克里斯费尔德	0	paranames-en-zh-neg
+Like Nastya	李珂景	0	paranames-en-zh-neg
+Burnet R. Maybank	小·伯尼特·R·馬班克	0	paranames-en-zh-neg
+Anka Zink	安卡·穆爾斯坦	0	paranames-en-zh-neg
+Takatsugu Wakabayashi	城岛高次	0	paranames-en-zh-neg
+Alexsandro Ribeiro da Silva	阿莱克斯桑德罗	0	paranames-en-zh-neg
+Teona Dolnikova	特奥娜·斯特鲁加尔·米特威斯卡	0	paranames-en-zh-neg
+Resi Stiegler	雷希·莱纳	0	paranames-en-zh-neg
+Modesto Méndez	莫德斯托·桑多瓦尔	0	paranames-en-zh-neg
+Bagoas	巴勾鄂斯	0	paranames-en-zh-neg
+Pompeia Plotina	庞贝亚·玛格纳	0	paranames-en-zh-neg
+Bakhtiyar Artayev	巴赫蒂亚尔·杜伊索贝科夫	0	paranames-en-zh-neg
+Rouven Essig	魯文·扎特爾邁爾	0	paranames-en-zh-neg
+Espen Skjønberg	亞斯本	0	paranames-en-zh-neg
+Qian Shi	錢愷	0	paranames-en-zh-neg
+NAKAJI Norio	安井仲治	0	paranames-en-zh-neg
+Eustratius of Nicaea	尤斯特拉提乌斯	0	paranames-en-zh-neg
+Enikő Mihalik	鲍劳巴什·埃妮克	0	paranames-en-zh-neg
+Kelzang Gyatso	土觀·格桑丹曲尼瑪	0	paranames-en-zh-neg
+Cadmus M. Wilcox	陳子樂	0	paranames-en-zh-neg
+Zoltán Béres	蘇坦·高華斯	0	paranames-en-zh-neg
+Hakim Ali Zardari	薩迪·哈伊姆	0	paranames-en-zh-neg
+Nhan Khoái	颜福榮	0	paranames-en-zh-neg
+Josselin Siassia	约瑟林·拜拉盖特	0	paranames-en-zh-neg
+Lebo M.	萊博·莫蒂巴	0	paranames-en-zh-neg
+Marceli Godlewski	马赛利·斯特鲁申斯基	0	paranames-en-zh-neg
+Arashi Tokusaburō VI	森友岚士	0	paranames-en-zh-neg
+Kōshin Okuyama	志喜屋孝信	0	paranames-en-zh-neg
+Dave Lee	戴夫·費羅尼	0	paranames-en-zh-neg
+Thor Freudenthal	托尔·拉森	0	paranames-en-zh-neg
+Mariah Angeliq	玛丽亚·帕丽斯·巴隆夏加	0	paranames-en-zh-neg
+Marcian Germanovich	马尔西安·拉扎尔	0	paranames-en-zh-neg
+Kingston Foster	金斯顿·凡尔内斯	0	paranames-en-zh-neg
+Birch Bayh	伯奇·奧尼爾	0	paranames-en-zh-neg
+Jorginho	約爾金霍·普提那堤	0	paranames-en-zh-neg
+Hoàng Dũng	黃文樂	0	paranames-en-zh-neg
+Younès Belhanda	尤尼斯·艾诺伊	0	paranames-en-zh-neg
+Melchior Bürgin	梅爾希奧·特勒布	0	paranames-en-zh-neg
+Thaísa Menezes	泰伊萨	0	paranames-en-zh-neg
+Pippa Harris	皮帕·海伍德	0	paranames-en-zh-neg
+Maike Johanna Reuter	迈克·布尔丹	0	paranames-en-zh-neg
+Marzia Mete	马尔齐亚·比索宁	0	paranames-en-zh-neg
+Anscar of Ivrea	安斯卡·楚彭科	0	paranames-en-zh-neg
+Bendt Rothe	本特·本特森	0	paranames-en-zh-neg
+Jovanka Broz	约婉卡·拉迪切维奇	0	paranames-en-zh-neg
+Keo Puth Rasmey	乔索温	0	paranames-en-zh-neg
+Aree Wiratthaworn	宋雅莉	0	paranames-en-zh-neg
+Kamran Shakhsuvarly	卡姆朗·米爾扎·納伊卜·薩爾坦納	0	paranames-en-zh-neg
+Fusen	福森	0	paranames-en-zh-neg
+Kevan Kase	凱萬·喬治	0	paranames-en-zh-neg
+Hideyuki Kasahara	阿波野秀幸	0	paranames-en-zh-neg
+Yasuzō Nojima	増村保造	0	paranames-en-zh-neg
+Ryū Ryū Ko	柳秀沆	0	paranames-en-zh-neg
+Tatsuyuki Uemoto	田中达之	0	paranames-en-zh-neg
+Seiji Kikuchi	大古诚司	0	paranames-en-zh-neg
+Nobuhiro Sakata	佐藤信寬	0	paranames-en-zh-neg
+Raif Badawi	拉伊夫·迪兹达雷维奇	0	paranames-en-zh-neg
+Reynaldo López	雷納爾多·維拉羅伯斯	0	paranames-en-zh-neg
+Srećko Lisinac	斯雷奇科·卡塔尼茨	0	paranames-en-zh-neg
+Esmaeil Ebadi	艾斯梅尔·哈提卜	0	paranames-en-zh-neg
+Erica Beck	艾莉卡·波耶爾	0	paranames-en-zh-neg
+Chien-Yi Wu	高健益	0	paranames-en-zh-neg
+Phala Thupten Woenden	帕拉·扎西达吉	0	paranames-en-zh-neg
+Kyung-ja Chun	趙京子	0	paranames-en-zh-neg
+Chutima Durongdej	楚缇玛·提潘娜特	0	paranames-en-zh-neg
+Yoshitarō Hayashi	鎌倉芳太郎	0	paranames-en-zh-neg
+Hastings Lees-Smith	拉什道爾	0	paranames-en-zh-neg
+Aidy Bryant	安迪·保夫萊特	0	paranames-en-zh-neg
+Justa Grata Honoria	胡絲塔·巴力歐	0	paranames-en-zh-neg
+Chaiya Mitchai	猜亚·玛哈巴	0	paranames-en-zh-neg
+Leland B. Harrison	利兰·梅尔文	0	paranames-en-zh-neg
+Ghalib Bin Ali	加里布·海勒萨	0	paranames-en-zh-neg
+Pusan Changde	僕散祖英	0	paranames-en-zh-neg
+Toyohito Ikeda	望月豐仁	0	paranames-en-zh-neg
+Viriato Soares Cassamá	维里亚托·达克鲁兹	0	paranames-en-zh-neg
+Akio Takahara	三嶋章夫	0	paranames-en-zh-neg
+Mikuni Shimokawa	高橋未來虹	0	paranames-en-zh-neg
+Tien Cheung	田智宣	0	paranames-en-zh-neg
+Carla Sozzani	卡拉·施瓦德勒	0	paranames-en-zh-neg
+Tim Sanders	蒂姆·布莱克韦尔	0	paranames-en-zh-neg
+Tomoyasu Hotei	放學後的悠閒時光	0	paranames-en-zh-neg
+Kizito Mihigo	基齊托·巴胡吉米希戈	0	paranames-en-zh-neg
+Ramsay MacDonald	拉姆齐·飞利浦斯	0	paranames-en-zh-neg
+Fadwa Soliman	法德娃·图甘	0	paranames-en-zh-neg
+Alysson Marendaz Marins	阿里森·保利内利	0	paranames-en-zh-neg
+Emmeline Pankhurst	艾米琳·皮西克·勞倫斯	0	paranames-en-zh-neg
+Senzō Hiranuma	塞索·麥互努	0	paranames-en-zh-neg
+Sotiris Kaiafas	索泰里斯·多诺科什	0	paranames-en-zh-neg
+Elouise Please	埃洛伊斯·P·科貝爾	0	paranames-en-zh-neg
+Michalis Aerakis	米卡利斯·帕帕康斯坦丁努	0	paranames-en-zh-neg
+Horiuchi Denjū	堀內次雄	0	paranames-en-zh-neg
+Margaux Hackett	玛歌·曼萨尔	0	paranames-en-zh-neg
+Hayward A. Harvey	哈里·梅克	0	paranames-en-zh-neg
+Subramaniam Sinniah	苏巴马廉	0	paranames-en-zh-neg
+Taisuke Mitamura	西村太佑	0	paranames-en-zh-neg
+Daya Mata	迪雅·維迪雅	0	paranames-en-zh-neg
+Atsuto Uchida	大石篤人	0	paranames-en-zh-neg
+Yumika Hayashi	田島有魅香	0	paranames-en-zh-neg
+Carmine Di Giandomenico	卡迈恩·因凡蒂诺	0	paranames-en-zh-neg
+Gwen Araujo	根·沃特福德	0	paranames-en-zh-neg
+Genkichi Seki	志摩源吉少将	0	paranames-en-zh-neg
+Kousei Amano	结木滉星	0	paranames-en-zh-neg
+Maykel Demetrio Massó	米高·利耶斯	0	paranames-en-zh-neg
+Byun Jae-ill	邊昭井	0	paranames-en-zh-neg
+Ewon Ebin	依温贝尼迪	0	paranames-en-zh-neg
+Beat Schlatter	比特·富勒尔	0	paranames-en-zh-neg
+Ahmad Johnie Zawawi	阿末查哈里	0	paranames-en-zh-neg
+Antti-Jussi Annila	安蒂-尤西·涅米	0	paranames-en-zh-neg
+Mariane Bargiel	陳妙瑛	0	paranames-en-zh-neg
+Kitajō Kagehiro	北條高廣	0	paranames-en-zh-neg
+Grandmaster Flash	大师拉特	0	paranames-en-zh-neg
+Ylva Thedin Bjørkaas	尔瓦·林贝格	0	paranames-en-zh-neg
+Moana Pozzi	莫阿纳·卡凯塞斯	0	paranames-en-zh-neg
+Nancy Turbak Berry	钱楠筠	0	paranames-en-zh-neg
+Ts Madison	陈沺福	0	paranames-en-zh-neg
+Evander Holyfield	伊凡德·羅	0	paranames-en-zh-neg
+Haris Silajdžić	夏利斯·漢錫	0	paranames-en-zh-neg
+Fayolle Jean Jr.	法约尔·基恩	0	paranames-en-zh-neg
+Fortunio Bonanova	福尔图尼奥·利切蒂	0	paranames-en-zh-neg
+Amro Jenyat	阿姆罗·赫尔米	0	paranames-en-zh-neg
+Arnar Viðarsson	阿诺尔·荣松	0	paranames-en-zh-neg
+Bogislaw VIII	博吉斯瓦夫·馮·博寧	0	paranames-en-zh-neg
+Kia Nurse	起亚·雷贝加	0	paranames-en-zh-neg
+Leigh Hunt	利·弗朗西斯	0	paranames-en-zh-neg
+Chatchai Chunhawan	差猜·布蓬	0	paranames-en-zh-neg
+Edvinas Šeškus	埃德维纳斯·克伦戈尔恰斯	0	paranames-en-zh-neg
+Sofiia Manousha	索菲娅·马齐耶夫斯卡	0	paranames-en-zh-neg
+Murtaza Khan	阿巴西	0	paranames-en-zh-neg
+Hengxiang	恆祥	0	paranames-en-zh-neg
+Clay Bryant	克雷·里福特	0	paranames-en-zh-neg
+Yamei Yu	謝雅梅	0	paranames-en-zh-neg
+Alaksandar Milinkievič	科儒林	0	paranames-en-zh-neg
+Amangkurat I of Mataram	阿曼庫拉特二世	0	paranames-en-zh-neg
+Abrar Osman	阿布拉·阿尔维	0	paranames-en-zh-neg
+Shona Auerbach	肖娜·罗比逊	0	paranames-en-zh-neg
+Polycarp	玻里加·潘高	0	paranames-en-zh-neg
+Tengiz Amirejibi	欽吉斯·阿布拉澤	0	paranames-en-zh-neg
+Aluwensha	阿魯溫沙	0	paranames-en-zh-neg
+Taiga Kamichatani	京本大我	0	paranames-en-zh-neg
+Yasser Corona	亚西尔·拉瓦什德	0	paranames-en-zh-neg
+Iaia Forte	贾贾·菲亚斯特里	0	paranames-en-zh-neg
+Ayako Inoue	北本綾子	0	paranames-en-zh-neg
+Miomir Stamenković	米奧米爾·茹茹爾	0	paranames-en-zh-neg
+Sakō Shishido	相泽沙呼	0	paranames-en-zh-neg
+Rhyan Grant	瑞安·怀特	0	paranames-en-zh-neg
+Ad Hoeymans	阿迪·克尼佩尔斯	0	paranames-en-zh-neg
+Krzysztof Wakuliński	克日什托夫·基維爾斯基	0	paranames-en-zh-neg
+Karsten Dörr	卡斯滕·芬格	0	paranames-en-zh-neg
+Giada Intorre	吉亚达·德西代里	0	paranames-en-zh-neg
+Vittoria Colonna	維多利亞·法爾內塞	0	paranames-en-zh-neg
+Joan Horan	琼·科洛萨斯	0	paranames-en-zh-neg
+Qingzhen	青振 郝	0	paranames-en-zh-neg
+Eber Moas	艾伯·芬	0	paranames-en-zh-neg
+Emory Kristof	埃默里·利昂·查菲	0	paranames-en-zh-neg
+Abbas Ahmad Akhondi	阿巴斯·阿米爾-恩特扎姆	0	paranames-en-zh-neg
+Kellan Lain	凱蘭·魯茨	0	paranames-en-zh-neg
+Swen Nater	斯温·吉尔伯格	0	paranames-en-zh-neg
+Osorkon II	奧索爾孔一世	0	paranames-en-zh-neg
+Hirano Shigeyoshi	平野國臣	0	paranames-en-zh-neg
+Uông Chu Lưu	翁明哲	0	paranames-en-zh-neg
+Richey Reneberg	理查德·詹姆斯·爱德华兹	0	paranames-en-zh-neg
+Nagisa Ōshima	宮崎渚	0	paranames-en-zh-neg
+Wassily de Basil	瓦西里·康定斯基	0	paranames-en-zh-neg
+Rube Foster	魯布·戈德堡	0	paranames-en-zh-neg
+Osbert Lancaster	奧斯伯特·波特	0	paranames-en-zh-neg
+Ezekiel Stone Wiggins	埃泽凯尔·凯姆伯伊	0	paranames-en-zh-neg
+Daimí Ramírez	戴米·金特尔	0	paranames-en-zh-neg
+Modibo Keita	莫迪博·凯塔	0	paranames-en-zh-neg
+Aniek Nouwen	安妮克·范·苟特	0	paranames-en-zh-neg
+Bilal Ag Acherif	比拉爾·漢努斯	0	paranames-en-zh-neg
+Wujia Zhongshanting	烏佳奇成額	0	paranames-en-zh-neg
+Kitabatake Mitsumasa	北畠晴具	0	paranames-en-zh-neg
+Octavius Vaughan Morgan	屋大維烏斯·卡托	0	paranames-en-zh-neg
+Lucullus	卢卡勒斯·弗吉尔·麦克沃特	0	paranames-en-zh-neg
+Chiwa Saitō	黑木千羽	0	paranames-en-zh-neg
+Manila Luzon	马妮拉·弗拉米尼	0	paranames-en-zh-neg
+Maximiliano Meza	西盖尔斯	0	paranames-en-zh-neg
+Pierre-Étienne Flandin	魏丕信	0	paranames-en-zh-neg
+Leonty Cheremisov	列昂季·雅科夫列维奇·乌格留莫夫	0	paranames-en-zh-neg
+Marcelino Iglesias Ricou	马塞利诺·桑斯·德·桑图奥拉	0	paranames-en-zh-neg
+Gopal Swarup Pathak	戈帕爾·拉朱	0	paranames-en-zh-neg
+Aeneas Tacticus	卡巴羅拉元帥	0	paranames-en-zh-neg
+Mohan Bhagwat	莫汉·西塔拉	0	paranames-en-zh-neg
+Sergei Tumansky	谢尔盖·米哈伊洛维奇·斯洛尼姆斯基	0	paranames-en-zh-neg
+Mozi Ruding	墨子	0	paranames-en-zh-neg
+Walter Thomae	沃尔特·纳什	0	paranames-en-zh-neg
+Ga Ae-ran	加	0	paranames-en-zh-neg
+Anjong Kongju Cho ssi	高麗安宗	0	paranames-en-zh-neg
+Wai Ka-fai	何煒晴	0	paranames-en-zh-neg
+Amparo Rivelles	安帕罗·波奇-加斯孔	0	paranames-en-zh-neg
+June Tang	瓊·杜普雷斯	0	paranames-en-zh-neg
+Maurilio Mangano	毛里利奥·德佐尔特	0	paranames-en-zh-neg
+Kim Chapiron	金瑞昶	0	paranames-en-zh-neg
+Yasumichi Uchima	森田恭通	0	paranames-en-zh-neg
+Rosihan Anwar	罗西汉·扎因	0	paranames-en-zh-neg
+Bumpy Johnson	邦比·加纳赫勒	0	paranames-en-zh-neg
+Miina Kotaki	源美衣奈	0	paranames-en-zh-neg
+Abena Ayivor	阿贝纳·泰勒-史密斯	0	paranames-en-zh-neg
+Melaine Walker	梅兰·法文内克	0	paranames-en-zh-neg
+İrem Yaman	伊雷姆·萨克	0	paranames-en-zh-neg
+Ecem Erkek	埃杰姆·查尔汗	0	paranames-en-zh-neg
+Kan'in-no-miya Sukehito-shinnō	閑院宮直仁親王	0	paranames-en-zh-neg
+Stanislava Konstantinova	斯坦尼斯拉娃·布雷佐瓦	0	paranames-en-zh-neg
+Maimouna N'Diaye	迈穆娜·盖伊	0	paranames-en-zh-neg
+Zhengu Wang	珍姑	0	paranames-en-zh-neg
+Demetrio Stratos	德梅特里奥·安哥拉	0	paranames-en-zh-neg
+Wusu Fafuli	烏蘇吉思哈	0	paranames-en-zh-neg
+Atle Antonsen	阿特勒·塞爾伯格	0	paranames-en-zh-neg
+Alekos Sissovitis	阿莱科斯·法西亚诺斯	0	paranames-en-zh-neg
+Rosemary DeCamp	蘿絲瑪莉·李區	0	paranames-en-zh-neg
+Lamine Bá	拉明·迪亚克	0	paranames-en-zh-neg
+Vickie Orr	薇琪·葛雷洛	0	paranames-en-zh-neg
+Abe Masaatsu	艾比·斯克拉	0	paranames-en-zh-neg
+Dikla Elkaslassy	迪克拉	0	paranames-en-zh-neg
+Gianmarco Nicosia	詹马尔科·扎加托	0	paranames-en-zh-neg
+Taťjana Medvecká	塔季揚娜·瑪麗亞	0	paranames-en-zh-neg
+Hoan Kokei	尊室歡	0	paranames-en-zh-neg
+Taras Kulakov	塔拉斯·卡查拉巴	0	paranames-en-zh-neg
+Ayoze García	阿約塞·佩雷斯	0	paranames-en-zh-neg
+Tajihi no Ujimori	多治比三宅麻呂	0	paranames-en-zh-neg
+Chang-Chun Zhang	丁长春	0	paranames-en-zh-neg
+Heddy Lester	海滴·漢妮蔓	0	paranames-en-zh-neg
+Mario Philip Azzopardi	馬里奧·莫尼切利	0	paranames-en-zh-neg
+Shansi	苫思	0	paranames-en-zh-neg
+Azizbek Turgunboev	阿齐兹贝克·阿莫诺夫	0	paranames-en-zh-neg
+Laeta	萊塔·卡羅格里迪斯	0	paranames-en-zh-neg
+Baining	郭百宁	0	paranames-en-zh-neg
+Aliza Kezeradze	阿里萨·维拉尼	0	paranames-en-zh-neg
+Menachem Magidor	梅纳·齐尔伯曼	0	paranames-en-zh-neg
+Merel van Dongen	梅雷爾·斯穆爾德斯	0	paranames-en-zh-neg
+Prashant Prabhakar	普拉尚·塔芒	0	paranames-en-zh-neg
+Clover Hope	克洛弗·莫尔	0	paranames-en-zh-neg
+Nikolay Kamensky	尼古拉·格拉兹科夫	0	paranames-en-zh-neg
+Collis Potter Huntington	柯利斯·坦普爾	0	paranames-en-zh-neg
+Makar Ignatov	马卡·扎布罗斯基	0	paranames-en-zh-neg
+Hadia Tajik	哈迪亚·胡斯尼	0	paranames-en-zh-neg
+Huangguodigu	黃摑敵古	0	paranames-en-zh-neg
+Tadao Horie	倉石忠雄	0	paranames-en-zh-neg
+Germana Marucelli	杰尔马娜·马拉巴尔巴	0	paranames-en-zh-neg
+Félicia Menara	費莉西亞·施羅德	0	paranames-en-zh-neg
+Mickey Down	米奇·泰托頓	0	paranames-en-zh-neg
+Chiyono Terada	長谷川千代乃	0	paranames-en-zh-neg
+Magic Johnson	蔡嬣	0	paranames-en-zh-neg
+Dwight Howard	德懷特·尤厄爾	0	paranames-en-zh-neg
+Vladislav Yakovlev	弗拉季斯拉夫·尤里耶维奇·苏尔科夫	0	paranames-en-zh-neg
+Gustavus Simmons	古斯塔夫二世·阿道夫	0	paranames-en-zh-neg
+Raika Fujii	拉伊卡·哈扎纳维修斯	0	paranames-en-zh-neg
+Vigor Bovolenta	维戈尔·林德贝里	0	paranames-en-zh-neg
+Mary-Ellen Moylan	玛丽-埃伦·芬尼	0	paranames-en-zh-neg
+Kaykaus I	凱考斯二世	0	paranames-en-zh-neg
+Kaleigh Gilchrist	凱莉·柯茲	0	paranames-en-zh-neg
+Nuruddin Farah	努爾丁拉尼里	0	paranames-en-zh-neg
+Heike Schulte-Mattler	海克·華茂斯	0	paranames-en-zh-neg
+Wycliffe Smith	威克里夫·戈登	0	paranames-en-zh-neg
+Wells Andrews Hutchins	後藤綜合車輛所	0	paranames-en-zh-neg
+Abakar M'Bairo	卢巴德·阿巴卡尔·西拉	0	paranames-en-zh-neg
+Fujio Masuoka	小松藤夫	0	paranames-en-zh-neg
+Zafar Rasheed Bhatti	沙益·查化·哈斯奈·再迪	0	paranames-en-zh-neg
+Matsudaira Yorisumi	松平賴雄	0	paranames-en-zh-neg
+Fok Tsun-yu	崔志雄	0	paranames-en-zh-neg
+Fumitaka Senga	及川文隆	0	paranames-en-zh-neg
+Temple Ashbrook	坦普尔·史密斯	0	paranames-en-zh-neg
+Ebru Karanfilci	埃布鲁·德斯坦	0	paranames-en-zh-neg
+Reni Eddo-Lodge	高城靈似	0	paranames-en-zh-neg
+Yo Kagen	吉田羊	0	paranames-en-zh-neg
+Dalmatius of Constantinople	達爾瑪提烏斯	0	paranames-en-zh-neg
+Karlie Chung	卡莉·雷德	0	paranames-en-zh-neg
+Doane Perry	多恩·罗宾逊	0	paranames-en-zh-neg
+Jean-Roger Caussimon	让-罗热·米罗	0	paranames-en-zh-neg
+Mad Mark	瘋狗科爾	0	paranames-en-zh-neg
+Servius Sulpicius Rufus	塞尔维乌斯·苏尔皮基乌斯·加尔巴	0	paranames-en-zh-neg
+Trevon Bluiett	崔文·杜瓦爾	0	paranames-en-zh-neg
+Emin Alper	馬列夫	0	paranames-en-zh-neg
+Tsuneyasu Takeda	宫本恒靖	0	paranames-en-zh-neg
+Tillie Olsen	蒂莉·福勒	0	paranames-en-zh-neg
+Heisi	黑厮	0	paranames-en-zh-neg
+Vilius Tumalavicius	維柳斯·沙波卡	0	paranames-en-zh-neg
+Alhaj Abu Deraa	哈吉·亚当·尤斯夫	0	paranames-en-zh-neg
+Aleksey Dmitriyenko	阿列克赛·托尔斯泰	0	paranames-en-zh-neg
+Haga Kuwagorō	芳賀高經	0	paranames-en-zh-neg
+Jhon Córdoba	瓦洛伊	0	paranames-en-zh-neg
+Uri Segal	尤里·奥莱夫	0	paranames-en-zh-neg
+Xiaoguang Kang	陈晓光	0	paranames-en-zh-neg
+Zhai Guangbi	翟張極	0	paranames-en-zh-neg
+Basarab Laiotă cel Bătrân	巴薩拉布一世	0	paranames-en-zh-neg
+Zina Anaplioti	吉娜·帕帕多普卢	0	paranames-en-zh-neg
+Gyan Chandra Acharya	吉恩·辛格·索漢泊爾	0	paranames-en-zh-neg
+Tatsumi Orimoto	阿津川辰海	0	paranames-en-zh-neg
+Getúlio Vargas	热图利奥·瓦加斯.小	0	paranames-en-zh-neg
+Zadock Thompson	扎多克·普萊特	0	paranames-en-zh-neg
+Geny Ageyev	热尼·卡塔莫	0	paranames-en-zh-neg
+Yumei	索玉梅	0	paranames-en-zh-neg
+Hironobu Sakaguchi	華頂博信	0	paranames-en-zh-neg
+Priyanshu Rajawat	皮揚休·彭尤里	0	paranames-en-zh-neg
+Toi Kasaku	橘柊生	0	paranames-en-zh-neg
+Heli Finkenzeller	海利·兰塔宁	0	paranames-en-zh-neg
+Luci Fish	露茜·白耐斯·詹森	0	paranames-en-zh-neg
+François-Léon Sicard	弗朗索瓦-莱昂·伯努维尔	0	paranames-en-zh-neg
+Daša Grm	达萨·沃卡塔	0	paranames-en-zh-neg
+Chikahiro Andō	田原親宏	0	paranames-en-zh-neg
+Sigbert Heister	西格贝特·约瑟夫·马里亚·甘泽	0	paranames-en-zh-neg
+Zaur Uguyev	扎尔·卡洛耶夫	0	paranames-en-zh-neg
+Lene Køppen	賴琳恩	0	paranames-en-zh-neg
+Kayleigh Coxx	凯蕾·鹿内	0	paranames-en-zh-neg
+Sansan	簡郁珊	0	paranames-en-zh-neg
+Shorty Castro	元若藍	0	paranames-en-zh-neg
+Kanade Koshino	中島奏	0	paranames-en-zh-neg
+Bun'ya Nakamura	铃木文弥	0	paranames-en-zh-neg
+Tamaki Orie	大道珠貴	0	paranames-en-zh-neg
+Drakpa Gyatso	札巴迥乃	0	paranames-en-zh-neg
+Riva Starr	丽娃·布伯	0	paranames-en-zh-neg
+Adelardo Rodríguez	艾德拉德·郭居靜	0	paranames-en-zh-neg
+Kazuchika Okada	黃瀨和哉	0	paranames-en-zh-neg
+Wolfram Huhn	沃尔夫拉姆·威特	0	paranames-en-zh-neg
+Michelle Tesoro	米歇尔·盖尔	0	paranames-en-zh-neg
+Rainier of Antioch	蘭尼埃里一世	0	paranames-en-zh-neg
+Zygfryd Szołtysik	齐克弗里特·库赫塔	0	paranames-en-zh-neg
+Grégori Derangère	格雷戈里·阿米诺夫	0	paranames-en-zh-neg
+Sunrise Adams	桑罗斯·科格尼	0	paranames-en-zh-neg
+Noriyasu Agematsu	山內則康	0	paranames-en-zh-neg
+Rolf Andreassen	洛爾夫·卡爾斯	0	paranames-en-zh-neg
+Fulvio Giuliani	富爾維奧·羅西	0	paranames-en-zh-neg
+Döme Sztójay	多梅·卡鲁科斯基	0	paranames-en-zh-neg
+Chase Budinger	蔡斯·奥利弗	0	paranames-en-zh-neg
+Madge Blake	馬奇·埃文斯	0	paranames-en-zh-neg
+Mukesh	穆克什·辛格·格洛特	0	paranames-en-zh-neg
+Laia Manzanares	拉娅·玛茹尔	0	paranames-en-zh-neg
+Jafar Kashani	贾法尔·阿斯卡里	0	paranames-en-zh-neg
+Ryuko Sakurai	神崎柳子	0	paranames-en-zh-neg
+Manilal Fernando	馬尼拉勒·甘地	0	paranames-en-zh-neg
+Chayapol Jutamat	查亞鵬·本納格	0	paranames-en-zh-neg
+Cheo Yee How	荷西·費里西安諾	0	paranames-en-zh-neg
+Eugen Sandow	尤金·瓦克	0	paranames-en-zh-neg
+Ferran Font	费兰·萨沃尔	0	paranames-en-zh-neg
+Maksim Trapo	马克西姆·波克罗夫斯基	0	paranames-en-zh-neg
+Dezső Wein	法比安·德热	0	paranames-en-zh-neg
+Zachariah Poulson	撒迦利亞·約西亞諾·蘇曼提	0	paranames-en-zh-neg
+Colette Hiller	科莱特·贝松	0	paranames-en-zh-neg
+Shirvanshah Manuchehr III	阿夫里敦二世	0	paranames-en-zh-neg
+Simcha Dinitz	西姆查·溫斯坦	0	paranames-en-zh-neg
+Ledell Eackles	萊戴爾·提特康姆	0	paranames-en-zh-neg
+Vladlen Yurchenko	弗拉德连·米哈伊洛维奇·米哈伊洛夫	0	paranames-en-zh-neg
+Anastasija Babović	阿纳斯塔西娅·萨莫伊洛娃	0	paranames-en-zh-neg
+Chie Oka	中根千枝	0	paranames-en-zh-neg
+Mihran Kirakosian	米赫蘭·傑布瑞恩	0	paranames-en-zh-neg
+Cecil William Chase Parr	塞西爾·弗朗西絲·亞歷山大	0	paranames-en-zh-neg
+Garegin Srvandztiants	加列津·恩賈德	0	paranames-en-zh-neg
+Jampa Tashi	强巴曲扎	0	paranames-en-zh-neg
+Moni Moshonov	莫尼·巴塔查爾吉	0	paranames-en-zh-neg
+Gruffydd ap Llywelyn Fawr	格鲁菲兹·阿普·赖泽赫	0	paranames-en-zh-neg
+Stefaan Fernande	斯特凡·马纳	0	paranames-en-zh-neg
+André-Jean Trinité-Schillemans	費聲遠	0	paranames-en-zh-neg
+Chee Kuan Wong	陳啟楨	0	paranames-en-zh-neg
+Traute Hoess	邵卓德	0	paranames-en-zh-neg
+King Hui of Wei	周懿王	0	paranames-en-zh-neg
+Riley Keough	莱利·布莱克	0	paranames-en-zh-neg
+Sem Verbeek	塞姆·莫尔	0	paranames-en-zh-neg
+Jeannette Bougrab	吴志丽	0	paranames-en-zh-neg
+Ayoub Amraoui	阿尤布·卡埃比	0	paranames-en-zh-neg
+Wessel Freytag von Loringhoven	韦塞尔·达默斯	0	paranames-en-zh-neg
+Sone Arasuke	曾根靜夫	0	paranames-en-zh-neg
+Haden Blackman	海登·愛德華茲	0	paranames-en-zh-neg
+Yelü Shuogu	耶律娄国	0	paranames-en-zh-neg
+Del Latta	德爾·康奈爾	0	paranames-en-zh-neg
+Bracha Tzfira	布拉夏·范·达斯堡	0	paranames-en-zh-neg
+İlayda Alişan	伊利亚达·伊尔迪尔	0	paranames-en-zh-neg
+Taichi Hara	齋藤太一	0	paranames-en-zh-neg
+Antonella Mosetti	安东内拉·巴尔巴	0	paranames-en-zh-neg
+Hanshan	憨山德清	0	paranames-en-zh-neg
+Tijen Karaş	提真·奥纳兰	0	paranames-en-zh-neg
+Teimuraz II of Kakheti	巴格拉季昂王朝的特穆拉茲一世	0	paranames-en-zh-neg
+Lumen Monteiro	鲁门·马丁·温特	0	paranames-en-zh-neg
+Seiichiro Nakagawa	貴島誠一郎	0	paranames-en-zh-neg
+Rowley Douglas	罗利·厄拉姆	0	paranames-en-zh-neg
+Marie-Amélie Le Fur	玛丽亞·阿米利·塞格纳	0	paranames-en-zh-neg
+Dorel Stoica	多雷尔·西米翁	0	paranames-en-zh-neg
+Doàn Thêm	端莊	0	paranames-en-zh-neg
+Ruricius Pompeianus	利摩日的吕里斯	0	paranames-en-zh-neg
+Alok Sharma	阿洛克·巴爾加瓦	0	paranames-en-zh-neg
+Hieu Van Le	聖希厄	0	paranames-en-zh-neg
+Romanus	孔达的罗曼	0	paranames-en-zh-neg
+Anastasios Papapetrou	安納斯塔西奧斯·卡高斯	0	paranames-en-zh-neg
+Jan-Willem Breure	扬-威廉·范斯奇普	0	paranames-en-zh-neg
+Isa Dick Hackett	伊莎·米蘭達	0	paranames-en-zh-neg
+Eumenes II	歐邁尼斯	0	paranames-en-zh-neg
+Ebony Jo-Ann	埃博妮·中殿	0	paranames-en-zh-neg
+Miyamoto Iori	宮本武藏	0	paranames-en-zh-neg
+Doulu Di	豆卢什伐	0	paranames-en-zh-neg
+Dumitru Velicu	杜米特鲁·丘巴森科	0	paranames-en-zh-neg
+Id Mirab	游喧	0	paranames-en-zh-neg
+Fernanda Serrano	費爾南達·文圖里尼	0	paranames-en-zh-neg
+Aku Partanen	阿库·莱蒂宁	0	paranames-en-zh-neg
+Ephrem Giesen	聖厄弗冷	0	paranames-en-zh-neg
+Egan Bernal	胡怡颜	0	paranames-en-zh-neg
+Dauren Abaev	道伦·塞尔加津	0	paranames-en-zh-neg
+Anjelika Krylova	安傑利卡·華盛頓	0	paranames-en-zh-neg
+Salim Arrache	萨利姆·扎鲁伊	0	paranames-en-zh-neg
+Weici Ding	傅惟慈	0	paranames-en-zh-neg
+Britton Chance	布里顿·约翰森	0	paranames-en-zh-neg
+Sib Ventress	锡布·哈希安	0	paranames-en-zh-neg
+Elham Ehsas	伊尔哈姆·谢赫	0	paranames-en-zh-neg
+Alvar Goetze	阿尔瓦尔·阿尔托	0	paranames-en-zh-neg
+Xiaolin Zhang	吴小林	0	paranames-en-zh-neg
+Michimasa Yoshimoto	藤野道格	0	paranames-en-zh-neg
+Louie Bickerton	雷雨田	0	paranames-en-zh-neg
+Yeshinie	埜實揑	0	paranames-en-zh-neg
+McKinley Belcher III	麦金利·弗里曼	0	paranames-en-zh-neg
+Zaynab an-Nafzawiyyah	宰娜卜·宾特·胡宰迈	0	paranames-en-zh-neg
+Courtney Reed	考特尼·姬妮斯	0	paranames-en-zh-neg
+Phong Truong	风雅	0	paranames-en-zh-neg
+Ramunė Čekuolytė	青空檸檬	0	paranames-en-zh-neg
+Inara George	伊纳拉·泰特雷瓦	0	paranames-en-zh-neg
+Kinoshita Saitan	木下賴繼	0	paranames-en-zh-neg
+Magaly Carvajal	马佳莉斯·梅迪纳	0	paranames-en-zh-neg
+Ryotaro Yonemura	角田涼太朗	0	paranames-en-zh-neg
+Nago Ryōhō	馬世榮	0	paranames-en-zh-neg
+Tyreke Evans	泰瑞克·莊臣	0	paranames-en-zh-neg
+Dakota Lotus	達科塔·馬提亞	0	paranames-en-zh-neg
+Yeng Pway Ngon	吴容芬	0	paranames-en-zh-neg
+Aika Sekiyama	澤口愛華	0	paranames-en-zh-neg
+Karmele Jaio	卡梅尔·阿兰布鲁	0	paranames-en-zh-neg
+Rabi Ray	中山拉比	0	paranames-en-zh-neg
+Kirstin Maldonado	基尔丝廷·瓦恩克	0	paranames-en-zh-neg
+Ingrida Valinskienė	因格麗達·希莫尼特	0	paranames-en-zh-neg
+Wenzheng Lan	文政	0	paranames-en-zh-neg
+Alethea Arnaquq-Baril	阿莱西娅·塞奇曼	0	paranames-en-zh-neg
+Kyaswa	迦苴	0	paranames-en-zh-neg
+Nicias	尼西亞斯	0	paranames-en-zh-neg
+Silver Hau	席爾佛·金恩	0	paranames-en-zh-neg
+Shangyi Wang	尚誼	0	paranames-en-zh-neg
+Vardan Hovhannisyan	瓦爾丹·文拿斯雲	0	paranames-en-zh-neg
+Rya Meyers	萊亞·吉斯特德	0	paranames-en-zh-neg
+Tashi Tsering	扎西平措	0	paranames-en-zh-neg
+Helena Lucas	海伦娜·卡雷尔	0	paranames-en-zh-neg
+Penka Tsitselkova	彭卡·库涅瓦	0	paranames-en-zh-neg
+Kazue Morisaki	吹石一惠	0	paranames-en-zh-neg
+Mahamat Saleh Annadif	穆罕默德·伊德里斯·德比	0	paranames-en-zh-neg
+Hyun Jung-hwa	玄美	0	paranames-en-zh-neg
+Handan Shang	邯鄲淳	0	paranames-en-zh-neg
+Bindu De Stoppani	宾杜·苏布拉马尼亚姆	0	paranames-en-zh-neg
+Katya Paskaleva	卡佳·克洛弗	0	paranames-en-zh-neg
+Ese	埃塞·阿塔沃	0	paranames-en-zh-neg
+Yevdokiya Bershanskaya	叶夫多基娅·萨布罗娃	0	paranames-en-zh-neg
+Kimika Hoshi	一條綺美香	0	paranames-en-zh-neg
+Candace Kroslak	坎蒂丝·欧文斯	0	paranames-en-zh-neg
+Sushmita Sen	蘇絲米塔·巴納吉	0	paranames-en-zh-neg
+Upton Sinclair	厄普顿·雪莉蒂尼	0	paranames-en-zh-neg
+Cora Diamond	科拉∙范∙纽文豪生	0	paranames-en-zh-neg
+Klaus-Peter Hildenbrand	克勞斯·彼得·威爾許	0	paranames-en-zh-neg
+Kylee	凯莉·隆迪拉	0	paranames-en-zh-neg
+Elden Auker	艾登·韓森	0	paranames-en-zh-neg
+Den Fujita	登	0	paranames-en-zh-neg
+Ikkei Watanabe	辻子惠弘	0	paranames-en-zh-neg
+Jeryl Prescott	傑利爾·薩瑟	0	paranames-en-zh-neg
+Niv Fichman	尼夫·齐伯伯格	0	paranames-en-zh-neg
+Yip Shiu-Tak	葉繼歡	0	paranames-en-zh-neg
+Chengfu	成福	0	paranames-en-zh-neg
+Lasha Malaghuradze	拉萨·奥克雷希泽	0	paranames-en-zh-neg
+Abish Kekilbayev	阿必失哈敦	0	paranames-en-zh-neg
+Soonjo Kwon	權純照	0	paranames-en-zh-neg
+Takeji Iwamiya	川村竹治	0	paranames-en-zh-neg
+Yantai Shen	嚴泰	0	paranames-en-zh-neg
+Doctor Willard Bliss	多克托·库马洛	0	paranames-en-zh-neg
+Manu Attri	玛努·巴克尔	0	paranames-en-zh-neg
+Yu-Mei Jiang	陳玉玫	0	paranames-en-zh-neg
+Heah Hock Aun	连裕祥	0	paranames-en-zh-neg
+Georgii Vasilevich Nikolskii	喬治·米哈伊爾洛維奇·波波夫	0	paranames-en-zh-neg
+Chenghui	承惠	0	paranames-en-zh-neg
+Bertel Thorvaldsen	貝特爾·哈德	0	paranames-en-zh-neg
+Gavino Ledda	加维诺·马塔	0	paranames-en-zh-neg
+Norifumi Katō	高本詞史	0	paranames-en-zh-neg
+Ophélie Koering	奥菲莉娅·穆尼耶	0	paranames-en-zh-neg
+Yrsa	伊尔萨·西于尔扎多蒂	0	paranames-en-zh-neg
+Fahid Mohammed Ally Msalam	法赫德·本·哈勒法拉	0	paranames-en-zh-neg
+Karamat Huseynov	卡拉马特·拉赫曼·尼亚齐	0	paranames-en-zh-neg
+Isoko Mochizuki	芦田矶子	0	paranames-en-zh-neg
+Jubal	具伯·爾利	0	paranames-en-zh-neg
+Ivo Rüegg	伊沃·米拉佐	0	paranames-en-zh-neg
+Nono Ku	诺诺·菲格雷多	0	paranames-en-zh-neg
+Randal Bryant	兰达尔·维拉尔斯	0	paranames-en-zh-neg
+Fengshenga	豐盛阿	0	paranames-en-zh-neg
+Norihiko Fukui	田中法彦	0	paranames-en-zh-neg
+Rongbao	榮保	0	paranames-en-zh-neg
+Davorin Jenko	達沃裡·波波維奇	0	paranames-en-zh-neg
+Joseph Taylor Robinson	張文瀾 若瑟	0	paranames-en-zh-neg
+Panteleimon Ponomarenko	潘特雷蒙·库莉什	0	paranames-en-zh-neg
+Trinity	特里妮缇·圣·克莱尔	0	paranames-en-zh-neg
+Tiger Lin	老虎·杰克·福克斯	0	paranames-en-zh-neg
+Caleb Antill	凯莱布·普兰特	0	paranames-en-zh-neg
+Budi Santoso	布迪·博沃莱克索诺	0	paranames-en-zh-neg
+Kaju Sugiura	古泉迦十	0	paranames-en-zh-neg
+Arima Toyouji	有間皇子	0	paranames-en-zh-neg
+Roksana Węgiel	羅克薩娜·巴赫拉米塔什	0	paranames-en-zh-neg
+Stacy Cruz	史塔奇·巴特	0	paranames-en-zh-neg
+Yamanaka Toshifusa	山中信儀	0	paranames-en-zh-neg
+Xiao-Gang Wen	姚小刚	0	paranames-en-zh-neg
+Wei-Ping Wang	蔡維屏	0	paranames-en-zh-neg
+Driss Chraïbi	德里斯·杰图	0	paranames-en-zh-neg
+Xitai Qing	西泰	0	paranames-en-zh-neg
+Plinio Fernando	普利尼奧薩爾加多	0	paranames-en-zh-neg
+Dele Odule	迪尼·阿里	0	paranames-en-zh-neg
+Hanqiu Li	李汉秋	0	paranames-en-zh-neg
+Wūgē	武格	0	paranames-en-zh-neg
+Sourav Kothari	索拉夫·查特吉	0	paranames-en-zh-neg
+Isidoro Díaz	伊西多罗·费尔南德斯	0	paranames-en-zh-neg
+Tri Ta	特里·哈努里塔	0	paranames-en-zh-neg
+Hiroshige III	世耕弘成	0	paranames-en-zh-neg
+Tufa Baozhou	秃发染干	0	paranames-en-zh-neg
+Lucky Hassan	幸运儿达耶	0	paranames-en-zh-neg
+Vasilios Lekapenos	瓦西利奥斯·措拉基季斯	0	paranames-en-zh-neg
+Pliny the Younger	老普林尼	0	paranames-en-zh-neg
+Raima Sen	平松 來馬	0	paranames-en-zh-neg
+Nara Thepnupa	奈良·科勒里	0	paranames-en-zh-neg
+Nhiệm Hiêu	任忠	0	paranames-en-zh-neg
+Geraint Williams	杰兰特·埃文斯	0	paranames-en-zh-neg
+Quirin Berg	昆林·艾格匹	0	paranames-en-zh-neg
+Perng Fai-nan	彭紹瑾	0	paranames-en-zh-neg
+Takatarō Kataoka	木木高太郎	0	paranames-en-zh-neg
+Fraser Fyvie	弗雷澤·克拉克·赫斯頓	0	paranames-en-zh-neg
+Althea Stevens	愛爾西亞·勞林	0	paranames-en-zh-neg
+Matthäus Daniel Pöppelmann	马特豪斯·朗格	0	paranames-en-zh-neg
+Zach Wahls	扎克·布拉夫	0	paranames-en-zh-neg
+Agniya Kuznetsova	阿格尼娅·巴尔托	0	paranames-en-zh-neg
+Çiçek Kahraman	西塞克·哈丘恩	0	paranames-en-zh-neg
+Suren Badral	苏伦·阿鲁秋尼扬	0	paranames-en-zh-neg
+Eloisa James	埃洛伊莎·德·劳伦蒂斯	0	paranames-en-zh-neg
+Radim Nyč	拉迪姆	0	paranames-en-zh-neg
+Silke Franken	西尔克·布瑞斯	0	paranames-en-zh-neg
+Raimondo Capizucchi	雷蒙多·德拉·托雷	0	paranames-en-zh-neg
+Gyeltsen Sengge	杰参桑波	0	paranames-en-zh-neg
+Bernie Taupin	伯尼·卡波	0	paranames-en-zh-neg
+Almira Skripchenko	阿尔米拉·图森	0	paranames-en-zh-neg
+Yishan Lin	一宁	0	paranames-en-zh-neg
+Magas of Cyrene	埃及的馬格斯	0	paranames-en-zh-neg
+Isabeau Musk	伊莎博·萊維托	0	paranames-en-zh-neg
+Abdelmalek Rahou	阿卜杜勒马里克·德鲁克德尔	0	paranames-en-zh-neg
+Hao-Tian Zhang	李浩恬	0	paranames-en-zh-neg
+Volkmar Denner	沃克马尔·罗赫里格	0	paranames-en-zh-neg
+Caupolicán	小考波利坎	0	paranames-en-zh-neg
+Sisi Qiu	絲絲·琴啤啤	0	paranames-en-zh-neg
+Yury Bogomolov	尤里·鲍里索夫	0	paranames-en-zh-neg
+Denis Gargaud Chanut	丹尼斯·施密特	0	paranames-en-zh-neg
+Koyu Matsui	田中康湧	0	paranames-en-zh-neg
+Taleb Tawatha	塔列布·利法伊	0	paranames-en-zh-neg
+Yoshiteru Kurokawa	山下芳輝	0	paranames-en-zh-neg
+Savaş Özdemir	萨瓦什·阿尔普·巴萨尔	0	paranames-en-zh-neg
+Gundars Celitāns	昆达斯·道泽	0	paranames-en-zh-neg
+Fumitoshi Oizaki	佐藤文俊	0	paranames-en-zh-neg
+Jinfa Wang	吳錦發	0	paranames-en-zh-neg
+Ian Whittaker	伊恩·克鲁克	0	paranames-en-zh-neg
+Viv Richards	范·范·丁根	0	paranames-en-zh-neg
+Arnaldo Dell'Ira	阿纳尔多·福拉尼	0	paranames-en-zh-neg
+Hattie Morahan	哈蒂·麥克丹尼爾	0	paranames-en-zh-neg
+Jori Harju	乔里·胡尔科内	0	paranames-en-zh-neg
+Murry Dickson	默里·哈蒙德	0	paranames-en-zh-neg
+Cungšan	粘合重山	0	paranames-en-zh-neg
+Dang Jixin	党珽	0	paranames-en-zh-neg
+Tully Blanchard	塔莉·奇爾妮	0	paranames-en-zh-neg
+Tana Schanzara	塔娜·蒙格奥	0	paranames-en-zh-neg
+Tsugumi Aritomo	篠原愛實	0	paranames-en-zh-neg
+Nargis	納吉絲·法赫利	0	paranames-en-zh-neg
+Rondell White	龙德尔·谢里登	0	paranames-en-zh-neg
+Tine Wittler	蒂娜·罗格尔	0	paranames-en-zh-neg
+Shah Khan	沙阿·曼蘇爾	0	paranames-en-zh-neg
+Rockin' Robin Roberts	罗萍·史密斯	0	paranames-en-zh-neg
+Luce Rains	路思·伊瑞葛來	0	paranames-en-zh-neg
+Sylke Otto	西尔克·恩德斯	0	paranames-en-zh-neg
+Sayf Al-Din Al-Rawi	賽義夫·阿爾丁·伊納勒	0	paranames-en-zh-neg
+Eva Kummeth	伊娃·杰西	0	paranames-en-zh-neg
+Vedran Smailović	韦德兰·兹尔尼奇	0	paranames-en-zh-neg
+Rasul Gamzatov	拉苏尔·萨拉胡丁	0	paranames-en-zh-neg
+Sitiveni Rabuka	西蒂維尼·哈拉普亞	0	paranames-en-zh-neg
+Evarist Zhang Zhiliang	立德·平托	0	paranames-en-zh-neg
+Shizumu Nomura	渡邊靜	0	paranames-en-zh-neg
+Arlene Martel	阿琳·斯特林格-奎瓦斯	0	paranames-en-zh-neg
+Dominikus Zimmermann	多米尼库斯·布鲁克纳	0	paranames-en-zh-neg
+Ronald Bye	罗纳德·杜普里	0	paranames-en-zh-neg
+Mikk Mägi	米克·米基佛	0	paranames-en-zh-neg
+Sheung Kwun Yuk	任尚智	0	paranames-en-zh-neg
+Sigebert III	西吉伯特四世	0	paranames-en-zh-neg
+Clinton Walker	克林顿·莫拉	0	paranames-en-zh-neg
+Tonje Kjærgaard	滕耶·内斯特沃尔	0	paranames-en-zh-neg
+Lie Liang Yang	李英福	0	paranames-en-zh-neg
+Carlijn Schoutens	卡萊恩·阿赫特雷克特	0	paranames-en-zh-neg
+Gianrico Ruzza	詹里科·特德斯基	0	paranames-en-zh-neg
+Meinhard	戈里齊亞的邁因哈德六世	0	paranames-en-zh-neg
+Webster Thayer	韦伯斯特·哈贝尔	0	paranames-en-zh-neg
+Ko Ying-ping	葛丞	0	paranames-en-zh-neg
+Eckart Gadow	卢安克	0	paranames-en-zh-neg
+Elhanan Helpman	埃尔赫南·温彻斯特	0	paranames-en-zh-neg
+Anderson Cléber Beraldo	周家明	0	paranames-en-zh-neg
+Hack Wilson	哈克·辛普森	0	paranames-en-zh-neg
+Nikolaos Morakis	尼科拉斯·布拉希姆拉里	0	paranames-en-zh-neg
+Kaylin Whitney	凯琳·梅奇	0	paranames-en-zh-neg
+Etsuo Miyoshi	竹下悅男	0	paranames-en-zh-neg
+Seigo Agatsuma	池田誠剛	0	paranames-en-zh-neg
+Yōzaburō Kanari	伊藤洋三郎	0	paranames-en-zh-neg
+Evgenia Obraztsova	叶夫根尼亚·库利科夫斯卡娅	0	paranames-en-zh-neg
+Albie Pearson	奧比·薩克斯	0	paranames-en-zh-neg
+Antara Mali	安塔拉·比斯瓦斯	0	paranames-en-zh-neg
+Changhong	郑昌泓	0	paranames-en-zh-neg
+Toghon Taishi	元順帝	0	paranames-en-zh-neg
+Ramazan Özcan	拉马赞·巴沙里德斯特	0	paranames-en-zh-neg
+Soufiane Rahimi	苏菲安·图扎尼	0	paranames-en-zh-neg
+Hoss Ellington	霍斯·包尔	0	paranames-en-zh-neg
+Shinichiro Kimura	川畑伸一郎	0	paranames-en-zh-neg
+Made Kuti	梅德·西阿梅	0	paranames-en-zh-neg
+Lyn Wadley	包華蓮	0	paranames-en-zh-neg
+Chaoerchi	抄兒赤	0	paranames-en-zh-neg
+Kanami Takasaki	彩乃加奈美	0	paranames-en-zh-neg
+Bjørn Johansen	比约恩·保尔松	0	paranames-en-zh-neg
+Abdoulie Bojang	阿布杜利·沙拉	0	paranames-en-zh-neg
+Redouane Asloum	雷杜安·布格拉巴	0	paranames-en-zh-neg
+Morten Strand	莫騰·林德伯格	0	paranames-en-zh-neg
+Jouni Kotiaho	約尼·許蒂埃	0	paranames-en-zh-neg
+Tiegeshu	帖哥朮	0	paranames-en-zh-neg
+Issac Ikuma	艾薩克·布朗	0	paranames-en-zh-neg
+Carwyn Jones	卡温·格林	0	paranames-en-zh-neg
+Loveday Jenkin	洛夫黛·卡里恩	0	paranames-en-zh-neg
+Pauline Acquart	克萊門蒂娜·梅特涅	0	paranames-en-zh-neg
+Liam Malone	利亞姆·加里根	0	paranames-en-zh-neg
+Mohit Chauhan	莫希特·阿倫	0	paranames-en-zh-neg
+Babette	巴贝特·施罗德	0	paranames-en-zh-neg
+Aikaterini Stergiopoulou	埃卡特里妮·孔托赫里斯托普卢	0	paranames-en-zh-neg
+Wei-an Wang	陳薇安	0	paranames-en-zh-neg
+Léonore d'Étampes de Valençay	莱奥诺雷·孔皮诺	0	paranames-en-zh-neg
+Saho Nanjō	白砂沙帆	0	paranames-en-zh-neg
+Vitorino Antunes	维托里诺·吉马良斯	0	paranames-en-zh-neg
+Weichi Yan	尉遲閏	0	paranames-en-zh-neg
+Markel Brown	馬克爾·克勞佛	0	paranames-en-zh-neg
+Aliocha Itovich	阿廖沙·施耐德	0	paranames-en-zh-neg
+Nadiem Amiri	纳迪姆·马卡里姆	0	paranames-en-zh-neg
+Yervand Kochar	叶尔万德·拉拉扬	0	paranames-en-zh-neg
+Dodie Smith	多迪·希斯	0	paranames-en-zh-neg
+ViVi	李維維	0	paranames-en-zh-neg
+Harro Schulze-Boysen	哈罗·范·斯塔弗登	0	paranames-en-zh-neg
+Sumomo Yumeka	桃森李	0	paranames-en-zh-neg
+Lizzie Warville	莉兹·博伊斯	0	paranames-en-zh-neg
+Masaya Katō	德弘正也	0	paranames-en-zh-neg
+Jade Smet	梁琤	0	paranames-en-zh-neg
+Carin Nilsson	卡琳·戈林	0	paranames-en-zh-neg
+Jabari Parker	賈貝瑞·柏德	0	paranames-en-zh-neg
+Dror Zahavi	德罗尔·科亨	0	paranames-en-zh-neg
+dashou	達壽	0	paranames-en-zh-neg
+Dalibor Matanić	達里波爾·多德爾	0	paranames-en-zh-neg
+Kingsley Onuegbu	金斯利·伍德	0	paranames-en-zh-neg
+Kenrick Tucker	肯里克·默克	0	paranames-en-zh-neg
+Udayana Warmadewa	优填王	0	paranames-en-zh-neg
+Ernst-Wilhelm Reinert	恩斯特 - 威廉姆·拉赫	0	paranames-en-zh-neg
+Mahendra Bahadur Pandey	马亨德拉	0	paranames-en-zh-neg
+Niven Howie	尼文·布希	0	paranames-en-zh-neg
+Uemura Yorioki	植村氏明	0	paranames-en-zh-neg
+Notker of Liège	诺克一世	0	paranames-en-zh-neg
+Pelagius of Cordova	佩拉约	0	paranames-en-zh-neg
+Iskandar I of Johor	苏丹依斯干达沙	0	paranames-en-zh-neg
+Otfried Höffe	奧飛·普思樂	0	paranames-en-zh-neg
+Kido Kiyotane	木戶松子	0	paranames-en-zh-neg
+Dat Tran	達特·潘	0	paranames-en-zh-neg
+Rashed Eisa	拉希德·穆海尔	0	paranames-en-zh-neg
+Venâncio da Silva Moura	維南西奧·拉莫斯	0	paranames-en-zh-neg
+Mihrdat III of Iberia	米赫達特二世	0	paranames-en-zh-neg
+Nhim Sovannara	宁罗	0	paranames-en-zh-neg
+Valerian	瓦雷利安·亞利山德羅維奇·弗洛沃夫	0	paranames-en-zh-neg
+Barış Özbiçer	芭兒‧帕莉	0	paranames-en-zh-neg
+Boa	寶兒	0	paranames-en-zh-neg
+Jaxson Paulo	賈克森·海斯	0	paranames-en-zh-neg
+Mamoudou Karamoko	馬莫多·阿西	0	paranames-en-zh-neg
+Yijing	奕經	0	paranames-en-zh-neg
+Ruogan Jinming	若干惠	0	paranames-en-zh-neg
+Ashikaga Mochinaka	足利滿隆	0	paranames-en-zh-neg
+Kusuo Yasuda	內田九州男	0	paranames-en-zh-neg
+Alex Beever	阿列克斯·格罗斯曼	0	paranames-en-zh-neg
+Svetlana Boiko	斯韦特兰娜·拉济维尔	0	paranames-en-zh-neg
+Martyna Byczkowska	玛蒂娜·库布卡	0	paranames-en-zh-neg
+Irobe Akinaga	色部勝長	0	paranames-en-zh-neg
+Steffen Bohl	斯特芬·基恩勒	0	paranames-en-zh-neg
+Jean-Nicolas Démeunier	讓－尼古拉·巴什	0	paranames-en-zh-neg
+Mahemosha	馬合抹沙	0	paranames-en-zh-neg
+Delfo Bellini	德尔福·卡夫雷拉	0	paranames-en-zh-neg
+Rap Reiplinger	拉普·迪克松	0	paranames-en-zh-neg
+Chang Zhen	張菲	0	paranames-en-zh-neg
+Sergiu Finiti	塞尔久·拉杜	0	paranames-en-zh-neg
+Haku	哈古	0	paranames-en-zh-neg
+Kihachiro Ueda	川本喜八郎	0	paranames-en-zh-neg
+Mykhailo Urytskyi	乳克	0	paranames-en-zh-neg
+Azizah Mohd Dun	阿兹莎·马赞	0	paranames-en-zh-neg
+Zia Arabshahi	齊亞·慕尤丁	0	paranames-en-zh-neg
+Moctezuma I	蒙特祖馬二世	0	paranames-en-zh-neg
+Flavian of Constantinople	弗拉維安·多布里安斯基	0	paranames-en-zh-neg
+Binyamin Amirà	本雅明·埃隆	0	paranames-en-zh-neg
+Seonui	宣懿王后	0	paranames-en-zh-neg
+Abde Ezzalzouli	阿卜德·雷巴赫	0	paranames-en-zh-neg
+Sapphire	萨菲·布洛瑟姆	0	paranames-en-zh-neg
+Tsin Sai-nin	静婷	0	paranames-en-zh-neg
+Cassam Uteem	卡萨姆·穆兰	0	paranames-en-zh-neg
+Eun Ji-won	殷成洙	0	paranames-en-zh-neg
+Yuezhu	岳柱	0	paranames-en-zh-neg
+Tytti Tuppurainen	蒂蒂·伊利·维卡里	0	paranames-en-zh-neg
+Jōtarō Kuwabara	河上丈太郎	0	paranames-en-zh-neg
+Dare Emmanuel	戴尔·罗斯	0	paranames-en-zh-neg
+Ibrahim Aslan	易卜拉欣·魯貝什	0	paranames-en-zh-neg
+Carolina Sarassa	卡罗琳娜·帕德隆	0	paranames-en-zh-neg
+Jaba Ioseliani	賈巴·康卡瓦	0	paranames-en-zh-neg
+Anamaria Marinca	安娜瑪麗亞·沃特魯梅	0	paranames-en-zh-neg
+Thư Hiên Vũ	阮秋	0	paranames-en-zh-neg
+Benge	本奇	0	paranames-en-zh-neg
+Fachri Muhammad	法奇·阿尔巴	0	paranames-en-zh-neg
+Zenobia Shroff	芝诺比阿	0	paranames-en-zh-neg
+Hannspeter Disdorn	韩培德	0	paranames-en-zh-neg
+Kristo Saage	克里斯托·埃恩·瓦加	0	paranames-en-zh-neg
+Domonic Brown	多米尼克·拜德古德	0	paranames-en-zh-neg
+Eren Önsoy	艾倫·達迪約克	0	paranames-en-zh-neg
+Mamiya Rinzō	沖麻實也	0	paranames-en-zh-neg
+Sakutarō Tanino	萩原朔太郎	0	paranames-en-zh-neg
+Alexia Mouza	亚历克西娅·卡尔特西基	0	paranames-en-zh-neg
+Romeyn de Hooghe	羅梅·貝克·胡赫	0	paranames-en-zh-neg
+Federico Spínola	费德里科·迪斯特	0	paranames-en-zh-neg
+Sakakibara Teruhisa	禮姬	0	paranames-en-zh-neg
+Hongxian Zhou	弘暹	0	paranames-en-zh-neg
+Rusty Staub	鲁斯蒂·拉鲁	0	paranames-en-zh-neg
+Voula Patoulidou	沃拉·科斯塔	0	paranames-en-zh-neg
+Noritoshi Hirakawa	嘉島典俊	0	paranames-en-zh-neg
+Sameer Soni	萨米尔·维尔马	0	paranames-en-zh-neg
+Zanele Dlamini Mbeki	扎內爾·穆霍里	0	paranames-en-zh-neg
+Hajin	河珍	0	paranames-en-zh-neg
+Yasuko Anbiru	澤口靖子	0	paranames-en-zh-neg
+Salamat Hashim	萨拉马特·穆卡舍夫	0	paranames-en-zh-neg
+Jalmari Helander	亚尔马里·埃斯科拉	0	paranames-en-zh-neg
+Regla Torres	蕾格拉·贝尔	0	paranames-en-zh-neg
+Woody Jackson	伍迪·布朗	0	paranames-en-zh-neg
+Chiam See Tong	詹天馬	0	paranames-en-zh-neg
+Ljiljana Petrović	希贾纳·尼科勒沃斯卡	0	paranames-en-zh-neg
+Pini Tavger	皮尼·赫斯泰特	0	paranames-en-zh-neg
+Kath Soucie	平諾克女男爵凱絲·平諾克	0	paranames-en-zh-neg
+Hamaguchi Kichiemon	濱口梧陵	0	paranames-en-zh-neg
+Narinder Singh Kapany	纳林德·萨姆拉	0	paranames-en-zh-neg
+Thaila Zucchi	泰拉·埃亚拉	0	paranames-en-zh-neg
+Tilo Prückner	蒂洛·克莱纳	0	paranames-en-zh-neg
+Wieland Schmidt	维兰德·瓦格纳	0	paranames-en-zh-neg
+Wyllis Lam	威利斯·庫珀	0	paranames-en-zh-neg
+Ravindra Kaushik	拉文达·普拉巴特	0	paranames-en-zh-neg
+Lucie Myslivečková	露茜·劳莉尔	0	paranames-en-zh-neg
+Dmitrii Menshov	德米特里·兰金	0	paranames-en-zh-neg
+Gernot Fraydl	赫尔诺特·恩德曼	0	paranames-en-zh-neg
+Pao Siu Loong	王寳貫	0	paranames-en-zh-neg
+Atsuya Kodama	塹江敦哉	0	paranames-en-zh-neg
+Jinrong Li	晉榮	0	paranames-en-zh-neg
+Yoshitake Yokokura	木俁佳丈	0	paranames-en-zh-neg
+Vincent Lui	黃文擇	0	paranames-en-zh-neg
+Eteri Gvazava	埃特里·安賈帕里澤	0	paranames-en-zh-neg
+Yongming Yanshou	永明	0	paranames-en-zh-neg
+Mayan Lopez	玛雅·赛义德	0	paranames-en-zh-neg
+Alfonsas Palionis	A. 尼卡-尼留纳斯	0	paranames-en-zh-neg
+Celia Liang	切利娅·格兰尼亚-德弗利	0	paranames-en-zh-neg
+Norm Grekin	诺姆·库克	0	paranames-en-zh-neg
+Sami Lehtinen	萨米·穆斯塔法	0	paranames-en-zh-neg
+Tomomitsu Niimi	山口智充	0	paranames-en-zh-neg
+Tsumugi Hatakeyama	明里䌷	0	paranames-en-zh-neg
+Tomoe Abe	菅野友惠	0	paranames-en-zh-neg
+Norimitsu Onishi	海法紀光	0	paranames-en-zh-neg
+Coosje Wijzenbeek	库斯耶·斯密德	0	paranames-en-zh-neg
+Masaomi Kondō	神崎将臣	0	paranames-en-zh-neg
+Chiyuki Makimoto	三浦千幸	0	paranames-en-zh-neg
+Harlem Désir	庾澄慶	0	paranames-en-zh-neg
+Hakimi Abdullah	哈金米韩兹哈岳	0	paranames-en-zh-neg
+Elad Zakai	依拉德·凯丹	0	paranames-en-zh-neg
+Palle Schmidt	帕勒·哈尔德	0	paranames-en-zh-neg
+Kaʻiulani	張家瑋	0	paranames-en-zh-neg
+Edgars Krūmiņš	埃德加斯·克魯明斯	0	paranames-en-zh-neg
+Sera Naiqama	瑟拉·托克德米尔	0	paranames-en-zh-neg
+Tatsunosuke Ariizumi	高崎達之助	0	paranames-en-zh-neg
+Maredudd ap Gruffydd	马雷迪兹·阿普·欧文	0	paranames-en-zh-neg
+Aled Bidder	阿雷德·阿普·斯特凡	0	paranames-en-zh-neg
+Yokoi Yayū	横井小楠	0	paranames-en-zh-neg
+Elon Musk	埃隆·林登施特劳斯	0	paranames-en-zh-neg
+Zaharije Ostojić	扎哈里耶·奥尔费林	0	paranames-en-zh-neg
+Evalyn Walsh McLean	伊沃琳·納普	0	paranames-en-zh-neg
+Daneil Cyrus	林小明	0	paranames-en-zh-neg
+Al-Nasir Muhammad	阿布·阿拔斯·艾哈邁德·納賽爾·本·侯賽因	0	paranames-en-zh-neg
+Pingzhu	平住	0	paranames-en-zh-neg
+Gherardo Silvani	格拉多·佩里尼	0	paranames-en-zh-neg
+Nayan	乃颜	0	paranames-en-zh-neg
+Xah Lee	沙 加茲 魯斯塔姆	0	paranames-en-zh-neg
+Atli Jóhannesson	埃特利·葛列格森	0	paranames-en-zh-neg
+Constantin Blaha	康斯坦丁·西姆西里斯	0	paranames-en-zh-neg
+Randolph Guggenheimer I	伦道夫·罗斯	0	paranames-en-zh-neg
+Shraddha Kapoor	施雷德达·达斯	0	paranames-en-zh-neg
+Budd Hopkins	巴德·斯楚伯格	0	paranames-en-zh-neg
+Kyuzo Mifune	當山久三	0	paranames-en-zh-neg
+Guangyu	周光裕	0	paranames-en-zh-neg
+Madelyn Dunham	瑪德琳·皮尤	0	paranames-en-zh-neg
+Shinri Fukui	小峯新陸	0	paranames-en-zh-neg
+Wenpu	文溥	0	paranames-en-zh-neg
+Karuna Banerjee	宮條可留奈	0	paranames-en-zh-neg
+Jalaluddin Alias	賈拉勒-烏德-丁·法提沙	0	paranames-en-zh-neg
+Djamila Sahraoui	贾米拉·兰德布鲁格	0	paranames-en-zh-neg
+Aldin Ðidić	阿尔丹·塞特基奇	0	paranames-en-zh-neg
+Virginia Bolten	維吉尼亞·布魯斯	0	paranames-en-zh-neg
+Rentarō Mikuni	滝廉太郎	0	paranames-en-zh-neg
+Curd Ridel	库尔德·白尔杰	0	paranames-en-zh-neg
+Rosendo Canto	罗森多·查莫罗	0	paranames-en-zh-neg
+Wuyatu	伍雅圖	0	paranames-en-zh-neg
+Raju Patel	拉朱·纳里塞蒂	0	paranames-en-zh-neg
+Kayla Shyx	凱拉·伊希納斯	0	paranames-en-zh-neg
+Yanping Zhu	董彥平	0	paranames-en-zh-neg
+Svante Thuresson	斯萬特·斯托克塞柳斯	0	paranames-en-zh-neg
+Chia-Chi Ping	顧家綺	0	paranames-en-zh-neg
+Sanja Malagurski	萨尼娅·米奇丁	0	paranames-en-zh-neg
+Azmi Bishara	阿兹米卡立	0	paranames-en-zh-neg
+Kawasaki Shōzō	川崎卓吉	0	paranames-en-zh-neg
+Furukawa Yuki	古河市兵卫	0	paranames-en-zh-neg
+Yuana Miyazawa	和深柚有菜	0	paranames-en-zh-neg
+Ely Callaway Jr.	伊利·兰多	0	paranames-en-zh-neg
+Lloyd Grant	萊德·基利	0	paranames-en-zh-neg
+Zaiyi	郭在贻	0	paranames-en-zh-neg
+Jaymes Butler	杰姆斯·扬	0	paranames-en-zh-neg
+Takahito, Prince Mikasa	工藤隆人	0	paranames-en-zh-neg
+Rodion Galyuchenko	罗季翁·阿利莫夫	0	paranames-en-zh-neg
+Zuhal Atmar	祖哈拉·尤里扎	0	paranames-en-zh-neg
+Maurizio Tedesco	毛里齐奥·特塞	0	paranames-en-zh-neg
+Jacek Krzynówek	雅塞克·巴克	0	paranames-en-zh-neg
+Pancho Segura	潘乔·比利亚	0	paranames-en-zh-neg
+Ehrenfried Walther von Tschirnhaus	埃伦弗里德·帕策尔	0	paranames-en-zh-neg
+Somsak Thepsuthin	索姆沙克·莊春拉斯	0	paranames-en-zh-neg
+Georgij Klerzhe	格奥尔基·阿谢尼耶维奇·伊曼纽尔	0	paranames-en-zh-neg
+Hidenobu Abera	木内秀信	0	paranames-en-zh-neg
+Yeoh Kian Teik	杨佳傧	0	paranames-en-zh-neg
+Yuliana Glinka	尤利安娜·利萨拉索	0	paranames-en-zh-neg
+Aldair Quintana	阿戴爾	0	paranames-en-zh-neg
+Susana Tang	蘇珊娜·樋口	0	paranames-en-zh-neg
+Ale Martí	阿勒·麦克哈多	0	paranames-en-zh-neg
+Perry Bamonte	佩里·莫斯	0	paranames-en-zh-neg
+Shahnawaz Bhutto	沙納瓦茲·塔奈	0	paranames-en-zh-neg
+Kuo-Fong Ma	邱國峯	0	paranames-en-zh-neg
+Pwa Saw	紹迪瑪蒂	0	paranames-en-zh-neg
+Sherif Ismail	謝里夫·鮑巴格拉	0	paranames-en-zh-neg
+Yisu	奕橚	0	paranames-en-zh-neg
+Lenna Koszarny	林家冰	0	paranames-en-zh-neg
+Hatem El Mekki	哈特姆·科莱切	0	paranames-en-zh-neg
+Yuhui Shi	陳玉輝	0	paranames-en-zh-neg
+Shigetada Nakanishi	西嶋重忠	0	paranames-en-zh-neg
+Meher Baba	梅赫尔·承包人	0	paranames-en-zh-neg
+Gani Qaliev	加尼·卡西莫夫	0	paranames-en-zh-neg
+Takaya Kawauchi	石川昂彌	0	paranames-en-zh-neg
+Rosman C.C. Wai	羅斯曼·拉薩	0	paranames-en-zh-neg
+Taner Sağır	坦納·阿卡姆	0	paranames-en-zh-neg
+Kazutomi Uchida	山本和臣	0	paranames-en-zh-neg
+Kana Uemura	阿澄佳奈	0	paranames-en-zh-neg
+Hideaki Kase	芹澤秀明	0	paranames-en-zh-neg
+Mahama	马哈马·裘	0	paranames-en-zh-neg
+Sheila Bair	希拉·图西	0	paranames-en-zh-neg
+Derk Bodde	德克·佩雷布姆	0	paranames-en-zh-neg
+Nemesio Yabut	内梅西奥·卡纳莱斯	0	paranames-en-zh-neg
+ZhaoHui Ren	兆惠	0	paranames-en-zh-neg
+Raimonds Vējonis	雷蒙茲·克羅利斯	0	paranames-en-zh-neg
+Jarod Rawiri	贾罗德·库森斯	0	paranames-en-zh-neg
+Natsuki Imai	饭岛夏树	0	paranames-en-zh-neg
+Consort Yan	賈貴妃	0	paranames-en-zh-neg
+Yağız Can Konyalı	亞吉巴桑	0	paranames-en-zh-neg
+Yusof Rawa	尤索夫·伊萨	0	paranames-en-zh-neg
+Voltaire	伏尔泰·科林·库尼西尔	0	paranames-en-zh-neg
+Moshe Goshen-Gottstein	摩西·阿什肯纳齐	0	paranames-en-zh-neg
+Verda Majo	韦尔达·布里奇斯	0	paranames-en-zh-neg
+Sture Ericsson-Ewréus	斯图雷·拉格克兰斯	0	paranames-en-zh-neg
+Bertin Tomou	贝尔廷·奥斯本	0	paranames-en-zh-neg
+Romesh Ranganathan	罗梅什·钱德拉	0	paranames-en-zh-neg
+Thoralf Peters	托拉尔夫·哈根	0	paranames-en-zh-neg
+Zhugou	珠苟	0	paranames-en-zh-neg
+Sukhdev Singh Dhindsa	苏赫杰夫·辛格·苏克哈	0	paranames-en-zh-neg
+Jaz Sinclair	洁丝·狄尔	0	paranames-en-zh-neg
+Buddy Kerr	巴迪·布萊德佛德	0	paranames-en-zh-neg
+Shida Yoshihide	志太野坡	0	paranames-en-zh-neg
+Nieves Álvarez	列薇思·纳瓦罗	0	paranames-en-zh-neg
+Wangchug Gyelpo	旺出兒監藏	0	paranames-en-zh-neg
+Dženan Pejčinović	迪辛恩·列當錫	0	paranames-en-zh-neg
+Thodoris Marantinis	西奥多罗斯·阿瑟里迪斯	0	paranames-en-zh-neg
+Narciso G. Reyes	納西索·伊巴涅斯·瑟拉多	0	paranames-en-zh-neg
+Serghei Cleșcenco	謝爾蓋·塔爾諾夫斯基	0	paranames-en-zh-neg
+Baidu Yisong'e	拜都布蘭泰	0	paranames-en-zh-neg
+Buddhadeb Bhattacharjee	布達哈布·達斯古塔	0	paranames-en-zh-neg
+Apollonius	阿波羅尼烏斯	0	paranames-en-zh-neg
+Bae Hyun-jin	裴炳雨	0	paranames-en-zh-neg
+Lia van Leer	利亞·麥克休	0	paranames-en-zh-neg
+Brandy Talore	布兰迪·莱德福特	0	paranames-en-zh-neg
+Homero Aridjis	薩瓦德拉	0	paranames-en-zh-neg
+Xuedou Chongxian	雪窦智鉴	0	paranames-en-zh-neg
+Brooks Wheelan	布鲁克斯·麦克纳马拉	0	paranames-en-zh-neg
+Romario Kortzorg	罗马里奥·里卡多·席尔瓦	0	paranames-en-zh-neg
+Mojtaba Abedini	莫塔巴·穆哈拉米	0	paranames-en-zh-neg
+Stuart Parkin	史都亞特·吉拉德	0	paranames-en-zh-neg
+Fionnuala Sherry	菲奥努拉·肯尼	0	paranames-en-zh-neg
+Evan H. Caminker	梁伊丹	0	paranames-en-zh-neg
+Mantarō Iwao	小市慢太郎	0	paranames-en-zh-neg
+Roderich Menzel	葡萄鬼	0	paranames-en-zh-neg
+Sigeberht	西吉伯特二世	0	paranames-en-zh-neg
+Hesham Sallam	赫舍姆·哈姆穆德	0	paranames-en-zh-neg
+Wakako Abe	土田和歌子	0	paranames-en-zh-neg
+Domingos Paciência	多明戈斯·达吉亚	0	paranames-en-zh-neg
+Taketora Ogata	武虎	0	paranames-en-zh-neg
+Qinghua Zhu	清華	0	paranames-en-zh-neg
+Even Anthon Thomas Landmark	伊文·佩勒鲁德	0	paranames-en-zh-neg
+Gudrun Burwitz	古德伦·奥斯特里	0	paranames-en-zh-neg
+Saertu	薩爾圖文祿	0	paranames-en-zh-neg
+Fann Kang-lung	范文芳	0	paranames-en-zh-neg
+Tayfur Bingöl	泰富尔·哈武楚	0	paranames-en-zh-neg
+Lam Yi Young	林筱魯	0	paranames-en-zh-neg
+Margravine Philippine of Brandenburg-Schwedt	弗里德里克女侯爵	0	paranames-en-zh-neg
+Siavash Farahani	瑟亚乌什·卡斯拉伊	0	paranames-en-zh-neg
+Joscelin III	乔治林二世	0	paranames-en-zh-neg
+Samuil Feinberg	山謬爾·雅科夫列维奇·馬爾沙克	0	paranames-en-zh-neg
+Yoan Moncada	约昂·古夫兰	0	paranames-en-zh-neg
+Arati Saha	阿拉蒂·普拉巴卡	0	paranames-en-zh-neg
+Egidijus Vaitkūnas	埃吉迪尤斯·莫克維丘斯	0	paranames-en-zh-neg
+Jishan	繼善	0	paranames-en-zh-neg
+Ask Hasselbalch	阿斯克·特鲁尔森	0	paranames-en-zh-neg
+Tre Kelley	崔·艾罗	0	paranames-en-zh-neg
+Kazimir Vulić	卡齐米尔·盖多什	0	paranames-en-zh-neg
+Hui-Min Lin	沈慧敏	0	paranames-en-zh-neg
+Ard Weeink	阿尤希	0	paranames-en-zh-neg
+Sajida Mubarak Atrous al-Rishawi	萨吉达·泰勒法	0	paranames-en-zh-neg
+Pops Staples	波波斯·蒙萨邦苏	0	paranames-en-zh-neg
+Gore Verbinski	戈尔·维达尔	0	paranames-en-zh-neg
+Yasunobu Okugawa	三善康信	0	paranames-en-zh-neg
+Inken Sommer	因肯·威内费尔德	0	paranames-en-zh-neg
+Ishida Mitsunari	石田正澄	0	paranames-en-zh-neg
+Smadar Sayar	斯馬達爾·諾茲	0	paranames-en-zh-neg
+Bancroft Davis	班克罗夫特·格拉迪	0	paranames-en-zh-neg
+Anton Walkes	安东·约西波维奇	0	paranames-en-zh-neg
+Noha Hany	诺哈·乔克拉拉	0	paranames-en-zh-neg
+An Zhi	安世麟	0	paranames-en-zh-neg
+Imar of Tusculum	伊馬爾	0	paranames-en-zh-neg
+Samih Rifat	赛米哈·卡西姆	0	paranames-en-zh-neg
+Shugo Oshinari	藤井秀悟	0	paranames-en-zh-neg
+Redza Minhat	惹扎·畢雅達薩	0	paranames-en-zh-neg
+Giorgi Papunashvili	格奥尔基·马兹尼亚什维利	0	paranames-en-zh-neg
+Lesslie Viguerie	萊斯利·紐比金	0	paranames-en-zh-neg
+Nawab Asman Jah Bahadur	納瓦布·沙阿	0	paranames-en-zh-neg
+Morton J. Blumenthal	莫顿·怀特	0	paranames-en-zh-neg
+Lorelei King	洛雷莱·温特弗罗斯特	0	paranames-en-zh-neg
+Cecilio Báez	塞斯里奧·杜明古斯	0	paranames-en-zh-neg
+Kaneshige Naritsugu	兼重就宣	0	paranames-en-zh-neg
+Iwao Takamoto	袴田巖案	0	paranames-en-zh-neg
+Gim Eun-ji	金宝银	0	paranames-en-zh-neg
+Ecgberht of Ripon	愛格伯特	0	paranames-en-zh-neg
+Saul B. Cohen	索尔·大卫	0	paranames-en-zh-neg
+Thùy Chi	瑞安	0	paranames-en-zh-neg
+Efthimis Filippou	艾錫米斯·茨萨奇斯	0	paranames-en-zh-neg
+Yasutake Tango	舟越保武	0	paranames-en-zh-neg
+Costanzo Ciano	科斯坦扎二世·斯福爾扎	0	paranames-en-zh-neg
+Ryōjo-hosshinnō	良恕法親王	0	paranames-en-zh-neg
+Muliyalian Yongching	木哩雅練慶祿	0	paranames-en-zh-neg
+Ghost Huang	鬼	0	paranames-en-zh-neg
+Miyo Yoshida	山田美叶	0	paranames-en-zh-neg
+Agustín Fuentes	奥古斯汀·迪亚兹·亚内兹	0	paranames-en-zh-neg
+Árpád Pusztai	欧尔班·阿帕德	0	paranames-en-zh-neg
+Ketil Solvik-Olsen	凯特尔·毕卓斯坦	0	paranames-en-zh-neg
+Rudrasimha III	魯德拉西瑪三世	0	paranames-en-zh-neg
+Manja Göring	马尼娅·科瓦尔斯基	0	paranames-en-zh-neg
+Hassan Rabia	哈桑·纳迪尔	0	paranames-en-zh-neg
+Ingeburg Lange	英格堡·施韦茨曼	0	paranames-en-zh-neg
+Tey Kok Kiew	鄭瑞睦	0	paranames-en-zh-neg
+Juji Nakada	田部重治	0	paranames-en-zh-neg
+Ibón Cormenzana	伊本·贝戈尼亚	0	paranames-en-zh-neg
+Xiao-Ling Lu	李晓玲	0	paranames-en-zh-neg
+Vijaya Kumara of Anuradhapura	維賈雅·拉克希米·潘迪特	0	paranames-en-zh-neg
+princezna I-sing	德安公主	0	paranames-en-zh-neg
+Emmanuel Itier	伊曼纽尔·阿涅雷	0	paranames-en-zh-neg
+Tetta Sugimoto	泰塔·穆勒	0	paranames-en-zh-neg
+Mikoto Nanao	麻生美琴	0	paranames-en-zh-neg
+Ziggy Modeliste	理奇·馬利	0	paranames-en-zh-neg
+Sema Özcan	塞玛·艾巴尔斯	0	paranames-en-zh-neg
+Mae Thum Pathumwadee	梅·默瑟	0	paranames-en-zh-neg
+Willy Mattes	威利·多貝	0	paranames-en-zh-neg
+Roddy Woomble	李 忠平	0	paranames-en-zh-neg
+Freddie Wong	弗萊迪·菲茲西蒙斯	0	paranames-en-zh-neg
+Adem Büyük	阿德姆·贾沙里	0	paranames-en-zh-neg
+Çağatay Ulusoy	查阿台·托森	0	paranames-en-zh-neg
+Yuri Linnik	尤里·什米利耶维奇·艾津什皮斯	0	paranames-en-zh-neg
+Damià Abella	达米亚·佛曼特	0	paranames-en-zh-neg
+Phthia of Epirus	馬其頓的佛提雅	0	paranames-en-zh-neg
+Katarina Ammitzbøll	加大利納·維里奧尼	0	paranames-en-zh-neg
+Leander Haußmann	聖利·安德	0	paranames-en-zh-neg
+Denisa Šátralová	德尼莎·普法瑟罗娃	0	paranames-en-zh-neg
+Miner G. Norton	贝德士	0	paranames-en-zh-neg
+Ney Rosauro	內伊·佛朗哥	0	paranames-en-zh-neg
+Nanjō Mototsugu	南條元忠	0	paranames-en-zh-neg
+Guanglin	廣麟	0	paranames-en-zh-neg
+Reta Jo Lewis	瑞塔·蕭	0	paranames-en-zh-neg
+Akhmatbek Keldibekov	阿赫玛特别克·苏尤姆巴耶夫	0	paranames-en-zh-neg
+Nevena Jovanović	内韦娜·曼达吉耶娃	0	paranames-en-zh-neg
+Zalman Schachter-Shalomi	扎勒曼·夏扎尔	0	paranames-en-zh-neg
+Ato Essandoh	阿托·阿勒瑪耶胡·阿斯法	0	paranames-en-zh-neg
+Dashi Namdakov	達實	0	paranames-en-zh-neg
+Balashili	八剌失里	0	paranames-en-zh-neg
+Sergius III	榭集	0	paranames-en-zh-neg
+Mihail Manoilescu	米哈伊尔·波尔菲利耶维奇·格奥尔加泽	0	paranames-en-zh-neg
+Cub Swanson	小熊科達	0	paranames-en-zh-neg
+Charoen Wattanasin	苏旭明	0	paranames-en-zh-neg
+Rasheed Dwyer	拉希德·蘇萊蒙	0	paranames-en-zh-neg
+Rinka Kumada	大野林火	0	paranames-en-zh-neg
+Şehzade Ali Vâsib	艾哈邁德皇子	0	paranames-en-zh-neg
+Elba Escobar	厄尔巴岛埃斯特戈迪略	0	paranames-en-zh-neg
+Susan Dey	蘇珊·達曼特	0	paranames-en-zh-neg
+Jay Berwanger	杰·巴伯利	0	paranames-en-zh-neg
+Cleon	克里昂·瓊斯	0	paranames-en-zh-neg
+Dez Wells	德兹·斯金	0	paranames-en-zh-neg
+Herold Jansson	埃罗尔德·古隆	0	paranames-en-zh-neg
+Safa Khulusi	萨法·格来	0	paranames-en-zh-neg
+Ikko Tadano	田中一光	0	paranames-en-zh-neg
+Toribio de Benavente Motolinia	托比里奧·德·盧蘇里亞加	0	paranames-en-zh-neg
+Đức Nghi Hoàng	阮德平	0	paranames-en-zh-neg
+Garnet Mae	加尼特·奥尔特	0	paranames-en-zh-neg
+Tangjia Sanshao	唐佳平德	0	paranames-en-zh-neg
+Yūjirō Iseki	石原裕次郎	0	paranames-en-zh-neg
+Genji Wada	中村幻兒	0	paranames-en-zh-neg
+Babis Galiatsatos	巴比斯·马克里迪斯	0	paranames-en-zh-neg
+Virius Nicomachus Flavianus	维利乌斯·卢普斯	0	paranames-en-zh-neg
+Momodu Mutairu	莫莫杜·穆努	0	paranames-en-zh-neg
+Rafig Huseynov	拉菲格·阿斯加洛夫	0	paranames-en-zh-neg
+Ghazi Ehmet	加齐·亚瓦尔	0	paranames-en-zh-neg
+Pantelis Karasevdas	潘泰利斯·里佐吉安尼斯	0	paranames-en-zh-neg
+Nazanin Nour	娜扎宁·霍马	0	paranames-en-zh-neg
+Altanochir	阿勒坦鄂齐尔	0	paranames-en-zh-neg
+Vlasta Depetrisová	弗拉斯塔·福尔托娃	0	paranames-en-zh-neg
+Rossella Fiamingo	羅塞拉·格雷戈里奧	0	paranames-en-zh-neg
+Ricardas Marcinkus	貝尼烏西斯	0	paranames-en-zh-neg
+Goose Goslin	戈斯·戈沙基	0	paranames-en-zh-neg
+Rama Yade	劉洲	0	paranames-en-zh-neg
+Buse Meral	布塞·于納爾	0	paranames-en-zh-neg
+Ilanit	伊拉尼特·利维	0	paranames-en-zh-neg
+Tobias Weber	托比亚斯·赖歇尔	0	paranames-en-zh-neg
+Malcom Mussen Lamoh	馬爾科·布朗	0	paranames-en-zh-neg
+Rudyard Kipling	羅德亞德·格里菲斯	0	paranames-en-zh-neg
+Tanuma Okiyuki	田沼意次	0	paranames-en-zh-neg
+Muhyiddin of Brunei	慕尤丁	0	paranames-en-zh-neg
+Masoud Azizi	马苏德·巴尔扎尼	0	paranames-en-zh-neg
+Gerasimos Skiadaressis	耶拉西莫斯・阿爾塞尼斯	0	paranames-en-zh-neg
+Yanqing Wu	衍慶	0	paranames-en-zh-neg
+Anup Chetia	阿努普·辛格	0	paranames-en-zh-neg
+Dexter Gordon	楊天經	0	paranames-en-zh-neg
+Erdenebatyn Bekhbayar	额尔德尼巴廷·曾德巴塔尔	0	paranames-en-zh-neg
+Tord Lundström	托爾德·馬格努松	0	paranames-en-zh-neg
+Maerhan	馬爾漢	0	paranames-en-zh-neg
+Tamaz Gamkrelidze	T. 奇拉泽	0	paranames-en-zh-neg
+Yayo Herrero	亚约·冈萨雷斯	0	paranames-en-zh-neg
+Eustathios Maleinos	欧斯塔蒂奥斯·达夫诺梅勒斯	0	paranames-en-zh-neg
+Chihaya Adachi	佐佐木千隼	0	paranames-en-zh-neg
+Ramli Sarip	南利都申	0	paranames-en-zh-neg
+Dieudonné de Gozon	迪厄多内·恩多马特	0	paranames-en-zh-neg
+Khalifa Al Dhahrani	哈利法·迪奥普	0	paranames-en-zh-neg
+Naruse Masatake	成瀨正虎	0	paranames-en-zh-neg
+Lobna Futers	罗布娜·阿卜杜勒·阿齐兹	0	paranames-en-zh-neg
+Memtimin Qadir	买买提明·牙生	0	paranames-en-zh-neg
+Mack Horton	麥克.斯特朗	0	paranames-en-zh-neg
+Loubna Abidar	盧布娜·班哈賈	0	paranames-en-zh-neg
+Niel Tupas, Sr.	尼尔·勃兰特	0	paranames-en-zh-neg
+Einosuke Itō	秋谷栄之助	0	paranames-en-zh-neg
+Eszter Krutzler	马泰菲·埃丝特	0	paranames-en-zh-neg
+Kazutaka Yoshida	吉野和刚	0	paranames-en-zh-neg
+Jak Wyld	傑克·克勞福德	0	paranames-en-zh-neg
+Ida Husted Harper	艾达·埃勒	0	paranames-en-zh-neg
+L. Nelson Bell	伊丽莎白·路易莎·莫尔斯比	0	paranames-en-zh-neg
+Rino Romano	吉北梨乃	0	paranames-en-zh-neg
+Kelland Watts	凯兰德·奥布莱恩	0	paranames-en-zh-neg
+Nikolas Cruz	尼古拉斯·纳蒂	0	paranames-en-zh-neg
+Kenza Noah Aïche	肯扎·方特斯	0	paranames-en-zh-neg
+Bassem Srarfi	巴西姆·哈米达	0	paranames-en-zh-neg
+Kakeru Kumagai	虎走翔	0	paranames-en-zh-neg
+Akiyama Yoko	秋山好古	0	paranames-en-zh-neg
+Zilvinas Naujokas	日爾維納斯·帕戴加	0	paranames-en-zh-neg
+Zita Cobb	琪塔·昂罗	0	paranames-en-zh-neg
+Sakeda Delenge	薩克達托雲泰	0	paranames-en-zh-neg
+Gadzhimurad Rashidov	嘎茲穆拉德·努瑪格莫多夫	0	paranames-en-zh-neg
+Chong Tow Chong	崇俊	0	paranames-en-zh-neg
+Ngụy Văn Thà	魏如崑嵩	0	paranames-en-zh-neg
+Linzhi	张霖之	0	paranames-en-zh-neg
+Chick Corea	奇克·冈迪	0	paranames-en-zh-neg
+Nampo Bunshi	南浦紹明	0	paranames-en-zh-neg
+Bey Logan	马士强	0	paranames-en-zh-neg
+Alvina Reynolds	陳彥琳	0	paranames-en-zh-neg
+Dorothee Stapelfeldt	多罗泰·威爾姆斯	0	paranames-en-zh-neg
+Killer Kowalski	杀手迈克	0	paranames-en-zh-neg
+Artemisia II of Caria	东北丝裂蒿	0	paranames-en-zh-neg
+Minae Noji	閔哀王	0	paranames-en-zh-neg
+Takaji Matsudo	胁田隆字	0	paranames-en-zh-neg
+Theodoric I of Wettin	西奥多里克二世	0	paranames-en-zh-neg
+Lech Bądkowski	萊赫·卡欽斯基	0	paranames-en-zh-neg
+Tsuna Suzuki	木村都那	0	paranames-en-zh-neg
+Horace Lawson Hunley	夸里奇·威尔斯	0	paranames-en-zh-neg
+Iga no kata	伊加·斯維亞特克	0	paranames-en-zh-neg
+Ichi Sakuragawa	折原一	0	paranames-en-zh-neg
+Gisele Oppermann	吉赛尔·格兰特	0	paranames-en-zh-neg
+Hamlet Isakhanli	哈姆雷特·阿拉克良	0	paranames-en-zh-neg
+Jōshi	喬什·可格森	0	paranames-en-zh-neg
+Lodovico Grossi da Viadana	洛多維科·拉扎撒勒利	0	paranames-en-zh-neg
+Sakuko Miyoshi	加藤作子	0	paranames-en-zh-neg
+Godwin Attram	葛榮·三摩羅羅頓	0	paranames-en-zh-neg
+Dongye Rong	東野子禮	0	paranames-en-zh-neg
+Tsui Shiu-ling	徐天就	0	paranames-en-zh-neg
+Shima Shandena	石抹明里	0	paranames-en-zh-neg
+Halley Feiffer	哈雷·格罗斯	0	paranames-en-zh-neg
+Ruddy Zang Milama	魯迪·布克特	0	paranames-en-zh-neg
+Machi Tawara	马希·萨尔加多	0	paranames-en-zh-neg
+Ippolita Maria Sforza	伊波莉塔·特里佛齊奧	0	paranames-en-zh-neg
+Örjan Sandler	厄尔扬·佩尔松	0	paranames-en-zh-neg
+Hamidou Benmassoud	哈米杜·迪亞洛	0	paranames-en-zh-neg
+Ellie Tsai	賴英里	0	paranames-en-zh-neg
+Ayrton Preciado	艾爾頓·冼拿	0	paranames-en-zh-neg
+Mihriban Mihrişah Sultan	米赫里班·呃尔	0	paranames-en-zh-neg
+Mithun Chakraborty	米通·曼朱纳特	0	paranames-en-zh-neg
+Yoandy Garlobo	約安迪·萊亞	0	paranames-en-zh-neg
+Amlaíb	奧拉夫·庫蘭	0	paranames-en-zh-neg
+Arika	寶野亞莉華	0	paranames-en-zh-neg
+Jovan Aćimović	約萬·卡拉馬塔	0	paranames-en-zh-neg
+Patti Murin	帕蒂·卡塔拉諾	0	paranames-en-zh-neg
+Hidemi Tokura	西田秀己	0	paranames-en-zh-neg
+Joslyn Hoyte-Smith	乔斯林·詹姆斯	0	paranames-en-zh-neg
+Yanyu	衍豫	0	paranames-en-zh-neg
+Meru Nukumi	田島芽瑠	0	paranames-en-zh-neg
+Fazil Mustafa	法齊爾·伊斯坎德爾	0	paranames-en-zh-neg
+Kedar Williams-Stirling	凯达尔·卡尔基	0	paranames-en-zh-neg
+Seigai Kinoshita	大村西崖	0	paranames-en-zh-neg
+Hannele Pokka	漢內萊·賽格斯坦	0	paranames-en-zh-neg
+Jayson Werth	杰森·琼斯	0	paranames-en-zh-neg
+Yoss Bones	瑤熙·霍夫曼	0	paranames-en-zh-neg
+Miru Takayama	坂道美琉	0	paranames-en-zh-neg
+Chi-Fu Yang	黄奇辅	0	paranames-en-zh-neg
+Dessie Baker	德齊·哈欽森	0	paranames-en-zh-neg
+Bakyt Torobayev	巴克特·奥斯蒙卡诺夫	0	paranames-en-zh-neg
+Benedetto Brin	贝内代托·热纳里二世	0	paranames-en-zh-neg
+Beppo Pohlmann	贝波·库斯特	0	paranames-en-zh-neg
+Meike Hauck	迈克·基尔舍	0	paranames-en-zh-neg
+Mangala	曼加拉·巴伊	0	paranames-en-zh-neg
+Atagi Fuyuyasu	安宅信康	0	paranames-en-zh-neg
+Qui Minjie	邱佩宁	0	paranames-en-zh-neg
+Cary Guffey	凱瑞·奧德爾	0	paranames-en-zh-neg
+Kata of Georgia	卡塔·加斯帕尔	0	paranames-en-zh-neg
+Saffet Sancaklı	萨菲特帕夏	0	paranames-en-zh-neg
+Viktoriia Safonova	维多利亚·季吉普科	0	paranames-en-zh-neg
+Elsad Zverotić	艾爾沙德·何塞	0	paranames-en-zh-neg
+Yantiemuer	燕帖木爾	0	paranames-en-zh-neg
+Jion, Makabe Ajiganashi	念阿彌慈恩	0	paranames-en-zh-neg
+Nicolae Gheorghe	尼古拉·沃克罗尤	0	paranames-en-zh-neg
+Seina Aikawa	福岡聖菜	0	paranames-en-zh-neg
+Bartley Schmitz	巴特利·克拉姆	0	paranames-en-zh-neg
+Hidayat	希达悦·阿沙尼	0	paranames-en-zh-neg
+Shishan	世善	0	paranames-en-zh-neg
+Kenyu Horiuchi	杉本健勇	0	paranames-en-zh-neg
+Fumi Oda	森澤芙美	0	paranames-en-zh-neg
+Muhamed Bešić	穆罕默德·菲利波維奇	0	paranames-en-zh-neg
+Aminath Shajan	阿米纳特·纳比哈·阿卜杜勒·拉扎克	0	paranames-en-zh-neg
+Mateus Ward	马特乌斯·阿尔维斯	0	paranames-en-zh-neg
+Kawamura Sumiyoshi	川村景明	0	paranames-en-zh-neg
+Simo Häyhä	西莫·拉克索宁	0	paranames-en-zh-neg
+Kun Zhang	杨堃	0	paranames-en-zh-neg
+Pollyanna Woodward	朱李月華	0	paranames-en-zh-neg
+Nanami Igarashi	塩野七生	0	paranames-en-zh-neg
+Khawaja Muhammad Asif	卡瓦贾·纳兹穆丁	0	paranames-en-zh-neg
+Susi Jeans	苏西·埃德曼	0	paranames-en-zh-neg
+Adela of Flanders	阿德拉·亚布罗·柯林斯	0	paranames-en-zh-neg
+Hanni Toosbuy Kasprzak	汉尼·文策尔	0	paranames-en-zh-neg
+Cher	雪兒·洛薇	0	paranames-en-zh-neg
+Shulü Pogu	書魯	0	paranames-en-zh-neg
+Wilkie Cooper	威尔基·柯林斯	0	paranames-en-zh-neg
+Misty Lee	米斯提·歐普瑪	0	paranames-en-zh-neg
+Kev Adams	凯夫·卡希尔	0	paranames-en-zh-neg
+Akis Sakellariou	西奥多罗斯·查齐安托尼乌	0	paranames-en-zh-neg
+Untung Surapati	林其文	0	paranames-en-zh-neg
+Ryuma Kidokoro	剛龍馬	0	paranames-en-zh-neg
+Tyne Stecklein	泰恩·戴利	0	paranames-en-zh-neg
+Wanting Fu	曲婉婷	0	paranames-en-zh-neg
+Carsten Wolf	卡斯腾·摩根森	0	paranames-en-zh-neg
+Gonçalo Abecasis	冈萨洛·埃斯特维斯	0	paranames-en-zh-neg
+Renee of France	芮妮·菲利斯·史密斯	0	paranames-en-zh-neg
+Se Seleng	色埒黙	0	paranames-en-zh-neg
+Jascha Baum	傑西卡·華盛頓	0	paranames-en-zh-neg
+Mirjana Lučić-Baroni	米里亚娜·奥格涅诺维奇	0	paranames-en-zh-neg
+Shōni Yoshiyori	少弐景資	0	paranames-en-zh-neg
+Reyhan Arabacıoğlu	雷漢·卡拉卡	0	paranames-en-zh-neg
+Ayisha Davies	阿伊莎·伊萨	0	paranames-en-zh-neg
+Ryota Hayashi	新妻良太	0	paranames-en-zh-neg
+Tia Tanaka	袁娅维	0	paranames-en-zh-neg
+Kosta Tomašević	科斯塔·皮诺维奇	0	paranames-en-zh-neg
+Shangguan Zheng	上官謨	0	paranames-en-zh-neg
+Vlatko Marković	弗拉特科·武科维奇	0	paranames-en-zh-neg
+Kaiser Gates	凱瑟·威爾罕姆	0	paranames-en-zh-neg
+Niklaus Meienberg	尼克勞斯·雪林	0	paranames-en-zh-neg
+Julio Gallardo	胡利奥·米勒	0	paranames-en-zh-neg
+Christi Jacobsen	克里斯蒂·保罗	0	paranames-en-zh-neg
+Rattan Lal	何承駿	0	paranames-en-zh-neg
+Tōmi	托米·波伊科莱宁	0	paranames-en-zh-neg
+Alanna Kennedy	阿蘭娜·莫特森	0	paranames-en-zh-neg
+Osamu Kobayashi	手塚治虫	0	paranames-en-zh-neg
+Tomoshige Samejima	长船长重	0	paranames-en-zh-neg
+Harrie Lavreysen	哈里·威森哈恩	0	paranames-en-zh-neg
+Vann Nath	旺莫利萬	0	paranames-en-zh-neg
+Riz Ahmed	里兹·梅丁	0	paranames-en-zh-neg
+Taina	泰娜·毛勒	0	paranames-en-zh-neg
+Debbi Fields	戴比·摩根	0	paranames-en-zh-neg
+Htin Linn Aung	貌丁昂	0	paranames-en-zh-neg
+Kaila Yu	凯拉·阿马里亚	0	paranames-en-zh-neg
+Baiwutai	柏烏臺	0	paranames-en-zh-neg
+Zhuo Jun	卓廷紳	0	paranames-en-zh-neg
+Kunishige Tanaka	釜本邦茂	0	paranames-en-zh-neg
+Viliam Hýravý	威廉·卡爾馬津	0	paranames-en-zh-neg
+Graydon Oliver	格雷登·卡特	0	paranames-en-zh-neg
+April Showers	阿普丽尔·麦卡洛	0	paranames-en-zh-neg
+Lotje IJzermans	洛杰·范·伦特伦	0	paranames-en-zh-neg
+Wha Young Lee	慶順王	0	paranames-en-zh-neg
+Malik Monk	马利克·奥巴马	0	paranames-en-zh-neg
+Tuğba Şenoğlu	塔巴·埃金奇	0	paranames-en-zh-neg
+Ikuya Motoki	澤木郁也	0	paranames-en-zh-neg
+Hao Hui	郝鍈	0	paranames-en-zh-neg
+Pierino Gabetti	彼得罗·凡纳	0	paranames-en-zh-neg
+Hiyori Nanoka	河野日和	0	paranames-en-zh-neg
+Slater Martin	帥德	0	paranames-en-zh-neg
+Precious Achiuwa	普雷舍斯·麦肯齐	0	paranames-en-zh-neg
+Mr. Bill	T先生	0	paranames-en-zh-neg
+Rohan Butler	羅恩·魯賓遜	0	paranames-en-zh-neg
+Luise Ullrich	路易絲·克莉絲蒂安妮	0	paranames-en-zh-neg
+Rory Bremner	羅伊·索通	0	paranames-en-zh-neg
+Alberto J. Mora	阿尔贝托·瓦莱里奥	0	paranames-en-zh-neg
+Tatu Pekkarinen	塔图·万哈宁	0	paranames-en-zh-neg
+Jean-Claude Merlin	盧傑	0	paranames-en-zh-neg
+Vali Ionescu	瓦利·纳斯尔	0	paranames-en-zh-neg
+Viacheslav Chirikba	維亞切斯拉夫·克拉西爾尼科夫	0	paranames-en-zh-neg
+Eikichi Araki	上林山榮吉	0	paranames-en-zh-neg
+Ruler 3	5号统治者	0	paranames-en-zh-neg
+Sauli Niinistö	绍利·韦伊塞宁	0	paranames-en-zh-neg
+Sanggye Rinchen	桑吉贝角	0	paranames-en-zh-neg
+Jorunn Hauge	乔鲁恩·杰利斯比	0	paranames-en-zh-neg
+Aito Mäkinen	武田愛斗	0	paranames-en-zh-neg
+Gabi Scardi	加比·西夫特	0	paranames-en-zh-neg
+Rami Hamdallah	拉米·杜埃希	0	paranames-en-zh-neg
+Annick Christiaens	安尼克·瑟馬索	0	paranames-en-zh-neg
+Asparuh Nikodimov	阿斯巴鲁赫	0	paranames-en-zh-neg
+Vendela Lindblom	温德拉·科斯伯姆	0	paranames-en-zh-neg
+Yossef Romano	波丹斯基	0	paranames-en-zh-neg
+Hilaire de Chardonnet	希莱尔·贝洛克	0	paranames-en-zh-neg
+Anabella Azin	安娜貝拉·德拉蒙德	0	paranames-en-zh-neg
+Sheikh Mansur	昭披耶·波稳拉差纳优	0	paranames-en-zh-neg
+Sidonie of Saxony	西多尼·博内克	0	paranames-en-zh-neg
+Alexandria Lakewood	亞歷珊安德拉·艾弗特	0	paranames-en-zh-neg
+Osei Tutu	奥赛·邦苏	0	paranames-en-zh-neg
+Léopold Ritondale	列奥波德·霍纳尔	0	paranames-en-zh-neg
+Kouichi Hiraishi	河本浩一	0	paranames-en-zh-neg
+Wei-Chieh Huang	葉惟捷	0	paranames-en-zh-neg
+Giò Giò Rapattoni	吉奧·岡薩雷茲	0	paranames-en-zh-neg
+I Dohak	以撒多·史東	0	paranames-en-zh-neg
+Garsende	福卡爾基耶的加爾仙德	0	paranames-en-zh-neg
+Irmgard Griss	伊姆加德·阿布斯-武尔姆巴赫	0	paranames-en-zh-neg
+Teddy Mayer	娜塔莉兒·柯斯	0	paranames-en-zh-neg
+Janez Lenarčič	亚尼·克莱门契奇	0	paranames-en-zh-neg
+Joachim Kosack	约阿希姆·贝辛	0	paranames-en-zh-neg
+Asano Nagamasa	淺野綱長	0	paranames-en-zh-neg
+Motoki Kawasaki	舩橋求己	0	paranames-en-zh-neg
+Kuang Shi	鄺昌	0	paranames-en-zh-neg
+Osmond Gilles	奥斯蒙德·布洛克	0	paranames-en-zh-neg
+Lassina Traoré	拉西那·泽博	0	paranames-en-zh-neg
+Wangjia Haiming	汪佳阿爾邦阿	0	paranames-en-zh-neg
+Nobushige Morishita	織田信成	0	paranames-en-zh-neg
+Mahina Amane	前田·馬西娜	0	paranames-en-zh-neg
+Cressida Dick	克瑞西達·海斯	0	paranames-en-zh-neg
+Mui Yan	玫瑰女	0	paranames-en-zh-neg
+Yunho	鄭允浩	0	paranames-en-zh-neg
+Elvira Sastre	埃尔维拉·德·伊达尔格	0	paranames-en-zh-neg
+Ilias Meletis	伊利亞斯·阿霍馬赫	0	paranames-en-zh-neg
+Inger K. Frith	I. 克里斯登森	0	paranames-en-zh-neg
+Noreen Murray	诺琳·尤利亚诺	0	paranames-en-zh-neg
+Atlee	艾特利·漢馬克	0	paranames-en-zh-neg
+Hermanis Vazdiks	赫尔曼尼斯·阿尔巴茨	0	paranames-en-zh-neg
+Kunigunde of Bohemia	韋因加爾滕的庫尼貢德	0	paranames-en-zh-neg
+Miloš Grlica	米洛什·博约维奇	0	paranames-en-zh-neg
+Motohiro Yamaguchi	土屋大洋	0	paranames-en-zh-neg
+Bernardin Kingue Matam	伯爾納鐸·加汀	0	paranames-en-zh-neg
+Chimaki Kuori	平林千牧	0	paranames-en-zh-neg
+Rainbow Wedell	蓝宝·桑·法兰克斯	0	paranames-en-zh-neg
+Ehren Kruger	艾倫·麥吉海	0	paranames-en-zh-neg
+Rogers H. Stolen	罗杰斯·卡登海德	0	paranames-en-zh-neg
+Isaka Toyomitsu	伊萨卡·萨瓦多戈	0	paranames-en-zh-neg
+Khamzat Chimaev	哈姆扎·艾西莫夫	0	paranames-en-zh-neg
+Federica Falzon	费代丽卡·瓦伦蒂	0	paranames-en-zh-neg
+Susy Clemens	苏西·戴尔·朱迪斯	0	paranames-en-zh-neg
+Ashleigh Southern	阿什莉·纳尔逊	0	paranames-en-zh-neg
+Wendell R. Anderson	溫德爾	0	paranames-en-zh-neg
+Tokie Kawase	左時枝	0	paranames-en-zh-neg
+Hekiru Shiina	冰川碧流	0	paranames-en-zh-neg
+Jacqui Safra	杰奎·杜洛特	0	paranames-en-zh-neg
+Keiroku Araki	關敬六	0	paranames-en-zh-neg
+Henderson King Yoakum	亨德森·阿爾瓦雷斯	0	paranames-en-zh-neg
+Aslı Zengin	阿斯莱汉·马尔博拉	0	paranames-en-zh-neg
+Kai-hime	甲斐姬	0	paranames-en-zh-neg
+Raha Khodayari	拉哈·穆哈瑞克	0	paranames-en-zh-neg
+Jeanne Black	珍妮·芭蕾	0	paranames-en-zh-neg
+Shinichi Ikejiri	森井浩	0	paranames-en-zh-neg
+Melis Sezen	梅丽丝·明卡里	0	paranames-en-zh-neg
+Tanja Schwerdorf	塔尼娅·弗兰克	0	paranames-en-zh-neg
+Norton Leufven	诺顿·巴恩希尔	0	paranames-en-zh-neg
+Weldon	柯蔚南	0	paranames-en-zh-neg
+Asil Nadir	阿西尔·赖斯	0	paranames-en-zh-neg
+Ginny Man	金妮·泰勒	0	paranames-en-zh-neg
+Fengwei You	谢丰蔚	0	paranames-en-zh-neg
+Elka Wardega	鄭芷淇	0	paranames-en-zh-neg
+Velislav Minekov	维利斯拉夫·帕夫洛夫	0	paranames-en-zh-neg
+Guaerjia Songjun	瓜爾佳文奎	0	paranames-en-zh-neg
+Krisztina Regőczy	克里斯蒂娜·托特	0	paranames-en-zh-neg
+Ireen Sheer	伊麗恩·伍思特	0	paranames-en-zh-neg
+Vonetta McGee	維內塔·芙勞爾斯	0	paranames-en-zh-neg
+Luboš Loučka	卢博什·拉钱斯基	0	paranames-en-zh-neg
+Khuong Sreng	康有飛	0	paranames-en-zh-neg
+Monti Davis	蒙瑟爾·莫森	0	paranames-en-zh-neg
+Mallory Wanecque	馬洛里·貝希特爾	0	paranames-en-zh-neg
+Eurydice of Egypt	雅典的歐律狄刻	0	paranames-en-zh-neg
+Farhat Horchani	费尔哈特·拉杰希	0	paranames-en-zh-neg
+Haidar Abu Bakr al-Attas	海达尔·阿卜杜勒—阿米尔	0	paranames-en-zh-neg
+Morihiro Suzuki	盛厚王	0	paranames-en-zh-neg
+Line Daugaard	琳恩·喬斯菲克	0	paranames-en-zh-neg
+Annabella	安娜貝拉·匹噶圖	0	paranames-en-zh-neg
+Neferneferuaten Tasherit	妮斐妮斐鲁阿頓	0	paranames-en-zh-neg
+Zviad Endeladze	茲維亞德·加姆薩胡爾季阿	0	paranames-en-zh-neg
+Achilles Fang	阿基琉斯·塔提奥斯	0	paranames-en-zh-neg
+Ilinca Calugareanu	伊琳卡·基斯	0	paranames-en-zh-neg
+Baciro Candé	巴希羅·賈	0	paranames-en-zh-neg
+Zénon	芝諾·卡拉維拿	0	paranames-en-zh-neg
+Rif Ayupov	瑞夫·休頓	0	paranames-en-zh-neg
+Naimandai	乃蠻歹	0	paranames-en-zh-neg
+Munseong	文聖王	0	paranames-en-zh-neg
+Roseanne Supernault	罗斯安·阿奇博尔德	0	paranames-en-zh-neg
+Merdan Muqati	梅尔丹·塔普拉克	0	paranames-en-zh-neg
+Priti Adani	普丽蒂·帕特尔	0	paranames-en-zh-neg
+Dowager Noble Consort Wan	嘉慈皇后	0	paranames-en-zh-neg
+Red Soda	紅眼	0	paranames-en-zh-neg
+İlhan Palut	伊漢·文斯	0	paranames-en-zh-neg
+Mizuho Nogawa	梅村美穗	0	paranames-en-zh-neg
+Thurston Hall	瑟斯頓·摩爾	0	paranames-en-zh-neg
+Selman Iyi	赛尔曼·A·瓦克斯曼	0	paranames-en-zh-neg
+eighth daughter of Kangxi	乾隆帝皇八女	0	paranames-en-zh-neg
+Moacir Barbosa Nascimento	莫阿基·罗德里格斯·桑托斯	0	paranames-en-zh-neg
+Jaycee Chan	熱切·阿克旺尼	0	paranames-en-zh-neg
+Đậu Thái	區樂民	0	paranames-en-zh-neg
+SHIAN Yuan	王石安	0	paranames-en-zh-neg
+Seizo Nakazono	5代太田清藏	0	paranames-en-zh-neg
+Chanya McClory	坎尼亚·巴顿	0	paranames-en-zh-neg
+Višeslav of Serbia	维舍斯拉夫·萨里奇	0	paranames-en-zh-neg
+Jennings Randolph	詹寧斯·蘭	0	paranames-en-zh-neg
+Külüg Bilge khagan	元武宗	0	paranames-en-zh-neg
+Fatoumata Diawara	法圖馬塔·湯巴江	0	paranames-en-zh-neg
+Pang Jingtai	龐娥親	0	paranames-en-zh-neg
+Natali Broods	娜塔莉	0	paranames-en-zh-neg
+Rosina Carbone	林夏薇	0	paranames-en-zh-neg
+Gholam Ali Oveisi	戈拉姆·列扎·爱资哈里	0	paranames-en-zh-neg
+Rommel Padilla	隆美尔·沙利斯	0	paranames-en-zh-neg
+Či Bulag	慈云祥	0	paranames-en-zh-neg
+Anil K. Jain	安尼爾·古普塔	0	paranames-en-zh-neg
+Himeka	淺見姬香	0	paranames-en-zh-neg
+Bakary Saré	巴卡利·蘇馬爾	0	paranames-en-zh-neg
+Edan Leshem	呂爵安	0	paranames-en-zh-neg
+Lilli Paasikivi	莉莉·玛丽·拉切尔	0	paranames-en-zh-neg
+Nazrin Choudhury	蘇丹納茲林沙	0	paranames-en-zh-neg
+We Trisig Shangnyen	韦·甲多热	0	paranames-en-zh-neg
+Trinle Gyatso	澈贊法王	0	paranames-en-zh-neg
+Osborne Colson	奧斯本·哈特	0	paranames-en-zh-neg
+Karishma Wadkar	卡里什馬·坦納	0	paranames-en-zh-neg
+Wiltrud Urselmann	维尔特鲁德·德雷克塞尔	0	paranames-en-zh-neg
+Juliano Cazarré	朱利安諾·薩爾加多	0	paranames-en-zh-neg
+Kikuchi Takefusa	菊池武光	0	paranames-en-zh-neg
+Suhaimi Nasir	苏海米莫哈末再因	0	paranames-en-zh-neg
+Akemi Kato	岡村明美	0	paranames-en-zh-neg
+Ngapo Rinchen	阿沛·仁增	0	paranames-en-zh-neg
+Rosalind McGee	羅莎琳德·庫比特	0	paranames-en-zh-neg
+Ayumi Koyanagi	藤井亞由美	0	paranames-en-zh-neg
+Sade Katarina	莎黛	0	paranames-en-zh-neg
+Borommarachathirat II	波隆瑪拉差四世	0	paranames-en-zh-neg
+Gregg Hale	葛雷格·佐恩	0	paranames-en-zh-neg
+Yoneko Matsukane	都筑米子	0	paranames-en-zh-neg
+Elkie	埃尔基·布鲁克斯	0	paranames-en-zh-neg
+Adhémar Fabri	艾迪馬·德·巴羅斯	0	paranames-en-zh-neg
+Dominika Włodarczyk	多米尼卡·埃特克斯	0	paranames-en-zh-neg
+Taira no Kanemori	平將恆	0	paranames-en-zh-neg
+Sulejman Ugljanin	蘇萊曼·克爾皮奇	0	paranames-en-zh-neg
+Bingham Dai	宾汉姆·雷	0	paranames-en-zh-neg
+Jean-Toussaint Arrighi de Casanova	让 - 图森·贝尔纳	0	paranames-en-zh-neg
+Isadore Sharp	伊萨多·辛格	0	paranames-en-zh-neg
+Koen Verweij	科恩·卡斯蒂爾斯	0	paranames-en-zh-neg
+Rajnish Mehra	拉哈尼什·库马尔	0	paranames-en-zh-neg
+Rokusaburō Mochiji	道場六三郎	0	paranames-en-zh-neg
+Aw Chu Kin	李益森	0	paranames-en-zh-neg
+Ennio De Giorgi	恩尼奥·莫里科内	0	paranames-en-zh-neg
+Annia Faustina	安妮亞·科妮菲希亞·福斯蒂娜	0	paranames-en-zh-neg
+Karl-Josef Rauber	卡尔-约瑟夫·阿森马赫	0	paranames-en-zh-neg
+Shakuntala Haraksingh Thilsted	夏琨塔拉·戴维	0	paranames-en-zh-neg
+Notburga de Bavière	诺布加·威尔	0	paranames-en-zh-neg
+Sione Tupou Mateialona	瑟昂·武納·法奧圖斯亞	0	paranames-en-zh-neg
+Jamsrangiin Tseveen	扎木斯朗·桑布	0	paranames-en-zh-neg
+Fred Berlin	弗雷德·C·科赫	0	paranames-en-zh-neg
+Alden Brewster	奧爾登·麥克勞克林	0	paranames-en-zh-neg
+Anatoli Ivanishin	阿纳托利·伊雷因	0	paranames-en-zh-neg
+Enriqueta Pinto Garmendia	弗里森的亨麗埃特·阿瑪莉埃	0	paranames-en-zh-neg
+Annelie Bhagavan	安内利·埃尔哈特	0	paranames-en-zh-neg
+Cheng-Yi Hsu	賴正鎰	0	paranames-en-zh-neg
+Konchok Yenlag	贡唐仓·贡却丹贝嘉措	0	paranames-en-zh-neg
+Katsuren Seiyū	馬勝連	0	paranames-en-zh-neg
+Lígia Walper	利贾·布拉尼卡	0	paranames-en-zh-neg
+Jean-Guillaume Béatrix	吉恩‑纪尧姆·拜尔特	0	paranames-en-zh-neg
+Yukiko Amada	岡田有希子	0	paranames-en-zh-neg
+Tomy Winata	湯美	0	paranames-en-zh-neg
+Harumi Ikoma	根本春美	0	paranames-en-zh-neg
+Marie-Ange Magne	玛丽‑安格·卢奇亚尼	0	paranames-en-zh-neg
+Achu	阿啾	0	paranames-en-zh-neg
+Jahi J.J. Zuri	贾西·迪阿洛·温斯顿	0	paranames-en-zh-neg
+Akimoto Hirotomo	秋元景朝	0	paranames-en-zh-neg
+Dương Anh Điền	楊碧蓮	0	paranames-en-zh-neg
+Toku-hime	德川督姬	0	paranames-en-zh-neg
+Pir Ahmad of Karaman	皮兒·馬黑麻	0	paranames-en-zh-neg
+Naiyan Zhang	王乃彦	0	paranames-en-zh-neg
+Christa McAuliffe	克里斯塔·威尔斯	0	paranames-en-zh-neg
+Mikalai Ulakhovich	尼古拉·扎伊琴科	0	paranames-en-zh-neg
+Jizhong Feng	周集中	0	paranames-en-zh-neg
+Hervey M. Cleckley	罗兹勋爵	0	paranames-en-zh-neg
+Tudan Zheng	徒單公履	0	paranames-en-zh-neg
+Cristian López	克里斯蒂安·杜米特魯·波佩斯庫	0	paranames-en-zh-neg
+Orla Guerin	欧拉·麦克唐纳	0	paranames-en-zh-neg
+Masakatsu Sasaki	高木正勝	0	paranames-en-zh-neg
+IONG Weng Ian	容慶慈	0	paranames-en-zh-neg
+Kâzım Orbay	葛井勝介	0	paranames-en-zh-neg
+Natale Tulli	白乐崎	0	paranames-en-zh-neg
+Christie G. Enke	基道霍·馬卡盧索	0	paranames-en-zh-neg
+Creed Taylor	克里德·布萊頓	0	paranames-en-zh-neg
+Wendu Ehai	溫都德明	0	paranames-en-zh-neg
+Šarūnas Birutis	萨鲁纳斯·马修利奥尼斯	0	paranames-en-zh-neg
+Liwen Wen	姚立雯	0	paranames-en-zh-neg
+Rolf-Dieter Postlep	羅爾夫-迪特爾·霍耶爾	0	paranames-en-zh-neg
+Sybille Bammer	西比尔·克洛岱尔	0	paranames-en-zh-neg
+Omurbek Tekebayev	奧穆爾別克·巴巴諾夫	0	paranames-en-zh-neg
+Rosita Bouchot	郭柏妍	0	paranames-en-zh-neg
+Dale Joseph Melczek	戴爾·貝拉	0	paranames-en-zh-neg
+Pierre-Louis Chovet	皮埃尔-路易斯·法洛西	0	paranames-en-zh-neg
+Cunigunde of Swabia	盧森堡的顧乃宮	0	paranames-en-zh-neg
+Muriel Vanderbilt	妙麗葉兒·鮑克斯	0	paranames-en-zh-neg
+Xianglin Shi	祥麟	0	paranames-en-zh-neg
+Olle Wirenhed	奥勒·阿道弗森	0	paranames-en-zh-neg
+Bimbo Hart	比木伯·阿德莫耶	0	paranames-en-zh-neg
+Ou Jin	歐希定	0	paranames-en-zh-neg
+Domagoj Bubalo	多馬戈伊·安東利奇	0	paranames-en-zh-neg
+Dailin	戴琳·加布里埃尔	0	paranames-en-zh-neg
+Sissi	茜茜·珀然勒	0	paranames-en-zh-neg
+Samar Yazbek	萨马尔·夸蒂	0	paranames-en-zh-neg
+Giovan Battista Albini	乔凡·巴蒂斯塔·卡尔皮	0	paranames-en-zh-neg
+Chenyang Yang	许晨阳	0	paranames-en-zh-neg
+Sallehuddin Abdullah	東姑沙烈胡丁	0	paranames-en-zh-neg
+Manaka Kataoka	稻場愛香	0	paranames-en-zh-neg
+Ezequiel Ávila	埃兹奎尔·哈姆	0	paranames-en-zh-neg
+Othman Saat	奥斯曼阿都	0	paranames-en-zh-neg
+Magui Bravi	馬貴·塞爾娜	0	paranames-en-zh-neg
+Sigrid Nunez	西格丽德·赫尔纳	0	paranames-en-zh-neg
+Mitsutaka Hirota	藤田光孝	0	paranames-en-zh-neg
+Antonina Tomaszewska	安东宁娜·马克西莫娃	0	paranames-en-zh-neg
+Carl-Erik Asplund	卡尔-埃里克·奥尔松	0	paranames-en-zh-neg
+Bailey Stender	貝莉·潔	0	paranames-en-zh-neg
+Romel Raffin	罗梅尔·奎诺内斯	0	paranames-en-zh-neg
+Lucius Aurelius Orestes	卢基乌斯·j·百克	0	paranames-en-zh-neg
+Theobald of Arles	貝克的西奧博爾德	0	paranames-en-zh-neg
+Marijke Amado	玛丽克·沃格勒斯	0	paranames-en-zh-neg
+Byeon Yeong-tae	邊仲錫	0	paranames-en-zh-neg
+Vagn Holmboe	埃克曼	0	paranames-en-zh-neg
+Keith Richards	基斯·本森	0	paranames-en-zh-neg
+Ulyana Sinetskaya	烏里安娜·洛帕特金娜	0	paranames-en-zh-neg
+Panagiota Dimareli	帕纳伊奥塔·佩特里杜	0	paranames-en-zh-neg
+Kacper Przybyłko	卡斯柏·馬伊赫沙克	0	paranames-en-zh-neg
+Paulino Bernabe II	保利诺·蒙萨尔韦	0	paranames-en-zh-neg
+Kenzō Iwahara	佐伯健三	0	paranames-en-zh-neg
+Anne-Lise Seip	安娜-莉丝·迪富尔-托尼尼	0	paranames-en-zh-neg
+Puff Kuo	帕芙·強森	0	paranames-en-zh-neg
+Bullet Rogan	喬·布許	0	paranames-en-zh-neg
+Dijana Mugoša	迪亚娜·武克曼诺维奇	0	paranames-en-zh-neg
+Mahbub Talukder	赫布卜·烏·哈格	0	paranames-en-zh-neg
+Gen Okuda	福永元	0	paranames-en-zh-neg
+Wanderson Cristaldo Farias	万德尔松	0	paranames-en-zh-neg
+Asset Issekeshev	阿塞特·曼別托夫	0	paranames-en-zh-neg
+Kazuto Hongō	鶴岡一人	0	paranames-en-zh-neg
+Kisa Yonemoto	迦沙·喬達彌	0	paranames-en-zh-neg
+Kimio Hatanaka	矢吹公郎	0	paranames-en-zh-neg
+Norwood Francis Allman	諾伍德·羅素·漢森	0	paranames-en-zh-neg
+Waltraud Kretzschmar	驊彩·邁耶	0	paranames-en-zh-neg
+Sophiya	索枇婭·海克	0	paranames-en-zh-neg
+Woluosi	斡羅思	0	paranames-en-zh-neg
+Elettra Rossellini Wiedemann	埃莱特拉·达利莫尔·马拉比	0	paranames-en-zh-neg
+Mauri Rose	毛里·勒佩宁	0	paranames-en-zh-neg
+Oiva Toikka	奥伊瓦·洛米	0	paranames-en-zh-neg
+Maejima Hisoka	前島信次	0	paranames-en-zh-neg
+Kalifa Cissé	卡利法·庫利巴利	0	paranames-en-zh-neg
+Dulce Alexa	杜爾塞·瑪麗亞·佩雷拉	0	paranames-en-zh-neg
+Nurlan Nigmatulin	努尔兰·奥艾斯巴耶夫	0	paranames-en-zh-neg
+Alba Rico	阿尔芭·奥古斯特	0	paranames-en-zh-neg
+Tokiwa Gozen	常盘光长	0	paranames-en-zh-neg
+Pei-Jen Lee Shaner	余佩真	0	paranames-en-zh-neg
+Yongzhu	永柱	0	paranames-en-zh-neg
+Toshiki Kuroiwa	小池知己	0	paranames-en-zh-neg
+Yoshihisa Tagami	山本喜久	0	paranames-en-zh-neg
+Darian Stevens	達里安​​·金	0	paranames-en-zh-neg
+Teh Kew San	王鄭浚仁	0	paranames-en-zh-neg
+Baoliang	保良	0	paranames-en-zh-neg
+Mateo Cassierra	马泰奥·赫尔瓦廷	0	paranames-en-zh-neg
+Avtandil Makharadze	阿夫坦迪尔·佐尔本纳泽	0	paranames-en-zh-neg
+Eldad Sharim	伊利達·雷吉夫	0	paranames-en-zh-neg
+Wilber Lee Chun-Wai	威尔伯·桑切斯	0	paranames-en-zh-neg
+Gerberga of Burgundy	萨克森的格奧貝格	0	paranames-en-zh-neg
+Charlot	夏洛特·薩爾維	0	paranames-en-zh-neg
+Ulfat Mustafin	乌勒法·伊德丽碧	0	paranames-en-zh-neg
+Munir Mangal	穆尼爾·哈達迪	0	paranames-en-zh-neg
+Fuchang	福昌	0	paranames-en-zh-neg
+Georgiy Daneliya	格奥尔基·霍斯季科耶夫	0	paranames-en-zh-neg
+Jin-Quan Li	余金权	0	paranames-en-zh-neg
+Yousef Wali	优素福·雅各布	0	paranames-en-zh-neg
+Jyri Häkämies	于里·谢尔	0	paranames-en-zh-neg
+Kaspar Heidelbach	卡斯帕·羅伊斯特	0	paranames-en-zh-neg
+Kemal Izzet	凯马尔·阿代莫维奇	0	paranames-en-zh-neg
+Rodolphe Barrangou	鲁道夫·安特里姆	0	paranames-en-zh-neg
+Fabre d'Olivet	法布爾·熱弗拉爾	0	paranames-en-zh-neg
+Aftab Ghulam Nabi Kazi	阿夫塔布·普雷瓦尔	0	paranames-en-zh-neg
+Matthew Smith	馬修·斯里格格斯	0	paranames-en-zh-neg
+Eso Yononushi	英常春	0	paranames-en-zh-neg
+Ľudovít Štúr	卢多维特·奥多尔	0	paranames-en-zh-neg
+Hirotada Ototake	華頂宮博忠王	0	paranames-en-zh-neg
+Sui He	隨魯一	0	paranames-en-zh-neg
+Ryoichi Fukushige	三田了一	0	paranames-en-zh-neg
+Gena Desouza	吉娜·羅蘭茲	0	paranames-en-zh-neg
+Wade LeBlanc	韦德·埃利奥特	0	paranames-en-zh-neg
+Sampo Tsewang Rigzin	科斯基寧	0	paranames-en-zh-neg
+Shinchō Kokontei	武井真澄	0	paranames-en-zh-neg
+Carine Montaner Raynaud	卡琳·鲁兹涅夫斯基	0	paranames-en-zh-neg
+Afzal Khan	阿夫扎爾·拉赫曼·汗	0	paranames-en-zh-neg
+Kaki Leung	岑珈其	0	paranames-en-zh-neg
+Semir Štilić	施米亞·泰拉洛域	0	paranames-en-zh-neg
+Jasna Omejec	亚斯娜·舍卡里奇	0	paranames-en-zh-neg
+Ishizuka Eizō	石塚友二	0	paranames-en-zh-neg
+Vardis Vardinogiannis	瓦迪斯·马里纳基斯	0	paranames-en-zh-neg
+Sonshō-hosshinnō	尊證法親王	0	paranames-en-zh-neg
+Terumasa Nakanishi	日野皓正	0	paranames-en-zh-neg
+Zhongbao	姚鍾葆	0	paranames-en-zh-neg
+Chuang Jen-hsiang	喬莊	0	paranames-en-zh-neg
+Hantili II	汉提里一世	0	paranames-en-zh-neg
+Daniels Ontužāns	丹尼爾斯·巴洛迪斯	0	paranames-en-zh-neg
+Mancio Konishi	伊東滿所	0	paranames-en-zh-neg
+Meletios	米斯科维奇·米斯科维奇	0	paranames-en-zh-neg
+Anto Grabo	安托·乔吉奇	0	paranames-en-zh-neg
+Masamu Yanase	小野將夢	0	paranames-en-zh-neg
+Wolfe Glick	沃尔夫·托恩	0	paranames-en-zh-neg
+Abhay Deol	阿貝·阿希提卡	0	paranames-en-zh-neg
+Lorenzo Lamas	羅倫佐‧貝特利	0	paranames-en-zh-neg
+Tábata Cerezo	塔巴塔·恩迪亚耶	0	paranames-en-zh-neg
+Sigitas Tamkevičius	西吉塔斯·拉基斯	0	paranames-en-zh-neg
+Alli Mauzey	阿里·奧地利	0	paranames-en-zh-neg
+Arsames	阿薩米斯	0	paranames-en-zh-neg
+Kellee Santiago	凱莉·斯都華	0	paranames-en-zh-neg
+Alexus Oladi	亚力克苏斯·格林克维奇	0	paranames-en-zh-neg
+Tameo Ide	小華和為雄	0	paranames-en-zh-neg
+Dali Guo	答里	0	paranames-en-zh-neg
+Suresh Amonkar	苏雷什·辛格·旺贾姆	0	paranames-en-zh-neg
+Sattar Nurmashevich Imashev	薩塔爾·阿爾維	0	paranames-en-zh-neg
+Siwat Chotchaicharin	西瓦·詹隆庫	0	paranames-en-zh-neg
+Milton S. Hershey	米尔顿·莱瑟姆	0	paranames-en-zh-neg
+Masanosuke Watanabe	池田正之辅	0	paranames-en-zh-neg
+Alexandre Beloborodov	亚历山大·奥布里	0	paranames-en-zh-neg
+Drusilla	德魯希拉·威爾斯	0	paranames-en-zh-neg
+Najat Vallaud-Belkacem	纳加特·阿云·萨里巴	0	paranames-en-zh-neg
+Anita Hsu	安妮塔·羅沙·達·西爾維拉	0	paranames-en-zh-neg
+Decius	德基欧斯	0	paranames-en-zh-neg
+Ianis Zicu	亞尼斯·哈吉	0	paranames-en-zh-neg
+Franjo Wölfl	弗蘭喬·庫哈里奇	0	paranames-en-zh-neg
+Kazuya Takaki	松田和也	0	paranames-en-zh-neg
+Aage Jørgensen	奥格·瓦尔特	0	paranames-en-zh-neg
+Fahd Hariri	法赫德·贾西姆·弗拉杰	0	paranames-en-zh-neg
+Tatsunori Tsujimoto	原辰德	0	paranames-en-zh-neg
+Yone Kazuki	皆川米子	0	paranames-en-zh-neg
+Askar Myrzakhmetov	阿斯卡尔·艾特加诺维奇·塔吉吉托夫	0	paranames-en-zh-neg
+Motiejus Šumauskas	莫蒂埃尤斯·瓦兰丘斯	0	paranames-en-zh-neg
+Faye Wattleton	費·唐娜薇	0	paranames-en-zh-neg
+Vinayak Vatsal	维纳亚克·达莫德尔·萨瓦卡	0	paranames-en-zh-neg
+Jez Butterworth	積斯·莫克西	0	paranames-en-zh-neg
+Everard de Jong	埃弗拉德·卡爾斯羅普	0	paranames-en-zh-neg
+Kraft, Prince of Hohenlohe-Langenburg	克拉夫特·舍普克	0	paranames-en-zh-neg
+Thue Ersted Rasmussen	圖厄·基斯當臣	0	paranames-en-zh-neg
+Kazushige Ishikawa	阿部和重	0	paranames-en-zh-neg
+Soe Win	梭圖	0	paranames-en-zh-neg
+Momoyo Koyama	貝島桃代	0	paranames-en-zh-neg
+Chang-Lin Tien	李长林	0	paranames-en-zh-neg
+Kashiwado Risuke	柏戶剛	0	paranames-en-zh-neg
+Ozan Çolakoğlu	奥赞·柯克曲	0	paranames-en-zh-neg
+Abdoulaye Sané	阿卜杜拉耶·叶多迪亚-恩多贝西	0	paranames-en-zh-neg
+Linas Mėgelaitis	利纳斯·雷什库斯	0	paranames-en-zh-neg
+Aureliano Beruete	奥雷利亚诺·托雷斯	0	paranames-en-zh-neg
+Caecilia Paulina	凯基利娅·梅特拉	0	paranames-en-zh-neg
+Rendra Wijaya	拉登·苏加诺	0	paranames-en-zh-neg
+Kazunari Ishii	三代辰吉	0	paranames-en-zh-neg
+Humphrey Campbell	汉弗莱·劳埃德	0	paranames-en-zh-neg
+Jichang	繼昌	0	paranames-en-zh-neg
+Master Teague III	布希考特大师	0	paranames-en-zh-neg
+Naniwa Tsunefusa	川島浪速	0	paranames-en-zh-neg
+Marco Kurz	马科·库奇	0	paranames-en-zh-neg

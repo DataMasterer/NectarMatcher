@@ -1,0 +1,15 @@
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+.cache/
+build/
+dist/
+# derived gazetteer caches (rebuilt from ../../namesdb)
+data/cache/
+*.pickle
+
+# PII firewall: eval/_local/ holds any private/source data, private benchmark
+# tooling, and derived artifacts. Nothing under it is ever committed. Only
+# public-data benchmarks (ParaNames, Unihan) and synthetic sets are tracked.
+eval/_local/
