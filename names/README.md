@@ -42,12 +42,19 @@ python -m namematch link    authors_a.txt authors_b.txt --threshold 0.85
 ```
 
 ```python
-from namematch import detect, match, parse
+from namematch import detect, match, parse, dedup
 
 detect("صلاح الدين")               # -> script=Arabic, origin=Arabic, gender=M
 match("صلاح الأيوبي", "صلاح الدين الأيوبي").bucket   # -> "match"
 match("G. Washington", "George Washington").bucket  # -> "match"
+
+# resolve a whole list into entities (blocking + clustering + review queue)
+r = dedup(["George Washington", "G. Washington", "习近平", "Xi Jinping"])
+r.clusters          # -> [[0, 1], [2, 3]]  (cross-script merged)
+r.review_pairs      # uncertain pairs queued for a human
 ```
+
+CLI: `python -m namematch dedup names.txt` (one name per line).
 
 The corpus path defaults to `../../namesdb`; override with
 `NAMEMATCH_NAMESDB=/path/to/namesdb`.

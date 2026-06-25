@@ -63,6 +63,27 @@ def cmd_link(args) -> int:
     return 0
 
 
+def cmd_dedup(args) -> int:
+    from . import dedup as _dedup
+
+    names = [ln.strip() for ln in open(args.file, encoding="utf-8") if ln.strip()]
+    res = _dedup(names, max_block=args.max_block)
+    for cid, members in enumerate(res.clusters):
+        if len(members) > 1:
+            print(f"[{cid}] {res.canonical[cid]}")
+            for i in members:
+                print(f"      {names[i]}")
+    allpairs = res.n_input * (res.n_input - 1) // 2
+    print(f"\n{res.n_input} names -> {len(res.clusters)} entities "
+          f"({res.n_duplicates_removed} merged); {len(res.review_pairs)} review pairs; "
+          f"{res.n_comparisons} comparisons vs {allpairs} all-pairs.")
+    if args.review and res.review_pairs:
+        print("\nreview queue (uncertain):")
+        for i, j, score in res.review_pairs[:args.review]:
+            print(f"  {score:.2f}  {names[i]}  <?>  {names[j]}")
+    return 0
+
+
 def main(argv: list[str] | None = None) -> int:
     ap = argparse.ArgumentParser(prog="namematch", description=__doc__)
     sub = ap.add_subparsers(dest="cmd", required=True)
@@ -74,6 +95,10 @@ def main(argv: list[str] | None = None) -> int:
     p.set_defaults(fn=cmd_match)
     p = sub.add_parser("link"); p.add_argument("file_a"); p.add_argument("file_b")
     p.add_argument("--threshold", type=float, default=0.85); p.set_defaults(fn=cmd_link)
+    p = sub.add_parser("dedup"); p.add_argument("file")
+    p.add_argument("--max-block", dest="max_block", type=int, default=400)
+    p.add_argument("--review", type=int, default=10, help="show N review pairs")
+    p.set_defaults(fn=cmd_dedup)
 
     args = ap.parse_args(argv)
     return args.fn(args)

@@ -15,6 +15,7 @@ Public API::
 from __future__ import annotations
 
 from .culture import infer_culture
+from .dedup import DedupResult, dedup
 from .detect import Detection, detect
 from .match import MatchResult, match, token_sim
 from .parse import ParsedName, parse
@@ -25,6 +26,7 @@ from .translit import transliterate
 __all__ = [
     "detect", "Detection",
     "match", "MatchResult", "token_sim",
+    "dedup", "DedupResult",
     "parse", "ParsedName",
     "detect_script", "ScriptProfile",
     "infer_culture",

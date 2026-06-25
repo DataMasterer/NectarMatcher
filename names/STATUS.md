@@ -39,6 +39,15 @@
   | EN↔ZH | 0.93 | 0.60 |  (Han→pinyin, Unihan `namematch/data/han_pinyin.tsv`)
   | EN↔HE | 0.94 | 0.45 |  (soft+hard Hebrew candidates)
   28/28 tests pass.
+- **Dedup / clustering layer (roadmap #1) — done.** `namematch.dedup(list)`:
+  phonetic **blocking** (Soundex per romanized token + a joined key so Chinese
+  joined-pinyin shares a block with spaced Latin) → `match()` → **union-find
+  clustering** + a **review queue** (precision-first: auto-merge confident pairs,
+  queue the rest; `link_review=True` for the aggressive/human-audited mode). CLI:
+  `namematch dedup <file>`. `eval/dedup_bench.py` on hard variant data: 95% fewer
+  comparisons; auto-merge F1 0.46 / aggressive ceiling F1 0.66 (real distinct
+  people cluster cleanly incl. cross-script). Unblocks list-dedup use cases
+  (author/customer dedup).
 - **Next levers:** ZH romanization variants (Wade-Giles/name-order) + NEWS EN↔ZH;
   niqqud/scheme Hebrew + `he_*` gazetteers; person+**address** multi-signal
   prototype (libpostal + GeoNames, NCVR/FEBRL); more gazetteers (fr/de/it);

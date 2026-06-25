@@ -131,6 +131,28 @@ def test_transliteration_candidates_multi():
     assert len(cands) >= 1 and all(c.strip() for c in cands)
 
 
+def test_dedup_clusters_and_blocks():
+    from namematch import dedup
+    from namematch.dedup import candidate_pairs
+
+    names = [
+        "George Washington", "G. Washington", "Geo. Washington",
+        "Thomas Jefferson", "T. Jefferson",
+        "Mohammed Ali", "Muhammad Ali",
+    ]
+    res = dedup(names)
+    assert res.n_input == len(names)
+    # the two Washington-initials variants land with George Washington
+    assert res.labels[0] == res.labels[1] == res.labels[2]
+    # Jefferson is a different entity than Washington
+    assert res.labels[3] != res.labels[0]
+    # the two Jeffersons cluster together
+    assert res.labels[3] == res.labels[4]
+    # blocking yields fewer candidate pairs than all-pairs
+    allpairs = len(names) * (len(names) - 1) // 2
+    assert len(candidate_pairs(names)) < allpairs
+
+
 def test_consonant_skeleton_drops_vowels():
     from namematch.normalize import consonant_skeleton
     assert consonant_skeleton("Rudolf") == "rdlf"
