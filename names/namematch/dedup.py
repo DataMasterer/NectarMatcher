@@ -35,38 +35,55 @@ def _romanized(name: str) -> str:
     return normalize_latin(name)
 
 
-def block_keys(name: str) -> set[str]:
-    """Phonetic block keys (Soundex per romanized token + a joined key).
-
-    The joined key (Soundex of the space-stripped romanization) lets scripts
-    that romanize without spaces — e.g. Chinese 习近平 -> ``xijinping`` — share a
-    block with their spaced Latin form (``Xi Jinping``).
-    """
-    roman = _romanized(name)
+def _keys_from_roman(roman: str) -> set[str]:
     keys = set()
     for tok in roman.split():
         if len(tok) >= 2:
             s = soundex(tok)
             if s:
                 keys.add(s)
-    joined = soundex(roman.replace(" ", ""))
+    joined = soundex(roman.replace(" ", ""))  # bridges spaceless scripts (习近平 / Xi Jinping)
     if joined:
         keys.add(joined)
     return keys
 
 
+def block_keys(name: str) -> set[str]:
+    """Phonetic block keys (Soundex per romanized token + a joined key)."""
+    return _keys_from_roman(_romanized(name))
+
+
 def candidate_pairs(names: list[str], max_block: int = 400) -> set[tuple[int, int]]:
-    """Indices (i<j) that share a block key, skipping over-common keys."""
+    """Indices (i<j) that share a block key.
+
+    Over-common keys (bucket > max_block) are NOT dropped — they are sub-blocked
+    by the exact romanized form, so a name whose only key is over-common (e.g. a
+    Han name whose single joined Soundex collides widely) still pairs with its
+    true duplicates without an O(bucket^2) blowup over distinct names.
+    """
+    romans = [_romanized(n) for n in names]
+    fine = [r.replace(" ", "") for r in romans]  # exact romanization, for sub-blocking
     inv: dict[str, list[int]] = defaultdict(list)
-    for i, name in enumerate(names):
-        for k in block_keys(name):
+    for i, r in enumerate(romans):
+        for k in _keys_from_roman(r):
             inv[k].append(i)
+
     pairs: set[tuple[int, int]] = set()
-    for members in inv.values():
-        if len(members) > max_block:
-            continue  # non-discriminative key (very common token) -> drop
+
+    def emit(members: list[int]) -> None:
         for a, b in combinations(members, 2):
-            pairs.add((a, b))
+            pairs.add((a, b) if a < b else (b, a))
+
+    for members in inv.values():
+        if len(members) <= max_block:
+            emit(members)
+        else:
+            sub: dict[str, list[int]] = defaultdict(list)
+            for i in members:
+                sub[fine[i]].append(i)
+            for grp in sub.values():
+                if len(grp) <= max_block:
+                    emit(grp)
     return pairs
 
 

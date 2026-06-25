@@ -131,6 +131,20 @@ def test_transliteration_candidates_multi():
     assert len(cands) >= 1 and all(c.strip() for c in cands)
 
 
+def test_hebrew_normalization_keeps_letters():
+    from namematch.normalize import normalize_token
+    # bug was: Hebrew tokens run through normalize_latin -> '' -> never match
+    out = normalize_token("דָּוִד", "Hebrew")  # vocalized David
+    assert out and any("֐" <= c <= "׿" for c in out)  # Hebrew survives
+    assert "ָ" not in out  # niqqud stripped
+
+
+def test_mononym_partial_name_reaches_review():
+    # 'Tolkien' vs 'J.R.R. Tolkien' was a false no-match; now at least review.
+    r = match("Tolkien", "J.R.R. Tolkien")
+    assert r.bucket in ("match", "review"), (r.score, r.reasons)
+
+
 def test_dedup_clusters_and_blocks():
     from namematch import dedup
     from namematch.dedup import candidate_pairs

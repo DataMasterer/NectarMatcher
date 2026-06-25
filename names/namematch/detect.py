@@ -18,7 +18,7 @@ import re
 from dataclasses import dataclass, field
 
 from .lexicon import Gazetteers, load
-from .normalize import normalize_arabic, normalize_latin
+from .normalize import normalize_token
 from .parse import _LATIN_PARTICLES, parse
 from .script import detect_script
 
@@ -59,7 +59,7 @@ def detect(text: str, gaz: Gazetteers | None = None) -> Detection:
     det = Detection(text=text, script=script, is_person_name=0.0)
 
     tokens = [t for t in re.split(r"\s+", text.strip()) if t]
-    norm = [normalize_arabic(t) if arabic else normalize_latin(t.strip(".")) for t in tokens]
+    norm = [normalize_token(t.strip("."), script) for t in tokens]
     norm = [t for t in norm if t]
 
     # ---- origin scoring from lexicon + script + particles ----------------

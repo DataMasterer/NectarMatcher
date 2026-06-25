@@ -48,6 +48,14 @@
   comparisons; auto-merge F1 0.46 / aggressive ceiling F1 0.66 (real distinct
   people cluster cleanly incl. cross-script). Unblocks list-dedup use cases
   (author/customer dedup).
+- **Code-review hardening (10 findings) — done.** Hebrew detect/gazetteer now
+  use a Hebrew normalizer (was latin-stripped to ''); mononym/partial names
+  (`Tolkien` ↔ `J.R.R. Tolkien`) reach the review tier instead of false
+  no-match; dedup sub-blocks over-common keys instead of dropping a name's only
+  key (preserves Han recall at scale); pure per-token funcs are lru_cached for
+  the O(n²) dedup hot path; bridgeable/spaceless scripts are a single source of
+  truth; partial transliteration schemes degrade per-char. 31/31 tests;
+  benchmarks unchanged.
 - **Next levers:** ZH romanization variants (Wade-Giles/name-order) + NEWS EN↔ZH;
   niqqud/scheme Hebrew + `he_*` gazetteers; person+**address** multi-signal
   prototype (libpostal + GeoNames, NCVR/FEBRL); more gazetteers (fr/de/it);

@@ -80,7 +80,10 @@ def transliterate(name: str, scheme: str = "BGN_PCGN") -> str:
         if ch.isspace():
             out.append(" ")
         else:
-            out.append(table.get(ch, ""))
+            # fall back to the stopgap per-char so a partial scheme (a letter
+            # missing from its column) degrades instead of silently deleting it.
+            lat = table.get(ch)
+            out.append(lat if lat is not None else transliterate_arabic(ch))
     return "".join(out)
 
 
@@ -126,6 +129,12 @@ def transliterate_chinese(name: str) -> str:
 
 
 # --- unified dispatch ------------------------------------------------------
+
+# Single source of truth (consumed by match.py + dedup.py so they can't drift):
+# scripts we can romanize, and those whose romanization has no internal spaces.
+BRIDGEABLE_SCRIPTS = frozenset({"Arabic", "Hebrew", "Devanagari", "Han"})
+SPACELESS_SCRIPTS = frozenset({"Han"})
+
 
 def hebrew_candidates(name: str) -> list[str]:
     """Soft + hard Hebrew romanizations (bet=v/b, pe=f/p, shin=sh/s ...)."""

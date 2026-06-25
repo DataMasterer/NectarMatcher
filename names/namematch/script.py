@@ -7,6 +7,7 @@ signal in the detection waterfall.
 """
 from __future__ import annotations
 
+import functools
 import unicodedata
 from dataclasses import dataclass, field
 
@@ -64,8 +65,12 @@ class ScriptProfile:
         return d is not None and self.share(d) < 0.90
 
 
+@functools.lru_cache(maxsize=8192)
 def detect_script(text: str) -> ScriptProfile:
-    """Return a :class:`ScriptProfile` for *text* (letters only counted)."""
+    """Return a :class:`ScriptProfile` for *text* (letters only counted).
+
+    Cached: callers treat the result as read-only (they read .dominant/.share).
+    """
     counts: dict[str, int] = {}
     total = 0
     for ch in text:

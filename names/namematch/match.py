@@ -34,7 +34,7 @@ from .normalize import (
 from .parse import ParsedName, parse
 from .phonetics import arabic_phonetic, soundex
 from .script import detect_script
-from .translit import romanizations
+from .translit import BRIDGEABLE_SCRIPTS, SPACELESS_SCRIPTS, romanizations
 
 HIGH = 0.85
 REVIEW = 0.62
@@ -59,12 +59,14 @@ def _is_initial(tok: str) -> bool:
     return len(tok) == 1
 
 
-def token_sim(a: str, b: str, arabic: bool, bridged: bool = False) -> float:
+def token_sim(a: str, b: str, arabic: bool, bridged: str = "") -> float:
     """Similarity of two already-normalized tokens, 0..1.
 
-    *bridged* = the two sides come from different scripts (one is a romanized
-    Arabic candidate). It enables the Arabic-aware consonant skeleton, which
-    absorbs the short vowels Arabic doesn't write and the v/p/g phonology blur.
+    *bridged* is the source script being romanized ("" when same-script), so the
+    skeleton policy can be tuned per script. The Arabic-aware consonant skeleton
+    is applied for all bridged scripts: it is conceptually a Semitic device, but
+    on the ParaNames benchmarks it is net-positive for Han/Devanagari too (the
+    recall it buys outweighs the occasional vowel-collision).
     """
     if not a or not b:
         return 0.0
@@ -80,7 +82,8 @@ def token_sim(a: str, b: str, arabic: bool, bridged: bool = False) -> float:
         if short and short == long[: len(short)]:
             return 0.90
     if arabic:
-        if arabic_phonetic(a) and arabic_phonetic(a) == arabic_phonetic(b):
+        ka = arabic_phonetic(a)
+        if ka and ka == arabic_phonetic(b):
             return 0.85
     else:
         fa, fb = romanize_fold(a), romanize_fold(b)
@@ -92,7 +95,8 @@ def token_sim(a: str, b: str, arabic: bool, bridged: bool = False) -> float:
                 return 0.93
             if len(sa) >= 3 and len(sb) >= 3 and SequenceMatcher(None, sa, sb).ratio() >= 0.82:
                 return 0.86
-        if soundex(a) and soundex(a) == soundex(b):
+        sx = soundex(a)
+        if sx and sx == soundex(b):
             return 0.84
     ratio = SequenceMatcher(None, a, b).ratio()
     return round(ratio, 3) if ratio >= 0.5 else 0.0
@@ -100,7 +104,7 @@ def token_sim(a: str, b: str, arabic: bool, bridged: bool = False) -> float:
 
 # --- bag alignment (greedy best-match, asymmetric) ------------------------
 
-def _align(short: list[str], long: list[str], arabic: bool, bridged: bool = False) -> tuple[float, int]:
+def _align(short: list[str], long: list[str], arabic: bool, bridged: str = "") -> tuple[float, int]:
     """Greedily match each token of *short* to its best in *long*.
 
     Returns (mean similarity over short tokens, count of strong matches).
@@ -146,7 +150,7 @@ def _to_common(tokens: list[str], arabic: bool, cross: bool) -> list[str]:
     return [t for t in out if t]
 
 
-def _score(a: str, b: str, bridged: bool = False) -> MatchResult:
+def _score(a: str, b: str, bridged: str = "") -> MatchResult:
     pa, a_ar, a_script = _prepare(a)
     pb, b_ar, b_script = _prepare(b)
     cross = a_script != b_script
@@ -192,6 +196,22 @@ def _score(a: str, b: str, bridged: bool = False) -> MatchResult:
     if cross:
         res.reasons.append(f"cross-script bridge {a_script}<->{b_script} via transliteration")
 
+    # Mononym / partial-name rescue: when one side is a single token (a lone
+    # surname or given), the role-aligned score above can spuriously zero out
+    # (e.g. 'Tolkien' vs 'J.R.R. Tolkien'). Compare that token against the other
+    # side's components. Precision-first: a lone token can reach at most 'review'
+    # (it is queued for confirmation, never auto-merged).
+    core_a = given_a + fam_a + fore_a
+    core_b = given_b + fam_b + fore_b
+    if score < HIGH and core_a and core_b and min(len(core_a), len(core_b)) == 1:
+        mono, og, of = (core_a[0], given_b, fam_b) if len(core_a) == 1 else (core_b[0], given_a, fam_a)
+        best_fam = max((token_sim(mono, t, arabic, bridged) for t in of), default=0.0)
+        best_giv = max((token_sim(mono, t, arabic, bridged) for t in og), default=0.0)
+        mono_score = max(best_fam, 0.6 * best_giv)
+        if mono_score > score:
+            score = min(mono_score, 0.84)  # < HIGH (0.85): land in the 'review' tier
+            res.reasons.append(f"mononym/partial component match {mono_score:.2f} -> review")
+
     res.score = round(score, 3)
     res.bucket = "match" if score >= HIGH else "review" if score >= REVIEW else "no-match"
     return res
@@ -207,22 +227,24 @@ def match(a: str, b: str) -> MatchResult:
     """
     a_script = detect_script(a).dominant or "Latin"
     b_script = detect_script(b).dominant or "Latin"
-    # We can only bridge scripts we have a romanizer for.
-    bridgeable = {"Arabic", "Hebrew", "Devanagari", "Han"}
-    other = bridgeable & {a_script, b_script}
+    # We can only bridge a non-Latin script we have a romanizer for, against Latin.
+    other = BRIDGEABLE_SCRIPTS & {a_script, b_script}
     if a_script == b_script or not other or "Latin" not in (a_script, b_script):
         return _score(a, b)
 
-    src_script = other.pop()
+    src_script = next(iter(other))
     src_name, lat_name = (a, b) if a_script == src_script else (b, a)
-    cands = romanizations(src_name, src_script)
-    # Han names have no internal spaces -> compare against the joined Latin form.
-    lat_cmp = normalize_latin(lat_name).replace(" ", "") if src_script == "Han" else lat_name
+    # Drop empty romanizations (e.g. missing pinyin data) so we never compare ''.
+    cands = [c for c in romanizations(src_name, src_script) if c.strip()]
+    if not cands:
+        return _score(a, b)  # can't romanize -> fall back to same-space scoring
+    # Spaceless scripts (Han) romanize without spaces -> compare against the joined Latin.
+    lat_cmp = normalize_latin(lat_name).replace(" ", "") if src_script in SPACELESS_SCRIPTS else lat_name
 
     best: MatchResult | None = None
     best_cand = ""
     for cand in cands:
-        r = _score(cand, lat_cmp, bridged=True)
+        r = _score(cand, lat_cmp, bridged=src_script)
         if best is None or r.score > best.score:
             best, best_cand = r, cand
     assert best is not None

@@ -26,7 +26,7 @@ import zipfile
 from dataclasses import dataclass, field
 from pathlib import Path
 
-from .normalize import normalize_arabic, normalize_latin
+from .normalize import normalize_arabic, normalize_latin, normalize_token
 
 
 def default_namesdb() -> Path:
@@ -66,7 +66,11 @@ def _add(table: dict[str, set[str]], origin: str, value: str) -> None:
 
 @functools.lru_cache(maxsize=4)
 def load(namesdb: str | Path | None = None) -> Gazetteers:
-    """Load and cache all gazetteers. Missing files are skipped silently."""
+    """Load and cache all gazetteers. Missing files are skipped silently.
+
+    Returns a SHARED cached instance — treat it as read-only. Callers that need
+    to extend the gazetteers must copy the sets first, never mutate in place.
+    """
     root = Path(namesdb) if namesdb else default_namesdb()
     g = Gazetteers()
     if not root.exists():
@@ -111,7 +115,8 @@ def _origin_from_filename(name: str) -> str:
 
 def _load_done_csv(path: Path, g: Gazetteers) -> None:
     origin = _origin_from_filename(path.stem)
-    arabic = origin in ("Arabic", "Hebrew")
+    # store with the script-correct normalizer (Hebrew niqqud != Arabic tashkeel)
+    script = origin if origin in ("Arabic", "Hebrew") else "Latin"
     try:
         with path.open(encoding="utf-8", errors="replace", newline="") as fh:
             reader = csv.reader(fh)
@@ -128,7 +133,7 @@ def _load_done_csv(path: Path, g: Gazetteers) -> None:
                 raw = row[name_col].strip()
                 if not raw:
                     continue
-                norm = normalize_arabic(raw) if arabic else normalize_latin(raw)
+                norm = normalize_token(raw, script)
                 _add(g.given, origin, norm)
     except (csv.Error, UnicodeError):
         return

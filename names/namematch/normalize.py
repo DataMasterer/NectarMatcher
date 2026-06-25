@@ -18,6 +18,7 @@ when a full transliteration (not just a fold) is needed.
 """
 from __future__ import annotations
 
+import functools
 import re
 import unicodedata
 
@@ -71,7 +72,7 @@ _FOLD_RULES: list[tuple[str, str]] = [
     ("aa", "a"), ("ee", "i"), ("oo", "u"), ("ou", "u"), ("ii", "i"),
     ("kh", "x"), ("gh", "g"), ("dh", "d"), ("th", "t"), ("sh", "c"),
     ("ph", "f"), ("ck", "k"), ("dj", "j"), ("tch", "c"),
-    (" q", "k"), ("q", "k"), ("c", "k"),  # qaf/kaf collapse
+    ("q", "k"), ("c", "k"),  # qaf/kaf collapse
     ("y", "i"), ("w", "u"),
 ]
 
@@ -79,6 +80,7 @@ _FOLD_RULES: list[tuple[str, str]] = [
 _ARTICLES = ("al-", "el-", "ad-", "as-", "ash-", "ar-", "an-", "ed-", "ud-")
 
 
+@functools.lru_cache(maxsize=8192)
 def romanize_fold(text: str) -> str:
     """Collapse a Latin name token to a coarse consonant-vowel skeleton.
 
@@ -89,7 +91,7 @@ def romanize_fold(text: str) -> str:
     t = normalize_latin(text)
     t = t.replace("'", "").replace("`", "")
     for art in _ARTICLES:
-        t = re.sub(rf"\b{art}", "", t)
+        t = re.sub(rf"\b{re.escape(art)}", "", t)
     for src, dst in _FOLD_RULES:
         t = t.replace(src, dst)
     # squeeze repeated chars
@@ -125,9 +127,9 @@ def transliterate_arabic(text: str) -> str:
 # --- cross-script consonant skeleton --------------------------------------
 
 _SKEL_DIGRAPHS = [
-    ("tch", "c"), ("sch", "c"),
+    ("sch", "c"), ("tch", "c"),  # longest-first so 'sch'/'tch' win over 'sh'/'ch'
     ("kh", "x"), ("gh", "g"), ("dh", "d"), ("th", "t"), ("sh", "c"),
-    ("ph", "f"), ("ch", "c"), ("ck", "k"), ("sch", "c"),
+    ("ph", "f"), ("ch", "c"), ("ck", "k"),
 ]
 # Arabic phonology: no v/p (-> f/b); q/c -> k; s/z blur; ج is j or g (Egyptian)
 # so j -> g. Keep k and g distinct (kaf vs gaf/jim) to avoid over-merging.
@@ -143,6 +145,29 @@ _HE2LAT = {
     "ם": "m", "נ": "n", "ן": "n", "ס": "s", "ע": "", "פ": "f", "ף": "f",
     "צ": "ts", "ץ": "ts", "ק": "k", "ר": "r", "ש": "sh", "ת": "t",
 }
+
+
+# Hebrew final-form letters -> their normal form, so positional variants match.
+_HE_FINALS = {"ך": "כ", "ם": "מ", "ן": "נ", "ף": "פ", "ץ": "צ"}
+
+
+def normalize_hebrew(text: str) -> str:
+    """In-script Hebrew normalization: strip niqqud, unify final-form letters.
+
+    Keeps Hebrew letters (unlike normalize_latin, which would strip them); used
+    for Hebrew gazetteer storage + lookup so vocalized/positional variants match.
+    """
+    text = _HE_NIQQUD.sub("", text)
+    return "".join(_HE_FINALS.get(ch, ch) for ch in text if not ch.isspace() or ch == " ")
+
+
+def normalize_token(text: str, script: str) -> str:
+    """Script-aware in-script normalization (the right normalizer per script)."""
+    if script == "Arabic":
+        return normalize_arabic(text)
+    if script == "Hebrew":
+        return normalize_hebrew(text)
+    return normalize_latin(text)
 
 
 def transliterate_hebrew(text: str) -> str:
@@ -199,6 +224,7 @@ def transliterate_devanagari(text: str) -> str:
     return "".join(out)
 
 
+@functools.lru_cache(maxsize=8192)
 def consonant_skeleton(token: str) -> str:
     """Arabic-aware consonant skeleton for cross-script comparison.
 

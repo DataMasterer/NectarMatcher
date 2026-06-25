@@ -11,6 +11,7 @@ the core dependency-free and good enough for blocking + a similarity signal.
 """
 from __future__ import annotations
 
+import functools
 import re
 
 # --- Latin Soundex --------------------------------------------------------
@@ -25,6 +26,7 @@ _SOUNDEX_MAP = {
 }
 
 
+@functools.lru_cache(maxsize=8192)
 def soundex(token: str) -> str:
     t = re.sub(r"[^a-z]", "", token.lower())
     if not t:
@@ -117,6 +119,7 @@ def jaro_winkler(s1: str, s2: str, p: float = 0.1, max_prefix: int = 4) -> float
     return round(j + prefix * p * (1 - j), 4)
 
 
+@functools.lru_cache(maxsize=8192)
 def arabic_phonetic(token: str) -> str:
     """Collapse an Arabic token to a class string, dropping long vowels."""
     out = []
