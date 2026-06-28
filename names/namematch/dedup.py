@@ -123,14 +123,26 @@ def _pick_canonical(names: list[str], members: list[int]) -> str:
     return max((names[i] for i in members), key=lambda s: (len(s.split()), len(s)))
 
 
-def dedup(names: list[str], max_block: int = 400, link_review: bool = False) -> DedupResult:
-    """Resolve *names* into entity clusters + a review queue.
+def dedup(items, max_block: int = 400, link_review: bool = False,
+          key=None, compare=None) -> DedupResult:
+    """Resolve *items* into entity clusters + a review queue.
 
-    Auto-merges pairs that ``match()`` buckets as ``match``; collects ``review``
-    pairs for human triage. With ``link_review=True`` it also merges ``review``
-    edges (aggressive / higher-recall mode) — use when a human will audit merges.
+    *items* are name strings by default. To dedup richer **records** (multi-
+    signal), pass ``key`` (item -> the name to block on) and ``compare``
+    (item_a, item_b -> a result with ``.bucket``/``.score``, e.g. from
+    ``match_records``). Blocking is always on the name; the comparison can use
+    any signals.
+
+    Auto-merges ``match`` pairs; collects ``review`` pairs for human triage.
+    ``link_review=True`` also merges review edges (aggressive / human-audited).
     """
-    n = len(names)
+    if key is None:
+        key = lambda x: x if isinstance(x, str) else x.get("name", "")
+    if compare is None:
+        compare = lambda a, b: match(key(a), key(b))
+
+    n = len(items)
+    names = [key(it) for it in items]
     res = DedupResult(n_input=n, labels=[0] * n)
     uf = _UnionFind(n)
     candidates = candidate_pairs(names, max_block=max_block)
@@ -138,7 +150,7 @@ def dedup(names: list[str], max_block: int = 400, link_review: bool = False) -> 
 
     review_edges: list[tuple[int, int, float]] = []
     for i, j in candidates:
-        r = match(names[i], names[j])
+        r = compare(items[i], items[j])
         res.n_comparisons += 1
         if r.bucket == "match":
             uf.union(i, j)

@@ -14,10 +14,16 @@ Usage:
 from __future__ import annotations
 
 import argparse
+import re
 import sqlite3
 from pathlib import Path
 
-from namematch import dedup, detect
+from namematch import RecordMatch, dedup, detect, match
+from namematch.normalize import normalize_arabic
+from namematch.script import detect_script
+
+_TOKEN_STOP = {"the", "and", "for", "with", "from", "vol", "volume", "edition",
+               "book", "books", "guide", "introduction", "ed", "new"}
 
 
 def read_authors(db_path: str) -> list[str]:
@@ -33,6 +39,67 @@ def read_authors(db_path: str) -> list[str]:
     return [r[0] for r in rows]
 
 
+def _tokens(text: str) -> set[str]:
+    """Topic tokens from a title/tag: split, lowercase, drop short/stop/digits."""
+    out = set()
+    for raw in re.split(r"[^\w؀-ۿ]+", normalize_arabic(text or "")):
+        tok = raw.strip().lower()
+        if len(tok) >= 3 and not tok.isdigit() and tok not in _TOKEN_STOP:
+            out.add(tok)
+    return out
+
+
+def read_author_profiles(db_path: str) -> list[dict]:
+    """Per author: {name, script, profile} where profile is the set of topic
+    tokens from the titles + tags of all their books (the author->books signal)."""
+    con = sqlite3.connect(f"file:{db_path}?mode=ro", uri=True)
+    try:
+        prof: dict[str, set] = {}
+        names = [r[0] for r in con.execute(
+            "SELECT name FROM authors WHERE name IS NOT NULL AND trim(name)!=''").fetchall()]
+        for nm in names:
+            prof.setdefault(nm, set())
+        for q in (
+            "SELECT a.name, b.title FROM authors a "
+            "JOIN books_authors_link bal ON bal.author=a.id "
+            "JOIN books b ON b.id=bal.book",
+            "SELECT a.name, t.name FROM authors a "
+            "JOIN books_authors_link bal ON bal.author=a.id "
+            "JOIN books_tags_link btl ON btl.book=bal.book "
+            "JOIN tags t ON t.id=btl.tag",
+        ):
+            for name, text in con.execute(q):
+                if name in prof and text:
+                    prof[name] |= _tokens(text)
+    finally:
+        con.close()
+    return [{"name": nm, "script": detect_script(nm).dominant or "?", "profile": prof[nm]}
+            for nm in names]
+
+
+def _jaccard(a: set, b: set) -> float:
+    return len(a & b) / len(a | b) if (a and b) else 0.0
+
+
+def make_profile_compare(min_profile: int = 3, veto_overlap: float = 0.05):
+    """A comparator: name match, but demote a same-script auto-merge to *review*
+    when both authors have substantial book profiles that barely overlap (their
+    books are about entirely different topics -> probably different people).
+    Skips cross-script pairs, whose titles are in different scripts by nature."""
+    def compare(a: dict, b: dict) -> RecordMatch:
+        r = match(a["name"], b["name"])
+        pa, pb = a["profile"], b["profile"]
+        if (r.bucket == "match" and a["script"] == b["script"]
+                and len(pa) >= min_profile and len(pb) >= min_profile):
+            ov = _jaccard(pa, pb)
+            if ov < veto_overlap:
+                return RecordMatch(score=min(r.score, 0.84), bucket="review",
+                                   signals={"name": r.score, "profile_overlap": round(ov, 3)},
+                                   reasons=[f"book profiles disagree (overlap {ov:.2f}) -> review"])
+        return RecordMatch(score=r.score, bucket=r.bucket, signals={"name": r.score})
+    return compare
+
+
 def main(argv=None) -> int:
     ap = argparse.ArgumentParser(description="Dedup Calibre authors with namematch")
     ap.add_argument("db", help="path to Calibre metadata.db")
@@ -40,17 +107,31 @@ def main(argv=None) -> int:
     ap.add_argument("--min-name-score", dest="min_name", type=float, default=0.3,
                     help="drop entries whose is_person_name score is below this "
                          "(the Calibre author field holds non-author junk); 0 disables")
+    ap.add_argument("--books", action="store_true",
+                    help="use the author->books profile (title/tag topic overlap) as a "
+                         "second signal to veto coincidental same-script name collisions")
     ap.add_argument("--out", default="", help="output prefix (writes <out>_clusters.tsv + _review.tsv)")
     args = ap.parse_args(argv)
 
-    raw = read_authors(args.db)
-    if args.min_name > 0:
-        authors = [a for a in raw if detect(a).is_person_name >= args.min_name]
-        print(f"filtered {len(raw) - len(authors)} non-name entries "
-              f"(is_person_name < {args.min_name}); {len(authors)} authors remain")
+    if args.books:
+        records = read_author_profiles(args.db)
+        if args.min_name > 0:
+            kept = [r for r in records if detect(r["name"]).is_person_name >= args.min_name]
+            print(f"filtered {len(records) - len(kept)} non-name entries "
+                  f"(is_person_name < {args.min_name}); {len(kept)} authors remain")
+            records = kept
+        names = [r["name"] for r in records]
+        res = dedup(records, max_block=args.max_block,
+                    key=lambda r: r["name"], compare=make_profile_compare())
     else:
-        authors = raw
-    res = dedup(authors, max_block=args.max_block)
+        raw = read_authors(args.db)
+        if args.min_name > 0:
+            names = [a for a in raw if detect(a).is_person_name >= args.min_name]
+            print(f"filtered {len(raw) - len(names)} non-name entries "
+                  f"(is_person_name < {args.min_name}); {len(names)} authors remain")
+        else:
+            names = raw
+        res = dedup(names, max_block=args.max_block)
 
     merged_clusters = [c for c in res.clusters if len(c) > 1]
     allpairs = res.n_input * (res.n_input - 1) // 2
@@ -69,12 +150,12 @@ def main(argv=None) -> int:
             for cid, members in enumerate(res.clusters):
                 if len(members) > 1:
                     for i in members:
-                        fh.write(f"{cid}\t{res.canonical[cid]}\t{authors[i]}\n")
+                        fh.write(f"{cid}\t{res.canonical[cid]}\t{names[i]}\n")
         rf = Path(f"{args.out}_review.tsv")
         with rf.open("w", encoding="utf-8") as fh:
             fh.write("score\tname_a\tname_b\n")
             for i, j, score in res.review_pairs:
-                fh.write(f"{score:.3f}\t{authors[i]}\t{authors[j]}\n")
+                fh.write(f"{score:.3f}\t{names[i]}\t{names[j]}\n")
         print(f"wrote {cf}\nwrote {rf}")
     return 0
 

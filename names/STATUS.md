@@ -76,6 +76,18 @@
   `Stephen King` vs `Stephen Hawking` is a name-only **match (0.885)** but a
   disagreeing subject signal demotes it to **review** — while true variants +
   agreeing fields stay match.
+- **Author→books features wired into Calibre dedup.** `dedup` is now
+  record-aware (`key` + `compare`); `integrations/calibre.py --books` builds a
+  per-author **profile** (topic tokens from their books' titles + tags) and uses
+  a veto comparator: a same-script auto-merge whose two authors' book profiles
+  are disjoint is demoted to *review* (coincidental name collision), while
+  cross-script pairs are exempt (their titles are in different scripts). On the
+  real library: false/mixed over-merges drop (merges 1037→777; `Albert
+  Bronstein`≠`Albert Einstein`, initials-hubs, junk titles split out). Tradeoff:
+  true author-splits whose books share no title vocabulary (`A. Conan Doyle` /
+  `Arthur Conan Doyle`) also go to *review* — correct for a human-reviewed
+  pipeline; richer signals (tags coverage is only ~15%; co-author/series overlap)
+  would tighten it.
 - **Author benchmark — added.** `eval/authors.tsv` (curated public authors, no
   PII): initials / diacritics / cross-script positives + same-given & short
   cross-script negatives. Name-only baseline strict P 0.92 / R 1.0 (one FP =

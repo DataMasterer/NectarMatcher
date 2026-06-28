@@ -161,6 +161,31 @@ def test_author_different_no_match():
     assert match("George Orwell", "George Eliot").bucket == "no-match"
 
 
+def test_calibre_profile_veto():
+    # author->books profile vetoes a same-script coincidental name collision,
+    # keeps a true variant, and skips cross-script pairs.
+    from integrations.calibre import make_profile_compare
+    cmp = make_profile_compare()
+    king = {"name": "Stephen King", "script": "Latin", "profile": {"horror", "dark", "tower"}}
+    hawking = {"name": "Stephen Hawking", "script": "Latin", "profile": {"physics", "cosmos", "time"}}
+    skng = {"name": "S. King", "script": "Latin", "profile": {"horror", "dark", "novel"}}
+    assert cmp(king, hawking).bucket == "review"   # disjoint profiles -> demoted from match
+    assert cmp(king, skng).bucket == "match"        # overlapping profiles -> kept
+
+
+def test_dedup_record_aware_with_profile_compare():
+    from integrations.calibre import make_profile_compare
+    from namematch import dedup
+    recs = [
+        {"name": "Stephen King", "script": "Latin", "profile": {"horror", "dark", "tower"}},
+        {"name": "S. King", "script": "Latin", "profile": {"horror", "dark", "novel"}},
+        {"name": "Stephen Hawking", "script": "Latin", "profile": {"physics", "cosmos", "time"}},
+    ]
+    res = dedup(recs, key=lambda r: r["name"], compare=make_profile_compare())
+    assert res.labels[0] == res.labels[1]      # King + S. King cluster
+    assert res.labels[2] != res.labels[0]      # Hawking stays separate (vetoed)
+
+
 def test_calibre_integration_read_and_dedup(tmp_path=None):
     import sqlite3
     import tempfile
