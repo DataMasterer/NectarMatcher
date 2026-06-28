@@ -145,6 +145,16 @@ def test_mononym_partial_name_reaches_review():
     assert r.bucket in ("match", "review"), (r.score, r.reasons)
 
 
+def test_lone_token_vs_fullname_not_auto_merged():
+    # A bare given/surname token must NOT auto-merge with a full name sharing it
+    # (this was the dedup hub bug: 'jan' matched every 'Jan ...' at 1.0 and
+    # union-find chained hundreds of distinct people). Cap at review.
+    assert match("Jan", "Jan Axelson").bucket != "match"
+    assert match("Roy", "Arundhati Roy").bucket != "match"
+    # but two single-token variants of each other may still match
+    assert match("Akeela", "Akeelah").bucket in ("match", "review")
+
+
 def test_dedup_clusters_and_blocks():
     from namematch import dedup
     from namematch.dedup import candidate_pairs

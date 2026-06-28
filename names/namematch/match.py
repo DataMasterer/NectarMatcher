@@ -196,21 +196,28 @@ def _score(a: str, b: str, bridged: str = "") -> MatchResult:
     if cross:
         res.reasons.append(f"cross-script bridge {a_script}<->{b_script} via transliteration")
 
-    # Mononym / partial-name rescue: when one side is a single token (a lone
-    # surname or given), the role-aligned score above can spuriously zero out
-    # (e.g. 'Tolkien' vs 'J.R.R. Tolkien'). Compare that token against the other
-    # side's components. Precision-first: a lone token can reach at most 'review'
-    # (it is queued for confirmation, never auto-merged).
+    # Lone-token handling. When one side is a single token (a bare given or
+    # surname), identity is genuinely uncertain — a bare 'Jan' is NOT 'Jan
+    # Axelson', yet a naive role score normalizes over the one present role and
+    # returns 1.0, which then auto-merges every same-given name (and chains them
+    # via union-find in dedup). Precision-first rule: a lone-token comparison can
+    # reach at most the *review* tier, never auto-match. We still compute the
+    # best component match so 'Tolkien' vs 'J.R.R. Tolkien' is surfaced (not a
+    # false no-match) — just for review, not auto-merge.
     core_a = given_a + fam_a + fore_a
     core_b = given_b + fam_b + fore_b
-    if score < HIGH and core_a and core_b and min(len(core_a), len(core_b)) == 1:
+    # Applies only to a lone token vs a MULTI-token name ('Jan' vs 'Jan Axelson')
+    # — matching a single component of a fuller name is weak. Two single-token
+    # names that are variants of each other (Akeela vs Akeelah) are NOT capped.
+    # Spaceless scripts (Han) romanize the whole name to one token -> never cap.
+    if (bridged not in SPACELESS_SCRIPTS and core_a and core_b
+            and min(len(core_a), len(core_b)) == 1 and max(len(core_a), len(core_b)) > 1):
         mono, og, of = (core_a[0], given_b, fam_b) if len(core_a) == 1 else (core_b[0], given_a, fam_a)
         best_fam = max((token_sim(mono, t, arabic, bridged) for t in of), default=0.0)
         best_giv = max((token_sim(mono, t, arabic, bridged) for t in og), default=0.0)
         mono_score = max(best_fam, 0.6 * best_giv)
-        if mono_score > score:
-            score = min(mono_score, 0.84)  # < HIGH (0.85): land in the 'review' tier
-            res.reasons.append(f"mononym/partial component match {mono_score:.2f} -> review")
+        score = min(max(score, mono_score), 0.84)  # lone token -> at most 'review'
+        res.reasons.append("single-token name: weak evidence, capped at review")
 
     res.score = round(score, 3)
     res.bucket = "match" if score >= HIGH else "review" if score >= REVIEW else "no-match"

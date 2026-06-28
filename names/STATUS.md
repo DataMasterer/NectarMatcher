@@ -56,6 +56,18 @@
   the O(n²) dedup hot path; bridgeable/spaceless scripts are a single source of
   truth; partial transliteration schemes degrade per-char. 31/31 tests;
   benchmarks unchanged.
+- **First consumer — Calibre author dedup (integration).** `integrations/calibre.py`
+  reads a Calibre `metadata.db` authors table and runs `dedup` (private library +
+  output stay in gitignored `eval/_local/`). Validated on a real 11.5k-author,
+  mixed Latin+Arabic library: 98.7% blocking reduction; cross-script variant
+  merges work. **Surfaced + fixed a real engine bug**: a lone token (bare given/
+  surname) matched every full name sharing it at 1.0 and union-find chained
+  hundreds of distinct people (a 254-member junk cluster). Fix: a lone token vs a
+  multi-token name is capped at *review*, never auto-merged — which also **lifted
+  cross-script precision** (AR 0.95→0.98, HE 0.94→0.99, HI 0.93→0.97; recall
+  flat) with no synthetic regression. Largest cluster 254→10; spurious merges
+  4058→1037. Residual false merges (initials / short cross-script collisions like
+  Baker↔Baqir) remain → motivate the multi-signal scorer.
 - **Next levers:** ZH romanization variants (Wade-Giles/name-order) + NEWS EN↔ZH;
   niqqud/scheme Hebrew + `he_*` gazetteers; person+**address** multi-signal
   prototype (libpostal + GeoNames, NCVR/FEBRL); more gazetteers (fr/de/it);
