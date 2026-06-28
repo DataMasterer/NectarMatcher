@@ -1,0 +1,24 @@
+# Curated author-matching benchmark — well-known public authors only (no PII).
+# Columns: a <TAB> b <TAB> label <TAB> category   (label 1=same author, 0=different)
+# Mirrors the real Calibre author-dedup cases: initials, diacritics/translit
+# variants, cross-script, and the hard same-given / short-cross-script negatives.
+J. K. Rowling	J.K. Rowling	1	author-initials
+Arthur Conan Doyle	A. Conan Doyle	1	author-initials
+George R. R. Martin	George R.R. Martin	1	author-initials
+Isaac Asimov	I. Asimov	1	author-initials
+Gabriel García Márquez	Gabriel Garcia Marquez	1	author-variant
+Fyodor Dostoevsky	Fyodor Dostoyevsky	1	author-variant
+Friedrich Nietzsche	Friedrich Nietzsche	1	author-variant
+Jorge Luis Borges	J. L. Borges	1	author-variant
+Naguib Mahfouz	نجيب محفوظ	1	author-crossscript
+Taha Hussein	طه حسين	1	author-crossscript
+Mohamed Hassanein Heikal	محمد حسنين هيكل	1	author-crossscript
+Amin Maalouf	أمين معلوف	1	author-crossscript
+J.K. Rowling	J.R.R. Tolkien	0	author-negative
+Mary Higgins Clark	Mary Roach	0	author-negative
+George Orwell	George Eliot	0	author-negative
+Arthur C. Clarke	Arthur Conan Doyle	0	author-negative
+Stephen King	Stephen Hawking	0	author-negative
+Alan Baker	محمد باقر الصدر	0	author-neg-crossscript
+Naguib Mahfouz	محمد حسنين هيكل	0	author-neg-crossscript
+Amin Maalouf	أمين الخولي	0	author-neg-crossscript

@@ -145,6 +145,77 @@ def test_mononym_partial_name_reaches_review():
     assert r.bucket in ("match", "review"), (r.score, r.reasons)
 
 
+def test_author_variants_match():
+    assert match("Arthur Conan Doyle", "A. Conan Doyle").bucket == "match"
+    assert match("Gabriel García Márquez", "Gabriel Garcia Marquez").bucket == "match"
+    assert match("George R. R. Martin", "George R.R. Martin").bucket == "match"
+
+
+def test_author_crossscript_match():
+    # Naguib Mahfouz <-> نجيب محفوظ
+    assert match("Naguib Mahfouz", "نجيب محفوظ").bucket in ("match", "review")
+
+
+def test_author_different_no_match():
+    assert match("Mary Higgins Clark", "Mary Roach").bucket == "no-match"
+    assert match("George Orwell", "George Eliot").bucket == "no-match"
+
+
+def test_calibre_integration_read_and_dedup(tmp_path=None):
+    import sqlite3
+    import tempfile
+    from integrations.calibre import read_authors
+    from namematch import dedup
+
+    d = tempfile.mkdtemp()
+    db = f"{d}/metadata.db"
+    con = sqlite3.connect(db)
+    con.execute("CREATE TABLE authors (id INTEGER PRIMARY KEY, name TEXT NOT NULL, "
+                "sort TEXT, link TEXT NOT NULL DEFAULT '')")
+    for nm in ["Arthur Conan Doyle", "A. Conan Doyle", "Isaac Asimov", "Mary Roach"]:
+        con.execute("INSERT INTO authors (name) VALUES (?)", (nm,))
+    con.commit(); con.close()
+
+    authors = read_authors(db)
+    assert len(authors) == 4
+    res = dedup(authors)
+    # the two Conan Doyle spellings cluster; Asimov/Roach stay separate
+    ai = authors.index("Arthur Conan Doyle")
+    bi = authors.index("A. Conan Doyle")
+    assert res.labels[ai] == res.labels[bi]
+    assert len({res.labels[authors.index(n)] for n in ("Isaac Asimov", "Mary Roach", "Arthur Conan Doyle")}) == 3
+
+
+def test_multisignal_vetoes_false_name_match():
+    from namematch import Signal, cmp_fuzzy, cmp_name, match, match_records
+    # 'Stephen King' vs 'Stephen Hawking' is a real name-only false MATCH (0.885)
+    assert match("Stephen King", "Stephen Hawking").bucket == "match"
+    # a disagreeing second signal demotes it out of auto-merge
+    sigs = [Signal("name", 0.6, cmp_name), Signal("subject", 0.4, cmp_fuzzy)]
+    a = {"name": "Stephen King", "subject": "horror fiction"}
+    b = {"name": "Stephen Hawking", "subject": "theoretical physics cosmology"}
+    assert match_records(a, b, sigs).bucket != "match"
+
+
+def test_multisignal_confirms_true_match():
+    from namematch import Signal, cmp_fuzzy, cmp_name, cmp_year, match_records
+    sigs = [Signal("name", 0.5, cmp_name), Signal("title", 0.3, cmp_fuzzy),
+            Signal("year", 0.2, cmp_year(1))]
+    a = {"name": "J.K. Rowling", "title": "Harry Potter and the Philosopher's Stone", "year": 1997}
+    b = {"name": "J. K. Rowling", "title": "Harry Potter & the Philosopher's Stone", "year": 1998}
+    assert match_records(a, b, sigs).bucket == "match"
+
+
+def test_multisignal_degrades_to_name_only():
+    # with only the name field present, the record score == the name score
+    from namematch import Signal, cmp_name, match, match_records
+    sigs = [Signal("name", 0.6, cmp_name), Signal("title", 0.4)]
+    a = {"name": "George Washington"}
+    b = {"name": "G. Washington"}
+    r = match_records(a, b, sigs)
+    assert r.bucket == match("George Washington", "G. Washington").bucket == "match"
+
+
 def test_lone_token_vs_fullname_not_auto_merged():
     # A bare given/surname token must NOT auto-merge with a full name sharing it
     # (this was the dedup hub bug: 'jan' matched every 'Jan ...' at 1.0 and

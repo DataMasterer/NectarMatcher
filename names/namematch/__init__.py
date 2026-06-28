@@ -19,6 +19,16 @@ from .dedup import DedupResult, dedup
 from .detect import Detection, detect
 from .match import MatchResult, match, token_sim
 from .parse import ParsedName, parse
+from .records import (
+    RecordMatch,
+    Signal,
+    cmp_exact,
+    cmp_fuzzy,
+    cmp_name,
+    cmp_token_set,
+    cmp_year,
+    match_records,
+)
 from .script import ScriptProfile, detect_script
 from .translit import candidates as transliteration_candidates
 from .translit import transliterate
@@ -27,6 +37,8 @@ __all__ = [
     "detect", "Detection",
     "match", "MatchResult", "token_sim",
     "dedup", "DedupResult",
+    "match_records", "RecordMatch", "Signal",
+    "cmp_name", "cmp_exact", "cmp_fuzzy", "cmp_year", "cmp_token_set",
     "parse", "ParsedName",
     "detect_script", "ScriptProfile",
     "infer_culture",

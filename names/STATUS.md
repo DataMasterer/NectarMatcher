@@ -68,6 +68,18 @@
   flat) with no synthetic regression. Largest cluster 254→10; spurious merges
   4058→1037. Residual false merges (initials / short cross-script collisions like
   Baker↔Baqir) remain → motivate the multi-signal scorer.
+- **Multi-signal scorer (roadmap #3) — done.** `namematch.match_records(a, b,
+  signals)` scores a weighted bag of field signals (name via `match()`, plus
+  title/year/subject/… via `cmp_fuzzy`/`cmp_exact`/`cmp_year`/`cmp_token_set`),
+  bucketed match/review/no-match; absent fields are skipped (degrades exactly to
+  `match()` when only a name is present). Vetoes name-only false positives:
+  `Stephen King` vs `Stephen Hawking` is a name-only **match (0.885)** but a
+  disagreeing subject signal demotes it to **review** — while true variants +
+  agreeing fields stay match.
+- **Author benchmark — added.** `eval/authors.tsv` (curated public authors, no
+  PII): initials / diacritics / cross-script positives + same-given & short
+  cross-script negatives. Name-only baseline strict P 0.92 / R 1.0 (one FP =
+  the Stephen King/Hawking case, which #3 resolves with a second signal).
 - **Next levers:** ZH romanization variants (Wade-Giles/name-order) + NEWS EN↔ZH;
   niqqud/scheme Hebrew + `he_*` gazetteers; person+**address** multi-signal
   prototype (libpostal + GeoNames, NCVR/FEBRL); more gazetteers (fr/de/it);
