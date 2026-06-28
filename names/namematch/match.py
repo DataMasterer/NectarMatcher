@@ -99,6 +99,12 @@ def token_sim(a: str, b: str, arabic: bool, bridged: str = "") -> float:
         if sx and sx == soundex(b):
             return 0.84
     ratio = SequenceMatcher(None, a, b).ratio()
+    # Same-script suffix trap: surnames sharing only a tail (Einstein/Bronstein,
+    # King/Hawking) over-score on raw edit ratio. A real spelling variant keeps
+    # the initial (and C/K-type shifts are already handled by the fold above), so
+    # when same-script initials differ, demand a strong ratio.
+    if not bridged and a[:1] != b[:1] and ratio < 0.80:
+        return 0.0
     return round(ratio, 3) if ratio >= 0.5 else 0.0
 
 

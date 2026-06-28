@@ -166,24 +166,25 @@ def test_calibre_profile_veto():
     # keeps a true variant, and skips cross-script pairs.
     from integrations.calibre import make_profile_compare
     cmp = make_profile_compare(min_profile=3)
-    king = {"name": "Stephen King", "script": "Latin", "profile": {"horror", "dark", "tower"}}
-    hawking = {"name": "Stephen Hawking", "script": "Latin", "profile": {"physics", "cosmos", "time"}}
-    skng = {"name": "S. King", "script": "Latin", "profile": {"horror", "dark", "novel"}}
-    assert cmp(king, hawking).bucket == "review"   # disjoint profiles -> demoted from match
-    assert cmp(king, skng).bucket == "match"        # overlapping profiles -> kept
+    # homonyms: same name (name-match), book profiles disambiguate
+    jw_film = {"name": "John Williams", "script": "Latin", "profile": {"film", "score", "orchestral"}}
+    jw_guitar = {"name": "John Williams", "script": "Latin", "profile": {"guitar", "classical", "spanish"}}
+    jw_film2 = {"name": "John Williams", "script": "Latin", "profile": {"film", "score", "movie"}}
+    assert cmp(jw_film, jw_guitar).bucket == "review"   # disjoint profiles -> demoted from match
+    assert cmp(jw_film, jw_film2).bucket == "match"      # overlapping profiles -> kept
 
 
 def test_dedup_record_aware_with_profile_compare():
     from integrations.calibre import make_profile_compare
     from namematch import dedup
-    recs = [
-        {"name": "Stephen King", "script": "Latin", "profile": {"horror", "dark", "tower"}},
-        {"name": "S. King", "script": "Latin", "profile": {"horror", "dark", "novel"}},
-        {"name": "Stephen Hawking", "script": "Latin", "profile": {"physics", "cosmos", "time"}},
+    recs = [  # three 'John Williams' homonyms; profiles disambiguate
+        {"name": "John Williams", "script": "Latin", "profile": {"film", "score", "orchestral"}},
+        {"name": "John Williams", "script": "Latin", "profile": {"film", "score", "movie"}},
+        {"name": "John Williams", "script": "Latin", "profile": {"guitar", "classical", "spanish"}},
     ]
     res = dedup(recs, key=lambda r: r["name"], compare=make_profile_compare(min_profile=3))
-    assert res.labels[0] == res.labels[1]      # King + S. King cluster
-    assert res.labels[2] != res.labels[0]      # Hawking stays separate (vetoed)
+    assert res.labels[0] == res.labels[1]      # the two film composers cluster (overlap)
+    assert res.labels[2] != res.labels[0]      # the guitarist stays separate (vetoed)
 
 
 def test_calibre_integration_read_and_dedup(tmp_path=None):
@@ -211,14 +212,14 @@ def test_calibre_integration_read_and_dedup(tmp_path=None):
     assert len({res.labels[authors.index(n)] for n in ("Isaac Asimov", "Mary Roach", "Arthur Conan Doyle")}) == 3
 
 
-def test_multisignal_vetoes_false_name_match():
+def test_multisignal_disambiguates_homonyms():
     from namematch import Signal, cmp_fuzzy, cmp_name, match, match_records
-    # 'Stephen King' vs 'Stephen Hawking' is a real name-only false MATCH (0.885)
-    assert match("Stephen King", "Stephen Hawking").bucket == "match"
-    # a disagreeing second signal demotes it out of auto-merge
+    # two different 'John Williams' (composer vs guitarist): the NAME genuinely
+    # matches (homonyms), so a second signal must do the disambiguation.
+    assert match("John Williams", "John Williams").bucket == "match"
     sigs = [Signal("name", 0.6, cmp_name), Signal("subject", 0.4, cmp_fuzzy)]
-    a = {"name": "Stephen King", "subject": "horror fiction"}
-    b = {"name": "Stephen Hawking", "subject": "theoretical physics cosmology"}
+    a = {"name": "John Williams", "subject": "film score composer orchestral"}
+    b = {"name": "John Williams", "subject": "classical guitar transcriptions"}
     assert match_records(a, b, sigs).bucket != "match"
 
 

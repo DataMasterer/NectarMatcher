@@ -97,6 +97,16 @@
   given + `-stein` suffix → 0.88), to fix at the matcher level — not via books.
   `min_profile` is the precision↔recall knob (lower = more vetoes → more to
   review).
+- **Name-matcher suffix-precision fix.** Same-script surnames sharing only a
+  *suffix* (`Einstein`/`Bronstein`, `King`/`Hawking`) over-scored on the raw
+  edit-ratio fallback; combined with a shared given they crossed 0.85. Fix
+  (`token_sim`): when same-script initials differ, require a strong ratio (C/K-
+  type shifts are already handled earlier by the fold, and bridged/cross-script
+  is exempt). Resolves the residual the book-profile veto couldn't (it was a
+  name issue, not a books issue) — and it's general, not Calibre-specific.
+  **Author benchmark precision 0.92 → 1.00**; cross-script (AR/HE/ZH/HI) and
+  synthetic benchmarks unchanged; true variants preserved (`Mohammed`/`Muhammad`,
+  `Dostoevsky`/`Dostoyevsky`, `A.`/`Arthur Conan Doyle`).
 - **Author benchmark — added.** `eval/authors.tsv` (curated public authors, no
   PII): initials / diacritics / cross-script positives + same-given & short
   cross-script negatives. Name-only baseline strict P 0.92 / R 1.0 (one FP =
