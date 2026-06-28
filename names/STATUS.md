@@ -78,16 +78,25 @@
   agreeing fields stay match.
 - **Author→books features wired into Calibre dedup.** `dedup` is now
   record-aware (`key` + `compare`); `integrations/calibre.py --books` builds a
-  per-author **profile** (topic tokens from their books' titles + tags) and uses
-  a veto comparator: a same-script auto-merge whose two authors' book profiles
-  are disjoint is demoted to *review* (coincidental name collision), while
-  cross-script pairs are exempt (their titles are in different scripts). On the
-  real library: false/mixed over-merges drop (merges 1037→777; `Albert
-  Bronstein`≠`Albert Einstein`, initials-hubs, junk titles split out). Tradeoff:
-  true author-splits whose books share no title vocabulary (`A. Conan Doyle` /
-  `Arthur Conan Doyle`) also go to *review* — correct for a human-reviewed
-  pipeline; richer signals (tags coverage is only ~15%; co-author/series overlap)
-  would tighten it.
+  per-author **namespaced profile** (`t:` title words, `g:` tags, `c:` co-authors
+  with hyper-common translators/editors dropped) and a veto comparator: a
+  same-script auto-merge whose two authors' profiles are disjoint is demoted to
+  *review*. **Size-gated** — only vetoes when both profiles are substantial
+  (`min_profile`, default 8), since disjointness is only evidence of *different
+  people* for prolific authors; a sparse profile is just missing data. This
+  recovers sparse true-splits (`A./Arthur Conan Doyle` stay merged) while still
+  splitting prolific coincidental collisions. Cross-script pairs are exempt
+  (their titles are in different scripts).
+- **Honest limit (well-characterized).** Series is dead in this library (0.3%),
+  tags ~15%, many titles are filename junk — so book features are sparse. On
+  sparse data the veto can't separate a true sparse-split (Conan Doyle, ~7
+  tokens) from a false sparse-collision (`Albert Einstein`/`Bronstein`, 3–4
+  tokens, disjoint): any size threshold that vetoes one vetoes the other. The
+  default favors recovering true splits; the residual sparse false-merges
+  (`Einstein`/`Bronstein`) are really a **name-matcher** precision issue (shared
+  given + `-stein` suffix → 0.88), to fix at the matcher level — not via books.
+  `min_profile` is the precision↔recall knob (lower = more vetoes → more to
+  review).
 - **Author benchmark — added.** `eval/authors.tsv` (curated public authors, no
   PII): initials / diacritics / cross-script positives + same-given & short
   cross-script negatives. Name-only baseline strict P 0.92 / R 1.0 (one FP =

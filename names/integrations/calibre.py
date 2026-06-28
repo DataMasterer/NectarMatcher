@@ -49,28 +49,41 @@ def _tokens(text: str) -> set[str]:
     return out
 
 
-def read_author_profiles(db_path: str) -> list[dict]:
-    """Per author: {name, script, profile} where profile is the set of topic
-    tokens from the titles + tags of all their books (the author->books signal)."""
+def read_author_profiles(db_path: str, max_coauthor_partners: int = 5) -> list[dict]:
+    """Per author: {name, script, profile}. The profile is a NAMESPACED token set
+    from the author's books: ``t:`` title words, ``g:`` tag words, ``c:``
+    co-authors. Namespacing stops a title word from spuriously matching a tag or
+    co-author. Co-authors that pair with many different authors (translators/
+    editors) are dropped — they aren't discriminative."""
     con = sqlite3.connect(f"file:{db_path}?mode=ro", uri=True)
     try:
-        prof: dict[str, set] = {}
         names = [r[0] for r in con.execute(
             "SELECT name FROM authors WHERE name IS NOT NULL AND trim(name)!=''").fetchall()]
-        for nm in names:
-            prof.setdefault(nm, set())
-        for q in (
-            "SELECT a.name, b.title FROM authors a "
+        prof: dict[str, set] = {nm: set() for nm in names}
+        for name, title in con.execute(
+                "SELECT a.name, b.title FROM authors a "
+                "JOIN books_authors_link bal ON bal.author=a.id "
+                "JOIN books b ON b.id=bal.book"):
+            if name in prof and title:
+                prof[name] |= {"t:" + t for t in _tokens(title)}
+        for name, tag in con.execute(
+                "SELECT a.name, t.name FROM authors a "
+                "JOIN books_authors_link bal ON bal.author=a.id "
+                "JOIN books_tags_link btl ON btl.book=bal.book "
+                "JOIN tags t ON t.id=btl.tag"):
+            if name in prof and tag:
+                prof[name] |= {"g:" + t for t in _tokens(tag)}
+        co_rows = con.execute(
+            "SELECT a.name, a2.name FROM authors a "
             "JOIN books_authors_link bal ON bal.author=a.id "
-            "JOIN books b ON b.id=bal.book",
-            "SELECT a.name, t.name FROM authors a "
-            "JOIN books_authors_link bal ON bal.author=a.id "
-            "JOIN books_tags_link btl ON btl.book=bal.book "
-            "JOIN tags t ON t.id=btl.tag",
-        ):
-            for name, text in con.execute(q):
-                if name in prof and text:
-                    prof[name] |= _tokens(text)
+            "JOIN books_authors_link bal2 ON bal2.book=bal.book AND bal2.author<>a.id "
+            "JOIN authors a2 ON a2.id=bal2.author").fetchall()
+        partners: dict[str, set] = {}
+        for name, co in co_rows:
+            partners.setdefault(co, set()).add(name)
+        for name, co in co_rows:
+            if name in prof and len(partners.get(co, ())) <= max_coauthor_partners:
+                prof[name].add("c:" + co.strip().lower())
     finally:
         con.close()
     return [{"name": nm, "script": detect_script(nm).dominant or "?", "profile": prof[nm]}
@@ -81,11 +94,15 @@ def _jaccard(a: set, b: set) -> float:
     return len(a & b) / len(a | b) if (a and b) else 0.0
 
 
-def make_profile_compare(min_profile: int = 3, veto_overlap: float = 0.05):
+def make_profile_compare(min_profile: int = 8, veto_overlap: float = 0.05):
     """A comparator: name match, but demote a same-script auto-merge to *review*
-    when both authors have substantial book profiles that barely overlap (their
-    books are about entirely different topics -> probably different people).
-    Skips cross-script pairs, whose titles are in different scripts by nature."""
+    when both authors have **substantial** book profiles that barely overlap
+    (their books are about entirely different topics -> probably different
+    people). Disjointness is only evidence of difference when each profile is
+    big enough (>= min_profile tokens); a sparse profile (an author with few/
+    badly-titled books, e.g. 'A. Conan Doyle') is just missing data, so it is NOT
+    vetoed. Cross-script pairs are skipped — their titles are in different scripts
+    by nature, so disjointness there is expected, not evidence."""
     def compare(a: dict, b: dict) -> RecordMatch:
         r = match(a["name"], b["name"])
         pa, pb = a["profile"], b["profile"]

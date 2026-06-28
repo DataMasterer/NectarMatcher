@@ -165,7 +165,7 @@ def test_calibre_profile_veto():
     # author->books profile vetoes a same-script coincidental name collision,
     # keeps a true variant, and skips cross-script pairs.
     from integrations.calibre import make_profile_compare
-    cmp = make_profile_compare()
+    cmp = make_profile_compare(min_profile=3)
     king = {"name": "Stephen King", "script": "Latin", "profile": {"horror", "dark", "tower"}}
     hawking = {"name": "Stephen Hawking", "script": "Latin", "profile": {"physics", "cosmos", "time"}}
     skng = {"name": "S. King", "script": "Latin", "profile": {"horror", "dark", "novel"}}
@@ -181,7 +181,7 @@ def test_dedup_record_aware_with_profile_compare():
         {"name": "S. King", "script": "Latin", "profile": {"horror", "dark", "novel"}},
         {"name": "Stephen Hawking", "script": "Latin", "profile": {"physics", "cosmos", "time"}},
     ]
-    res = dedup(recs, key=lambda r: r["name"], compare=make_profile_compare())
+    res = dedup(recs, key=lambda r: r["name"], compare=make_profile_compare(min_profile=3))
     assert res.labels[0] == res.labels[1]      # King + S. King cluster
     assert res.labels[2] != res.labels[0]      # Hawking stays separate (vetoed)
 
