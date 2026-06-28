@@ -187,6 +187,17 @@ def test_dedup_record_aware_with_profile_compare():
     assert res.labels[2] != res.labels[0]      # the guitarist stays separate (vetoed)
 
 
+def test_calibre_classify_author():
+    from integrations.calibre import classify_author
+    titles = {"clubdead", "thedevilsalternative"}  # normalized book titles
+    assert classify_author("#!/bin/bash", titles)[0] == "junk"
+    assert classify_author("Club Dead", titles) == ("title", "high")   # matches a book title
+    # a title-word phrase must not be classified as a person (title or review)
+    assert classify_author("A Course in Fluid Mechanics", titles)[0] != "person"
+    if HAS_CORPUS:  # needs the name gazetteers
+        assert classify_author("Charles Dickens", titles)[0] == "person"
+
+
 def test_calibre_integration_read_and_dedup(tmp_path=None):
     import sqlite3
     import tempfile

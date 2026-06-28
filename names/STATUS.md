@@ -107,6 +107,16 @@
   **Author benchmark precision 0.92 → 1.00**; cross-script (AR/HE/ZH/HI) and
   synthetic benchmarks unchanged; true variants preserved (`Mohammed`/`Muhammad`,
   `Dostoevsky`/`Dostoyevsky`, `A.`/`Arthur Conan Doyle`).
+- **Author-field classification (person / title / junk).** `integrations/calibre.py
+  --classify` labels each author-field entry, cross-referencing the **books'
+  titles** (a title misfiled as an author is the common Calibre import error).
+  Confidence-tiered + transparent. On the real library (11,502 entries): ~**1,400
+  high-confidence** (814 junk-code + 605 titles matching a real book title) are
+  directly actionable; person ↔ title-phrase is a **fuzzy ceiling** for
+  heuristics (gazetteer-hit over-credits capitalized phrases; real non-Western
+  names lack lexicon coverage), so the ambiguous middle is flagged `review` for a
+  human or the opt-in **LLM plugin** ("person vs title vs junk"). `dedup` can
+  consume this to drop junk+confirmed-titles from its input.
 - **Author benchmark — added.** `eval/authors.tsv` (curated public authors, no
   PII): initials / diacritics / cross-script positives + same-given & short
   cross-script negatives. Name-only baseline strict P 0.92 / R 1.0 (one FP =

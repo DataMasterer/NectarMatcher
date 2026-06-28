@@ -94,6 +94,56 @@ def _jaccard(a: set, b: set) -> float:
     return len(a & b) / len(a | b) if (a and b) else 0.0
 
 
+# --- author-field classification: person vs title vs junk ------------------
+
+_JUNK_RE = re.compile(r"[=<>{}|;\\]|^\s*[#$/]|^\s*\d")
+_TITLE_WORDS = set(
+    "guide course introduction handbook manual encyclopedia dictionary system "
+    "systems mechanics edition volume dummies mystery tales story stories "
+    "programming design theory analysis methods practice solutions reference "
+    "lectures notes essentials techniques fundamentals cookbook tutorial overview "
+    "survey approach principles chapter appendix slides".split())
+
+
+def _norm_title(s: str) -> str:
+    s = normalize_arabic(s or "").lower()
+    s = re.sub(r"\(.*?\)", "", s)
+    return re.sub(r"[^a-z0-9؀-ۿ]+", "", s)
+
+
+def read_titles(db_path: str) -> set[str]:
+    con = sqlite3.connect(f"file:{db_path}?mode=ro", uri=True)
+    try:
+        ts = {_norm_title(r[0]) for r in con.execute(
+            "SELECT title FROM books WHERE title IS NOT NULL") if r[0]}
+    finally:
+        con.close()
+    return ts - {""}
+
+
+def classify_author(name: str, titles: set[str]) -> tuple[str, str]:
+    """Classify an author-field entry. Returns (category, confidence).
+
+    Categories: 'junk' (code/symbols/filenames), 'title' (a book title misfiled
+    as an author), 'person', 'review' (name-like but ambiguous). 'junk' and a
+    book-title-matched 'title' are HIGH confidence; person/title-phrase/review is
+    a fuzzy boundary (LOW) — flag for human/LLM review, don't trust blindly."""
+    s = name.strip().strip('"\'')
+    d = detect(s)
+    has_title_word = bool({t for t in re.sub(r"[^a-z ]", " ", s.lower()).split()} & _TITLE_WORDS)
+    if _JUNK_RE.search(s):
+        return "junk", "high"
+    if _norm_title(s) in titles:
+        return "title", "high"        # exact match to a real book title
+    if has_title_word and not d.origins:
+        return "title", "low"         # title-word phrase, no name-lexicon hit
+    if d.origins and d.is_person_name >= 0.5 and not has_title_word:
+        return "person", "med"        # lexicon hit + name-shaped
+    if d.is_person_name < 0.3:
+        return "junk", "low"
+    return "review", "low"            # name-like but ambiguous -> human/LLM
+
+
 def make_profile_compare(min_profile: int = 8, veto_overlap: float = 0.05):
     """A comparator: name match, but demote a same-script auto-merge to *review*
     when both authors have **substantial** book profiles that barely overlap
@@ -124,11 +174,33 @@ def main(argv=None) -> int:
     ap.add_argument("--min-name-score", dest="min_name", type=float, default=0.3,
                     help="drop entries whose is_person_name score is below this "
                          "(the Calibre author field holds non-author junk); 0 disables")
+    ap.add_argument("--classify", action="store_true",
+                    help="classify each author-field entry as person/title/junk "
+                         "(report + <out>_classes.tsv) instead of deduping")
     ap.add_argument("--books", action="store_true",
                     help="use the author->books profile (title/tag topic overlap) as a "
                          "second signal to veto coincidental same-script name collisions")
     ap.add_argument("--out", default="", help="output prefix (writes <out>_clusters.tsv + _review.tsv)")
     args = ap.parse_args(argv)
+
+    if args.classify:
+        from collections import Counter
+        titles = read_titles(args.db)
+        rows = [(a, *classify_author(a, titles)) for a in read_authors(args.db)]
+        by_cat = Counter(c for _, c, _ in rows)
+        by_cc = Counter((c, conf) for _, c, conf in rows)
+        print(f"classified {len(rows)} author-field entries:")
+        for c in ("person", "title", "junk", "review"):
+            confs = {cf: n for (cc, cf), n in by_cc.items() if cc == c}
+            print(f"  {c:8} {by_cat[c]:6}  by confidence: {confs}")
+        if args.out:
+            p = Path(f"{args.out}_classes.tsv")
+            with p.open("w", encoding="utf-8") as fh:
+                fh.write("category\tconfidence\tname\n")
+                for a, c, conf in rows:
+                    fh.write(f"{c}\t{conf}\t{a}\n")
+            print(f"wrote {p}")
+        return 0
 
     if args.books:
         records = read_author_profiles(args.db)
