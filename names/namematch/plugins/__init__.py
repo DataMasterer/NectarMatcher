@@ -7,4 +7,4 @@ depends on anything here, preserving DataMasterer's 100%-local default.
 """
 from __future__ import annotations
 
-__all__ = ["origin_ml", "llm_judge"]
+__all__ = ["origin_ml", "llm_judge", "entity_type"]

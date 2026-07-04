@@ -114,9 +114,18 @@
   high-confidence** (814 junk-code + 605 titles matching a real book title) are
   directly actionable; person ↔ title-phrase is a **fuzzy ceiling** for
   heuristics (gazetteer-hit over-credits capitalized phrases; real non-Western
-  names lack lexicon coverage), so the ambiguous middle is flagged `review` for a
-  human or the opt-in **LLM plugin** ("person vs title vs junk"). `dedup` can
-  consume this to drop junk+confirmed-titles from its input.
+  names lack lexicon coverage), so the ambiguous middle is flagged `review`.
+  `dedup` can consume this to drop junk+confirmed-titles from its input.
+- **Entity-type plugin (GLiNER) — resolves the fuzzy boundary, opt-in & local.**
+  `plugins/entity_type.classify(text) -> person|title|org|none` wraps **GLiNER**
+  (zero-shot NER, CPU, no API; `pip install namematch[entity-type]`). It
+  classifies by *structure*, so it generalizes to names in no gazetteer — a spike
+  correctly labels `عبد الرحمن بن خلدون` (Ibn Khaldun), `غونتر غراس`,
+  `The Swiss Gambit`→title, etc. — which a person-*index* can't (coverage + it
+  goes stale as authors grow). `calibre --classify --gliner` layers it after the
+  deterministic prefilters (junk-regex, book-title match handle what GLiNER is
+  weakest on). Spike numbers: titles→not-person 90%, persons→person 85%, and it
+  *decides* the fuzzy `review` bucket. The deterministic core stays zero-dep.
 - **Author benchmark — added.** `eval/authors.tsv` (curated public authors, no
   PII): initials / diacritics / cross-script positives + same-given & short
   cross-script negatives. Name-only baseline strict P 0.92 / R 1.0 (one FP =

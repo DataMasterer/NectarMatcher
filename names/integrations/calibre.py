@@ -177,6 +177,9 @@ def main(argv=None) -> int:
     ap.add_argument("--classify", action="store_true",
                     help="classify each author-field entry as person/title/junk "
                          "(report + <out>_classes.tsv) instead of deduping")
+    ap.add_argument("--gliner", action="store_true",
+                    help="with --classify: refine non-high-confidence entries with the "
+                         "GLiNER entity-type plugin (opt-in; generalizes to Arabic/unseen)")
     ap.add_argument("--books", action="store_true",
                     help="use the author->books profile (title/tag topic overlap) as a "
                          "second signal to veto coincidental same-script name collisions")
@@ -187,10 +190,18 @@ def main(argv=None) -> int:
         from collections import Counter
         titles = read_titles(args.db)
         rows = [(a, *classify_author(a, titles)) for a in read_authors(args.db)]
+        if args.gliner:
+            # layered: trust deterministic HIGH (junk-code, book-title matches);
+            # refine everything else with the structure-based model.
+            from namematch.plugins import entity_type
+            _map = {"person": "person", "title": "title", "organization": "org", "none": "junk"}
+            rows = [(a, c, conf) if conf == "high"
+                    else (a, _map[entity_type.classify(a)], "gliner")
+                    for a, c, conf in rows]
         by_cat = Counter(c for _, c, _ in rows)
         by_cc = Counter((c, conf) for _, c, conf in rows)
         print(f"classified {len(rows)} author-field entries:")
-        for c in ("person", "title", "junk", "review"):
+        for c, _n in by_cat.most_common():
             confs = {cf: n for (cc, cf), n in by_cc.items() if cc == c}
             print(f"  {c:8} {by_cat[c]:6}  by confidence: {confs}")
         if args.out:

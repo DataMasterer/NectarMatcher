@@ -187,6 +187,15 @@ def test_dedup_record_aware_with_profile_compare():
     assert res.labels[2] != res.labels[0]      # the guitarist stays separate (vetoed)
 
 
+def test_entity_type_plugin_wiring():
+    # opt-in GLiNER plugin: importable + callable without loading the model.
+    # (Real classification is validated by the spike, not the unit suite, since
+    # it needs the model download.)
+    from namematch.plugins import entity_type
+    assert callable(entity_type.classify)
+    assert entity_type._DEFAULT_MODEL and "gliner" in entity_type._DEFAULT_MODEL.lower()
+
+
 def test_calibre_classify_author():
     from integrations.calibre import classify_author
     titles = {"clubdead", "thedevilsalternative"}  # normalized book titles

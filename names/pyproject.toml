@@ -16,6 +16,8 @@ dependencies = []
 fuzzy = ["rapidfuzz>=3", "jellyfish>=1", "abydos>=0.5"]
 # Name-origin / nationality classifier backends.
 origin-ml = ["name2nat"]
+# Local zero-shot entity-type NER (person/title/org) via GLiNER — CPU, no API.
+entity-type = ["gliner>=0.2"]
 # LLM adjudication of hard review-bucket cases (Claude).
 llm = ["anthropic>=0.40"]
 # Arabic NLP (segmentation, diacritization) for higher-precision Arabic.
