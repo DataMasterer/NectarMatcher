@@ -126,6 +126,17 @@
   deterministic prefilters (junk-regex, book-title match handle what GLiNER is
   weakest on). Spike numbers: titles→not-person 90%, persons→person 85%, and it
   *decides* the fuzzy `review` bucket. The deterministic core stays zero-dep.
+- **Full-library run + Opus multi-agent audit + fixes.** Ran `--classify --gliner`
+  over all 11,502 authors; a 3-agent Opus audit found high error rates in junk
+  (~40–58% false-junk) and org (~55%), with clear root causes — fixed all four:
+  (#1) Arabic `surname، firstname` catalog form → person, first (+ strip bidi
+  chars) — GLiNER was junking real Arabic authors; (#2) `|` is a co-author/
+  authority separator, not code (removed from junk regex; `_author_separated`);
+  (#3) eponymous trap — an exact book-title match no longer scrubs a
+  gazetteer-backed person (`Emanuel Lasker`, `Ibn Sina`); (#4) `org` requires an
+  anchor token, else persons-first. Re-run: person 6642→**8375**, junk
+  3326→**2165** (false-junk), org 517→**93**. All audit-flagged errors verified
+  fixed. 43/43 tests.
 - **Author benchmark — added.** `eval/authors.tsv` (curated public authors, no
   PII): initials / diacritics / cross-script positives + same-given & short
   cross-script negatives. Name-only baseline strict P 0.92 / R 1.0 (one FP =
