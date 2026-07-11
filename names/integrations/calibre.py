@@ -95,20 +95,89 @@ def _jaccard(a: set, b: set) -> float:
 
 
 # --- author-field classification: person vs title vs junk ------------------
+# (audit-driven: fixes for the Arabic surname،firstname format, the pipe
+#  separator, the eponymous-title trap, and the org-anchor requirement)
 
-_JUNK_RE = re.compile(r"[=<>{}|;\\]|^\s*[#$/]|^\s*\d")
+# `|` is NOT junk here — it's a co-author/catalog separator (handled below).
+_JUNK_RE = re.compile(r"[=<>{}\\;]|^\s*[#$/]|^\s*\d")
+_BIDI = re.compile("[‎‏‪-‮⁦-⁩؜]")
+_AR = r"؀-ۿ"
 _TITLE_WORDS = set(
     "guide course introduction handbook manual encyclopedia dictionary system "
     "systems mechanics edition volume dummies mystery tales story stories "
     "programming design theory analysis methods practice solutions reference "
     "lectures notes essentials techniques fundamentals cookbook tutorial overview "
     "survey approach principles chapter appendix slides".split())
+_ORG_ANCHOR = re.compile(
+    r"\b(inc|llc|ltd|co|corp|company|association|institute|committee|university|"
+    r"academy|press|systems|society|group|agency|foundation|dept|department|team|"
+    r"labs?|technologies|technology|publishers?|books)\b|\.com|"
+    r"مكتبة|مجمع|جامعة|شركة|مؤسسة|\bدار\b", re.I)
+
+
+def _clean(s: str) -> str:
+    return _BIDI.sub("", s or "").strip().strip('"\'')
 
 
 def _norm_title(s: str) -> str:
     s = normalize_arabic(s or "").lower()
     s = re.sub(r"\(.*?\)", "", s)
     return re.sub(r"[^a-z0-9؀-ۿ]+", "", s)
+
+
+def _arabic_inverted_name(s: str) -> bool:
+    """Catalog `surname، firstname` (Arabic comma) or `surname. firstname` form —
+    unambiguously a person; GLiNER-multi mis-reads it as junk/title/org."""
+    if not re.search(f"[{_AR}]", s):
+        return False
+    return bool(re.fullmatch(rf"[{_AR}][{_AR}\s]*[،,]\s*[{_AR}][{_AR}\s]*", s)
+                or re.fullmatch(rf"[{_AR}]+\.\s*[{_AR}][{_AR}\s]*", s))
+
+
+def _author_separated(s: str) -> bool:
+    """A co-author / authority-control string (`Grisham| John`, `A| B & C`,
+    `Gates| David| 1947-`): all segments name-shaped (a lone year segment is ok)."""
+    if not re.search(r"[|&]|\s-\s", s):
+        return False
+    parts = [p.strip().strip(".") for p in re.split(r"\s*[|&]\s*|\s+-\s+", s) if p.strip()]
+    if len(parts) < 2:
+        return False
+    namey = 0
+    for p in parts:
+        if re.fullmatch(r"\d{3,4}-?", p):        # birth/authority year
+            continue
+        toks = p.split()
+        if (1 <= len(toks) <= 4 and not re.search(r"[()\[\]{}=<>;\\/]|\d", p)
+                and not (set(t.lower() for t in toks) & _TITLE_WORDS)):
+            namey += 1
+        else:
+            return False
+    return namey >= 2
+
+
+def _person_shaped(s: str) -> bool:
+    """Strong person signal used to veto the eponymous-title trap: Arabic-
+    inverted, or 2-4 tokens (no title-word) with a real name-lexicon hit.
+    Capitalization alone is NOT enough — it can't tell 'Emanuel Lasker' from
+    'Club Dead', so we require a gazetteer origin."""
+    if _arabic_inverted_name(s):
+        return True
+    toks = s.split()
+    if not (2 <= len(toks) <= 4) or (set(t.lower() for t in toks) & _TITLE_WORDS):
+        return False
+    return bool(detect(s).origins)
+
+
+def refine_org(s: str) -> str:
+    """Validate a GLiNER 'organization' call: real org needs an anchor token;
+    otherwise it's usually a person GLiNER misread (persons-first), or a
+    title/junk if it carries digits/title-words."""
+    s = _clean(s)
+    if _ORG_ANCHOR.search(s):
+        return "org"
+    if re.search(r"\d", s) or (set(s.lower().split()) & _TITLE_WORDS):
+        return "title"
+    return "person"
 
 
 def read_titles(db_path: str) -> set[str]:
@@ -124,24 +193,27 @@ def read_titles(db_path: str) -> set[str]:
 def classify_author(name: str, titles: set[str]) -> tuple[str, str]:
     """Classify an author-field entry. Returns (category, confidence).
 
-    Categories: 'junk' (code/symbols/filenames), 'title' (a book title misfiled
-    as an author), 'person', 'review' (name-like but ambiguous). 'junk' and a
-    book-title-matched 'title' are HIGH confidence; person/title-phrase/review is
-    a fuzzy boundary (LOW) — flag for human/LLM review, don't trust blindly."""
-    s = name.strip().strip('"\'')
+    Categories: 'person', 'title' (book title misfiled as an author), 'junk'
+    (code/noise), 'review' (name-like but ambiguous). High-confidence rules run
+    first (Arabic inverted names, co-author strings, code, book-title match)."""
+    s = _clean(name)
+    # #1/#2: catalog Arabic names and co-author/authority strings are persons.
+    if _arabic_inverted_name(s) or _author_separated(s):
+        return "person", "high"
     d = detect(s)
     has_title_word = bool({t for t in re.sub(r"[^a-z ]", " ", s.lower()).split()} & _TITLE_WORDS)
     if _JUNK_RE.search(s):
         return "junk", "high"
     if _norm_title(s) in titles:
-        return "title", "high"        # exact match to a real book title
+        # #3: don't let an eponymous book title scrub a real person.
+        return ("person", "med") if _person_shaped(s) else ("title", "high")
     if has_title_word and not d.origins:
-        return "title", "low"         # title-word phrase, no name-lexicon hit
+        return "title", "low"
     if d.origins and d.is_person_name >= 0.5 and not has_title_word:
-        return "person", "med"        # lexicon hit + name-shaped
+        return "person", "med"
     if d.is_person_name < 0.3:
         return "junk", "low"
-    return "review", "low"            # name-like but ambiguous -> human/LLM
+    return "review", "low"
 
 
 def make_profile_compare(min_profile: int = 8, veto_overlap: float = 0.05):
@@ -195,8 +267,12 @@ def main(argv=None) -> int:
             # refine everything else with the structure-based model.
             from namematch.plugins import entity_type
             _map = {"person": "person", "title": "title", "organization": "org", "none": "junk"}
-            rows = [(a, c, conf) if conf == "high"
-                    else (a, _map[entity_type.classify(a)], "gliner")
+
+            def _refine(a):
+                cat = _map[entity_type.classify(_clean(a))]
+                return refine_org(a) if cat == "org" else cat  # #4: validate org
+
+            rows = [(a, c, conf) if conf == "high" else (a, _refine(a), "gliner")
                     for a, c, conf in rows]
         by_cat = Counter(c for _, c, _ in rows)
         by_cc = Counter((c, conf) for _, c, conf in rows)

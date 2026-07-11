@@ -197,14 +197,29 @@ def test_entity_type_plugin_wiring():
 
 
 def test_calibre_classify_author():
-    from integrations.calibre import classify_author
-    titles = {"clubdead", "thedevilsalternative"}  # normalized book titles
+    from integrations.calibre import classify_author, refine_org
+    titles = {"clubdead", "emanuellasker", "carrie"}  # normalized book titles
     assert classify_author("#!/bin/bash", titles)[0] == "junk"
-    assert classify_author("Club Dead", titles) == ("title", "high")   # matches a book title
-    # a title-word phrase must not be classified as a person (title or review)
+    assert classify_author("Club Dead", titles) == ("title", "high")
     assert classify_author("A Course in Fluid Mechanics", titles)[0] != "person"
-    if HAS_CORPUS:  # needs the name gazetteers
+    # #1 Arabic surname،firstname (and period form) -> person
+    assert classify_author("باختين، ميخائيل", titles) == ("person", "high")
+    assert classify_author("المغازي، أحمد", titles) == ("person", "high")
+    # #2 co-author / authority strings -> person; title|metadata is not a person
+    assert classify_author("Grisham| John", titles) == ("person", "high")
+    assert classify_author("Ali Emadi| John M. Miller", titles) == ("person", "high")
+    assert classify_author("Chess Task-Manual| Vol. 5 (1999)", titles)[0] != "person"
+    # #3 eponymous: a person-shaped title-match is NOT scrubbed to title;
+    # a non-name title-match (Club Dead, Carrie) stays a title.
+    assert classify_author("Carrie", titles) == ("title", "high")   # single-token title
+    assert classify_author("Club Dead", titles) == ("title", "high")  # not name-shaped
+    # #4 org anchor: real org keeps org; unanchored -> person; year -> title
+    assert refine_org("Cisco Systems") == "org"
+    assert refine_org("Spinoza") == "person"
+    assert refine_org("Fishing (1916)") == "title"
+    if HAS_CORPUS:  # eponymous veto needs the gazetteer to see the name
         assert classify_author("Charles Dickens", titles)[0] == "person"
+        assert classify_author("Emanuel Lasker", titles)[0] == "person"
 
 
 def test_calibre_integration_read_and_dedup(tmp_path=None):
