@@ -222,6 +222,163 @@ def test_calibre_classify_author():
         assert classify_author("Emanuel Lasker", titles)[0] == "person"
 
 
+def test_calibre_clean_normalization():
+    # residual fix #1: shared input normalization on every path
+    from integrations.calibre import _clean
+    assert _clean("‏John Smith‎​") == "John Smith"   # bidi/zero-width
+    assert _clean("Modern Chess Openings.part1") == "Modern Chess Openings"
+    assert _clean("Dumas (single pages)") == "Dumas"
+    assert _clean("Tolstoy; Translated") == "Tolstoy"               # trailing role
+    assert _clean("Hugo, Victor; Edited by") == "Hugo, Victor"
+    assert _clean("By Charles Dickens") == "Charles Dickens"        # leading credit
+    assert _clean("Dr. Watson") == "Watson"
+    assert _clean("د. أحمد أمين") == "أحمد أمين"
+    assert _clean("Marcus Wareing|") == "Marcus Wareing"    # dangling separator
+    assert _clean("عقاد، عباس محمود،, 18891964") == "عقاد، عباس محمود"
+
+
+def test_calibre_coauthor_split_rescue():
+    # residual fix #2: `;`/`,` co-author lists -> person; title;subtitle guarded
+    from integrations.calibre import classify_author
+    titles = {"loverosie"}
+    if HAS_CORPUS:
+        assert classify_author("Stephen King; Peter Straub", titles) == ("person", "high")
+        assert classify_author("Neil Gaiman, Terry Pratchett", titles) == ("person", "high")
+    # subtitle segments carry title-words -> not a co-author list
+    assert classify_author("Chess Openings; A Complete Guide", titles)[0] != "person"
+    assert classify_author("Cooking Basics; An Introduction", titles)[0] != "person"
+    # a comma'd string matching a real book title is still that title
+    assert classify_author("Love, Rosie", titles)[0] == "title"
+
+
+def test_calibre_author_separated_tightened():
+    # residual fixes #3/#4/#9: particles pass, lists/affiliations + raw `|` fail
+    from integrations.calibre import _author_separated, classify_author
+    if HAS_CORPUS:
+        assert classify_author(
+            "Curt von Bardeleben| Emil Schallopp und der Lasa", set()) == ("person", "high")
+        assert classify_author("Grisham| John", set()) == ("person", "high")
+        # de-duped repeated segments still pass
+        assert classify_author("Grisham| John| Grisham", set()) == ("person", "high")
+        # suffix segments are ignorable; long all-multi-token lists pass
+        assert classify_author("Johnson| Spencer| M.D.", set()) == ("person", "high")
+        assert classify_author(
+            "Philippe Hampikian| Jean-Marie Cannoni| Vincent Daniau| "
+            "Patrice Delage| Christophe Delaitre", set()) == ("person", "high")
+        # a list that de-dupes to one real name is that name
+        assert classify_author("A. Borovik| A. Borovik", set()) == ("person", "high")
+        # alternating surname|given sort-form pairs
+        assert classify_author(
+            "Gater| Will.| Vamplew| Anton.| Mitton| Jacqueline.", set()) == ("person", "high")
+        # year-range and lone-initial segments are ignorable
+        assert classify_author("Strunk| William| 1869-1946", set()) == ("person", "high")
+        assert classify_author("Erdos| P.", set()) == ("person", "high")
+        # sort forms repeat the surname — pairing runs before de-duping
+        assert classify_author(
+            "Strawbridge| Dick.|Strawbridge| James.", set()) == ("person", "high")
+        # a short all-given-names list is a co-author list
+        assert classify_author("Ivan |Peter| Jan", set()) == ("person", "high")
+        # partial pair evidence -> review, not junk
+        assert _author_separated("Terplan| Kornel| Morreale| Patricia") == "soft"
+    # name-shaped but lexicon-less separated forms go to review (model decides)
+    assert _author_separated("Etoh| Minoru.") == "soft"
+    assert classify_author("Etoh| Minoru.", set()) == ("review", "low")
+    assert _author_separated("Air Conditioning| Heating") == "soft"
+    # library lists / affiliations / tech terms are never person-high...
+    assert _author_separated("Struts| Tapestry| JSF| Spring") != "high"
+    assert _author_separated(
+        "Struts| Tapestry| Commons| Velocity| JUnit| Axis| Cocoon") is None
+    assert _author_separated("A| B") is None                # bare initials
+    # ...and any raw `|` that survives is field-merge corruption -> junk
+    assert classify_author("Struts| Tapestry| JSF| Spring", set())[0] != "person"
+    assert classify_author("The Finite Element Method| V", set()) == ("junk", "high")
+    # shouty affiliation lists are at most review, never person
+    assert classify_author("THERMODYNAMICS| HEAT TRANSFER| A", set())[0] != "person"
+
+
+def test_calibre_initials_forms():
+    # surname+initials shapes are persons; the gliner-junk override backs them
+    from integrations.calibre import _gliner_person_override, classify_author
+    assert classify_author("Shafarevich I.R", set()) == ("person", "med")
+    assert classify_author("S.Sivalingam", set()) == ("person", "med")
+    assert classify_author("J. ECONOMETRICS", set())[0] != "person"
+    assert _gliner_person_override("Shafarevich I.R")
+    if HAS_CORPUS:  # Arabic gazetteer names the model junks are kept
+        assert _gliner_person_override("سهام مرضي")
+        assert not _gliner_person_override("Key of Valor")
+        assert not _gliner_person_override("Chess Strategies")
+
+
+def test_calibre_structural_junk():
+    # residual fix #5: boilerplate rows are junk, never accepted as titles
+    from integrations.calibre import classify_author
+    for s in ("Chap-01", "Chapter 7", "Volume 12", "ISBN 9780262033848",
+              "AB-CD-123", "Appendices", "Study Guide", "Poem", "Introduction"):
+        assert classify_author(s, {"chap01", "volume12", "poem"}) == ("junk", "high"), s
+
+
+def test_calibre_gliner_person_postfilters():
+    # residual fix #6: role words -> junk, collectives -> org, truncation -> junk
+    from integrations.calibre import refine_person
+    assert refine_person("Administrador") == "junk"
+    assert refine_person("Owner") == "junk"
+    assert refine_person("Editors") == "junk"               # bare role word
+    assert refine_person("Anonymous") == "junk"
+    assert refine_person("Oxford University Press") == "org"
+    assert refine_person("The Economist Editorial") == "org"
+    assert refine_person("دار الشروق") == "org"
+    assert refine_person("Christopher Hitc-") == "junk"     # visibly truncated
+    assert refine_person("James (Editor of") == "junk"      # unbalanced paren
+    assert refine_person("John Smith") == "person"
+
+
+def test_calibre_genre_author_gazetteer():
+    # residual fix #7: genre authors + credit/citation/camelcase person forms
+    from integrations.calibre import classify_author
+    assert classify_author("C.J. Cherryh", {"cjcherryh"})[0] == "person"
+    assert classify_author("Cherryh", {"cherryh"})[0] == "person"
+    assert classify_author("ValeriBeim", set())[0] == "person"
+    # genre surname counts as lexicon evidence in separated/authority forms
+    assert classify_author("Cherryh| C J", set()) == ("person", "high")
+    from integrations.calibre import _genre_author
+    assert _genre_author("Cassandra Clare")            # gliner title-override hook
+    assert not _genre_author("Club Dead")
+    if HAS_CORPUS:
+        assert classify_author("Cassandra Clare", {"cassandraclare"})[0] == "person"
+        assert classify_author("(With Emanuel Lasker)", set())[0] == "person"
+        assert classify_author("Grisham 2003", set())[0] == "person"
+
+
+def test_calibre_org_weak_anchors():
+    # residual fix #8: weak anchors need context; publisher stoplist; person glue
+    from integrations.calibre import refine_org
+    assert refine_org("Second Foundation", {"secondfoundation"}) == "title"
+    assert refine_org("Second Foundation") == "title"       # ordinal + weak anchor
+    assert refine_org("The Society") == "junk"
+    assert refine_org("American Chess Foundation") == "org"
+    assert refine_org("Royal Society") == "org"
+    assert refine_org("Wiley") == "org"
+    assert refine_org("M University") == "junk"             # truncated
+    # an anchored string with a parenthesized year is a book, not an org
+    assert refine_org("Feedback Control of Computing Systems (2004)") == "title"
+    if HAS_CORPUS:
+        assert refine_org("Wenbo Mao Hewlett-Packard Company") == "person"
+
+
+def test_calibre_read_person_filter():
+    import tempfile
+    from integrations.calibre import read_person_filter
+    with tempfile.NamedTemporaryFile("w", suffix=".tsv", delete=False,
+                                     encoding="utf-8") as fh:
+        fh.write("category\tconfidence\tname\n"
+                 "person\thigh\tGrisham| John\n"
+                 "title\thigh\tClub Dead\n"
+                 "junk\thigh\tChap-01\n"
+                 "person\tgliner\tنجيب محفوظ\n")
+        path = fh.name
+    assert read_person_filter(path) == {"Grisham| John", "نجيب محفوظ"}
+
+
 def test_calibre_integration_read_and_dedup(tmp_path=None):
     import sqlite3
     import tempfile
