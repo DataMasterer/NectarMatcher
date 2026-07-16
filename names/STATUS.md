@@ -3,7 +3,7 @@
 > Living doc. Context in [`CLAUDE.md`](CLAUDE.md); design + SOTA in
 > [`DESIGN.md`](DESIGN.md). Parent: `../STATUS.md` (NectarMatcher).
 
-**Status:** Active — v0.2 · **Last activity:** 2026-06-23
+**Status:** Active — v0.2 · **Last activity:** 2026-07-15
 **Stack:** Python 3.10+ stdlib only (core); optional ML/LLM extras
 **Data:** reuses `../../namesdb` + public benchmarks (ParaNames, Unihan)
 
@@ -137,6 +137,26 @@
   anchor token, else persons-first. Re-run: person 6642→**8375**, junk
   3326→**2165** (false-junk), org 517→**93**. All audit-flagged errors verified
   fixed. 43/43 tests.
+- **Author-classifier round 3 (audit-driven residual fixes) — done.** Implemented
+  the nine round-2 residual fixes + a mid-round self-audit pass in
+  `integrations/calibre.py`: shared input normalization (bidi/zero-width,
+  archive suffixes, role words, honorifics, authority years); `;`/`,`
+  co-author rescue with a title;subtitle guard; `_author_separated` reworked to
+  a three-way verdict (high / soft→review / reject) with particle + suffix +
+  year-range segment handling, sort-form surname|given pairing, and
+  keyword-list rejection; a structural-boilerplate junk filter ahead of any
+  title acceptance; GLiNER post-filters (`refine_person`, comma-ifying pipes
+  before the model, a person-override for Arabic/nasab/initials forms the model
+  reliably junks, soft forms → review not junk); a public genre-author
+  gazetteer backing the eponymous veto; `refine_org` weak-anchor context +
+  publisher stoplist + person-prefix split; pipe-corruption → junk. New
+  `--classes` flag feeds the classification into dedup (persons only).
+  **Full-library re-run:** person 8,375→8,505, junk 2,165→2,088, title
+  869→796, org 93→81, review 32. **Round-3 Opus audit: 0/20 hard errors in all
+  three person buckets** (was ~3–10%); residuals are minor title↔junk slippage
+  and lexicon-less transliterations. Cluster split for application: same-script
+  auto-merge vs cross-script review (bare-initial cross-script chaining is the
+  next matcher-level lever). 52/52 tests.
 - **Author benchmark — added.** `eval/authors.tsv` (curated public authors, no
   PII): initials / diacritics / cross-script positives + same-given & short
   cross-script negatives. Name-only baseline strict P 0.92 / R 1.0 (one FP =
